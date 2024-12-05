@@ -1,0 +1,31 @@
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 2506
+Server: openresty
+Content-Type: application/json
+Allow: GET, HEAD, OPTIONS
+X-AMO-Request-ID: e683a2fe4ad8425496161bafe44faac6
+ETag: "c4c953e9bed7bfb7c71da8a51bdfbb14"
+Content-Security-Policy: child-src https://www.recaptcha.net/recaptcha/; script-src https://*.google-analytics.com https://*.googletagmanager.com https://www.recaptcha.net/recaptcha/ https://www.gstatic.com/recaptcha/ https://www.gstatic.cn/recaptcha/ https://addons.mozilla.org/static-server/; img-src 'self' blob: data: https://addons.mozilla.org/static-server/ https://addons.mozilla.org/user-media/ https://*.google-analytics.com https://*.googletagmanager.com; style-src 'unsafe-inline' https://addons.mozilla.org/static-server/; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; form-action 'self'; font-src 'self' https://addons.mozilla.org/static-server/; frame-src https://www.recaptcha.net/recaptcha/; default-src 'none'; media-src https://videos.cdn.mozilla.net; object-src 'none'; report-uri /__cspreport__
+Content-Security-Policy: default-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'; object-src 'none'; report-uri /__cspreport__
+X-Frame-Options: DENY
+X-Frame-Options: deny
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=300
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+Cross-Origin-Opener-Policy: same-origin
+Cache-Control: max-age=3600
+X-XSS-Protection: 0
+Via: 1.1 google, 1.1 varnish, 1.1 varnish
+Content-Encoding: br
+Accept-Ranges: bytes
+Date: Thu, 28 Nov 2024 13:20:42 GMT
+Age: 3368
+X-Served-By: cache-bfi-kbfi7400091-BFI, cache-fra-eddf8230087-FRA
+X-Cache: MISS, HIT
+X-Cache-Hits: 0, 1
+X-Timer: S1732800042.353788,VS0,VE1
+Vary: origin, Accept-Encoding, X-Country-Code, Accept-Language
+

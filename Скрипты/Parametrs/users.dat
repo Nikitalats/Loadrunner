@@ -1,0 +1,11 @@
+login,password,confirm_pass,firstName,lastName,street,city,creditCard,expDate
+Geralt,geralt123,geralt123,Geralt,Rivsky,Oxenfurtskaya,Novigrad,5105105105105110,06/24
+Yennefer,yennefer123,yennefer123,Yennefer,Vengerberg,Square of the Hierarch,Novigrad,3782822467910325,07/26
+Triss,triss123,triss123,Triss,Merigold,Lilac Street,Novigrad,4012888818816005,08/17
+Ciri,ciri123,ciri123,Ciri,Fiona Elen Riannon,Kaer Morhen,Velen,5531020202083313,09/21
+Dandelion,dandelion123,dandelion123,Jaskier,Bonart,Square of the Hierarch,Novigrad,6011122345678901,10/23
+Zoltan,zoltan123,zoltan123,Zoltan,Chivay,Freedom Square,Oxenfurt,3852029876543210,11/04
+Vesemir,vesemir123,vesemir123,Vesemir,Grey-Beak,Kaer Morhen,White Garden,4111111111111117,12/05
+Eskel,eskel123,eskel123,Eskel,Bull,Druid Camp,White Garden,5431010009123469,01/15
+Lambert,lambert123,lambert123,Lambert,Wunhed,Kaer Morhen,Velen,3057931154272637,02/16
+Coen,coen123,coen123,Coen,Morgan,Freedom Square,Oxenfurt,4242424242424247,03/19

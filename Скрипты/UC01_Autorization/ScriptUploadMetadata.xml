@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>UC01_Autorization</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="UC01_Autorization.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="UC01_Autorization.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="WebSocketBuffer.h" Filter="2" />
+    <FileEntry Name="WebSocketCB.c" Filter="2" />
+    <FileEntry Name="combined_UC01_Autorization.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="108599955440.idx" Filter="1" />
+    <FileEntry Name="72340061440.idx" Filter="1" />
+    <FileEntry Name="7234006144_6c1.787.idx" Filter="1" />
+    <FileEntry Name="7234006144_cnb.747.idx" Filter="1" />
+    <FileEntry Name="7234006144_G00.847.idx" Filter="1" />
+    <FileEntry Name="7234006144_n3Z.935.idx" Filter="1" />
+    <FileEntry Name="7234006144_vtI.391.idx" Filter="1" />
+    <FileEntry Name="7234006144_x4V.759.idx" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="UC01_Autorization.c.pickle" Filter="1" />
+    <FileEntry Name="UC01_Autorization.ci" Filter="1" />
+    <FileEntry Name="UC01_Autorization.prm.bak" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>

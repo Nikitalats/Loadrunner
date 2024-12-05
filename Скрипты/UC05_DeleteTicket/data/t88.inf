@@ -1,0 +1,11 @@
+[t88]
+FileName1=t88_update.xml
+URL1=https://aus5.mozilla.org/update/6/Firefox/133.0/20241121140525/WINNT_x86_64-msvc-x64/ru/release/Windows_NT%252010.0.0.0.22631.4541%2520(x64)/ISET%3ASSE4_2%2CMEM%3A16221/default/default/update.xml?force=1
+Total=1
+ContentType=text/xml
+SnapshotXmlFile=snapshot_88.xml
+RequestHeaderFile=t88_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t88_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

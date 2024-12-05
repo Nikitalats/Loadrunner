@@ -1,0 +1,13 @@
+[t65]
+FileName1=t65_VersionCheck.json
+URL1=https://versioncheck-bg.addons.mozilla.org/update/VersionCheck.php?reqVersion=2&id=jid1-NIfFY2CA8fy1tg@jetpack&version=6.11.1&maxAppVersion=*&status=userEnabled&appID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&appVersion=133.0&appOS=WINNT&appABI=x86_64-msvc&locale=ru&currentAppVersion=133.0&updateType=112&compatMode=normal
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_65.xml
+RequestHeaderFile=t65_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t65_ResponseHeader.txt
+FileName2=t65_normandy.content-signature.mozilla.org-2025-01-01-20-48-28.html
+URL2=https://content-signature-2.cdn.mozilla.net/chains/202402/normandy.content-signature.mozilla.org-2025-01-01-20-48-28.chain?cachebust=2017-06-13-21-06
+[ProtocolInfo]
+ProtocolId=QTWeb

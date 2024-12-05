@@ -1,0 +1,15 @@
+[hosts]
+detectportal.firefox.com=
+localhost=
+o.pki.goog=
+r11.o.lencr.org=
+firefox.settings.services.mozilla.com=
+content-signature-2.cdn.mozilla.net=
+r10.o.lencr.org=
+spocs.getpocket.com=
+ocsp.digicert.com=
+safebrowsing.googleapis.com=
+push.services.mozilla.com=
+aus5.mozilla.org=
+incoming.telemetry.mozilla.org=
+mozilla.cloudflare-dns.com=

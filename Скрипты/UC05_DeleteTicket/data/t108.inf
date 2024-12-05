@@ -1,0 +1,11 @@
+[t108]
+FileName1=t108.txt
+URL1=https://incoming.telemetry.mozilla.org/submit/firefox-desktop/use-counters/1/7c3ad27e-198e-4bab-901b-b07e7280b85a
+Total=1
+RequestHeaderFile=t108_RequestHeader.txt
+RequestBodyFile=t108_RequestBody.txt
+ResponseHeaderFile=t108_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_108.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

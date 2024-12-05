@@ -1,0 +1,10 @@
+GET /update/3/GMP/133.0/20241121140525/WINNT_x86_64-msvc-x64/ru/release/Windows_NT%252010.0.0.0.22631.4541%2520(x64)/default/default/update.xml HTTP/1.1
+Host: aus5.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+

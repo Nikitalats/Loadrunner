@@ -1,0 +1,11 @@
+[t68]
+FileName1=t68.txt
+URL1=https://incoming.telemetry.mozilla.org/submit/telemetry/78a83fc1-92f5-4799-b665-619abf4e7d39/main/Firefox/133.0/release/20241121140525?v=4
+Total=1
+RequestHeaderFile=t68_RequestHeader.txt
+RequestBodyFile=t68_RequestBody.txt
+ResponseHeaderFile=t68_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_68.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

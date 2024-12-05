@@ -1,0 +1,13 @@
+[t45]
+FileName1=t45.html
+URL1=http://o.pki.goog/s/we1/llA
+Total=2
+RequestHeaderFile=t45_RequestHeader.txt
+RequestBodyFile=t45_RequestBody.txt
+ResponseHeaderFile=t45_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_45.xml
+FileName2=t45_tiles.html
+URL2=https://contile.services.mozilla.com/v1/tiles
+[ProtocolInfo]
+ProtocolId=QTWeb

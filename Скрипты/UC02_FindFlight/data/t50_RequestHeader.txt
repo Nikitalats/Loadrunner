@@ -1,0 +1,10 @@
+POST /dns-query HTTP/1.1
+Host: mozilla.cloudflare-dns.com
+Accept: application/dns-message
+Accept-Encoding: 
+Content-Type: application/dns-message
+Content-Length: 128
+Cache-Control: no-store, no-cache
+Connection: keep-alive
+Pragma: no-cache
+

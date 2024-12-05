@@ -1,0 +1,11 @@
+[t107]
+FileName1=t107.txt
+URL1=https://incoming.telemetry.mozilla.org/submit/firefox-desktop/events/1/fa6c3203-938e-486f-aaec-341de3587e91
+Total=1
+RequestHeaderFile=t107_RequestHeader.txt
+RequestBodyFile=t107_RequestBody.txt
+ResponseHeaderFile=t107_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_107.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

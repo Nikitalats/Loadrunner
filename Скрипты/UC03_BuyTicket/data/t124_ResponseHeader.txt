@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: nginx
+Rule-ID: unknown
+Rule-Data-Version: unknown
+Content-Signature: x5u=https://content-signature-2.cdn.mozilla.net/chains/202402/aus.content-signature.mozilla.org-2025-01-01-20-48-31.chain; p384ecdsa=TdWuYV4OgiKrZCxIDI6b7R8f9PftnBbpKzpgP4xXKO-9FwSMw9KuUt82vqXuUuP-ZLI2LaKGmt5KF9TNdaqslscNjMvVwOXh2Pccwkt3tE6jJji71tAXRKGolyJn7LOT
+Strict-Transport-Security: max-age=31536000;
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'none'; frame-ancestors 'none'
+X-Proxy-Cache-Status: EXPIRED
+Content-Encoding: gzip
+Via: 1.1 google
+Date: Fri, 29 Nov 2024 18:14:20 GMT
+Content-Type: text/xml; charset=utf-8
+Vary: Accept-Encoding
+Content-Length: 525
+Age: 93
+Cache-Control: public,max-age=90
+Alt-Svc: clear
+

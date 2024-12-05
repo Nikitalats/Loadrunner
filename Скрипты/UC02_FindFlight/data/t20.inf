@@ -1,0 +1,13 @@
+[t20]
+FileName1=t20_update.xml
+URL1=https://aus5.mozilla.org/update/6/Firefox/133.0/20241121140525/WINNT_x86_64-msvc-x64/ru/release/Windows_NT%252010.0.0.0.22631.4541%2520(x64)/ISET%3ASSE4_2%2CMEM%3A16221/default/default/update.xml?force=1
+Total=2
+ContentType=text/xml
+SnapshotXmlFile=snapshot_20.xml
+RequestHeaderFile=t20_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t20_ResponseHeader.txt
+FileName2=t20_abp-filters-anti-cv.txt
+URL2=https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt?addonName=adblockfirefox&addonVersion=6.11.1&application=firefox&applicationVersion=133.0&platform=gecko&platformVersion=133.0&lastVersion=202411271811&downloadCount=4%2B&disabled=false&manifestVersion=2&firstVersion=202403
+[ProtocolInfo]
+ProtocolId=QTWeb

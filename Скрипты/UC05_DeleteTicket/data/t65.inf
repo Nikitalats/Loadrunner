@@ -1,0 +1,11 @@
+[t65]
+FileName1=t65.txt
+URL1=https://incoming.telemetry.mozilla.org/submit/firefox-desktop/pageload/1/562de58a-a9d9-4005-9d64-47090446edd3
+Total=1
+RequestHeaderFile=t65_RequestHeader.txt
+RequestBodyFile=t65_RequestBody.txt
+ResponseHeaderFile=t65_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_65.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

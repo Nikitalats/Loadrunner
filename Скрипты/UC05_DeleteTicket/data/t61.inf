@@ -1,0 +1,11 @@
+[t61]
+FileName1=t61.txt
+URL1=https://incoming.telemetry.mozilla.org/submit/firefox-desktop/newtab/1/d3bc334e-fbd1-4e35-8ac8-a1da334fdef6
+Total=1
+RequestHeaderFile=t61_RequestHeader.txt
+RequestBodyFile=t61_RequestBody.txt
+ResponseHeaderFile=t61_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_61.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,13 @@
+[t114]
+FileName1=t114.html
+URL1=http://o.pki.goog/we2
+Total=2
+RequestHeaderFile=t114_RequestHeader.txt
+RequestBodyFile=t114_RequestBody.txt
+ResponseHeaderFile=t114_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_114.xml
+FileName2=t114_threatListUpdates_fetch.html
+URL2=https://safebrowsing.googleapis.com/v4/threatListUpdates_fetch?$ct=application/x-protobuf&key=AIzaSyC7jsptDS3am4tPx4r3nxis7IMjBc5Dovo&$httpMethod=POST&$req=ChUKE25hdmNsaWVudC1hdXRvLWZmb3gaJwgFEAEaGwoNCAUQBhgBIgMwMDEwARC8xRkaAhgM8xg9eSICIAIoARonCAEQARobCg0IARAGGAEiAzAwMTABEPDHDxoCGAy2Q3wzIgIgAigBGicIAxABGhsKDQgDEAYYASIDMDAxMAEQlr8PGgIYDIdlpUEiAiACKAEaJwgHEAEaGwoNCAcQBhgBIgMwMDEwARDyjRAaAhgMx5UcjCICIAIoARolCAkQARoZCg0ICRAGGAEiAzAwMTABECMaAhgMUj2mGCICIAIoAQ==
+[ProtocolInfo]
+ProtocolId=QTWeb

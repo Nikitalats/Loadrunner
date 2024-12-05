@@ -1,0 +1,11 @@
+[t60]
+FileName1=t60.txt
+URL1=https://incoming.telemetry.mozilla.org/submit/firefox-desktop/pageload/1/5c44a112-3b2e-403d-9a26-2f711318b7fd
+Total=1
+RequestHeaderFile=t60_RequestHeader.txt
+RequestBodyFile=t60_RequestBody.txt
+ResponseHeaderFile=t60_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_60.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

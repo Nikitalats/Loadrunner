@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Loadrunner\UC01_Autorization
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\loadrunner\uc01_autorization\\logfile.log
+c:\loadrunner\uc01_autorization\\combined_UC01_Autorization.c
+c:\loadrunner\uc01_autorization\\pre_cci.c

@@ -1,0 +1,10 @@
+GET /update/VersionCheck.php?reqVersion=2&id=jid1-NIfFY2CA8fy1tg@jetpack&version=6.11.1&maxAppVersion=*&status=userEnabled&appID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&appVersion=133.0&appOS=WINNT&appABI=x86_64-msvc&locale=ru&currentAppVersion=133.0&updateType=112&compatMode=normal HTTP/1.1
+Host: versioncheck-bg.addons.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+

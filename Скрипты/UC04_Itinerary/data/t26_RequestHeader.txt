@@ -1,0 +1,15 @@
+GET /v4/threatListUpdates:fetch?$ct=application/x-protobuf&key=AIzaSyC7jsptDS3am4tPx4r3nxis7IMjBc5Dovo&$httpMethod=POST&$req=ChUKE25hdmNsaWVudC1hdXRvLWZmb3gaJwgFEAEaGwoNCAUQBhgBIgMwMDEwARCxwxkaAhgMe6UStyICIAIoARonCAEQARobCg0IARAGGAEiAzAwMTABEOvGDxoCGAx7V39uIgIgAigBGicIAxABGhsKDQgDEAYYASIDMDAxMAEQkL4PGgIYDLgSyAUiAiACKAEaJwgHEAEaGwoNCAcQBhgBIgMwMDEwARDtjBAaAhgMo3DfbiICIAIoARolCAkQARoZCg0ICRAGGAEiAzAwMTABECMaAhgMUj2mGCICIAIoAQ== HTTP/1.1
+Host: safebrowsing.googleapis.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+X-HTTP-Method-Override: POST
+Connection: close
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+

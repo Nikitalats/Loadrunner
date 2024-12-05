@@ -1,0 +1,55 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP28",
+                "stepName": "Url: WebTours",
+                "infFile": "t2.inf",
+                "time": 1733406514363
+            },
+            {
+                "stepId": "STEP29",
+                "stepName": "Url: login.pl",
+                "infFile": "t3.inf",
+                "time": 1733406514537
+            },
+            {
+                "stepId": "STEP30",
+                "stepName": "Submit Data: login.pl_2",
+                "infFile": "t4.inf",
+                "time": 1733406514675
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "open_home_page",
+                "rawStartTime": 1733406514215,
+                "rawEndTime": 1733406514393,
+                "thinkTime": 0.0,
+                "wastedTime": 0.03793478012084961
+            },
+            {
+                "transactionName": "sign_up",
+                "rawStartTime": 1733406514402,
+                "rawEndTime": 1733406514543,
+                "thinkTime": 0.0,
+                "wastedTime": 0.025316476821899415
+            },
+            {
+                "transactionName": "registration",
+                "rawStartTime": 1733406514558,
+                "rawEndTime": 1733406514700,
+                "thinkTime": 0.0,
+                "wastedTime": 0.02952289581298828
+            },
+            {
+                "transactionName": "UC0_Pre_Registration",
+                "rawStartTime": 1733406514199,
+                "rawEndTime": 1733406514715,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0927741527557373
+            }
+        ]
+    }
+]

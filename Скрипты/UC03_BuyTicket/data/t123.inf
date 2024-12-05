@@ -1,0 +1,11 @@
+[t123]
+FileName1=t123.txt
+URL1=https://incoming.telemetry.mozilla.org/submit/firefox-desktop/events/1/492cea4f-e309-40f9-99f2-94f370229678
+Total=1
+RequestHeaderFile=t123_RequestHeader.txt
+RequestBodyFile=t123_RequestBody.txt
+ResponseHeaderFile=t123_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_123.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

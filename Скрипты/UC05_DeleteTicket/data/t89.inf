@@ -1,0 +1,13 @@
+[t89]
+FileName1=t89.json
+URL1=https://firefox.settings.services.mozilla.com/v1/
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_89.xml
+RequestHeaderFile=t89_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t89_ResponseHeader.txt
+FileName2=t89_tiles.html
+URL2=https://contile.services.mozilla.com/v1/tiles
+[ProtocolInfo]
+ProtocolId=QTWeb

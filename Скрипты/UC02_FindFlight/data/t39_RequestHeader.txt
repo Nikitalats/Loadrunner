@@ -1,0 +1,19 @@
+POST /submit/firefox-desktop/dau-reporting/1/c1020b82-59ef-4244-b32a-3e12b5030139 HTTP/1.1
+Host: incoming.telemetry.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+x-telemetry-agent: Glean/61.2.0 (Rust on Windows)
+content-type: application/json; charset=utf-8
+content-length: 778
+date: Thu, 28 Nov 2024 13:20:24 GMT
+content-encoding: gzip
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+

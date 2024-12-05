@@ -1,0 +1,15 @@
+[t19]
+FileName1=t19.html
+URL1=http://ocsp.digicert.com/
+Total=3
+RequestHeaderFile=t19_RequestHeader.txt
+RequestBodyFile=t19_RequestBody.txt
+ResponseHeaderFile=t19_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_19.xml
+FileName2=t19.html
+URL2=https://push.services.mozilla.com/
+FileName3=t19.html
+URL3=https://push.services.mozilla.com/
+[ProtocolInfo]
+ProtocolId=QTWeb

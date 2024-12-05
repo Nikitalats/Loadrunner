@@ -1,0 +1,3706 @@
+****** Start Log Message ******
+Web Recorder version : 2020.0.0.793 
+Recording Mode: HTML-based script containing explicit URLs only
+Recording headers not in list:
+	accept
+	accept-charset
+	accept-encoding
+	accept-language
+	accept-ranges
+	age
+	allow
+	cache-control
+	content-base
+	content-disposition
+	content-encoding
+	content-language
+	content-location
+	content-md5
+	content-range
+	content-type
+	date
+	etag
+	expires
+	from
+	if-modified-since
+	if-match
+	if-none-match
+	if-range
+	if-unmodified-since
+	location
+	last-modified
+	max-forwards
+	pragma
+	public
+	range
+	retry-after
+	server
+	transfer-encoding
+	upgrade
+	user-agent
+	vary
+	via
+	warning
+	method
+	path
+	scheme
+Not excluding content types
+Do not record this content types as a resource:
+	text/html
+	text/xml
+	application/json
+Reset context between actions
+Record non-HTML elements in current HTML function
+Protocol Type: Multi-QTWeb
+
+$$$$$$ End Log Message $$$$$$
+
+Code generation version: 2020.0.0.793
+
+****** Analyze segments filter initialization ******
+****** Request Header For Transaction With Id 327 ******
+GET /success.txt?ipv4 HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 327 Ended $$$$$$
+
+****** Response Header For Transaction With Id 327 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Length: 8
+Via: 1.1 google
+Date: Sat, 30 Nov 2024 17:07:21 GMT
+Age: 51965
+Content-Type: text/plain
+Cache-Control: public,must-revalidate,max-age=0,s-maxage=3600
+
+
+$$$$$$ Response Header For Transaction With Id 327 Ended $$$$$$
+
+****** Response Body For Transaction With Id 327 ******
+success
+
+$$$$$$ Response Body For Transaction With Id 327 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+The Node has no URL
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Start Log Message ******
+Set SSL version to 'AUTO'
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 327 ****** (Location Flag : tFlagInsertEnd, Location ID : 327)
+	web_url("success.txt",
+		"URL=http://detectportal.firefox.com/success.txt?ipv4",
+		"TargetFrame=",
+		"Resource=1",
+		"RecContentType=text/plain",
+		"Referer=",
+		"Snapshot=t1.inf",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 327 Ended $$$$$$
+
+****** Request Header For Transaction With Id 342 ******
+GET /WebTours/ HTTP/1.1
+Host: localhost:1080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+DNT: 1
+Sec-GPC: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Priority: u=0, i
+
+
+$$$$$$ Request Header For Transaction With Id 342 Ended $$$$$$
+
+****** Response Header For Transaction With Id 342 ******
+HTTP/1.1 200 OK
+Date: Sun, 01 Dec 2024 07:33:38 GMT
+Server: Apache/2.2.21 (Win32)
+Last-Modified: Tue, 26 Nov 2024 14:20:50 GMT
+ETag: "60000000958f2-16e-627d18e607dc1"
+Accept-Ranges: bytes
+Content-Length: 366
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+
+
+$$$$$$ Response Header For Transaction With Id 342 Ended $$$$$$
+
+****** Response Body For Transaction With Id 342 ******
+<HTML>
+<HEAD>
+<title>Web Tours</title>
+<frameset rows = "65,*" border="1" bordercolor="#E0E7F1">
+<frame name="header" src="header.html" scrolling="no" noresize="noresize" marginheight="2" marginwidth="2"/>
+<frame name="body" src="/cgi-bin/welcome.pl?signOff=true" scrolling="auto" noresize="noresize" marginheight="2" marginwidth="2" />
+</frameset>
+</HEAD>
+</HTML>
+
+
+$$$$$$ Response Body For Transaction With Id 342 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/success.txt?ipv4
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 342 ****** (Location Flag : tFlagInsertEnd, Location ID : 342)
+	web_url("WebTours",
+		"URL=http://localhost:1080/WebTours/",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t2.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 342 Ended $$$$$$
+
+****** Request Header For Transaction With Id 370 ******
+GET /canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 370 Ended $$$$$$
+
+****** Response Header For Transaction With Id 370 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Length: 90
+Via: 1.1 google
+Date: Sat, 30 Nov 2024 08:22:46 GMT
+Age: 83453
+Content-Type: text/html
+Cache-Control: public,must-revalidate,max-age=0,s-maxage=3600
+
+
+$$$$$$ Response Header For Transaction With Id 370 Ended $$$$$$
+
+****** Response Body For Transaction With Id 370 ******
+<meta http-equiv="refresh" content="0;url=https://support.mozilla.org/kb/captive-portal"/>
+$$$$$$ Response Body For Transaction With Id 370 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/WebTours/
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 370 ****** (Location Flag : tFlagInsertEnd, Location ID : 370)
+	web_url("canonical.html",
+		"URL=http://detectportal.firefox.com/canonical.html",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t3.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 370 Ended $$$$$$
+
+****** Request Header For Transaction With Id 493 ******
+GET /WebTours/header.html HTTP/1.1
+Host: localhost:1080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+DNT: 1
+Sec-GPC: 1
+Connection: keep-alive
+Referer: http://localhost:1080/WebTours/
+Upgrade-Insecure-Requests: 1
+Priority: u=4
+
+
+$$$$$$ Request Header For Transaction With Id 493 Ended $$$$$$
+
+****** Response Header For Transaction With Id 493 ******
+HTTP/1.1 200 OK
+Date: Sun, 01 Dec 2024 07:33:38 GMT
+Server: Apache/2.2.21 (Win32)
+Last-Modified: Tue, 26 Nov 2024 14:20:50 GMT
+ETag: "60000000958ef-2c6-627d18e5f9ceb"
+Accept-Ranges: bytes
+Content-Length: 710
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+
+
+$$$$$$ Response Header For Transaction With Id 493 Ended $$$$$$
+
+****** Response Body For Transaction With Id 493 ******
+<!DOCTYPE html>
+<HTML xmlns="http://www.w3.org/1999/xhtml">
+<HEAD></HEAD>
+<BODY bgcolor="#003366" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td align="left" valign="middle" width="50%"><img src="images/hp_logo.png" alt="" height="45" width="69" align="absmiddle" border="0"/><img src="images/webtours.png" alt="" height="45" width="130" align="absmiddle" border="0"/></td>
+				<td align="right"></td>
+				<td></td>
+			</tr>
+		</table>
+	</BODY>
+</HTML>
+$$$$$$ Response Body For Transaction With Id 493 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/canonical.html
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 510 ******
+GET /favicon.ico HTTP/1.1
+Host: localhost:1080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+DNT: 1
+Sec-GPC: 1
+Connection: keep-alive
+Referer: http://localhost:1080/WebTours/
+Priority: u=6
+
+
+$$$$$$ Request Header For Transaction With Id 510 Ended $$$$$$
+
+****** Response Header For Transaction With Id 510 ******
+HTTP/1.1 404 Not Found
+Date: Sun, 01 Dec 2024 07:33:38 GMT
+Server: Apache/2.2.21 (Win32)
+Content-Length: 209
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+
+
+$$$$$$ Response Header For Transaction With Id 510 Ended $$$$$$
+
+****** Response Body For Transaction With Id 510 ******
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /favicon.ico was not found on this server.</p>
+</body></html>
+
+$$$$$$ Response Body For Transaction With Id 510 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/canonical.html
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 569 ******
+POST /s/we1/llA HTTP/1.1
+Host: o.pki.goog
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 84
+Connection: keep-alive
+Priority: u=2
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 569 Ended $$$$$$
+
+****** Request Body For Transaction With Id 569 ******
+0R0P0N0L0J0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14t\x02F\xF2Z\\B\x12 \xB5\xBD]v	\xA6\xBA\\\xA3G\xDF\x04\x14$\xF2.N\x0F\xBD\xCA\xF7>)U\xCAr\x8Di\x87VD\xE9z\x02\x11\x00\x96P\x0F*\x80\xF8"\x90\x0EU\x87Q\xC0U\x82.
+$$$$$$ Request Body For Transaction With Id 569 Ended $$$$$$
+
+****** Response Header For Transaction With Id 569 ******
+HTTP/1.1 200 OK
+Content-Type: application/ocsp-response
+Cache-Control: public, max-age=300
+Content-Security-Policy-Report-Only: script-src 'none'; form-action 'none'; frame-src 'none'; report-uri https://csp.withgoogle.com/csp/scaffolding/sytroprc:52:0
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to=coop_reporting
+Report-To: {"group":"coop_reporting","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/scaffolding/sytroprc:52:0"}],}
+Date: Sun, 01 Dec 2024 07:33:39 GMT
+Server: scaffolding on HTTPServer2
+Content-Length: 5
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+
+
+$$$$$$ Response Header For Transaction With Id 569 Ended $$$$$$
+
+****** Response Body For Transaction With Id 569 ******
+0\x03
+\x01\x06
+$$$$$$ Response Body For Transaction With Id 569 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/canonical.html
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 569 ****** (Location Flag : tFlagInsertEnd, Location ID : 569)
+	web_custom_request("llA",
+		"URL=http://o.pki.goog/s/we1/llA",
+		"Method=POST",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=application/ocsp-response",
+		"Referer=",
+		"Snapshot=t4.inf",
+		"Mode=HTML",
+		"EncType=application/ocsp-request",
+		"BodyBinary=0R0P0N0L0J0\t\\x06\\x05+\\x0E\\x03\\x02\\x1A\\x05\\x00\\x04\\x14t\\x02F\\xF2Z\\\\B\\x12 \\xB5\\xBD]v\t\\xA6\\xBA\\\\\\xA3G\\xDF\\x04\\x14$\\xF2.N\\x0F\\xBD\\xCA\\xF7>)U\\xCAr\\x8Di\\x87VD\\xE9z\\x02\\x11\\x00\\x96P\\x0F*\\x80\\xF8\"\\x90\\x0EU\\x87Q\\xC0U\\x82.",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 569 Ended $$$$$$
+
+****** Request Header For Transaction With Id 595 ******
+GET /success.txt?ipv4 HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 595 Ended $$$$$$
+
+****** Response Header For Transaction With Id 595 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Length: 8
+Via: 1.1 google
+Date: Sat, 30 Nov 2024 17:07:21 GMT
+Age: 51978
+Content-Type: text/plain
+Cache-Control: public,must-revalidate,max-age=0,s-maxage=3600
+
+
+$$$$$$ Response Header For Transaction With Id 595 Ended $$$$$$
+
+****** Response Body For Transaction With Id 595 ******
+success
+
+$$$$$$ Response Body For Transaction With Id 595 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/s/we1/llA
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 595 ****** (Location Flag : tFlagInsertEnd, Location ID : 595)
+	web_url("success.txt_2",
+		"URL=http://detectportal.firefox.com/success.txt?ipv4",
+		"TargetFrame=",
+		"Resource=1",
+		"RecContentType=text/plain",
+		"Referer=",
+		"Snapshot=t5.inf",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 595 Ended $$$$$$
+
+****** Request Header For Transaction With Id 604 ******
+GET /cgi-bin/welcome.pl?signOff=true HTTP/1.1
+Host: localhost:1080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+DNT: 1
+Sec-GPC: 1
+Connection: keep-alive
+Referer: http://localhost:1080/WebTours/
+Upgrade-Insecure-Requests: 1
+Priority: u=4
+
+
+$$$$$$ Request Header For Transaction With Id 604 Ended $$$$$$
+
+****** Response Header For Transaction With Id 604 ******
+HTTP/1.1 200 OK
+Date: Sun, 01 Dec 2024 07:33:38 GMT
+Server: Apache/2.2.21 (Win32)
+Set-Cookie: MSO=SID&1733038418; path=/
+Set-Cookie: MTUserInfo=; path=/; expires=Sat, 30-Nov-2024 07:33:38 GMT
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+
+
+$$$$$$ Response Header For Transaction With Id 604 Ended $$$$$$
+
+****** Response Body For Transaction With Id 604 ******
+<!-- 
+ A Session ID has been created and loaded into a cookie called MSO.
+ Also, the server options have been loaded into the cookie called
+ MSO as well.  The server options can be set via the Admin page.
+ --->
+
+<html>
+<title>Web Tours</title>
+   <!-- Frame Set -->
+   <frameset cols="160,*" border="1" frameborder="1">
+      <!-- Navigation Frame -->
+      <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" 
+            noresize="noresize" scrolling="auto"/>
+      <!-- Home Frame -->
+      <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" 
+            noresize="noresize" scrolling="auto"/>
+   </frameset>
+</html>
+
+</body>
+</html>
+$$$$$$ Response Body For Transaction With Id 604 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/success.txt?ipv4
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 623 ******
+POST / HTTP/1.1
+Host: r10.o.lencr.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 85
+Connection: keep-alive
+Priority: u=2
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 623 Ended $$$$$$
+
+****** Request Body For Transaction With Id 623 ******
+0S0Q0O0M0K0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14t\x02F\xF2Z\\B\x12 \xB5\xBD]v	\xA6\xBA\\\xA3G\xDF\x04\x14$\xF2.N\x0F\xBD\xCA\xF7>)U\xCAr\x8Di\x87VD\xE9z\x02\x12\x03\xAC+h\xD4\x0E\x1D\\N
+\xBE\xD89\xB8Y\xDB\x82k
+$$$$$$ Request Body For Transaction With Id 623 Ended $$$$$$
+
+****** Response Header For Transaction With Id 623 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: application/ocsp-response
+Content-Length: 5
+Cache-Control: no-cache
+Expires: Sun, 01 Dec 2024 07:33:44 GMT
+Date: Sun, 01 Dec 2024 07:33:44 GMT
+Connection: keep-alive
+
+
+$$$$$$ Response Header For Transaction With Id 623 Ended $$$$$$
+
+****** Response Body For Transaction With Id 623 ******
+0\x03
+\x01\x06
+$$$$$$ Response Body For Transaction With Id 623 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/success.txt?ipv4
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 623 ****** (Location Flag : tFlagInsertEnd, Location ID : 623)
+	web_custom_request("r10.o.lencr.org",
+		"URL=http://r10.o.lencr.org/",
+		"Method=POST",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=application/ocsp-response",
+		"Referer=",
+		"Snapshot=t6.inf",
+		"Mode=HTML",
+		"EncType=application/ocsp-request",
+		"BodyBinary=0S0Q0O0M0K0\t\\x06\\x05+\\x0E\\x03\\x02\\x1A\\x05\\x00\\x04\\x14t\\x02F\\xF2Z\\\\B\\x12 \\xB5\\xBD]v\t\\xA6\\xBA\\\\\\xA3G\\xDF\\x04\\x14$\\xF2.N\\x0F\\xBD\\xCA\\xF7>)U\\xCAr\\x8Di\\x87VD\\xE9z\\x02\\x12\\x03\\xAC+h\\xD4\\x0E\\x1D\\\\N\n"
+		"\\xBE\\xD89\\xB8Y\\xDB\\x82k",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 623 Ended $$$$$$
+
+****** Request Header For Transaction With Id 626 ******
+POST / HTTP/1.1
+Host: r11.o.lencr.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 85
+Connection: keep-alive
+Priority: u=2
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 626 Ended $$$$$$
+
+****** Request Body For Transaction With Id 626 ******
+0S0Q0O0M0K0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14t\x02F\xF2Z\\B\x12 \xB5\xBD]v	\xA6\xBA\\\xA3G\xDF\x04\x14$\xF2.N\x0F\xBD\xCA\xF7>)U\xCAr\x8Di\x87VD\xE9z\x02\x12\x03g\x1C\xE3=\x8A\x89\x190Y8y|.'\x0B\x94c
+$$$$$$ Request Body For Transaction With Id 626 Ended $$$$$$
+
+****** Response Header For Transaction With Id 626 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: application/ocsp-response
+Content-Length: 5
+Cache-Control: no-cache
+Expires: Sun, 01 Dec 2024 07:33:44 GMT
+Date: Sun, 01 Dec 2024 07:33:44 GMT
+Connection: keep-alive
+
+
+$$$$$$ Response Header For Transaction With Id 626 Ended $$$$$$
+
+****** Response Body For Transaction With Id 626 ******
+0\x03
+\x01\x06
+$$$$$$ Response Body For Transaction With Id 626 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 626 ****** (Location Flag : tFlagInsertEnd, Location ID : 626)
+	web_custom_request("r11.o.lencr.org",
+		"URL=http://r11.o.lencr.org/",
+		"Method=POST",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=application/ocsp-response",
+		"Referer=",
+		"Snapshot=t7.inf",
+		"Mode=HTML",
+		"EncType=application/ocsp-request",
+		"BodyBinary=0S0Q0O0M0K0\t\\x06\\x05+\\x0E\\x03\\x02\\x1A\\x05\\x00\\x04\\x14t\\x02F\\xF2Z\\\\B\\x12 \\xB5\\xBD]v\t\\xA6\\xBA\\\\\\xA3G\\xDF\\x04\\x14$\\xF2.N\\x0F\\xBD\\xCA\\xF7>)U\\xCAr\\x8Di\\x87VD\\xE9z\\x02\\x12\\x03g\\x1C\\xE3=\\x8A\\x89\\x190Y8y|.'\\x0B\\x94c",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 626 Ended $$$$$$
+
+****** Request Header For Transaction With Id 630 ******
+GET /WebTours/images/hp_logo.png HTTP/1.1
+Host: localhost:1080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+DNT: 1
+Sec-GPC: 1
+Connection: keep-alive
+Referer: http://localhost:1080/WebTours/header.html
+Priority: u=5, i
+
+
+$$$$$$ Request Header For Transaction With Id 630 Ended $$$$$$
+
+****** Response Header For Transaction With Id 630 ******
+HTTP/1.1 200 OK
+Date: Sun, 01 Dec 2024 07:33:43 GMT
+Server: Apache/2.2.21 (Win32)
+Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT
+ETag: "6000000095911-259-627d18e680789"
+Accept-Ranges: bytes
+Content-Length: 601
+Keep-Alive: timeout=5, max=98
+Connection: Keep-Alive
+Content-Type: image/png
+
+
+$$$$$$ Response Header For Transaction With Id 630 Ended $$$$$$
+
+****** Response Body For Transaction With Id 630 ******
+\x89PNG
+\x1A
+\x00\x00\x00IHDR\x00\x00\x00E\x00\x00\x00-\x08\x03\x00\x00\x00\xCF\xF4V,\x00\x00\x00\x04gAMA\x00\x00\xD6\xD8\xD4OX2\x00\x00\x00\x19tEXtSoftware\x00Adobe ImageReadyq\xC9e<\x00\x00\x000PLTE\x01/c<b\x89\xFF\xFF\xFF\x15Cr_~\x9E\x7F\x99\xB2\x9C\xB0\xC4\xF2\xF5\xF7\xCD\xD7\xE1\xC1\xCE\xDA\xB1\xC0\xD0\xD9\xE1\xE8\xE2\xE7\xEE\xEA\xEE\xF2\xEE\xF2\xF5\x003fJQw \x00\x00\x00\x10tRNS\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\x00\xE0#]\x19\x00\x00\x01\x93IDATx\xDA\xECV]o\xC3 \x0C\xC4\x18L\x08$\xFB\xFF\xFFv\xFE\x80uM2\xA2\xBDL\xCA=\xD0\xAA\x8A/>s\xB6\xEB>\xFE\x02\xEEa\xF9\x9F,H\xE9\x88\x80\xB5\x1D'\xEC\xD1]\xB2\x90?\xA2b\xF4~\xC3\x90\xFC\x15\xE2%\xCB~|\x8C\xC0-|:\x04\x08T\xCF\xEF\xB8d9\xBCq\x01\xE7\x80?\x83S`(\x07\x964\xC0B\xC8\xA1,\xB2\xA0k@\x9Af!\x8D+\xA2\xFE\x858\xC9\x925\x03\x11\x04\xEE'\x9A_Y\x92\xC5\xB2\x84\xC5\xBD!\xCF\xB0\x90\x15\xA2\x8A \xCD
+\x15\x9C]\x1Agi\xA9\x04\xFD\xBEs\x9D\x81m\xE6SZ\xD1\xD18K\xB6\xF4W\xEF\xF7\xAAw-\xB1E\x8D\x06\xE3,v/\xC8?\x04+\xB0\xDC\x15n\xEA\x9D2\xCC\x02\xFDBvi\x81\xAA\xD2 H3h\x82S,Y\xAA\xAC-@"r\xB5\xA2\xC7Q\x16+\xAEj\xD1\x03w\x11\xD4\x9A!\xCC\xB1Dq\x7F\x14\xC7p`\xC2 ->\xC3b\x8A\x8A(P\xC7\xB0\x96\xD5\xF4\xCD(\xD2\xCC\xBB\xA0\x04\xAA\xE5\xAB\x19\xC6\xABK\xDD\xFDZ\xD6\xD8\xC6\x955\xC3\xF8Ms\x01\xC4\x1D\xCD"|M\x1Bm\xCDE\x13\xAE\xE3P(\xCB\x82|d\xEC\xADc\x83f\xA2\x03\xFC\x82o\xD3\xA0\x00\xC3fE\x9A\x99/\xAF\xD9\x84\xA5\xB7\xF8\xF4d\xE8]\xDD\xFC\x01\xF7\xA6\x14wP\x8F\x94\xD1{wb\xF23\xE1\xDB\xA4\xBA;\xBD\x19+\x98 S7\xBAIN[\xCD\xE7 V\xCD\xBC\xD6\xC6\xB7\x1A],Q\xF5\x1D\xD6\x89\x8B\xEBq\xA3\xCB\x8ANU\x8E\x0B\xF08~\xFEK=,\x13\xF8\x14`\x00G2p	^\xC8\xDBu\x00\x00\x00\x00IEND\xAEB`\x82
+$$$$$$ Response Body For Transaction With Id 630 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 637 ******
+GET /WebTours/images/webtours.png HTTP/1.1
+Host: localhost:1080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+DNT: 1
+Sec-GPC: 1
+Connection: keep-alive
+Referer: http://localhost:1080/WebTours/header.html
+Priority: u=5, i
+
+
+$$$$$$ Request Header For Transaction With Id 637 Ended $$$$$$
+
+****** Response Header For Transaction With Id 637 ******
+HTTP/1.1 200 OK
+Date: Sun, 01 Dec 2024 07:33:43 GMT
+Server: Apache/2.2.21 (Win32)
+Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT
+ETag: "6000000095924-105b-627d18e6b7b16"
+Accept-Ranges: bytes
+Content-Length: 4187
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: image/png
+
+
+$$$$$$ Response Header For Transaction With Id 637 Ended $$$$$$
+
+****** Response Body For Transaction With Id 637 ******
+\x89PNG
+\x1A
+\x00\x00\x00IHDR\x00\x00\x00\x82\x00\x00\x00-\x08\x03\x00\x00\x00U\x97C\xF4\x00\x00\x00	pHYs\x00\x00\x0B\x13\x00\x00\x0B\x13\x01\x00\x9A\x9C\x18\x00\x00
+OiCCPPhotoshop ICC profile\x00\x00x\xDA\x9DSgTS\xE9\x16=\xF7\xDE\xF4BK\x88\x80\x94KoR\x15\x08 RB\x8B\x80\x14\x91&*!	\x10J\x88!\xA1\xD9\x15Q\xC1\x11EE\x04\x1B\xC8\xA0\x88\x03\x8E\x8E\x80\x8C\x15Q,\x0C\x8A
+\xD8\x07\xE4!\xA2\x8E\x83\xA3\x88\x8A\xCA\xFB\xE1{\xA3k\xD6\xBC\xF7\xE6\xCD\xFE\xB5\xD7>\xE7\xAC\xF3\x9D\xB3\xCF\x07\xC0\x08\x0C\x96H3Q5\x80\x0C\xA9B\x1E\x11\xE0\x83\xC7\xC4\xC6\xE1\xE4.@\x81
+$p\x00\x10\x08\xB3d!s\xFD#\x01\x00\xF8~<<+"\xC0\x07\xBE\x00\x01x\xD3\x0B\x08\x00\xC0M\x9B\xC00\x1C\x87\xFF\x0F\xEAB\x99\\\x01\x80\x84\x01\xC0t\x918K\x08\x80\x14\x00@z\x8EB\xA6\x00@F\x01\x80\x9D\x98&S\x00\xA0\x04\x00`\xCBcb\xE3\x00P-\x00`'\x7F\xE6\xD3\x00\x80\x9D\xF8\x99{\x01\x00[\x94!\x15\x01\xA0\x91\x00 \x13e\x88D\x00h;\x00\xAC\xCFV\x8AE\x00X0\x00\x14fK\xC49\x00\xD8-\x000IWfH\x00\xB0\xB7\x00\xC0\xCE\x10\x0B\xB2\x00\x08\x0C\x000Q\x88\x85)\x00\x04{\x00`\xC8##x\x00\x84\x99\x00\x14F\xF2W<\xF1+\xAE\x10\xE7*\x00\x00x\x99\xB2<\xB9$9E\x81[\x08-q\x07WW.\x1E(\xCEI\x17+\x146a\x02a\x9A@.\xC2y\x99\x192\x814\x0F\xE0\xF3\xCC\x00\x00\xA0\x91\x15\x11\xE0\x83\xF3\xFDx\xCE\x0E\xAE\xCE\xCE6\x8E\xB6\x0E_-\xEA\xBF\x06\xFF"bb\xE3\xFE\xE5\xCF\xABp@\x00\x00\xE1t~\xD1\xFE,/\xB3\x1A\x80;\x06\x80m\xFE\xA2%\xEE\x04h^\x0B\xA0u\xF7\x8Bf\xB2\x0F@\xB5\x00\xA0\xE9\xDAW\xF3p\xF8~<<E\xA1\x90\xB9\xD9\xD9\xE5\xE4\xE4\xD8J\xC4B[a\xCAW}\xFEg\xC2_\xC0W\xFDl\xF9~<\xFC\xF7\xF5\xE0\xBE\xE2$\x812]\x81G\x04\xF8\xE0\xC2\xCC\xF4L\xA5\x1C\xCF\x92	\x84b\xDC\xE6\x8FG\xFC\xB7\x0B\xFF\xFC\x1D\xD3"\xC4Ib\xB9X*\x14\xE3Q\x12q\x8ED\x9A\x8C\xF32\xA5"\x89B\x92)\xC5%\xD2\xFFd\xE2\xDF,\xFB\x03>\xDF5\x00\xB0j>\x01{\x91-\xA8]c\x03\xF6K'\x10Xt\xC0\xE2\xF7\x00\x00\xF2\xBBo\xC1\xD4(\x08\x03\x80h\x83\xE1\xCFw\xFF\xEF?\xFDG\xA0%\x00\x80fI\x92q\x00\x00^D$.T\xCA\xB3?\xC7\x08\x00\x00D\xA0\x81*\xB0A\x1B\xF4\xC1\x18,\xC0\x06\x1C\xC1\x05\xDC\xC1\x0B\xFC`6\x84B$\xC4\xC2B\x10B
+d\x80\x1Cr`)\xAC\x82B(\x86\xCD\xB0\x1D*`/\xD4@\x1D4\xC0Qh\x86\x93p\x0E.\xC2U\xB8\x0E=p\x0F\xFAa\x08\x9E\xC1(\xBC\x81	\x04A\xC8\x08\x13a!\xDA\x88\x01b\x8AX#\x8E\x08\x17\x99\x85\xF8!\xC1H\x04\x12\x8B$ \xC9\x88\x14Q"K\x915H1R\x8AT UH\x1D\xF2=r\x029\x87\\F\xBA\x91;\xC8\x002\x82\xFC\x86\xBCG1\x94\x81\xB2Q=\xD4\x0C\xB5C\xB9\xA87\x1A\x84F\xA2\x0B\xD0dt1\x9A\x8F\x16\xA0\x9B\xD0r\xB4\x1A=\x8C6\xA1\xE7\xD0\xABh\x0F\xDA\x8F>C\xC70\xC0\xE8\x18\x073\xC4l0.\xC6\xC3B\xB18,	\x93c\xCB\xB1"\xAC\x0C\xAB\xC6\x1A\xB0V\xAC\x03\xBB\x89\xF5c\xCF\xB1w\x04\x12\x81E\xC0	6\x04wB a\x1EAHXLXN\xD8H\xA8 \x1C$4\x11\xDA	7	\x03\x84Q\xC2'"\x93\xA8K\xB4&\xBA\x11\xF9\xC4\x18b21\x87XH,#\xD6\x12\x8F\x13/\x10{\x88C\xC47$\x12\x89C2'\xB9\x90\x02I\xB1\xA4T\xD2\x12\xD2F\xD2nR#\xE9,\xA9\x9B4H\x1A#\x93\xC9\xDAdk\xB2\x079\x94, +\xC8\x85\xE4\x9D\xE4\xC3\xE43\xE4\x1B\xE4!\xF2[
+\x9Db@q\xA4\xF8S\xE2(R\xCAjJ\x19\xE5\x10\xE54\xE5\x06e\x982AU\xA3\x9AR\xDD\xA8\xA1T\x115\x8FZB\xAD\xA1\xB6R\xAFQ\x87\xA8\x134u\x9A9\xCD\x83\x16IK\xA5\xAD\xA2\x95\xD3\x1Ah\x17h\xF7i\xAF\xE8t\xBA\x11\xDD\x95\x1EN\x97\xD0W\xD2\xCB\xE9G\xE8\x97\xE8\x03\xF4w\x0C\x86\x15\x83\xC7\x88g(\x19\x9B\x18\x07\x18g\x19w\x18\xAF\x98L\xA6\x19\xD3\x8B\x19\xC7T071\xEB\x98\xE7\x99\x0F\x99oUX*\xB6*|\x15\x91\xCA
+\x95J\x95&\x95\x1B*/T\xA9\xAA\xA6\xAA\xDE\xAA\x0BU\xF3U\xCBT\x8F\xA9^S}\xAEFU3S\xE3\xA9	\xD4\x96\xABU\xAA\x9DP\xEBS\x1BSg\xA9;\xA8\x87\xAAg\xA8oT?\xA4~Y\xFD\x89\x06Y\xC3L\xC3OC\xA4Q\xA0\xB1_\xE3\xBC\xC6 \x0Bc\x19\xB3x,!k\xAB\x86u\x815\xC4&\xB1\xCD\xD9|v*\xBB\x98\xFD\x1D\xBB\x8B=\xAA\xA9\xA19C3J3W\xB3R\xF3\x94f?\x07\xE3\x98q\xF8\x9CtN	\xE7(\xA7\x97\xF3~\x8A\xDE\x14\xEF)\xE2)\x1B\xA64L\xB91e\\k\xAA\x96\x97\x96X\xABH\xABQ\xABG\xEB\xBD6\xAE\xED\xA7\x9D\xA6\xBDE\xBBY\xFB\x81\x0EA\xC7J'\\'Gg\x8F\xCE\x05\x9D\xE7S\xD9S\xDD\xA7
+\xA7\x16M=:\xF5\xAE.\xAAk\xA5\x1B\xA1\xBBDw\xBFn\xA7\xEE\x98\x9E\xBE^\x80\x9ELo\xA7\xDEy\xBD\xE7\xFA\x1C}/\xFDT\xFDm\xFA\xA7\xF5G\x0CX\x06\xB3\x0C$\x06\xDB\x0C\xCE\x18<\xC55qo<\x1D/\xC7\xDB\xF1QC]\xC3@C\xA5a\x95a\x97\xE1\x84\x91\xB9\xD1<\xA3\xD5F\x8DF\x0F\x8Ci\xC6\\\xE3$\xE3m\xC6m\xC6\xA3&\x06&!&KM\xEAM\xEE\x9ARM\xB9\xA6)\xA6;L;L\xC7\xCD\xCC\xCD\xA2\xCD\xD6\x995\x9B=1\xD72\xE7\x9B\xE7\x9B\xD7\x9B\xDF\xB7`ZxZ,\xB6\xA8\xB6\xB8eI\xB2\xE4Z\xA6Y\xEE\xB6\xBCn\x85Z9Y\xA5XUZ]\xB3F\xAD\x9D\xAD%\xD6\xBB\xAD\xBB\xA7\x11\xA7\xB9N\x93N\xAB\x9E\xD6g\xC3\xB0\xF1\xB6\xC9\xB6\xA9\xB7\x19\xB0\xE5\xD8\x06\xDB\xAE\xB6m\xB6}agb\x17g\xB7\xC5\xAE\xC3\xEE\x93\xBD\x93}\xBA}\x8D\xFD=\x07\x87\xD9\x0E\xAB\x1DZ\x1D~s\xB4r\x14:V:\xDE\x9A\xCE\x9C\xEE?}\xC5\xF4\x96\xE9/gX\xCF\x10\xCF\xD83\xE3\xB6\x13\xCB)\xC4i\x9DS\x9B\xD3Gg\x17g\xB9s\x83\xF3\x88\x8B\x89K\x82\xCB.\x97>.\x9B\x1B\xC6\xDD\xC8\xBD\xE4Jt\xF5q]\xE1z\xD2\xF5\x9D\x9B\xB3\x9B\xC2\xED\xA8\xDB\xAF\xEE6\xEEi\xEE\x87\xDC\x9F\xCC4\x9F)\x9EY3s\xD0\xC3\xC8C\xE0Q\xE5\xD1?\x0B\x9F\x950k\xDF\xAC~OCO\x81g\xB5\xE7#/c/\x91W\xAD\xD7\xB0\xB7\xA5w\xAA\xF7a\xEF\x17>\xF6>r\x9F\xE3>\xE3<7\xDE2\xDEY_\xCC7\xC0\xB7\xC8\xB7\xCBO\xC3o\x9E_\x85\xDFC\x7F#\xFFd\xFFz\xFF\xD1\x00\xA7\x80%\x01g\x03\x89\x81A\x81[\x02\xFB\xF8z|!\xBF\x8E?:\xDBe\xF6\xB2\xD9\xEDA\x8C\xA0\xB9A\x15A\x8F\x82\xAD\x82\xE5\xC1\xAD!h\xC8\xEC\x90\xAD!\xF7\xE7\x98\xCE\x91\xCEi\x0E\x85P~\xE8\xD6\xD0\x07a\xE6a\x8B\xC3~\x0C'\x85\x87\x85W\x86?\x8Ep\x88X\x1A\xD11\x975w\xD1\xDCCs\xDFD\xFAD\x96D\xDE\x9Bg1O9\xAF-J5*>\xAA.j<\xDA7\xBA4\xBA?\xC6.fY\xCC\xD5X\x9DXIlK\x1C9.*\xAE6nl\xBE\xDF\xFC\xED\xF3\x87\xE2\x9D\xE2\x0B\xE3{\x17\x98/\xC8]py\xA1\xCE\xC2\xF4\x85\xA7\x16\xA9.\x12,:\x96@L\x88N8\x94\xF0A\x10*\xA8\x16\x8C%\xF2\x13w%\x8E
+y\xC2\x1D\xC2g"/\xD16\xD1\x88\xD8C\\*\x1EN\xF2H*Mz\x92\xEC\x91\xBC5y$\xC53\xA5,\xE5\xB9\x84'\xA9\x90\xBCLL\xDD\x9B:\x9E\x16\x9Av m2=:\xBD1\x83\x92\x91\x90qB\xAA!M\x93\xB6g\xEAg\xE6fv\xCB\xACe\x85\xB2\xFE\xC5n\x8B\xB7/\x1E\x95\x07\xC9k\xB3\x90\xAC\x05Y-
+\xB6B\xA6\xE8TZ(\xD7*\x07\xB2geWf\xBF\xCD\x89\xCA9\x96\xAB\x9E+\xCD\xED\xCC\xB3\xCA\xDB\x907\x9C\xEF\x9F\xFF\xED\x12\xC2\x12\xE1\x92\xB6\xA5\x86KW-\x1DX\xE6\xBD\xACj9\xB2<qy\xDB
+\xE3\x15\x05+\x86V\x06\xAC<\xB8\x8A\xB6*m\xD5O\xAB\xEDW\x97\xAE~\xBD&zMk\x81^\xC1\xCA\x82\xC1\xB5\x01k\xEB\x0BU
+\xE5\x85}\xEB\xDC\xD7\xED]OX/Y\xDF\xB5a\xFA\x86\x9D\x1B>\x15\x89\x8A\xAE\x14\xDB\x17\x97\x15\x7F\xD8(\xDCx\xE5\x1B\x87o\xCA\xBF\x99\xDC\x94\xB4\xA9\xAB\xC4\xB9d\xCFf\xD2f\xE9\xE6\xDE-\x9E[\x0E\x96\xAA\x97\xE6\x97\x0En\xD9\xDA\xB4\xDFV\xB4\xED\xF5\xF6E\xDB/\x97\xCD(\xDB\xBB\x83\xB6C\xB9\xA3\xBF<\xB8\xBCe\xA7\xC9\xCE\xCD;?T\xA4T\xF4T\xFAT6\xEE\xD2\xDD\xB5a\xD7\xF8n\xD1\xEE\x1B{\xBC\xF64\xEC\xD5\xDB[\xBC\xF7\xFD>\xC9\xBE\xDBU\x01UM\xD5f\xD5e\xFBI\xFB\xB3\xF7?\xAE\x89\xAA\xE9\xF8\x96\xFBm]\xADNmq\xED\xC7\x03\xD2\x03\xFD\x07#\x0E\xB6\xD7\xB9\xD4\xD5\x1D\xD2=TR\x8F\xD6+\xEBG\x0E\xC7\x1F\xBE\xFE\x9D\xEFw-6U\x8D\x9C\xC6\xE2#pDy\xE4\xE9\xF7	\xDF\xF7\x1E:\xDAv\x8C{\xAC\xE1\x07\xD3\x1Fv\x1Dg\x1D/jB\x9A\xF2\x9AF\x9BS\x9A\xFB[b[\xBAO\xCC>\xD1\xD6\xEA\xDEz\xFCG\xDB\x1F\x0F\x9C4<YyJ\xF3T\xC9i\xDA\xE9\x82\xD3\x93g\xF2\xCF\x8C\x9D\x95\x9D}~.\xF9\xDC`\xDB\xA2\xB6{\xE7c\xCE\xDFj\x0Fo\xEF\xBA\x10t\xE1\xD2E\xFF\x8B\xE7;\xBC;\xCE\\\xF2\xB8t\xF2\xB2\xDB\xE5\x13W\xB8W\x9A\xAF:_m\xEAt\xEA<\xFE\x93\xD3O\xC7\xBB\x9C\xBB\x9A\xAE\xB9\\k\xB9\xEEz\xBD\xB5{f\xF7\xE9\x1B\x9E7\xCE\xDD\xF4\xBDy\xF1\x16\xFF\xD6\xD5\x9E9=\xDD\xBD\xF3zo\xF7\xC5\xF7\xF5\xDF\x16\xDD~r'\xFD\xCE\xCB\xBB\xD9w'\xEE\xAD\xBCO\xBC_\xF4@\xEDA\xD9C\xDD\x87\xD5?[\xFE\xDC\xD8\xEF\xDC\x7Fj\xC0w\xA0\xF3\xD1\xDCG\xF7\x06\x85\x83\xCF\xFE\x91\xF5\x8F\x0FC\x05\x8F\x99\x8F\xCB\x86\x86\xEB\x9E8>99\xE2?r\xFD\xE9\xFC\xA7C\xCFd\xCF&\x9E\x17\xFE\xA2\xFE\xCB\xAE\x17\x16/~\xF8\xD5\xEB\xD7\xCE\xD1\x98\xD1\xA1\x97\xF2\x97\x93\xBFm|\xA5\xFD\xEA\xC0\xEB\x19\xAF\xDB\xC6\xC2\xC6\x1E\xBE\xC9x31^\xF4V\xFB\xED\xC1w\xDCw\x1D\xEF\xA3\xDF\x0FO\xE4| \x7F(\xFFh\xF9\xB1\xF5S\xD0\xA7\xFB\x93\x19\x93\x93\xFF\x04\x03\x98\xF3\xFCc3-\xDB\x00\x00\x00 cHRM\x00\x00z%\x00\x00\x80\x83\x00\x00\xF9\xFF\x00\x00\x80\xE9\x00\x00u0\x00\x00\xEA`\x00\x00:\x98\x00\x00\x17o\x92_\xC5F\x00\x00\x03\x00PLTE\xFF\xFF\xFFw\x92\xAD\xBB\xC9\xD6Di\x8F\x11Ap\xEE\xF1\xF5\xDD\xE4\xEB3\\\x85\xCC\xD6\xE0\x99\xAD\xC2f\x85\xA3"Nz\xAA\xBB\xCC\x88\xA0\xB8Uw\x99\x003f\x10\x10\x10\x11\x11\x11\x12\x12\x12\x13\x13\x13\x14\x14\x14\x15\x15\x15\x16\x16\x16\x17\x17\x17\x18\x18\x18\x19\x19\x19\x1A\x1A\x1A\x1B\x1B\x1B\x1C\x1C\x1C\x1D\x1D\x1D\x1E\x1E\x1E\x1F\x1F\x1F   !!!"""###$$$%%%&&&'''((()))***+++,,,---...///000111222333444555666777888999:::;;;<<<===>>>???@@@AAABBBCCCDDDEEEFFFGGGHHHIIIJJJKKKLLLMMMNNNOOOPPPQQQRRRSSSTTTUUUVVVWWWXXXYYYZZZ[[[\\\\\\]]]^^^___```aaabbbcccdddeeefffggghhhiiijjjkkklllmmmnnnooopppqqqrrrssstttuuuvvvwwwxxxyyyzzz{{{|||}}}~~~\x7F\x7F\x7F\x80\x80\x80\x81\x81\x81\x82\x82\x82\x83\x83\x83\x84\x84\x84\x85\x85\x85\x86\x86\x86\x87\x87\x87\x88\x88\x88\x89\x89\x89\x8A\x8A\x8A\x8B\x8B\x8B\x8C\x8C\x8C\x8D\x8D\x8D\x8E\x8E\x8E\x8F\x8F\x8F\x90\x90\x90\x91\x91\x91\x92\x92\x92\x93\x93\x93\x94\x94\x94\x95\x95\x95\x96\x96\x96\x97\x97\x97\x98\x98\x98\x99\x99\x99\x9A\x9A\x9A\x9B\x9B\x9B\x9C\x9C\x9C\x9D\x9D\x9D\x9E\x9E\x9E\x9F\x9F\x9F\xA0\xA0\xA0\xA1\xA1\xA1\xA2\xA2\xA2\xA3\xA3\xA3\xA4\xA4\xA4\xA5\xA5\xA5\xA6\xA6\xA6\xA7\xA7\xA7\xA8\xA8\xA8\xA9\xA9\xA9\xAA\xAA\xAA\xAB\xAB\xAB\xAC\xAC\xAC\xAD\xAD\xAD\xAE\xAE\xAE\xAF\xAF\xAF\xB0\xB0\xB0\xB1\xB1\xB1\xB2\xB2\xB2\xB3\xB3\xB3\xB4\xB4\xB4\xB5\xB5\xB5\xB6\xB6\xB6\xB7\xB7\xB7\xB8\xB8\xB8\xB9\xB9\xB9\xBA\xBA\xBA\xBB\xBB\xBB\xBC\xBC\xBC\xBD\xBD\xBD\xBE\xBE\xBE\xBF\xBF\xBF\xC0\xC0\xC0\xC1\xC1\xC1\xC2\xC2\xC2\xC3\xC3\xC3\xC4\xC4\xC4\xC5\xC5\xC5\xC6\xC6\xC6\xC7\xC7\xC7\xC8\xC8\xC8\xC9\xC9\xC9\xCA\xCA\xCA\xCB\xCB\xCB\xCC\xCC\xCC\xCD\xCD\xCD\xCE\xCE\xCE\xCF\xCF\xCF\xD0\xD0\xD0\xD1\xD1\xD1\xD2\xD2\xD2\xD3\xD3\xD3\xD4\xD4\xD4\xD5\xD5\xD5\xD6\xD6\xD6\xD7\xD7\xD7\xD8\xD8\xD8\xD9\xD9\xD9\xDA\xDA\xDA\xDB\xDB\xDB\xDC\xDC\xDC\xDD\xDD\xDD\xDE\xDE\xDE\xDF\xDF\xDF\xE0\xE0\xE0\xE1\xE1\xE1\xE2\xE2\xE2\xE3\xE3\xE3\xE4\xE4\xE4\xE5\xE5\xE5\xE6\xE6\xE6\xE7\xE7\xE7\xE8\xE8\xE8\xE9\xE9\xE9\xEA\xEA\xEA\xEB\xEB\xEB\xEC\xEC\xEC\xED\xED\xED\xEE\xEE\xEE\xEF\xEF\xEF\xF0\xF0\xF0\xF1\xF1\xF1\xF2\xF2\xF2\xF3\xF3\xF3\xF4\xF4\xF4\xF5\xF5\xF5\xF6\xF6\xF6\xF7\xF7\xF7\xF8\xF8\xF8\xF9\xF9\xF9\xFA\xFA\xFA\xFB\xFB\xFB\xFC\xFC\xFC\xFD\xFD\xFD\xFE\xFE\xFE\xFF\xFF\xFF\xAA\x8A\xD4\x02\x00\x00\x00\x10tRNS\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\x00\xE0#]\x19\x00\x00\x02^IDATx\xDA\xEC\xD6\xDBn\xA30\x10\x06\xE0\x7F\xC6\x9E\xF1	\xF8\xDF\xFFm\xF7\xC26$P\xDA\x95\xAAv\xA5\x15\xBE\x88\x1CC\x92\x8F9\xD8\x01\xFF\xF9\xC0Cx\x08\x0F\xE1!<\x84\xFF\x81P\xB5\xFE !\x1Ek1\xDD\xDD-\x90\x1F$(\xF6\x07\\\xB1{\x0C\xEDKB\xC0>\xF4[\x04A\x99S\xDF5\x01\xFEu\x14\x92\xAA\xAA!\xAB\xEA\xFA-B\x83\x1DO\xB5\xEC\xF1X\xFF2\x11\x8A\xF0\xFDr\xF4\xF9%\x05\x98\xE1w\xA4\xDF$\xECOl>\x7F\xA9\x9D\xF2\xF0\xD3\x84\x84\xDC\x1B\x0Fk\x1B\xD3\x97\xFA\xF8\x15\xC2\xAC\xFE\x05\x89yN7\x92qU\xD3\x12&\xA1.>\xDE}D\x88\xA2\x9E\x97^\xCEA\xFA\x9AH\x7F\x11U2\x96\x9CK\xBA!\x14\x08\xC9\x08'\xEB\x98\x1A\xC9`\xD0U\xD2	
+\xD7\x8Csx&!\x19L\x15\xC8\xF1%f\x00I\xA0\x00\x99\xD1\x90\x17{+\xB1\x17\xC2\x86e~.\xC2\xE7B2K$c\xC6F
+\xCC\x02\xC9\xE0\xE7\x8CtB\xEB\xD2X\x90\xAF\x04K\x8C}\xAD\xC9M\x14"@\x8E\x1C,HdA%\x97\x11\xE1\x06'\x05\xC3\x9F\xF6\x16~#,S\xB6\xA0^\x08\xB5\xA7r\xFB\xEC\x8CX\xB0qTb\xC5J\x1A"\xE3\xA8\xCC\xAE\x92}\xC7(\xA7\xF2S\x84\x19\xBC\x0E\xCE\x17B\xEA\x9B\x8E\xD5O\x08\x82B\xE9\xD8\x08g\x82\x92\x01\xA6}8\xC2KG\x9C{C\x11\xC8p\xECd\x8E\x0Ba\x9Ct\x06\x97xGhp\xFA8\x1F\x16l+\x84\x0Cp\x99\xE3/\x08\xFBb\xBE#0\x8A\xC3\xD3\xDDa\x9DQg\xA4+JFc\x0F\x05\xAF\x07\xC9\xFAQ"\xDAqs\xAF\x1C\xD9\xE7\x07\x81d\xD9\xF3y!\x080O\xA8h\xD6\xAB\xC0\xE7f\xBDm\x91\x02\x8B\xE32\xE2\x07\xE5\xB8\xDF,X\xC7\xCB\x84B\xBF\xBE\x17\xD8\x85\x90p\x14zA\x7F\x86\xDA{\x9C[/\xB0\xEE\x8F\xCB\xE9\xFC\x1A\x84ys2kd\x83\xC7\xC9\x19\x84d\x95d\xBA\x8F\x02\xFD\xD8r\xB6\xD9\x7F\x05.a+\xB0D
+\x8A\xB9T\xF1\xF1S\x97\xAD\xA9\xC0\xD6*\x05\xBD\xF5\x16d	+\xAC\xED\x84\x98QB\xF5\xB7,\xBE\x13\xCAK\xD7\xDAl0q\x00(c\xBFK
+\x00k\xBC\xD9\xA0\xAB\x03\x80v}\\\x01\x8C\xDA\x1B\x89\x88
+\x9C\xFA\xF2\x9D\x90^\xCA\xBC\x1E\x9A\x14^\xD5-|z"\xA5\x10\x0E_\x0C\xA1\x9D\xAE_>\xFE\xFC\x89\x7F\x08\x0F\xE1!<\x84\x87p7\xFE\x0C\x003E5\xCBq\xB3\x1F<\x00\x00\x00\x00IEND\xAEB`\x82
+$$$$$$ Response Body For Transaction With Id 637 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 646 ******
+POST / HTTP/1.1
+Host: r11.o.lencr.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 85
+Connection: keep-alive
+Priority: u=2
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 646 Ended $$$$$$
+
+****** Request Body For Transaction With Id 646 ******
+0S0Q0O0M0K0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14t\x02F\xF2Z\\B\x12 \xB5\xBD]v	\xA6\xBA\\\xA3G\xDF\x04\x14$\xF2.N\x0F\xBD\xCA\xF7>)U\xCAr\x8Di\x87VD\xE9z\x02\x12\x04&\xD3\x07\xFE\xB5\xB1X\xC2Z\xEF\x81|K\xC6!v\xB6
+$$$$$$ Request Body For Transaction With Id 646 Ended $$$$$$
+
+****** Response Header For Transaction With Id 646 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: application/ocsp-response
+Content-Length: 5
+Cache-Control: no-cache
+Expires: Sun, 01 Dec 2024 07:33:44 GMT
+Date: Sun, 01 Dec 2024 07:33:44 GMT
+Connection: keep-alive
+
+
+$$$$$$ Response Header For Transaction With Id 646 Ended $$$$$$
+
+****** Response Body For Transaction With Id 646 ******
+0\x03
+\x01\x06
+$$$$$$ Response Body For Transaction With Id 646 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 646 ****** (Location Flag : tFlagInsertEnd, Location ID : 646)
+	web_custom_request("r11.o.lencr.org_2",
+		"URL=http://r11.o.lencr.org/",
+		"Method=POST",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=application/ocsp-response",
+		"Referer=",
+		"Snapshot=t8.inf",
+		"Mode=HTML",
+		"EncType=application/ocsp-request",
+		"BodyBinary=0S0Q0O0M0K0\t\\x06\\x05+\\x0E\\x03\\x02\\x1A\\x05\\x00\\x04\\x14t\\x02F\\xF2Z\\\\B\\x12 \\xB5\\xBD]v\t\\xA6\\xBA\\\\\\xA3G\\xDF\\x04\\x14$\\xF2.N\\x0F\\xBD\\xCA\\xF7>)U\\xCAr\\x8Di\\x87VD\\xE9z\\x02\\x12\\x04&\\xD3\\x07\\xFE\\xB5\\xB1X\\xC2Z\\xEF\\x81|K\\xC6!v\\xB6",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 646 Ended $$$$$$
+
+****** Request Header For Transaction With Id 648 ******
+POST / HTTP/1.1
+Host: r11.o.lencr.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 85
+Connection: keep-alive
+Priority: u=2
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 648 Ended $$$$$$
+
+****** Request Body For Transaction With Id 648 ******
+0S0Q0O0M0K0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14t\x02F\xF2Z\\B\x12 \xB5\xBD]v	\xA6\xBA\\\xA3G\xDF\x04\x14$\xF2.N\x0F\xBD\xCA\xF7>)U\xCAr\x8Di\x87VD\xE9z\x02\x12\x04&\xD3\x07\xFE\xB5\xB1X\xC2Z\xEF\x81|K\xC6!v\xB6
+$$$$$$ Request Body For Transaction With Id 648 Ended $$$$$$
+
+****** Response Header For Transaction With Id 648 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: application/ocsp-response
+Content-Length: 5
+Cache-Control: no-cache
+Expires: Sun, 01 Dec 2024 07:33:44 GMT
+Date: Sun, 01 Dec 2024 07:33:44 GMT
+Connection: keep-alive
+
+
+$$$$$$ Response Header For Transaction With Id 648 Ended $$$$$$
+
+****** Response Body For Transaction With Id 648 ******
+0\x03
+\x01\x06
+$$$$$$ Response Body For Transaction With Id 648 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 648 ****** (Location Flag : tFlagInsertEnd, Location ID : 648)
+	web_custom_request("r11.o.lencr.org_3",
+		"URL=http://r11.o.lencr.org/",
+		"Method=POST",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=application/ocsp-response",
+		"Referer=",
+		"Snapshot=t9.inf",
+		"Mode=HTML",
+		"EncType=application/ocsp-request",
+		"BodyBinary=0S0Q0O0M0K0\t\\x06\\x05+\\x0E\\x03\\x02\\x1A\\x05\\x00\\x04\\x14t\\x02F\\xF2Z\\\\B\\x12 \\xB5\\xBD]v\t\\xA6\\xBA\\\\\\xA3G\\xDF\\x04\\x14$\\xF2.N\\x0F\\xBD\\xCA\\xF7>)U\\xCAr\\x8Di\\x87VD\\xE9z\\x02\\x12\\x04&\\xD3\\x07\\xFE\\xB5\\xB1X\\xC2Z\\xEF\\x81|K\\xC6!v\\xB6",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 648 Ended $$$$$$
+
+****** Request Header For Transaction With Id 650 ******
+GET /chains/remote-settings.content-signature.mozilla.org-2024-12-27-18-19-47.chain HTTP/1.1
+Host: content-signature-2.cdn.mozilla.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 650 Ended $$$$$$
+
+****** Response Header For Transaction With Id 650 ******
+HTTP/1.1 200 OK
+X-Amz-Id-2: fsAa0IEib6/3wzCJ/14Y1gQalbg6rqwsEqp1JBfz05bpCfRBhGRAJT+CcSqSwdi85hC4DEawnp9HWZUgOOGcmg==
+X-Amz-Request-Id: SH1Q7CSFAJJWKRG8
+X-Amz-Server-Side-Encryption: AES256
+Content-Disposition: attachment
+Accept-Ranges: bytes
+Content-Length: 5348
+Server: AmazonS3
+Via: 1.1 google
+Date: Sun, 01 Dec 2024 06:59:31 GMT
+Age: 2053
+Last-Modified: Thu, 07 Nov 2024 18:19:48 GMT
+ETag: "2151ab70aa0d3fc872489ec3642e7138"
+Content-Type: binary/octet-stream
+Cache-Control: public,max-age=3600
+Alt-Svc: clear
+
+
+$$$$$$ Response Header For Transaction With Id 650 Ended $$$$$$
+
+****** Response Body For Transaction With Id 650 ******
+-----BEGIN CERTIFICATE-----
+MIIDBTCCAougAwIBAgIIGAXCl13jQwcwCgYIKoZIzj0EAwMwgaMxCzAJBgNVBAYT
+AlVTMRwwGgYDVQQKExNNb3ppbGxhIENvcnBvcmF0aW9uMS8wLQYDVQQLEyZNb3pp
+bGxhIEFNTyBQcm9kdWN0aW9uIFNpZ25pbmcgU2VydmljZTFFMEMGA1UEAww8Q29u
+dGVudCBTaWduaW5nIEludGVybWVkaWF0ZS9lbWFpbEFkZHJlc3M9Zm94c2VjQG1v
+emlsbGEuY29tMB4XDTI0MTAwODE4MTk0N1oXDTI0MTIyNzE4MTk0N1owgakxCzAJ
+BgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQHEw1Nb3VudGFp
+biBWaWV3MRwwGgYDVQQKExNNb3ppbGxhIENvcnBvcmF0aW9uMRcwFQYDVQQLEw5D
+bG91ZCBTZXJ2aWNlczE2MDQGA1UEAxMtcmVtb3RlLXNldHRpbmdzLmNvbnRlbnQt
+c2lnbmF0dXJlLm1vemlsbGEub3JnMHYwEAYHKoZIzj0CAQYFK4EEACIDYgAEb2hw
+vxwKG5hsSt2YoYKIPUmTqFJopdRqTEVx0NHK7or7Ybxw6AZBFN3AfptD2HSEK1sj
+k/4r4PdZW2PV4kv6RAwWseoH7K681AMfTWHbB7F9s1bswYhMHi3PhUyRuyZKo4GD
+MIGAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDAzAfBgNVHSME
+GDAWgBSgHUoXT4zCKzVF8WPx2nBwp8744TA4BgNVHREEMTAvgi1yZW1vdGUtc2V0
+dGluZ3MuY29udGVudC1zaWduYXR1cmUubW96aWxsYS5vcmcwCgYIKoZIzj0EAwMD
+aAAwZQIwE/GR/2MoA53jhWsoKu9t7L4i0qhbflApsFROfXcvIUz169awu47EnDlI
+FnouKQCjAjEAi0EibuUGhcpkjoVH6MCKV/FYXgfJik+zDTyCyr6e1BtG6pSKXIp1
+qLgBNkNavUU/
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+MIIFfzCCA2egAwIBAgIDEAAJMA0GCSqGSIb3DQEBDAUAMH0xCzAJBgNVBAYTAlVT
+MRwwGgYDVQQKExNNb3ppbGxhIENvcnBvcmF0aW9uMS8wLQYDVQQLEyZNb3ppbGxh
+IEFNTyBQcm9kdWN0aW9uIFNpZ25pbmcgU2VydmljZTEfMB0GA1UEAxMWcm9vdC1j
+YS1wcm9kdWN0aW9uLWFtbzAiGA8yMDIwMTIzMTAwMDAwMFoYDzIwMjUwMzE0MjI1
+MzU3WjCBozELMAkGA1UEBhMCVVMxHDAaBgNVBAoTE01vemlsbGEgQ29ycG9yYXRp
+b24xLzAtBgNVBAsTJk1vemlsbGEgQU1PIFByb2R1Y3Rpb24gU2lnbmluZyBTZXJ2
+aWNlMUUwQwYDVQQDDDxDb250ZW50IFNpZ25pbmcgSW50ZXJtZWRpYXRlL2VtYWls
+QWRkcmVzcz1mb3hzZWNAbW96aWxsYS5jb20wdjAQBgcqhkjOPQIBBgUrgQQAIgNi
+AAQklaclq89BKPcYIfUdVS4JF/pZxjTVOlYVdj4QJ5xopHAngXkUggYkkHj0tmZV
+EcrXrCVq1qEtB/k7wXXkU4HN9rX7WcUkksClDJmUQ2qabzP7i20q3epGNq57RE2p
+3hKjggGJMIIBhTAMBgNVHRMEBTADAQH/MA4GA1UdDwEB/wQEAwIBBjAWBgNVHSUB
+Af8EDDAKBggrBgEFBQcDAzAdBgNVHQ4EFgQUoB1KF0+Mwis1RfFj8dpwcKfO+OEw
+gagGA1UdIwSBoDCBnYAUs7zqWHSr4W54KrKrnCMeqGMsl7ehgYGkfzB9MQswCQYD
+VQQGEwJVUzEcMBoGA1UEChMTTW96aWxsYSBDb3Jwb3JhdGlvbjEvMC0GA1UECxMm
+TW96aWxsYSBBTU8gUHJvZHVjdGlvbiBTaWduaW5nIFNlcnZpY2UxHzAdBgNVBAMT
+FnJvb3QtY2EtcHJvZHVjdGlvbi1hbW+CAQEwMwYJYIZIAYb4QgEEBCYWJGh0dHA6
+Ly9hZGRvbnMuYWxsaXpvbS5vcmcvY2EvY3JsLnBlbTBOBgNVHR4ERzBFoEMwIIIe
+LmNvbnRlbnQtc2lnbmF0dXJlLm1vemlsbGEub3JnMB+CHWNvbnRlbnQtc2lnbmF0
+dXJlLm1vemlsbGEub3JnMA0GCSqGSIb3DQEBDAUAA4ICAQALeUuF/7hcmM/LFnK6
+6a5lBQk5z5JBr2bNNvKVs/mtdIcVKcxjWxOBM5rorZiM5UWE7BmAm8E7gFCCq30y
+ZnNn6BO04z5LtDRHxa3IGhgECloyOJUSi9xxFxe5p5wJzFdArl7happSOUwOi+z2
+aDqS6uTJWubIY4Uz7h7S2UkUm52CTYnvpioS7eQoovvrlUsgIhkkIwDQnu7RWSej
+6nkc5o5SNwAJWsQvxIko32AxhvPmmtv1T/mtXY488TJ0VoBZ6lRkJJIxIJ48pGHJ
++YRt1tzO2aqCEs9pNPGWfhrpcDc2mu4fvlSX1elWYiGrpQBVbdEJlDkGAD0AC8on
+/7ybD2pEdh7pViVLV78Md+DNNquqqNhRJpn65k4lhvgDLHYvLNOrrtAmcmQonNdU
+OSumIuqcGk7dm/7gr9lrwAm8V8/GwDyzTgi4wNA4vwln3c7iMFGLL/b2piEQCSl+
+mqL1LeWJV+8rkbi8l2T0QIBwjDgR97ZxpLPwmUdDNiGAWeEFxn0jU9CQtQKjOj84
+VPZUM7aSHhVQ0bQpnjua7IWvLKK7F2fOo3PmuLacnnfyrzr2C/Le5k6EK/0q2cKf
+P6JzDWwt8werc6E3C6z3jbUdAwgNpv/fGz8gQBPf7NeiYkqMUNB2Z3aF8He8Jg15
+Abv+2+rSOLpBsTU67AHzMKJ8hw==
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+MIIGYTCCBEmgAwIBAgIBATANBgkqhkiG9w0BAQwFADB9MQswCQYDVQQGEwJVUzEc
+MBoGA1UEChMTTW96aWxsYSBDb3Jwb3JhdGlvbjEvMC0GA1UECxMmTW96aWxsYSBB
+TU8gUHJvZHVjdGlvbiBTaWduaW5nIFNlcnZpY2UxHzAdBgNVBAMTFnJvb3QtY2Et
+cHJvZHVjdGlvbi1hbW8wHhcNMTUwMzE3MjI1MzU3WhcNMjUwMzE0MjI1MzU3WjB9
+MQswCQYDVQQGEwJVUzEcMBoGA1UEChMTTW96aWxsYSBDb3Jwb3JhdGlvbjEvMC0G
+A1UECxMmTW96aWxsYSBBTU8gUHJvZHVjdGlvbiBTaWduaW5nIFNlcnZpY2UxHzAd
+BgNVBAMTFnJvb3QtY2EtcHJvZHVjdGlvbi1hbW8wggIgMA0GCSqGSIb3DQEBAQUA
+A4ICDQAwggIIAoICAQC0u2HXXbrwy36+MPeKf5jgoASMfMNz7mJWBecJgvlTf4hH
+JbLzMPsIUauzI9GEpLfHdZ6wzSyFOb4AM+D1mxAWhuZJ3MDAJOf3B1Rs6QorHrl8
+qqlNtPGqepnpNJcLo7JsSqqE3NUm72MgqIHRgTRsqUs+7LIPGe7262U+N/T0LPYV
+Le4rZ2RDHoaZhYY7a9+49mHOI/g2YFB+9yZjE+XdplT2kBgA4P8db7i7I0tIi4b0
+B0N6y9MhL+CRZJyxdFe2wBykJX14LsheKsM1azHjZO56SKNrW8VAJTLkpRxCmsiT
+r08fnPyDKmaeZ0BtsugicdipcZpXriIGmsZbI12q5yuwjSELdkDV6Uajo2n+2ws5
+uXrP342X71WiWhC/dF5dz1LKtjBdmUkxaQMOP/uhtXEKBrZo1ounDRQx1j7+SkQ4
+BEwjB3SEtr7XDWGOcOIkoJZWPACfBLC3PJCBWjTAyBlud0C5n3Cy9regAAnOIqI1
+t16GU2laRh7elJ7gPRNgQgwLXeZcFxw6wvyiEcmCjOEQ6PM8UQjthOsKlszMhlKw
+vjyOGDoztkqSBy/v+Asx7OW2Q7rlVfKarL0mREZdSMfoy3zTgtMVCM0vhNl6zcvf
+5HNNopoEdg5yuXo2chZ1p1J+q86b0G5yJRMeT2+iOVY2EQ37tHrqUURncCy4uwIB
+A6OB7TCB6jAMBgNVHRMEBTADAQH/MA4GA1UdDwEB/wQEAwIBBjAWBgNVHSUBAf8E
+DDAKBggrBgEFBQcDAzCBkgYDVR0jBIGKMIGHoYGBpH8wfTELMAkGA1UEBhMCVVMx
+HDAaBgNVBAoTE01vemlsbGEgQ29ycG9yYXRpb24xLzAtBgNVBAsTJk1vemlsbGEg
+QU1PIFByb2R1Y3Rpb24gU2lnbmluZyBTZXJ2aWNlMR8wHQYDVQQDExZyb290LWNh
+LXByb2R1Y3Rpb24tYW1vggEBMB0GA1UdDgQWBBSzvOpYdKvhbngqsqucIx6oYyyX
+tzANBgkqhkiG9w0BAQwFAAOCAgEAaNSRYAaECAePQFyfk12kl8UPLh8hBNidP2H6
+KT6O0vCVBjxmMrwr8Aqz6NL+TgdPmGRPDDLPDpDJTdWzdj7khAjxqWYhutACTew5
+eWEaAzyErbKQl+duKvtThhV2p6F6YHJ2vutu4KIciOMKB8dslIqIQr90IX2Usljq
+8Ttdyf+GhUmazqLtoB0GOuESEqT4unX6X7vSGu1oLV20t7t5eCnMMYD67ZBn0YIU
+/cm/+pan66hHrja+NeDGF8wabJxdqKItCS3p3GN1zUGuJKrLykxqbOp/21byAGog
+Z1amhz6NHUcfE6jki7sM7LHjPostU5ZWs3PEfVVgha9fZUhOrIDsyXEpCWVa3481
+LlAq3GiUMKZ5DVRh9/Nvm4NwrTfB3QkQQJCwfXvO9pwnPKtISYkZUqhEqvXk5nBg
+QCkDSLDjXTx39naBBGIVIqBtKKuVTla9enngdq692xX/CgO6QJVrwpqdGjebj5P8
+5fNZPABzTezG3Uls5Vp+4iIWVAEDkK23cUj3c/HhE+Oo7kxfUeu5Y1ZV3qr61+6t
+ZARKjbu1TuYQHf0fs+GwID8zeLc2zJL7UzcHFwwQ6Nda9OJN4uPAuC/BKaIpxCLL
+26b24/tRam4SJjqpiq20lynhUrmTtt6hbG3E1Hpy3bmkt2DYnuMFwEx2gfXNcnbT
+wNuvFqc=
+-----END CERTIFICATE-----
+
+$$$$$$ Response Body For Transaction With Id 650 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 650 ****** (Location Flag : tFlagInsertEnd, Location ID : 650)
+	web_url("remote-settings.content-signature.mozilla.org-2024-12-27-18-19-47.chain",
+		"URL=https://content-signature-2.cdn.mozilla.net/chains/remote-settings.content-signature.mozilla.org-2024-12-27-18-19-47.chain",
+		"TargetFrame=",
+		"Resource=1",
+		"RecContentType=binary/octet-stream",
+		"Referer=",
+		"Snapshot=t10.inf",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 650 Ended $$$$$$
+
+****** Request Header For Transaction With Id 655 ******
+GET /v1/ HTTP/1.1
+Host: firefox.settings.services.mozilla.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 655 Ended $$$$$$
+
+****** Response Header For Transaction With Id 655 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Length: 939
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Retry-After, Content-Length, Backoff, Alert, Content-Type
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'none'; frame-ancestors 'none'; base-uri 'none';
+Strict-Transport-Security: max-age=31536000
+Via: 1.1 google
+Date: Sun, 01 Dec 2024 06:47:22 GMT
+Age: 2782
+Content-Type: application/json
+Cache-Control: public,max-age=3600
+Alt-Svc: clear
+
+
+$$$$$$ Response Header For Transaction With Id 655 Ended $$$$$$
+
+****** Response Body For Transaction With Id 655 ******
+{"project_name":"Remote Settings PROD","project_version":"19.3.0","http_api_version":"1.22","project_docs":"https://remote-settings.readthedocs.io","url":"https://firefox.settings.services.mozilla.com/v1/","settings":{"readonly":true,"explicit_permissions":false,"batch_max_requests":25},"capabilities":{"changes":{"description":"Track modifications of records in Kinto and store the collection timestamps into a specific bucket and collection.","url":"http://kinto.readthedocs.io/en/latest/tutorials/synchronisation.html#polling-for-remote-changes","version":"32.8.0","collections":["/buckets/blocklists","/buckets/blocklists-preview","/buckets/main","/buckets/main-preview","/buckets/security-state","/buckets/security-state-preview"]},"attachments":{"description":"Add file attachments to records","url":"https://github.com/Kinto/kinto-attachment/","version":"7.0.0","base_url":"https://firefox-settings-attachments.cdn.mozilla.net/"}}}
+$$$$$$ Response Body For Transaction With Id 655 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/chains/remote-settings.content-signature.mozilla.org-2024-12-27-18-19-47.chain
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 655 ****** (Location Flag : tFlagInsertEnd, Location ID : 655)
+	web_url("v1",
+		"URL=https://firefox.settings.services.mozilla.com/v1/",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=application/json",
+		"Referer=",
+		"Snapshot=t11.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 655 Ended $$$$$$
+
+****** Request Header For Transaction With Id 657 ******
+GET /v1/buckets/main/collections/ms-language-packs/records/cfr-v1-ru HTTP/1.1
+Host: firefox.settings.services.mozilla.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: application/json
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Content-Type: application/json
+Connection: keep-alive
+Priority: u=4
+
+
+$$$$$$ Request Header For Transaction With Id 657 Ended $$$$$$
+
+****** Response Header For Transaction With Id 657 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Length: 327
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, Backoff, Retry-After, Content-Length, ETag, Pragma, Expires, Last-Modified, Alert, Cache-Control
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'none'; frame-ancestors 'none'; base-uri 'none';
+Strict-Transport-Security: max-age=31536000
+Via: 1.1 google
+Date: Sun, 01 Dec 2024 06:42:56 GMT
+Age: 3048
+Last-Modified: Thu, 31 Oct 2024 19:28:22 GMT
+ETag: "1730402902446"
+Content-Type: application/json
+Cache-Control: public,max-age=3600
+Alt-Svc: clear
+
+
+$$$$$$ Response Header For Transaction With Id 657 Ended $$$$$$
+
+****** Response Body For Transaction With Id 657 ******
+{"permissions":{},"data":{"attachment":{"hash":"ce6645f72d54364886276b22299268cc08402ed995e3c5aae84fd92280103dca","size":23229,"filename":"asrouter.ftl","location":"main-workspace/ms-language-packs/54a78da4-af25-4777-80f8-587174462057.ftl","mimetype":"application/octet-stream"},"id":"cfr-v1-ru","last_modified":1730402902446}}
+$$$$$$ Response Body For Transaction With Id 657 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/v1/
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 657 ****** (Location Flag : tFlagInsertEnd, Location ID : 657)
+	web_custom_request("cfr-v1-ru",
+		"URL=https://firefox.settings.services.mozilla.com/v1/buckets/main/collections/ms-language-packs/records/cfr-v1-ru",
+		"Method=GET",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=application/json",
+		"Referer=",
+		"Snapshot=t12.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 657 Ended $$$$$$
+
+****** Request Header For Transaction With Id 659 ******
+GET /v1/buckets/main/collections/ms-language-packs/records/cfr-v1-ru HTTP/1.1
+Host: firefox.settings.services.mozilla.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: application/json
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Content-Type: application/json
+Connection: keep-alive
+Priority: u=4
+
+
+$$$$$$ Request Header For Transaction With Id 659 Ended $$$$$$
+
+****** Response Header For Transaction With Id 659 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Length: 327
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: Content-Type, Backoff, Retry-After, Content-Length, ETag, Pragma, Expires, Last-Modified, Alert, Cache-Control
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'none'; frame-ancestors 'none'; base-uri 'none';
+Strict-Transport-Security: max-age=31536000
+Via: 1.1 google
+Date: Sun, 01 Dec 2024 06:42:56 GMT
+Age: 3048
+Last-Modified: Thu, 31 Oct 2024 19:28:22 GMT
+ETag: "1730402902446"
+Content-Type: application/json
+Cache-Control: public,max-age=3600
+Alt-Svc: clear
+
+
+$$$$$$ Response Header For Transaction With Id 659 Ended $$$$$$
+
+****** Response Body For Transaction With Id 659 ******
+{"permissions":{},"data":{"attachment":{"hash":"ce6645f72d54364886276b22299268cc08402ed995e3c5aae84fd92280103dca","size":23229,"filename":"asrouter.ftl","location":"main-workspace/ms-language-packs/54a78da4-af25-4777-80f8-587174462057.ftl","mimetype":"application/octet-stream"},"id":"cfr-v1-ru","last_modified":1730402902446}}
+$$$$$$ Response Body For Transaction With Id 659 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/v1/buckets/main/collections/ms-language-packs/records/cfr-v1-ru
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 659 ****** (Location Flag : tFlagInsertEnd, Location ID : 659)
+	web_custom_request("cfr-v1-ru_2",
+		"URL=https://firefox.settings.services.mozilla.com/v1/buckets/main/collections/ms-language-packs/records/cfr-v1-ru",
+		"Method=GET",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=application/json",
+		"Referer=",
+		"Snapshot=t13.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 659 Ended $$$$$$
+
+****** Request Header For Transaction With Id 661 ******
+GET /cgi-bin/nav.pl?in=home HTTP/1.1
+Host: localhost:1080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+DNT: 1
+Sec-GPC: 1
+Connection: keep-alive
+Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=true
+Cookie: MSO=SID&1733038418
+Upgrade-Insecure-Requests: 1
+Priority: u=4
+
+
+$$$$$$ Request Header For Transaction With Id 661 Ended $$$$$$
+
+****** Response Header For Transaction With Id 661 ******
+HTTP/1.1 200 OK
+Date: Sun, 01 Dec 2024 07:33:43 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Sat, 30 Nov 2024 07:33:43 GMT
+Keep-Alive: timeout=5, max=97
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+
+
+$$$$$$ Response Header For Transaction With Id 661 Ended $$$$$$
+
+****** Response Body For Transaction With Id 661 ******
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<title>Web Tours Navigation Bar</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#E0E7F1">
+<style>
+blockquote {font-family: tahoma; font-size : 10pt}
+H1 {font-family: tahoma; font-size : 22pt; color: #993333}
+H3 {font-family: tahoma; font-size : 10pt; color: black}
+small {font-family: tahoma; font-size : 8pt}
+</style>
+<form method="post" action="/cgi-bin/login.pl" target="body">
+<input type="hidden" name="userSession" value="140383.832968813HccAQQDptAiDDDDDtDDcfpQzAtf"/>
+<table border="0"><tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Username</small></td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td><small>&nbsp;Password</small></td>
+<tr><td>&nbsp;</td>
+<td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>
+<tr><td>&nbsp;</td>
+<td>&nbsp;</td></tr>
+<tr><td>&nbsp;</td>
+<td><input type="image" name="login" value="Login" alt="Login" border="1" 
+src="/WebTours/images/mer_login.gif"/></td></tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table><input type="hidden" name="JSFormSubmit" value="off"/>
+</form>
+
+</body>
+</html>
+
+$$$$$$ Response Body For Transaction With Id 661 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/v1/buckets/main/collections/ms-language-packs/records/cfr-v1-ru
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 661 ****** (Location Flag : tFlagInsertEnd, Location ID : 661)
+	web_url("nav.pl",
+		"URL=http://localhost:1080/cgi-bin/nav.pl?in=home",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=http://localhost:1080/cgi-bin/welcome.pl?signOff=true",
+		"Snapshot=t14.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 661 Ended $$$$$$
+
+****** Request Header For Transaction With Id 665 ******
+GET /canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 665 Ended $$$$$$
+
+****** Response Header For Transaction With Id 665 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Length: 90
+Via: 1.1 google
+Date: Sat, 30 Nov 2024 08:22:46 GMT
+Age: 83458
+Content-Type: text/html
+Cache-Control: public,must-revalidate,max-age=0,s-maxage=3600
+
+
+$$$$$$ Response Header For Transaction With Id 665 Ended $$$$$$
+
+****** Response Body For Transaction With Id 665 ******
+<meta http-equiv="refresh" content="0;url=https://support.mozilla.org/kb/captive-portal"/>
+$$$$$$ Response Body For Transaction With Id 665 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/cgi-bin/nav.pl?in=home
+Form: name= action=/cgi-bin/login.pl
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 665 ****** (Location Flag : tFlagInsertEnd, Location ID : 665)
+	web_url("canonical.html_2",
+		"URL=http://detectportal.firefox.com/canonical.html",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t15.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 665 Ended $$$$$$
+
+****** Request Header For Transaction With Id 667 ******
+GET /chains/remote-settings.content-signature.mozilla.org-2024-12-27-18-19-47.chain HTTP/1.1
+Host: content-signature-2.cdn.mozilla.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Connection: keep-alive
+If-Modified-Since: Thu, 07 Nov 2024 18:19:48 GMT
+If-None-Match: "2151ab70aa0d3fc872489ec3642e7138"
+
+
+$$$$$$ Request Header For Transaction With Id 667 Ended $$$$$$
+
+****** Response Header For Transaction With Id 667 ******
+HTTP/1.1 304 Not Modified
+Date: Sun, 01 Dec 2024 06:59:31 GMT
+Age: 2053
+ETag: "2151ab70aa0d3fc872489ec3642e7138"
+Cache-Control: public,max-age=3600
+Alt-Svc: clear
+
+
+$$$$$$ Response Header For Transaction With Id 667 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/canonical.html
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 667 ****** (Location Flag : tFlagInsertEnd, Location ID : 667)
+	web_url("remote-settings.content-signature.mozilla.org-2024-12-27-18-19-47.chain_2",
+		"URL=https://content-signature-2.cdn.mozilla.net/chains/remote-settings.content-signature.mozilla.org-2024-12-27-18-19-47.chain",
+		"TargetFrame=",
+		"Resource=1",
+		"Referer=",
+		"Snapshot=t16.inf",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 667 Ended $$$$$$
+
+****** Request Header For Transaction With Id 669 ******
+GET /v1/buckets/main/collections/ms-language-packs/records/cfr-v1-ru HTTP/1.1
+Host: firefox.settings.services.mozilla.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: application/json
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Content-Type: application/json
+Connection: keep-alive
+If-Modified-Since: Thu, 31 Oct 2024 19:28:22 GMT
+If-None-Match: "1730402902446"
+Priority: u=4
+
+
+$$$$$$ Request Header For Transaction With Id 669 Ended $$$$$$
+
+****** Response Header For Transaction With Id 669 ******
+HTTP/1.1 304 Not Modified
+Date: Sun, 01 Dec 2024 06:42:56 GMT
+Age: 3048
+ETag: "1730402902446"
+Cache-Control: public,max-age=3600
+Alt-Svc: clear
+
+
+$$$$$$ Response Header For Transaction With Id 669 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/chains/remote-settings.content-signature.mozilla.org-2024-12-27-18-19-47.chain
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 669 ****** (Location Flag : tFlagInsertEnd, Location ID : 669)
+	web_custom_request("cfr-v1-ru_3",
+		"URL=https://firefox.settings.services.mozilla.com/v1/buckets/main/collections/ms-language-packs/records/cfr-v1-ru",
+		"Method=GET",
+		"TargetFrame=",
+		"Resource=0",
+		"Referer=",
+		"Snapshot=t17.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 669 Ended $$$$$$
+
+****** Request Header For Transaction With Id 671 ******
+POST /dns-query HTTP/1.1
+Host: mozilla.cloudflare-dns.com
+Accept: application/dns-message
+Accept-Encoding: 
+Content-Type: application/dns-message
+Content-Length: 128
+Cache-Control: no-store, no-cache
+Connection: keep-alive
+Pragma: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 671 Ended $$$$$$
+
+****** Request Body For Transaction With Id 671 ******
+\x00\x00\x01\x00\x00\x01\x00\x00\x00\x00\x00\x01\x07example\x03com\x00\x00\x02\x00\x01\x00\x00)\x10\x00\x00\x00\x00\x00\x00X\x00\x08\x00\x04\x00\x01\x00\x00\x00\x0C\x00L\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+$$$$$$ Request Body For Transaction With Id 671 Ended $$$$$$
+
+****** Response Header For Transaction With Id 671 ******
+HTTP/1.1 200 OK
+Server: cloudflare
+Date: Sun, 01 Dec 2024 07:33:44 GMT
+Content-Type: application/dns-message
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Content-Length: 468
+CF-RAY: 8eb1640bdae2e48f-DME
+alt-svc: h3=":443"; ma=86400
+
+
+$$$$$$ Response Header For Transaction With Id 671 Ended $$$$$$
+
+****** Response Body For Transaction With Id 671 ******
+\x00\x00\x81\x80\x00\x01\x00\x02\x00\x00\x00\x01\x07example\x03com\x00\x00\x02\x00\x01\xC0\x0C\x00\x02\x00\x01\x00\x01\x12\x80\x00\x14\x01a\x0Ciana-servers\x03net\x00\xC0\x0C\x00\x02\x00\x01\x00\x01\x12\x80\x00\x04\x01b\xC0+\x00\x00)\x04\xD0\x00\x00\x00\x00\x01|\x00\x0C\x01x\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+$$$$$$ Response Body For Transaction With Id 671 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/v1/buckets/main/collections/ms-language-packs/records/cfr-v1-ru
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 671 ****** (Location Flag : tFlagInsertEnd, Location ID : 671)
+	web_custom_request("dns-query",
+		"URL=https://mozilla.cloudflare-dns.com/dns-query",
+		"Method=POST",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=application/dns-message",
+		"Referer=",
+		"Snapshot=t18.inf",
+		"Mode=HTML",
+		"EncType=application/dns-message",
+		"BodyBinary=\\x00\\x00\\x01\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x01\\x07example\\x03com\\x00\\x00\\x02\\x00\\x01\\x00\\x00)\\x10\\x00\\x00\\x00\\x00\\x00\\x00X\\x00\\x08\\x00\\x04\\x00\\x01\\x00\\x00\\x00\\x0C\\x00L\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 671 Ended $$$$$$
+
+****** Request Header For Transaction With Id 675 ******
+POST / HTTP/1.1
+Host: r10.o.lencr.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 85
+Connection: keep-alive
+Priority: u=2
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 675 Ended $$$$$$
+
+****** Request Body For Transaction With Id 675 ******
+0S0Q0O0M0K0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14t\x02F\xF2Z\\B\x12 \xB5\xBD]v	\xA6\xBA\\\xA3G\xDF\x04\x14$\xF2.N\x0F\xBD\xCA\xF7>)U\xCAr\x8Di\x87VD\xE9z\x02\x12\x03\xB7\x02\x9C\x18D.\xC5$I\xE9d\xED\xED`!\x8D\xB3
+$$$$$$ Request Body For Transaction With Id 675 Ended $$$$$$
+
+****** Response Header For Transaction With Id 675 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: application/ocsp-response
+Content-Length: 5
+Cache-Control: no-cache
+Expires: Sun, 01 Dec 2024 07:33:45 GMT
+Date: Sun, 01 Dec 2024 07:33:45 GMT
+Connection: keep-alive
+
+
+$$$$$$ Response Header For Transaction With Id 675 Ended $$$$$$
+
+****** Response Body For Transaction With Id 675 ******
+0\x03
+\x01\x06
+$$$$$$ Response Body For Transaction With Id 675 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/dns-query
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 675 ****** (Location Flag : tFlagInsertEnd, Location ID : 675)
+	web_custom_request("r10.o.lencr.org_2",
+		"URL=http://r10.o.lencr.org/",
+		"Method=POST",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=application/ocsp-response",
+		"Referer=",
+		"Snapshot=t19.inf",
+		"Mode=HTML",
+		"EncType=application/ocsp-request",
+		"BodyBinary=0S0Q0O0M0K0\t\\x06\\x05+\\x0E\\x03\\x02\\x1A\\x05\\x00\\x04\\x14t\\x02F\\xF2Z\\\\B\\x12 \\xB5\\xBD]v\t\\xA6\\xBA\\\\\\xA3G\\xDF\\x04\\x14$\\xF2.N\\x0F\\xBD\\xCA\\xF7>)U\\xCAr\\x8Di\\x87VD\\xE9z\\x02\\x12\\x03\\xB7\\x02\\x9C\\x18D.\\xC5$I\\xE9d\\xED\\xED`!\\x8D\\xB3",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 675 Ended $$$$$$
+
+****** Request Header For Transaction With Id 684 ******
+GET /WebTours/home.html HTTP/1.1
+Host: localhost:1080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+DNT: 1
+Sec-GPC: 1
+Connection: keep-alive
+Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=true
+Cookie: MSO=SID&1733038418
+Upgrade-Insecure-Requests: 1
+Priority: u=4
+
+
+$$$$$$ Request Header For Transaction With Id 684 Ended $$$$$$
+
+****** Response Header For Transaction With Id 684 ******
+HTTP/1.1 200 OK
+Date: Sun, 01 Dec 2024 07:33:44 GMT
+Server: Apache/2.2.21 (Win32)
+Last-Modified: Tue, 26 Nov 2024 14:20:50 GMT
+ETag: "60000000958f1-551-627d18e600eaf"
+Accept-Ranges: bytes
+Content-Length: 1361
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html
+
+
+$$$$$$ Response Header For Transaction With Id 684 Ended $$$$$$
+
+****** Response Body For Transaction With Id 684 ******
+<HTML>
+<HEAD>
+	<title>Web Tours</title>
+</HEAD>
+<style>
+	blockquote {font-family: tahoma; font-size : 10pt}
+	H1 {font-family: tahoma; font-size : 22pt; color: #003366}
+	small {font-family: tahoma; font-size : 8pt}
+	H3{font-family: tahoma; font-size : 10pt; color: black}
+	A {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATION: none}
+	A:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DECORATION: underline}
+	TD {font-family: tahoma; font-size : 10pt; color: black}
+</style>
+<body bgcolor="#e0e7f1">
+<BR/>
+<BR/>
+<BR/>
+<br/>
+<table border="0">
+<tr><td></td></tr>
+<TR><TD></TD></TR>
+<TR><TD>
+<blockquote>
+<H1><b>Web Tours</b></H1>
+Welcome to the Web Tours site.
+<br/>
+To make reservations,please enter your account information to the left.
+<br/>
+If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getInfo=true" ><B>sign up now</B></A> to get access to all our resources.
+<br/>
+To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>administration</b></A> link.
+<br/><br/><br/><br/><br/><br/>
+<br/><small>
+This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imatix.com" target="new"><B><small>iMatix Corporation</small></B></A> 
+</small>
+</blockquote></TD>
+<TD></TD></TR>
+</table>
+</body>
+</HTML>
+
+$$$$$$ Response Body For Transaction With Id 684 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 684 ****** (Location Flag : tFlagInsertEnd, Location ID : 684)
+	web_url("home.html",
+		"URL=http://localhost:1080/WebTours/home.html",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=http://localhost:1080/cgi-bin/welcome.pl?signOff=true",
+		"Snapshot=t20.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 684 Ended $$$$$$
+
+****** Request Header For Transaction With Id 702 ******
+GET /WebTours/images/mer_login.gif HTTP/1.1
+Host: localhost:1080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+DNT: 1
+Sec-GPC: 1
+Connection: keep-alive
+Referer: http://localhost:1080/cgi-bin/nav.pl?in=home
+Cookie: MSO=SID&1733038418
+Priority: u=4, i
+
+
+$$$$$$ Request Header For Transaction With Id 702 Ended $$$$$$
+
+****** Response Header For Transaction With Id 702 ******
+HTTP/1.1 200 OK
+Date: Sun, 01 Dec 2024 07:33:44 GMT
+Server: Apache/2.2.21 (Win32)
+Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT
+ETag: "600000009591e-2a7-627d18e6a4eeb"
+Accept-Ranges: bytes
+Content-Length: 679
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: image/gif
+
+
+$$$$$$ Response Header For Transaction With Id 702 Ended $$$$$$
+
+****** Response Body For Transaction With Id 702 ******
+GIF89a\\\x00\x13\x00\xC4\x1F\x00\xD3\xDA\xE4\xBE\xC4\xCE\xCC\xD2\xDB\xC3\xCA\xD4\x81\x86\x8BORU\xF7\xF7\xF7\xDB\xDC\xDE\xC8\xCA\xCD\xDE\xE4\xEE$&'\xDA\xE1\xEB\xC0\xC7\xD1\xDC\xE3\xED\xD8\xDF\xE9\xDE\xE6\xF0\xC9\xD0\xD9\xCE\xD5\xDF\xE0\xE7\xF1\xC6\xCD\xD7\xD6\xDD\xE6\xDB\xE2\xED\xD1\xD8\xE2\xB1\xB7\xBF\xA0\xA3\xA7;=@fin\xA5\xAB\xB2\xBC\xC3\xCD\xE1\xE8\xF2\x93\x95\x99\xFF\xFF\xFF!\xF9\x04\x01\x00\x00\x1F\x00,\x00\x00\x00\x00\\\x00\x13\x00\x00\x05\xFF\xE0'\x1A\x01\xE6\x9Dh\xAA\xAEl\xEB\xBEp|b\x9C!\xDE\x87\xAC\xEF|\x0F\x1F\xB8\x13\xC2v+\x1A\x8F\xC8\xA4r\xC9l\x16\x82\x13\xD0 \xFDp8\x01\x06c0\x98@\x04\x91\x08\x00@q,\x1A\x89\x84\xA4\xC3n\xBB\xDF\xF0\xB8\xDC-I7\x16\x0E\xCA8,\x80L\xB8Z\x01W\x1F	'\x06\x08\x1E\x08VWY[]\x10\x10a\x16dfh\x0Fko\x04\x10ss\x18\x17\x9Cl\x12\x0F	wy\x00\x16a\x90\x7F\x03\x81W\x1C\x1FQ\x1C&$\xAE\x8D\\^\x91b\x94\x0B\x15	\x97p
+\x9F\xA0p\x04\x1E\xC3\xA2	\x15xz\x00\xA9~\x80\x0C\x82\x8CT&\x1E\x1F\xD2XY]^`\x11\x93e\xBC\xBE\x98n\xC1p\x10\xC2m\x1C\x10\x14\x1C\x1D\xEAm\x90q\xC8\xCA\xA6\xA8\x11}\x13\x7F\xD1\xD8\x01\x1F)\xD7\xB5\xB4\xDC\xFA"i\x97\xA5qm\xCA\xB9\xD1\x90\xA1@\x86v\x1D\x18:,\xD0\xA1\x00\x81\x0E
+\x1Cf\xD0\x00\x07Y)=\xF6\xF0A\xE3\xE7\x0F\x05@F\xDA\x1E\xFF	\x10`\xE1[%q\xC0\xD0u\xC0\x90\x81B\x07\x0F\x19nR\xEC@\x80\xA2E\x8C\x17\x01(\x80\xD8\xC6\xE3\xB2S\x16V>\xE3\x12\x80\xE4?~\x02U\x16\x04\xD7\xEB\xD7\x1B\x85l4\\d\xA3\x00\x82V6\x17|^T\x885\xD4(z \xF9,m\xC5\xA8\xE4\x89\x93X\xA2r\x9B\xFA\xD2*9\x99_\xB9N\xC8\xBBA,Fae;\x18\xAD\xA7v\x15[,n\xADAu4\xD7\x9BA\x98We\xD2\xB4\xE9\x81\xE2\x05\x05\x1B\xC2\xFA%+S\xF0\xA8\x8F\xA7
+\x8F\xAC\x95\x18\xAE-\x95`\\\x86\xB3\x9BP\x81\xEB\x8C<\x0B\x14\xD0\x00\xB1\xAF\x86\xCA\x15\xC7\x02\xEE<\xEF(*\xA5\x86\xA3\x91\x9E\xE1\x81\x16J\xC6\x04\x1DS\x85<\xECM_6\x0486\xF7\x9C\xCC\xB7hVMkQ\xE3\x90hQ\\\xE4\xA9UWE8\xBD\x83\x85\x89\x19\x02\x94\xEF]\xEF\xF7Z\xE1\x83\xA2\x0C\xA9\xC2H`\xBE\xE4c\x96\xB3.\xCF\x86C\xE7cg\x1D\xD5\xCC=~\xE8\x03\x1F!\x86|\x90C$"D8\xE1\xE0\x83\x10Fx\x03\x14U\x88\xB0\xA0\x0F\x18f\xA8\xE1
+@<\x81@5\x1B\x86(\xA2\x0B\x18\x0CqC\x08\x00;
+$$$$$$ Response Body For Transaction With Id 702 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/WebTours/home.html
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 702 ****** (Location Flag : tFlagInsertEnd, Location ID : 702)
+	web_url("mer_login.gif",
+		"URL=http://localhost:1080/WebTours/images/mer_login.gif",
+		"TargetFrame=",
+		"Resource=1",
+		"RecContentType=image/gif",
+		"Referer=http://localhost:1080/cgi-bin/nav.pl?in=home",
+		"Snapshot=t21.inf",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 702 Ended $$$$$$
+
+****** Request Header For Transaction With Id 704 ******
+GET /success.txt?ipv4 HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 704 Ended $$$$$$
+
+****** Response Header For Transaction With Id 704 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Length: 8
+Via: 1.1 google
+Date: Sat, 30 Nov 2024 17:07:21 GMT
+Age: 51984
+Content-Type: text/plain
+Cache-Control: public,must-revalidate,max-age=0,s-maxage=3600
+
+
+$$$$$$ Response Header For Transaction With Id 704 Ended $$$$$$
+
+****** Response Body For Transaction With Id 704 ******
+success
+
+$$$$$$ Response Body For Transaction With Id 704 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/WebTours/images/mer_login.gif
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 704 ****** (Location Flag : tFlagInsertEnd, Location ID : 704)
+	web_url("success.txt_3",
+		"URL=http://detectportal.firefox.com/success.txt?ipv4",
+		"TargetFrame=",
+		"Resource=1",
+		"RecContentType=text/plain",
+		"Referer=",
+		"Snapshot=t22.inf",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 704 Ended $$$$$$
+
+****** Request Header For Transaction With Id 706 ******
+GET /v1/tiles HTTP/1.1
+Host: contile.services.mozilla.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Connection: keep-alive
+Priority: u=4
+
+
+$$$$$$ Request Header For Transaction With Id 706 Ended $$$$$$
+
+****** Response Header For Transaction With Id 706 ******
+HTTP/1.1 204 No Content
+date: Sun, 01 Dec 2024 07:33:45 GMT
+via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+
+$$$$$$ Response Header For Transaction With Id 706 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/success.txt?ipv4
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 706 ****** (Location Flag : tFlagInsertEnd, Location ID : 706)
+	web_url("tiles",
+		"URL=https://contile.services.mozilla.com/v1/tiles",
+		"TargetFrame=",
+		"Resource=0",
+		"Referer=",
+		"Snapshot=t23.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 706 Ended $$$$$$
+
+****** Request Header For Transaction With Id 720 ******
+POST /dns-query HTTP/1.1
+Host: mozilla.cloudflare-dns.com
+Accept: application/dns-message
+Accept-Encoding: 
+Content-Type: application/dns-message
+Content-Length: 128
+Cache-Control: no-store, no-cache
+Connection: keep-alive
+Pragma: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 720 Ended $$$$$$
+
+****** Request Body For Transaction With Id 720 ******
+\x00\x00\x01\x00\x00\x01\x00\x00\x00\x00\x00\x01\x07example\x03com\x00\x00\x02\x00\x01\x00\x00)\x10\x00\x00\x00\x00\x00\x00X\x00\x08\x00\x04\x00\x01\x00\x00\x00\x0C\x00L\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+$$$$$$ Request Body For Transaction With Id 720 Ended $$$$$$
+
+****** Response Header For Transaction With Id 720 ******
+HTTP/1.1 200 OK
+Server: cloudflare
+Date: Sun, 01 Dec 2024 07:33:45 GMT
+Content-Type: application/dns-message
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Content-Length: 468
+CF-RAY: 8eb164126e52e94b-DME
+alt-svc: h3=":443"; ma=86400
+
+
+$$$$$$ Response Header For Transaction With Id 720 Ended $$$$$$
+
+****** Response Body For Transaction With Id 720 ******
+\x00\x00\x81\x80\x00\x01\x00\x02\x00\x00\x00\x01\x07example\x03com\x00\x00\x02\x00\x01\xC0\x0C\x00\x02\x00\x01\x00\x01\x11\xB8\x00\x14\x01a\x0Ciana-servers\x03net\x00\xC0\x0C\x00\x02\x00\x01\x00\x01\x11\xB8\x00\x04\x01b\xC0+\x00\x00)\x04\xD0\x00\x00\x00\x00\x01|\x00\x0C\x01x\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+$$$$$$ Response Body For Transaction With Id 720 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/v1/tiles
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 720 ****** (Location Flag : tFlagInsertEnd, Location ID : 720)
+	web_custom_request("dns-query_2",
+		"URL=https://mozilla.cloudflare-dns.com/dns-query",
+		"Method=POST",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=application/dns-message",
+		"Referer=",
+		"Snapshot=t24.inf",
+		"Mode=HTML",
+		"EncType=application/dns-message",
+		"BodyBinary=\\x00\\x00\\x01\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x01\\x07example\\x03com\\x00\\x00\\x02\\x00\\x01\\x00\\x00)\\x10\\x00\\x00\\x00\\x00\\x00\\x00X\\x00\\x08\\x00\\x04\\x00\\x01\\x00\\x00\\x00\\x0C\\x00L\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 720 Ended $$$$$$
+
+****** Request Header For Transaction With Id 722 ******
+POST /dns-query HTTP/1.1
+Host: mozilla.cloudflare-dns.com
+Accept: application/dns-message
+Accept-Encoding: 
+Content-Type: application/dns-message
+Content-Length: 128
+Cache-Control: no-store, no-cache
+Connection: keep-alive
+Pragma: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 722 Ended $$$$$$
+
+****** Request Body For Transaction With Id 722 ******
+\x00\x00\x01\x00\x00\x01\x00\x00\x00\x00\x00\x01\x04ocsp\x08digicert\x03com\x00\x00\x1C\x00\x01\x00\x00)\x10\x00\x00\x00\x00\x00\x00R\x00\x08\x00\x04\x00\x01\x00\x00\x00\x0C\x00F\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+$$$$$$ Request Body For Transaction With Id 722 Ended $$$$$$
+
+****** Response Header For Transaction With Id 722 ******
+HTTP/1.1 200 OK
+Server: cloudflare
+Date: Sun, 01 Dec 2024 07:33:45 GMT
+Content-Type: application/dns-message
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Content-Length: 468
+CF-RAY: 8eb164126c89e950-DME
+alt-svc: h3=":443"; ma=86400
+
+
+$$$$$$ Response Header For Transaction With Id 722 Ended $$$$$$
+
+****** Response Body For Transaction With Id 722 ******
+\x00\x00\x81\x80\x00\x01\x00\x04\x00\x00\x00\x01\x04ocsp\x08digicert\x03com\x00\x00\x1C\x00\x01\xC0\x0C\x00\x05\x00\x01\x00\x00EI\x00\x0C\x04ocsp\x04edge\xC0\x11\xC0/\x00\x05\x00\x01\x00\x00y\x00\x1C\x06fp2e7a\x03wpc\x042be4\x06phicdn\x03net\x00\xC0G\x00\x05\x00\x01\x00\x00y\x00\x06fp2e7a\x03wpc\xC0W\xC0o\x00\x1C\x00\x01\x00\x00y\x00\x10&\x06(\x00\x023\xFA\x02\x06{\x9F\xF6a\x07\x083\x00\x00)\x04\xD0\x00\x00\x00\x00\x011\x00\x0C\x01-\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+$$$$$$ Response Body For Transaction With Id 722 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/dns-query
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 722 ****** (Location Flag : tFlagInsertEnd, Location ID : 722)
+	web_custom_request("dns-query_3",
+		"URL=https://mozilla.cloudflare-dns.com/dns-query",
+		"Method=POST",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=application/dns-message",
+		"Referer=",
+		"Snapshot=t25.inf",
+		"Mode=HTML",
+		"EncType=application/dns-message",
+		"BodyBinary=\\x00\\x00\\x01\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x01\\x04ocsp\\x08digicert\\x03com\\x00\\x00\\x1C\\x00\\x01\\x00\\x00)\\x10\\x00\\x00\\x00\\x00\\x00\\x00R\\x00\\x08\\x00\\x04\\x00\\x01\\x00\\x00\\x00\\x0C\\x00F\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 722 Ended $$$$$$
+
+****** Request Header For Transaction With Id 724 ******
+POST /dns-query HTTP/1.1
+Host: mozilla.cloudflare-dns.com
+Accept: application/dns-message
+Accept-Encoding: 
+Content-Type: application/dns-message
+Content-Length: 128
+Cache-Control: no-store, no-cache
+Connection: keep-alive
+Pragma: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 724 Ended $$$$$$
+
+****** Request Body For Transaction With Id 724 ******
+\x00\x00\x01\x00\x00\x01\x00\x00\x00\x00\x00\x01\x04ocsp\x08digicert\x03com\x00\x00\x01\x00\x01\x00\x00)\x10\x00\x00\x00\x00\x00\x00R\x00\x08\x00\x04\x00\x01\x00\x00\x00\x0C\x00F\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+$$$$$$ Request Body For Transaction With Id 724 Ended $$$$$$
+
+****** Response Header For Transaction With Id 724 ******
+HTTP/1.1 200 OK
+Server: cloudflare
+Date: Sun, 01 Dec 2024 07:33:46 GMT
+Content-Type: application/dns-message
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Content-Length: 468
+CF-RAY: 8eb164127bdcf141-DME
+alt-svc: h3=":443"; ma=86400
+
+
+$$$$$$ Response Header For Transaction With Id 724 Ended $$$$$$
+
+****** Response Body For Transaction With Id 724 ******
+\x00\x00\x81\x80\x00\x01\x00\x04\x00\x00\x00\x01\x04ocsp\x08digicert\x03com\x00\x00\x01\x00\x01\xC0\x0C\x00\x05\x00\x01\x00\x00.\xCD\x00\x0C\x04ocsp\x04edge\xC0\x11\xC0/\x00\x05\x00\x01\x00\x009\x00\x1C\x06fp2e7a\x03wpc\x042be4\x06phicdn\x03net\x00\xC0G\x00\x05\x00\x01\x00\x009\x00\x06fp2e7a\x03wpc\xC0W\xC0o\x00\x01\x00\x01\x00\x009\x00\x04\xC0\xE5\xDD_\x00\x00)\x04\xD0\x00\x00\x00\x00\x01=\x00\x0C\x019\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+$$$$$$ Response Body For Transaction With Id 724 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/dns-query
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 724 ****** (Location Flag : tFlagInsertEnd, Location ID : 724)
+	web_custom_request("dns-query_4",
+		"URL=https://mozilla.cloudflare-dns.com/dns-query",
+		"Method=POST",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=application/dns-message",
+		"Referer=",
+		"Snapshot=t26.inf",
+		"Mode=HTML",
+		"EncType=application/dns-message",
+		"BodyBinary=\\x00\\x00\\x01\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x01\\x04ocsp\\x08digicert\\x03com\\x00\\x00\\x01\\x00\\x01\\x00\\x00)\\x10\\x00\\x00\\x00\\x00\\x00\\x00R\\x00\\x08\\x00\\x04\\x00\\x01\\x00\\x00\\x00\\x0C\\x00F\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 724 Ended $$$$$$
+
+****** Request Header For Transaction With Id 726 ******
+GET / HTTP/1.1
+Host: push.services.mozilla.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Sec-WebSocket-Version: 13
+Origin: wss://push.services.mozilla.com/
+Sec-WebSocket-Protocol: push-notification
+Sec-WebSocket-Extensions: permessage-deflate
+Sec-WebSocket-Key: udJXr5axIbZ3pKtZ2IiuRw==
+Connection: keep-alive, Upgrade
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: websocket
+Sec-Fetch-Site: cross-site
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+
+$$$$$$ Request Header For Transaction With Id 726 Ended $$$$$$
+
+****** Response Header For Transaction With Id 726 ******
+HTTP/1.1 101 Switching Protocols
+sec-websocket-accept: VYKjmh2IxLFR3uqVrMQPxJMV9kA=
+date: Sun, 01 Dec 2024 07:33:45 GMT
+Via: 1.1 google
+Upgrade: websocket
+Connection: Upgrade
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+
+$$$$$$ Response Header For Transaction With Id 726 Ended $$$$$$
+
+****** Response Body For Transaction With Id 726 ******
+
+$$$$$$ Response Body For Transaction With Id 726 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/dns-query
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 726 ****** (Location Flag : tFlagInsertEnd, Location ID : 726)
+	web_url("push.services.mozilla.com",
+		"URL=https://push.services.mozilla.com/",
+		"TargetFrame=",
+		"Resource=0",
+		"Referer=",
+		"Snapshot=t27.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 726 Ended $$$$$$
+
+****** Request Header For Transaction With Id 747 ******
+GET /canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 747 Ended $$$$$$
+
+****** Response Header For Transaction With Id 747 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Length: 90
+Via: 1.1 google
+Date: Sat, 30 Nov 2024 08:22:46 GMT
+Age: 83461
+Content-Type: text/html
+Cache-Control: public,must-revalidate,max-age=0,s-maxage=3600
+
+
+$$$$$$ Response Header For Transaction With Id 747 Ended $$$$$$
+
+****** Response Body For Transaction With Id 747 ******
+<meta http-equiv="refresh" content="0;url=https://support.mozilla.org/kb/captive-portal"/>
+$$$$$$ Response Body For Transaction With Id 747 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 747 ****** (Location Flag : tFlagInsertEnd, Location ID : 747)
+	web_url("canonical.html_3",
+		"URL=http://detectportal.firefox.com/canonical.html",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t28.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 747 Ended $$$$$$
+
+****** Request Header For Transaction With Id 749 ******
+GET /update/6/Firefox/133.0/20241121140525/WINNT_x86_64-msvc-x64/ru/release/Windows_NT%252010.0.0.0.22631.4541%2520(x64)/ISET%3ASSE4_2%2CMEM%3A16221/default/default/update.xml?force=1 HTTP/1.1
+Host: aus5.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 749 Ended $$$$$$
+
+****** Response Header For Transaction With Id 749 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Length: 42
+Rule-ID: 145
+Rule-Data-Version: 623
+Strict-Transport-Security: max-age=31536000;
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'none'; frame-ancestors 'none'
+X-Proxy-Cache-Status: EXPIRED
+Via: 1.1 google
+Date: Sun, 01 Dec 2024 07:33:05 GMT
+Content-Type: text/xml; charset=utf-8
+Age: 42
+Cache-Control: public,max-age=90
+Alt-Svc: clear
+
+
+$$$$$$ Response Header For Transaction With Id 749 Ended $$$$$$
+
+****** Response Body For Transaction With Id 749 ******
+<?xml version="1.0"?>
+<updates>
+</updates>
+$$$$$$ Response Body For Transaction With Id 749 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/canonical.html
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 749 ****** (Location Flag : tFlagInsertEnd, Location ID : 749)
+	web_url("update.xml",
+		"URL=https://aus5.mozilla.org/update/6/Firefox/133.0/20241121140525/WINNT_x86_64-msvc-x64/ru/release/Windows_NT%252010.0.0.0.22631.4541%2520(x64)/ISET%3ASSE4_2%2CMEM%3A16221/default/default/update.xml?force=1",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=text/xml",
+		"Referer=",
+		"Snapshot=t29.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 749 Ended $$$$$$
+
+****** Request Header For Transaction With Id 752 ******
+POST / HTTP/1.1
+Host: r11.o.lencr.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 85
+Connection: keep-alive
+Priority: u=2
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 752 Ended $$$$$$
+
+****** Request Body For Transaction With Id 752 ******
+0S0Q0O0M0K0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14\x1AR\xB9\xB4Y\xE4\xC33\x98!~\x86mK\xBD\x8A;\xD6g\xCE\x04\x14\x08\xB9\x11;\xA5\xD0\x85\x18\xB4\xEA\x0F\xA0\xAD\x9F\x86\x1E\x8E\xFC8'\x02\x12\x04&\xD3\x07\xFE\xB5\xB1X\xC2Z\xEF\x81|K\xC6!v\xB6
+$$$$$$ Request Body For Transaction With Id 752 Ended $$$$$$
+
+****** Response Header For Transaction With Id 752 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: application/ocsp-response
+Content-Length: 504
+ETag: "60C3F8AABC32544FBDD838534FA42F3AFBEF7F7B3188D57DBCB8A58569BDBEB1"
+Last-Modified: Thu, 28 Nov 2024 20:47:00 UTC
+Cache-Control: public, no-transform, must-revalidate, max-age=6538
+Expires: Sun, 01 Dec 2024 09:22:45 GMT
+Date: Sun, 01 Dec 2024 07:33:47 GMT
+Connection: keep-alive
+
+
+$$$$$$ Response Header For Transaction With Id 752 Ended $$$$$$
+
+****** Response Body For Transaction With Id 752 ******
+0\x82\x01\xF4
+\x01\x00\xA0\x82\x01\xED0\x82\x01\xE9\x06	+\x06\x01\x05\x05\x070\x01\x01\x04\x82\x01\xDA0\x82\x01\xD60\x81\xBF\xA15031\x0B0	\x06\x03U\x04\x06\x13\x02US1\x160\x14\x06\x03U\x04
+\x13Let's Encrypt1\x0C0
+\x06\x03U\x04\x03\x13\x03R11\x18\x0F20241128204700Z0u0s0K0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14\x1AR\xB9\xB4Y\xE4\xC33\x98!~\x86mK\xBD\x8A;\xD6g\xCE\x04\x14\x08\xB9\x11;\xA5\xD0\x85\x18\xB4\xEA\x0F\xA0\xAD\x9F\x86\x1E\x8E\xFC8'\x02\x12\x04&\xD3\x07\xFE\xB5\xB1X\xC2Z\xEF\x81|K\xC6!v\xB6\x80\x00\x18\x0F20241128204700Z\xA0\x11\x18\x0F20241205204658Z0\x06	*\x86H\x86\xF7\x01\x01\x0B\x05\x00\x03\x82\x01\x01\x00b\x9C_&h P\x14\x9EJH\x14\x87^\x13\xCD\xE1/\xD0r\x06\xC3o\xB8\xDF\xF5\x17\x13\xAA\xA3\xAE\xA8=\xBAB\x1D;\x9D\x86\x99\xCA\x80\xCD"\x0F\x806n`\xC5'a2\x0F\xEC\xB9\xF7\x19\xFF\x84\xCD\xE8\x9Ep\xC6\xEC\xB1\xE2l\x16A\xAD\xA1\xF5\xA2\x1C\x0C\xBE\x90	\x9F\x8A\xDA0\xE1\xF9\xC51\x18H\x910\xE5cm\x93\x8E-\x92\x9B\xD4\xDDv\xAF?\x91m\xA4)\x8Br\x8Ao2B\xA1K\xF3\x90\xC4}I\x07Y\xDE\xB8\xDF7d\x9Aj\xB1\xE4B\xA3/;\xB0\xD0ms6\xA1!|W!\x16\xCE\x1C\xB4}_Pa\x02\xA6\x8E\xCE\xF5\x04\xD14Yb\xDF\x9E/q\xFD\xDD\x82\x9D\xCE\xA0\x04W\xCA\xB1\xAC\x8AL2Vm\xD0\x8F\xB4\xE9M\x90\x8A\xFF\xA6\xB6\x97c\x0B\xD139\x8C\x010\x02\xCE\xFA\x86\xDC\xE0-"\xDF\xF6\xF1\xA8D\xB2\xEF\x12\xB1P\xD8d\xF3K\x8E\xB3\xD1Yx\x18@\xB4|GA\xCDb\xBC\x94\x90T\x88B9\xF7\x19\xA9f\x81X\xA6\xBBw
+
+$$$$$$ Response Body For Transaction With Id 752 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/update/6/Firefox/133.0/20241121140525/WINNT_x86_64-msvc-x64/ru/release/Windows_NT%252010.0.0.0.22631.4541%2520(x64)/ISET%3ASSE4_2%2CMEM%3A16221/default/default/update.xml?force=1
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 752 ****** (Location Flag : tFlagInsertEnd, Location ID : 752)
+	web_custom_request("r11.o.lencr.org_4",
+		"URL=http://r11.o.lencr.org/",
+		"Method=POST",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=application/ocsp-response",
+		"Referer=",
+		"Snapshot=t30.inf",
+		"Mode=HTML",
+		"EncType=application/ocsp-request",
+		"BodyBinary=0S0Q0O0M0K0\t\\x06\\x05+\\x0E\\x03\\x02\\x1A\\x05\\x00\\x04\\x14\\x1AR\\xB9\\xB4Y\\xE4\\xC33\\x98!~\\x86mK\\xBD\\x8A;\\xD6g\\xCE\\x04\\x14\\x08\\xB9\\x11;\\xA5\\xD0\\x85\\x18\\xB4\\xEA\\x0F\\xA0\\xAD\\x9F\\x86\\x1E\\x8E\\xFC8'\\x02\\x12\\x04&\\xD3\\x07\\xFE\\xB5\\xB1X\\xC2Z\\xEF\\x81|K\\xC6!v\\xB6",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 752 Ended $$$$$$
+
+****** Request Header For Transaction With Id 760 ******
+POST /submit/firefox-desktop/pageload/1/1b0b09a7-1cd2-40a1-a7c4-4daade48b76a HTTP/1.1
+Host: incoming.telemetry.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+content-encoding: gzip
+date: Sun, 01 Dec 2024 07:33:40 GMT
+content-type: application/json; charset=utf-8
+x-telemetry-agent: Glean/61.2.0 (Rust on Windows)
+content-length: 440
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: none
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 760 Ended $$$$$$
+
+****** Request Body For Transaction With Id 760 ******
+{"ping_info":{"seq":99,"start_time":"2024-12-01T10:18:19.000+05:00","end_time":"2024-12-01T12:33:19.863+05:00","reason":"startup"},"client_info":{"telemetry_sdk_build":"61.2.0","app_channel":"release","windows_build_number":22631,"build_date":"1970-01-01T00:00:00+00:00","first_run_date":"2024-03-01+05:00","architecture":"x86_64","app_build":"20241121140525","os":"Windows","os_version":"10.0","locale":"ru","app_display_version":"133.0"},"events":[{"timestamp":0,"category":"perf","name":"page_load","extra":{"using_webdriver":"false","glean_timestamp":"1733030329087","time_to_request_start":"17375","load_time":"28790","features":"0","response_time":"17508","dns_lookup_time":"5","http_ver":"1","load_type":"NORMAL"}}]}
+$$$$$$ Request Body For Transaction With Id 760 Ended $$$$$$
+
+****** Response Header For Transaction With Id 760 ******
+HTTP/1.1 200 OK
+Server: openresty
+Date: Sun, 01 Dec 2024 07:33:47 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: DENY
+Access-Control-Allow-Methods: GET, POST, PUT, OPTIONS
+Access-Control-Max-Age: 1728000
+Access-Control-Allow-Headers: Accept-Encoding,Connection,Content-Encoding,Content-Length,Content-Type,DNT,Date,Sec-Fetch-Dest,Sec-Fetch-Mode,Sec-Fetch-Site,User-Agent,X-Client-Type,X-Client-Version,X-Debug-ID,X-Forwarded-For,X-Pingsender-Version,X-Pipeline-Proxy,X-Source-Tags,X-Telemetry-Agent
+Content-Encoding: gzip
+Via: 1.1 google
+Alt-Svc: clear
+Transfer-Encoding: chunked
+
+
+$$$$$$ Response Header For Transaction With Id 760 Ended $$$$$$
+
+****** Response Body For Transaction With Id 760 ******
+
+$$$$$$ Response Body For Transaction With Id 760 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 760 ****** (Location Flag : tFlagInsertEnd, Location ID : 760)
+	web_custom_request("1b0b09a7-1cd2-40a1-a7c4-4daade48b76a",
+		"URL=https://incoming.telemetry.mozilla.org/submit/firefox-desktop/pageload/1/1b0b09a7-1cd2-40a1-a7c4-4daade48b76a",
+		"Method=POST",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=text/plain",
+		"Referer=",
+		"Snapshot=t31.inf",
+		"Mode=HTML",
+		"EncType=application/json; charset=utf-8",
+		"ContentEncoding=gzip",
+		"Body={\"ping_info\":{\"seq\":99,\"start_time\":\"2024-12-01T10:18:19.000+05:00\",\"end_time\":\"2024-12-01T12:33:19.863+05:00\",\"reason\":\"startup\"},\"client_info\":{\"telemetry_sdk_build\":\"61.2.0\",\"app_channel\":\"release\",\"windows_build_number\":22631,\"build_date\":\"1970-01-01T00:00:00+00:00\",\"first_run_date\":\"2024-03-01+05:00\",\"architecture\":\"x86_64\",\"app_build\":\"20241121140525\",\"os\":\"Windows\",\"os_version\":\"10.0\",\"locale\":\"ru\",\"app_display_version\":\"133.0\"},\"events\":[{\"timestamp\":0,\"category\":\"perf\",\"name\":\"page_load\",\"extra\":{\"using_webdriver\":\"false\",\"glean_timestamp\":\"1733030329087\",\"time_to_request_start\":\"17375\",\"load_time\":\"28790\",\"features\":\"0\",\"response_time\":\"17508\",\"dns_lookup_time\":\"5\",\"http_ver\":\"1\",\"load_type\":\"NORMAL\"}}]}",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 760 Ended $$$$$$
+
+****** Request Header For Transaction With Id 778 ******
+POST / HTTP/1.1
+Host: ocsp.digicert.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 83
+Connection: keep-alive
+Priority: u=2
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 778 Ended $$$$$$
+
+****** Request Body For Transaction With Id 778 ******
+0Q0O0M0K0I0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14t\x02F\xF2Z\\B\x12 \xB5\xBD]v	\xA6\xBA\\\xA3G\xDF\x04\x14$\xF2.N\x0F\xBD\xCA\xF7>)U\xCAr\x8Di\x87VD\xE9z\x02\x10\x03\x9A\xBF\xFD\xB0\xF0\xAE#\x1F9\x939\xA4\xF3Y3
+$$$$$$ Request Body For Transaction With Id 778 Ended $$$$$$
+
+****** Response Header For Transaction With Id 778 ******
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Age: 48
+Cache-Control: max-age=600
+Content-Type: application/ocsp-response
+Date: Sun, 01 Dec 2024 07:33:52 GMT
+Last-Modified: Sun, 01 Dec 2024 07:33:04 GMT
+Server: ECAcc (amb/6A92)
+X-Cache: HIT
+Content-Length: 5
+
+
+$$$$$$ Response Header For Transaction With Id 778 Ended $$$$$$
+
+****** Response Body For Transaction With Id 778 ******
+0\x03
+\x01\x06
+$$$$$$ Response Body For Transaction With Id 778 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/submit/firefox-desktop/pageload/1/1b0b09a7-1cd2-40a1-a7c4-4daade48b76a
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 778 ****** (Location Flag : tFlagInsertEnd, Location ID : 778)
+	web_custom_request("ocsp.digicert.com",
+		"URL=http://ocsp.digicert.com/",
+		"Method=POST",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=application/ocsp-response",
+		"Referer=",
+		"Snapshot=t32.inf",
+		"Mode=HTML",
+		"EncType=application/ocsp-request",
+		"BodyBinary=0Q0O0M0K0I0\t\\x06\\x05+\\x0E\\x03\\x02\\x1A\\x05\\x00\\x04\\x14t\\x02F\\xF2Z\\\\B\\x12 \\xB5\\xBD]v\t\\xA6\\xBA\\\\\\xA3G\\xDF\\x04\\x14$\\xF2.N\\x0F\\xBD\\xCA\\xF7>)U\\xCAr\\x8Di\\x87VD\\xE9z\\x02\\x10\\x03\\x9A\\xBF\\xFD\\xB0\\xF0\\xAE#\\x1F9\\x939\\xA4\\xF3Y3",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 778 Ended $$$$$$
+
+****** Request Header For Transaction With Id 780 ******
+GET /success.txt?ipv4 HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 780 Ended $$$$$$
+
+****** Response Header For Transaction With Id 780 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Length: 8
+Via: 1.1 google
+Date: Sat, 30 Nov 2024 17:07:21 GMT
+Age: 51991
+Content-Type: text/plain
+Cache-Control: public,must-revalidate,max-age=0,s-maxage=3600
+
+
+$$$$$$ Response Header For Transaction With Id 780 Ended $$$$$$
+
+****** Response Body For Transaction With Id 780 ******
+success
+
+$$$$$$ Response Body For Transaction With Id 780 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 780 ****** (Location Flag : tFlagInsertEnd, Location ID : 780)
+	web_url("success.txt_4",
+		"URL=http://detectportal.firefox.com/success.txt?ipv4",
+		"TargetFrame=",
+		"Resource=1",
+		"RecContentType=text/plain",
+		"Referer=",
+		"Snapshot=t33.inf",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 780 Ended $$$$$$
+
+****** Request Header For Transaction With Id 789 ******
+POST / HTTP/1.1
+Host: r10.o.lencr.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 85
+Connection: keep-alive
+Priority: u=2
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 789 Ended $$$$$$
+
+****** Request Body For Transaction With Id 789 ******
+0S0Q0O0M0K0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14i\x0F\xE4\x15g\xEDo\x7F\xB54Dd\x06\x06o	g\x07qr\x04\x14t\xA4v)\x17\x18T\x8517\xBEg\xE6\x06X\xC0\xBC\xC5\x05r\x02\x12\x03\xB7\x02\x9C\x18D.\xC5$I\xE9d\xED\xED`!\x8D\xB3
+$$$$$$ Request Body For Transaction With Id 789 Ended $$$$$$
+
+****** Response Header For Transaction With Id 789 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: application/ocsp-response
+Content-Length: 504
+ETag: "1A6C488E239F2A7D2A982B7C3DB2CDB8FA93584C731BA5F8E2928063E4824F45"
+Last-Modified: Thu, 28 Nov 2024 18:51:00 UTC
+Cache-Control: public, no-transform, must-revalidate, max-age=6317
+Expires: Sun, 01 Dec 2024 09:19:09 GMT
+Date: Sun, 01 Dec 2024 07:33:52 GMT
+Connection: keep-alive
+
+
+$$$$$$ Response Header For Transaction With Id 789 Ended $$$$$$
+
+****** Response Body For Transaction With Id 789 ******
+0\x82\x01\xF4
+\x01\x00\xA0\x82\x01\xED0\x82\x01\xE9\x06	+\x06\x01\x05\x05\x070\x01\x01\x04\x82\x01\xDA0\x82\x01\xD60\x81\xBF\xA15031\x0B0	\x06\x03U\x04\x06\x13\x02US1\x160\x14\x06\x03U\x04
+\x13Let's Encrypt1\x0C0
+\x06\x03U\x04\x03\x13\x03R10\x18\x0F20241128185100Z0u0s0K0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14i\x0F\xE4\x15g\xEDo\x7F\xB54Dd\x06\x06o	g\x07qr\x04\x14t\xA4v)\x17\x18T\x8517\xBEg\xE6\x06X\xC0\xBC\xC5\x05r\x02\x12\x03\xB7\x02\x9C\x18D.\xC5$I\xE9d\xED\xED`!\x8D\xB3\x80\x00\x18\x0F20241128185100Z\xA0\x11\x18\x0F20241205185058Z0\x06	*\x86H\x86\xF7\x01\x01\x0B\x05\x00\x03\x82\x01\x01\x00\xC8p\xB8v*\xDA\x89\xF7D\xB3\x00\xA3\xE2U\xCB^5Q|\x9E\x9F\x90\xEF\xADO<\xE5a\xFD@R\xEB\xCF\x1E^*G\x87\xBB\xF1\x8F\xDE\xB9w\xC9\xF14\xCB\xD6\xF8,\xE0\xA9\xB79\x91\x03\x13\x0Bh\xE0\xF4#eq\x9Dze6\x85\x82\xD9\xC8=`\x12\x99\xC1\xFE\x13\x82k\xDD*\xE8\x08\x9BGF]m\x1A/\xBE\xC0\x9F\x03\xE6\xB0!c:\xB5qu\x13\xCD
+l\xEE\x9A%c\xF3\xB3:\xD3\x1D\x02$\xDA\x97T8W\xCA\x96\xB6tf\xCC\xD2M:0\xAEk\x97\xAD\x06JE\x84\x80\xE3\x98p"\x1F\xA5\x0E\xAB;\xC74nu\xE9\xC2\x12\xD1\xB7\xA8\xDC\xFC\x95\x7F\x85\xF4\xC6\x90\xA2\xCF,\xEEG\xF4\xAE\x00\xDC\xD0\xA9l\xB2\xD6\x84i_\xDA\xE9v\xBBEh<\x14c)\x07\xD9e;rv\x9BVW\x15\x9EG\x15\xAB\xA4`\xF0\xFE1\x84\x86\xC0\x90?Y\x92\x1A|\x92\x8B&\xF4\\z\x7F\x92P\xA9\xD9\x16\xC8%o\xAD
+n#\xDD\x11D<f	W\x80\xD2
+$$$$$$ Response Body For Transaction With Id 789 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/success.txt?ipv4
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 789 ****** (Location Flag : tFlagInsertEnd, Location ID : 789)
+	web_custom_request("r10.o.lencr.org_3",
+		"URL=http://r10.o.lencr.org/",
+		"Method=POST",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=application/ocsp-response",
+		"Referer=",
+		"Snapshot=t34.inf",
+		"Mode=HTML",
+		"EncType=application/ocsp-request",
+		"BodyBinary=0S0Q0O0M0K0\t\\x06\\x05+\\x0E\\x03\\x02\\x1A\\x05\\x00\\x04\\x14i\\x0F\\xE4\\x15g\\xEDo\\x7F\\xB54Dd\\x06\\x06o\tg\\x07qr\\x04\\x14t\\xA4v)\\x17\\x18T\\x8517\\xBEg\\xE6\\x06X\\xC0\\xBC\\xC5\\x05r\\x02\\x12\\x03\\xB7\\x02\\x9C\\x18D.\\xC5$I\\xE9d\\xED\\xED`!\\x8D\\xB3",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 789 Ended $$$$$$
+
+****** Request Header For Transaction With Id 791 ******
+POST / HTTP/1.1
+Host: ocsp.digicert.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 83
+Connection: keep-alive
+Priority: u=2
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 791 Ended $$$$$$
+
+****** Request Body For Transaction With Id 791 ******
+0Q0O0M0K0I0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14t\x02F\xF2Z\\B\x12 \xB5\xBD]v	\xA6\xBA\\\xA3G\xDF\x04\x14$\xF2.N\x0F\xBD\xCA\xF7>)U\xCAr\x8Di\x87VD\xE9z\x02\x10\x03\x9A\xBF\xFD\xB0\xF0\xAE#\x1F9\x939\xA4\xF3Y3
+$$$$$$ Request Body For Transaction With Id 791 Ended $$$$$$
+
+****** Response Header For Transaction With Id 791 ******
+HTTP/1.1 200 OK
+Cache-Control: max-age=600
+Content-Type: application/ocsp-response
+Date: Sun, 01 Dec 2024 07:33:52 GMT
+Server: ECAcc (amb/6AF3)
+Content-Length: 5
+
+
+$$$$$$ Response Header For Transaction With Id 791 Ended $$$$$$
+
+****** Response Body For Transaction With Id 791 ******
+0\x03
+\x01\x06
+$$$$$$ Response Body For Transaction With Id 791 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 791 ****** (Location Flag : tFlagInsertEnd, Location ID : 791)
+	web_custom_request("ocsp.digicert.com_2",
+		"URL=http://ocsp.digicert.com/",
+		"Method=POST",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=application/ocsp-response",
+		"Referer=",
+		"Snapshot=t35.inf",
+		"Mode=HTML",
+		"EncType=application/ocsp-request",
+		"BodyBinary=0Q0O0M0K0I0\t\\x06\\x05+\\x0E\\x03\\x02\\x1A\\x05\\x00\\x04\\x14t\\x02F\\xF2Z\\\\B\\x12 \\xB5\\xBD]v\t\\xA6\\xBA\\\\\\xA3G\\xDF\\x04\\x14$\\xF2.N\\x0F\\xBD\\xCA\\xF7>)U\\xCAr\\x8Di\\x87VD\\xE9z\\x02\\x10\\x03\\x9A\\xBF\\xFD\\xB0\\xF0\\xAE#\\x1F9\\x939\\xA4\\xF3Y3",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 791 Ended $$$$$$
+
+****** Request Header For Transaction With Id 799 ******
+POST /dns-query HTTP/1.1
+Host: mozilla.cloudflare-dns.com
+Accept: application/dns-message
+Accept-Encoding: 
+Content-Type: application/dns-message
+Content-Length: 128
+Cache-Control: no-store, no-cache
+Connection: keep-alive
+Pragma: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 799 Ended $$$$$$
+
+****** Request Body For Transaction With Id 799 ******
+\x00\x00\x01\x00\x00\x01\x00\x00\x00\x00\x00\x01\x07example\x03com\x00\x00\x02\x00\x01\x00\x00)\x10\x00\x00\x00\x00\x00\x00X\x00\x08\x00\x04\x00\x01\x00\x00\x00\x0C\x00L\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+$$$$$$ Request Body For Transaction With Id 799 Ended $$$$$$
+
+****** Response Header For Transaction With Id 799 ******
+HTTP/1.1 200 OK
+Server: cloudflare
+Date: Sun, 01 Dec 2024 07:33:53 GMT
+Content-Type: application/dns-message
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Content-Length: 468
+CF-RAY: 8eb1643f38db9db3-DME
+alt-svc: h3=":443"; ma=86400
+
+
+$$$$$$ Response Header For Transaction With Id 799 Ended $$$$$$
+
+****** Response Body For Transaction With Id 799 ******
+\x00\x00\x81\x80\x00\x01\x00\x02\x00\x00\x00\x01\x07example\x03com\x00\x00\x02\x00\x01\xC0\x0C\x00\x02\x00\x01\x00\x01CH\x00\x14\x01a\x0Ciana-servers\x03net\x00\xC0\x0C\x00\x02\x00\x01\x00\x01CH\x00\x04\x01b\xC0+\x00\x00)\x04\xD0\x00\x00\x00\x00\x01|\x00\x0C\x01x\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+$$$$$$ Response Body For Transaction With Id 799 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 799 ****** (Location Flag : tFlagInsertEnd, Location ID : 799)
+	web_custom_request("dns-query_5",
+		"URL=https://mozilla.cloudflare-dns.com/dns-query",
+		"Method=POST",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=application/dns-message",
+		"Referer=",
+		"Snapshot=t36.inf",
+		"Mode=HTML",
+		"EncType=application/dns-message",
+		"BodyBinary=\\x00\\x00\\x01\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x01\\x07example\\x03com\\x00\\x00\\x02\\x00\\x01\\x00\\x00)\\x10\\x00\\x00\\x00\\x00\\x00\\x00X\\x00\\x08\\x00\\x04\\x00\\x01\\x00\\x00\\x00\\x0C\\x00L\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 799 Ended $$$$$$
+
+****** Request Header For Transaction With Id 802 ******
+POST /dns-query HTTP/1.1
+Host: mozilla.cloudflare-dns.com
+Accept: application/dns-message
+Accept-Encoding: 
+Content-Type: application/dns-message
+Content-Length: 128
+Cache-Control: no-store, no-cache
+Connection: keep-alive
+Pragma: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 802 Ended $$$$$$
+
+****** Request Body For Transaction With Id 802 ******
+\x00\x00\x01\x00\x00\x01\x00\x00\x00\x00\x00\x01\x07mozilla\x0Ecloudflare-dns\x03com\x00\x00\x1C\x00\x01\x00\x00)\x10\x00\x00\x00\x00\x00\x00I\x00\x08\x00\x04\x00\x01\x00\x00\x00\x0C\x00=\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+$$$$$$ Request Body For Transaction With Id 802 Ended $$$$$$
+
+****** Response Header For Transaction With Id 802 ******
+HTTP/1.1 200 OK
+Server: cloudflare
+Date: Sun, 01 Dec 2024 07:33:53 GMT
+Content-Type: application/dns-message
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Content-Length: 468
+CF-RAY: 8eb1643f99319db3-DME
+alt-svc: h3=":443"; ma=86400
+
+
+$$$$$$ Response Header For Transaction With Id 802 Ended $$$$$$
+
+****** Response Body For Transaction With Id 802 ******
+\x00\x00\x81\x80\x00\x01\x00\x02\x00\x00\x00\x01\x07mozilla\x0Ecloudflare-dns\x03com\x00\x00\x1C\x00\x01\xC0\x0C\x00\x1C\x00\x01\x00\x00\x00\x9B\x00\x10*\x06\x98\xC1\x00R\x00\x00\x00\x00\x00\x00\x00\x00\x00\x04\xC0\x0C\x00\x1C\x00\x01\x00\x00\x00\x9B\x00\x10(\x03\xF8\x00\x00S\x00\x00\x00\x00\x00\x00\x00\x00\x00\x04\x00\x00)\x04\xD0\x00\x00\x00\x00\x01e\x00\x0C\x01a\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+$$$$$$ Response Body For Transaction With Id 802 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/dns-query
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 802 ****** (Location Flag : tFlagInsertEnd, Location ID : 802)
+	web_custom_request("dns-query_6",
+		"URL=https://mozilla.cloudflare-dns.com/dns-query",
+		"Method=POST",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=application/dns-message",
+		"Referer=",
+		"Snapshot=t37.inf",
+		"Mode=HTML",
+		"EncType=application/dns-message",
+		"BodyBinary=\\x00\\x00\\x01\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x01\\x07mozilla\\x0Ecloudflare-dns\\x03com\\x00\\x00\\x1C\\x00\\x01\\x00\\x00)\\x10\\x00\\x00\\x00\\x00\\x00\\x00I\\x00\\x08\\x00\\x04\\x00\\x01\\x00\\x00\\x00\\x0C\\x00=\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 802 Ended $$$$$$
+
+****** Request Header For Transaction With Id 805 ******
+POST / HTTP/1.1
+Host: ocsp.digicert.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 83
+Connection: keep-alive
+Priority: u=2
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 805 Ended $$$$$$
+
+****** Request Body For Transaction With Id 805 ******
+0Q0O0M0K0I0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14t\x02F\xF2Z\\B\x12 \xB5\xBD]v	\xA6\xBA\\\xA3G\xDF\x04\x14$\xF2.N\x0F\xBD\xCA\xF7>)U\xCAr\x8Di\x87VD\xE9z\x02\x10\x06\xBA\xAD\x9A4\xCC\x06O\x8C\xD0`k\x99]\x9C$
+$$$$$$ Request Body For Transaction With Id 805 Ended $$$$$$
+
+****** Response Header For Transaction With Id 805 ******
+HTTP/1.1 200 OK
+Cache-Control: max-age=600
+Content-Type: application/ocsp-response
+Date: Sun, 01 Dec 2024 07:33:53 GMT
+Server: ECAcc (amb/6AD2)
+Content-Length: 5
+
+
+$$$$$$ Response Header For Transaction With Id 805 Ended $$$$$$
+
+****** Response Body For Transaction With Id 805 ******
+0\x03
+\x01\x06
+$$$$$$ Response Body For Transaction With Id 805 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/dns-query
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 805 ****** (Location Flag : tFlagInsertEnd, Location ID : 805)
+	web_custom_request("ocsp.digicert.com_3",
+		"URL=http://ocsp.digicert.com/",
+		"Method=POST",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=application/ocsp-response",
+		"Referer=",
+		"Snapshot=t38.inf",
+		"Mode=HTML",
+		"EncType=application/ocsp-request",
+		"BodyBinary=0Q0O0M0K0I0\t\\x06\\x05+\\x0E\\x03\\x02\\x1A\\x05\\x00\\x04\\x14t\\x02F\\xF2Z\\\\B\\x12 \\xB5\\xBD]v\t\\xA6\\xBA\\\\\\xA3G\\xDF\\x04\\x14$\\xF2.N\\x0F\\xBD\\xCA\\xF7>)U\\xCAr\\x8Di\\x87VD\\xE9z\\x02\\x10\\x06\\xBA\\xAD\\x9A4\\xCC\\x06O\\x8C\\xD0`k\\x99]\\x9C$",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 805 Ended $$$$$$
+
+****** Request Header For Transaction With Id 809 ******
+GET / HTTP/1.1
+Host: push.services.mozilla.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Sec-WebSocket-Version: 13
+Origin: wss://push.services.mozilla.com/
+Sec-WebSocket-Protocol: push-notification
+Sec-WebSocket-Extensions: permessage-deflate
+Sec-WebSocket-Key: yMtsQZg1/D9ho6rOnGQmtA==
+Connection: keep-alive, Upgrade
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: websocket
+Sec-Fetch-Site: cross-site
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade: websocket
+
+
+$$$$$$ Request Header For Transaction With Id 809 Ended $$$$$$
+
+****** Response Header For Transaction With Id 809 ******
+HTTP/1.1 101 Switching Protocols
+sec-websocket-accept: qul5UgqPkYfa6IqyrtGNkOPm8OE=
+date: Sun, 01 Dec 2024 07:33:52 GMT
+Via: 1.1 google
+Upgrade: websocket
+Connection: Upgrade
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+
+$$$$$$ Response Header For Transaction With Id 809 Ended $$$$$$
+
+****** Response Body For Transaction With Id 809 ******
+
+$$$$$$ Response Body For Transaction With Id 809 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 809 ****** (Location Flag : tFlagInsertEnd, Location ID : 809)
+	web_url("push.services.mozilla.com_2",
+		"URL=https://push.services.mozilla.com/",
+		"TargetFrame=",
+		"Resource=0",
+		"Referer=",
+		"Snapshot=t39.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 809 Ended $$$$$$
+
+****** Request Header For Transaction With Id 813 ******
+POST /dns-query HTTP/1.1
+Host: mozilla.cloudflare-dns.com
+Accept: application/dns-message
+Accept-Encoding: 
+Content-Type: application/dns-message
+Content-Length: 128
+Cache-Control: no-store, no-cache
+Connection: keep-alive
+Pragma: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 813 Ended $$$$$$
+
+****** Request Body For Transaction With Id 813 ******
+\x00\x00\x01\x00\x00\x01\x00\x00\x00\x00\x00\x01\x07mozilla\x0Ecloudflare-dns\x03com\x00\x00\x01\x00\x01\x00\x00)\x10\x00\x00\x00\x00\x00\x00I\x00\x08\x00\x04\x00\x01\x00\x00\x00\x0C\x00=\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+$$$$$$ Request Body For Transaction With Id 813 Ended $$$$$$
+
+****** Response Header For Transaction With Id 813 ******
+HTTP/1.1 200 OK
+Server: cloudflare
+Date: Sun, 01 Dec 2024 07:33:53 GMT
+Content-Type: application/dns-message
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Content-Length: 468
+CF-RAY: 8eb164411ca0f132-DME
+alt-svc: h3=":443"; ma=86400
+
+
+$$$$$$ Response Header For Transaction With Id 813 Ended $$$$$$
+
+****** Response Body For Transaction With Id 813 ******
+\x00\x00\x81\x80\x00\x01\x00\x02\x00\x00\x00\x01\x07mozilla\x0Ecloudflare-dns\x03com\x00\x00\x01\x00\x01\xC0\x0C\x00\x01\x00\x01\x00\x00\x00\x94\x00\x04\xA2\x9F=\x04\xC0\x0C\x00\x01\x00\x01\x00\x00\x00\x94\x00\x04\xAC@)\x04\x00\x00)\x04\xD0\x00\x00\x00\x00\x01}\x00\x0C\x01y\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00
+$$$$$$ Response Body For Transaction With Id 813 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 813 ****** (Location Flag : tFlagInsertEnd, Location ID : 813)
+	web_custom_request("dns-query_7",
+		"URL=https://mozilla.cloudflare-dns.com/dns-query",
+		"Method=POST",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=application/dns-message",
+		"Referer=",
+		"Snapshot=t40.inf",
+		"Mode=HTML",
+		"EncType=application/dns-message",
+		"BodyBinary=\\x00\\x00\\x01\\x00\\x00\\x01\\x00\\x00\\x00\\x00\\x00\\x01\\x07mozilla\\x0Ecloudflare-dns\\x03com\\x00\\x00\\x01\\x00\\x01\\x00\\x00)\\x10\\x00\\x00\\x00\\x00\\x00\\x00I\\x00\\x08\\x00\\x04\\x00\\x01\\x00\\x00\\x00\\x0C\\x00=\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x00",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 813 Ended $$$$$$
+
+****** Request Header For Transaction With Id 815 ******
+POST / HTTP/1.1
+Host: ocsp.digicert.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/ocsp-request
+Content-Length: 83
+Connection: keep-alive
+Priority: u=2
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 815 Ended $$$$$$
+
+****** Request Body For Transaction With Id 815 ******
+0Q0O0M0K0I0	\x06\x05+\x0E\x03\x02\x1A\x05\x00\x04\x14t\x02F\xF2Z\\B\x12 \xB5\xBD]v	\xA6\xBA\\\xA3G\xDF\x04\x14$\xF2.N\x0F\xBD\xCA\xF7>)U\xCAr\x8Di\x87VD\xE9z\x02\x10\x03\x9A\xBF\xFD\xB0\xF0\xAE#\x1F9\x939\xA4\xF3Y3
+$$$$$$ Request Body For Transaction With Id 815 Ended $$$$$$
+
+****** Response Header For Transaction With Id 815 ******
+HTTP/1.1 200 OK
+Cache-Control: max-age=600
+Content-Type: application/ocsp-response
+Date: Sun, 01 Dec 2024 07:33:53 GMT
+Server: ECAcc (amb/6B64)
+Content-Length: 5
+
+
+$$$$$$ Response Header For Transaction With Id 815 Ended $$$$$$
+
+****** Response Body For Transaction With Id 815 ******
+0\x03
+\x01\x06
+$$$$$$ Response Body For Transaction With Id 815 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/dns-query
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 815 ****** (Location Flag : tFlagInsertEnd, Location ID : 815)
+	web_custom_request("ocsp.digicert.com_4",
+		"URL=http://ocsp.digicert.com/",
+		"Method=POST",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=application/ocsp-response",
+		"Referer=",
+		"Snapshot=t41.inf",
+		"Mode=HTML",
+		"EncType=application/ocsp-request",
+		"BodyBinary=0Q0O0M0K0I0\t\\x06\\x05+\\x0E\\x03\\x02\\x1A\\x05\\x00\\x04\\x14t\\x02F\\xF2Z\\\\B\\x12 \\xB5\\xBD]v\t\\xA6\\xBA\\\\\\xA3G\\xDF\\x04\\x14$\\xF2.N\\x0F\\xBD\\xCA\\xF7>)U\\xCAr\\x8Di\\x87VD\\xE9z\\x02\\x10\\x03\\x9A\\xBF\\xFD\\xB0\\xF0\\xAE#\\x1F9\\x939\\xA4\\xF3Y3",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 815 Ended $$$$$$
+
+****** Request Header For Transaction With Id 851 ******
+GET /cgi-bin/login.pl?username=&password=&getInfo=true HTTP/1.1
+Host: localhost:1080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+DNT: 1
+Sec-GPC: 1
+Connection: keep-alive
+Referer: http://localhost:1080/WebTours/home.html
+Cookie: MSO=SID&1733038418
+Upgrade-Insecure-Requests: 1
+Priority: u=4
+
+
+$$$$$$ Request Header For Transaction With Id 851 Ended $$$$$$
+
+****** Response Header For Transaction With Id 851 ******
+HTTP/1.1 200 OK
+Date: Sun, 01 Dec 2024 07:38:04 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+
+
+$$$$$$ Response Header For Transaction With Id 851 Ended $$$$$$
+
+****** Response Body For Transaction With Id 851 ******
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<title>User Information</title>
+<script src="/WebTours/profileValidate.js" type="text/JavaScript"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#E0E7F1">
+<style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-size : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: tahoma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: black}</style><BR/><center><H1><b><font color="#003366">Customer Profile</font></b></H1></center><blockquote><tr><td><B>First time registering? Please complete the form below.</B><BR/>Please choose a username and password combination for your account.<BR/>We'd also like some additional contact information for yourself. We'll use it as default shipping and billing information when making all your travel arrangements.<P><tr><td align=center><form method="post" action="login.pl" enctype="application/x-www-form-urlencoded" target="info" onsubmit>
+<table><tr><td align="left"><blockquote>Username : </td> <td align="left"><input type="text" name="username"  size="20" /></td></tr> <tr><td align="left"><blockquote>Password : </td> <td align="left"><input type="password" name="password"  size="20" /></td></tr> <tr><td align="left"><blockquote>Confirm : </td> <td align="left"><input type="password" name="passwordConfirm"  size="20" /></td></tr> <tr><td> </td></tr> <tr><td align="left"><blockquote>First Name : </td> <td align="left"><input type="text" name="firstName"  size="20" /></td></tr> <tr><td align="left"><blockquote>Last Name : </td> <td align="left"><input type="text" name="lastName"  size="20" /></td></tr> <tr><td align="left"><blockquote>Street Address : </td> <td align="left"><input type="text" name="address1"  size="30" /></td></tr> <tr><td align="left"><blockquote>City/State/Zip : </td> <td align="left"><input type="text" name="address2"  size="30" /></td></tr> <tr><td align="left">&nbsp;</td> <td align="right">&nbsp;</td></tr> <tr><td align="center" colspan="2"><input type="image" name="register" src="/WebTours/images/button_next.gif" border="0" /></td></tr></table></form></table></blockquote>
+</body>
+</html>
+
+$$$$$$ Response Body For Transaction With Id 851 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 851 ****** (Location Flag : tFlagInsertEnd, Location ID : 851)
+	web_url("login.pl",
+		"URL=http://localhost:1080/cgi-bin/login.pl?username=&password=&getInfo=true",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=http://localhost:1080/WebTours/home.html",
+		"Snapshot=t42.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 851 Ended $$$$$$
+
+****** Request Header For Transaction With Id 854 ******
+GET /WebTours/profileValidate.js HTTP/1.1
+Host: localhost:1080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+DNT: 1
+Sec-GPC: 1
+Connection: keep-alive
+Referer: http://localhost:1080/cgi-bin/login.pl?username=&password=&getInfo=true
+Cookie: MSO=SID&1733038418
+Priority: u=2
+
+
+$$$$$$ Request Header For Transaction With Id 854 Ended $$$$$$
+
+****** Response Header For Transaction With Id 854 ******
+HTTP/1.1 200 OK
+Date: Sun, 01 Dec 2024 07:38:04 GMT
+Server: Apache/2.2.21 (Win32)
+Last-Modified: Tue, 26 Nov 2024 14:20:50 GMT
+ETag: "60000000958f5-2c18-627d18e61ab0c"
+Accept-Ranges: bytes
+Content-Length: 11288
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: application/javascript
+
+
+$$$$$$ Response Header For Transaction With Id 854 Ended $$$$$$
+
+****** Response Body For Transaction With Id 854 ******
+// check for IE3
+var isIE3 = (navigator.appVersion.indexOf('MSIE 3') != -1);
+
+
+/***************************************************************
+** define and instantiate validation objects
+** the validation object accepts the following parameters:
+**
+**   realName: name used in the alerts (same as label on the page)
+**
+**   formEltName: this must be the name of the corresponding
+**       HTML form element; make it the same as the object name
+**
+**   eltType: element type (we have to create this since IE3
+**       doesn't support the type property for for elements)
+**     text
+**     textarea
+**     checkbox
+**     radio
+**     select
+**
+**   uptoSnuff: function call that's evaluated during validation check
+**     isText(str)
+**     isSelect(formObj)
+**     isRadio(formObj)
+**     isCheck(formObj, form, [index of first checkbox in group],
+**         [number of checkboxes])
+**     isEmail(str)
+**     isState(str)
+**     isZipCode(str)
+**     isPhoneNum(str)
+**     isDate(str)
+**
+**   format: text representation of required format;
+**       pass 'null' if no required format;
+**       used in alert as an aid to user
+***************************************************************/
+
+// object definition
+function validation(realName, formEltName, eltType, upToSnuff, format) {
+  this.realName = realName;
+  this.formEltName = formEltName;
+  this.eltType = eltType;
+  this.upToSnuff = upToSnuff;
+  this.format = format;
+}
+
+/***************************************************************
+** create a new object for each form element you need to validate
+** for example:
+** var lastName = new validation('last name', 'lastName', 'text', 'isText(str)', null);
+** var phoneNum = new validation('phone number', 'phoneNum', 'text', 'isPhoneNum(str)', 'xxx-xxx-xxxx');
+** var reason = new validation('reason for reading this', 'reason', 'checkbox', 'isCheck(formObj, form, 14, 3)', null);
+***************************************************************/
+// create objects here:
+
+
+var username = new validation('a username', 'username', 'text', 'isText(str)', null);
+var password = new validation('a password', 'password', 'text', 'isText(str)', null);
+var passwordC = new validation('a password confirmation', 'passwordConfirm', 'text', 'isText(str)', null);
+var firstN = new validation('your first name', 'firstName', 'text', 'isText(str)', null);
+var lastN = new validation('your last name', 'lastName', 'text', 'isText(str)', null);
+var address = new validation('your address', 'address1', 'text', 'isText(str)', null);
+var csz = new validation('your City/State/Zip', 'address2', 'text', 'isText(str)', null);
+
+
+
+
+/***************************************************************
+** Define the elts array:
+** Add a new item to the array for each object you create above
+** Make sure the value of the array element is the same as
+** the name of the object, and that the array elements are listed
+** in the same order the corresponding objects appear in the form
+** (it's more clear to the user that way)
+** for example:
+** var elts = new Array(lastName, phoneNum, reason)
+***************************************************************/
+var elts = new Array(username, password, passwordC, firstN, lastN, address, csz);
+
+
+
+/***************************************************************
+** The main function keeps track of which fields the user missed
+** or filled in incorrectly, and alerts the user so they can go
+** back and fix what's wrong.
+** Set allAtOnce to true if you want this "validation help" to
+** alert the user to all mistakes at once; set it to false if
+** you want it to show one mistake at a time
+***************************************************************/
+var allAtOnce = true;
+
+
+/***************************************************************
+** change text for alerts here
+** unspecified field (text): "Please include [field name]."
+** unspecified field (other): "Please choose [field name]."
+** invalid text field entries: "[field value] is an invalid [field name]!"
+** help with format: "Use this format: "
+***************************************************************/
+var beginRequestAlertForText = "Please include ";
+var beginRequestAlertGeneric = "Please choose ";
+var endRequestAlert = ".";
+var beginInvalidAlert = " is an invalid ";
+var endInvalidAlert = "!";
+var beginFormatAlert = "  Use this format: ";
+
+
+/***************************************************************
+** these functions validate the string or form object passed in,
+** and return true or false based on whether the test succeeds or fails
+**
+** validate existence of input
+**   isText(str): verifies text input or textarea is not empty
+**   isSelect(formObj): verifies item from a select menu is chosen
+**   isRadio(formObj): verifies one of a group of radio buttons is chosen
+**   isCheck(formObj, form, [begin], [num]): verifies at least one
+**       of a group of checkboxes is checked
+**     for [begin], fill in the index number in the elements array
+**         of the first checkbox (remember to start counting from zero)
+**     for [num], fill in the number of checkboxes in the group
+**
+** validate text in text input or textarea matches pattern
+**   isEmail(str): verifies email address (contains "@" and ".")
+**   isState(str): verifies U.S. State Code
+**   isZipCode(str): verifies zip code of form xxxxx or xxxxx-xxxx
+**   isPhoneNum(str): verifies phone number of form xxx-xxx-xxxx
+**   isDate(str): verifies date of form mm/dd/yyyy
+***************************************************************/
+
+function isText(str) {
+  return (str != "");
+}
+
+function isSelect(formObj) {
+  return (formObj.selectedIndex != 0);
+}
+
+function isRadio(formObj) {
+  for (j=0; j<formObj.length; j++) {
+    if (formObj[j].checked) {
+      return true;
+    }
+  }
+  return false;
+}
+
+function isCheck(formObj, form, begin, num) {
+  for (j=begin; j<begin+num; j++) {
+    if (form.elements[j].checked) {
+      return true;
+    }
+  }
+  return false;
+}
+
+function isEmail(str) {
+  return ((str != "") && (str.indexOf("@") != -1) && (str.indexOf(".") != -1));
+}
+
+function isState(str) {
+  str = str.toUpperCase();
+  return ( (str == "AK") || (str == "AL") || (str == "AR") || (str == "AZ") || (str == "CA") || (str == "CO") || (str == "CT") || (str == "DC") || (str == "DE") || (str == "FL") || (str == "GA") || (str == "HI") || (str == "IA") || (str == "ID") || (str == "IL") || (str == "IN") || (str == "KS") || (str == "KY") || (str == "LA") || (str == "MA") || (str == "MD") || (str == "ME") || (str == "MI") || (str == "MN") || (str == "MO") || (str == "MS") || (str == "MT") || (str == "NB") || (str == "NC") || (str == "ND") || (str == "NH") || (str == "NJ") || (str == "NM") || (str == "NV") || (str == "NY") || (str == "OH") || (str == "OK") || (str == "OR") || (str == "PA") || (str == "RI") || (str == "SC") || (str == "SD") || (str == "TN") || (str == "TX") || (str == "UT") || (str == "VA") || (str == "VT") || (str == "WA") || (str == "WI") || (str == "WV") || (str == "WY") );
+}
+
+function isZipCode(str) {
+  var l = str.length;
+  if ((l != 5) && (l != 10)) { return false }
+  for (j=0; j<l; j++) {
+    if ((l == 10) && (j == 5)) {
+      if (str.charAt(j) != "-") { return false }
+    } else {
+      if ((str.charAt(j) < "0") || (str.charAt(j) > "9")) { return false }
+    }
+  }
+  return true;
+}
+
+function isPhoneNum(str) {
+  if (str.length != 12) { return false }
+  for (j=0; j<str.length; j++) {
+    if ((j == 3) || (j == 7)) {
+      if (str.charAt(j) != "-") { return false }
+    } else {
+      if ((str.charAt(j) < "0") || (str.charAt(j) > "9")) { return false }
+    }
+  }
+  return true;
+}
+
+function isDate(str) {
+  if (str.length != 10) { return false }
+
+  for (j=0; j<str.length; j++) {
+    if ((j == 2) || (j == 5)) {
+      if (str.charAt(j) != "/") { return false }
+    } else {
+      if ((str.charAt(j) < "0") || (str.charAt(j) > "9")) { return false }
+    }
+  }
+
+  var month = str.charAt(0) == "0" ? parseInt(str.substring(1,2)) : parseInt(str.substring(0,2));
+  var day = str.charAt(3) == "0" ? parseInt(str.substring(4,5)) : parseInt(str.substring(3,5));
+  var begin = str.charAt(6) == "0" ? (str.charAt(7) == "0" ? (str.charAt(8) == "0" ? 9 : 8) : 7) : 6;
+  var year = parseInt(str.substring(begin, 10));
+
+  if (day == 0) { return false }
+  if (month == 0 || month > 12) { return false }
+  if (month == 1 || month == 3 || month == 5 || month == 7 || month == 8 || month == 10 || month == 12) {
+    if (day > 31) { return false }
+  } else {
+    if (month == 4 || month == 6 || month == 9 || month == 11) {
+      if (day > 30) { return false }
+    } else {
+      if (year%4 != 0) {
+        if (day > 28) { return false }
+      } else {
+        if (day > 29) { return false }
+      }
+    }
+  }
+  return true;
+}
+
+
+/***************************************************************
+** The validateForm() function validates the form elements
+** previously defined as validation objects and as members of
+** the elts array. We loop through the elts array, testing each
+** element in turn, and alerting the user when they've missed
+** a required field
+***************************************************************/
+
+function validateForm(form) {
+  var formEltName = "";
+  var formObj = "";
+  var str = "";
+  var realName = "";
+  var alertText = "";
+  var firstMissingElt = null;
+  var hardReturn = "\r\n";
+
+  for (i=0; i<elts.length; i++) {
+    formEltName = elts[i].formEltName;
+    formObj = eval("form." + formEltName);
+    realName = elts[i].realName;
+
+    if (elts[i].eltType == "text") {
+      str = formObj.value;
+
+      if (eval(elts[i].upToSnuff)) continue;
+
+      if (str == "") {
+        if (allAtOnce) {
+          alertText += beginRequestAlertForText + realName + endRequestAlert + hardReturn;
+          if (firstMissingElt == null) {firstMissingElt = formObj};
+        } else {
+          alertText = beginRequestAlertForText + realName + endRequestAlert + hardReturn;
+          alert(alertText);
+        }
+      } else {
+        if (allAtOnce) {
+          alertText += str + beginInvalidAlert + realName + endInvalidAlert + hardReturn;
+        } else {
+          alertText = str + beginInvalidAlert + realName + endInvalidAlert + hardReturn;
+        }
+        if (elts[i].format != null) {
+          alertText += beginFormatAlert + elts[i].format + hardReturn;
+        }
+        if (allAtOnce) {
+          if (firstMissingElt == null) {firstMissingElt = formObj};
+        } else {
+          alert(alertText);
+        }
+      }
+    } else {
+      if (eval(elts[i].upToSnuff)) continue;
+      if (allAtOnce) {
+        alertText += beginRequestAlertGeneric + realName + endRequestAlert + hardReturn;
+        if (firstMissingElt == null) {firstMissingElt = formObj};
+      } else {
+        alertText = beginRequestAlertGeneric + realName + endRequestAlert + hardReturn;
+        alert(alertText);
+      }
+    }
+    if (!isIE3) {
+      var goToObj = (allAtOnce) ? firstMissingElt : formObj;
+      if (goToObj.select) goToObj.select();
+      if (goToObj.focus) goToObj.focus();
+    }
+    if (!allAtOnce) {return false};
+  }
+  if (allAtOnce) {
+    if (alertText != "") {
+      alert(alertText);
+      return false;
+    }
+  } 
+//  alert("I am valid!"); //remove this line when you use the code
+  return true; //change this to return true to make the form submit
+}
+
+$$$$$$ Response Body For Transaction With Id 854 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/cgi-bin/login.pl?username=&password=&getInfo=true
+Form: name= action=login.pl
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 851)
+	web_add_auto_header("Priority",
+		"u=4");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Request Header For Transaction With Id 856 ******
+GET /WebTours/images/button_next.gif HTTP/1.1
+Host: localhost:1080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+DNT: 1
+Sec-GPC: 1
+Connection: keep-alive
+Referer: http://localhost:1080/cgi-bin/login.pl?username=&password=&getInfo=true
+Cookie: MSO=SID&1733038418
+Priority: u=5, i
+
+
+$$$$$$ Request Header For Transaction With Id 856 Ended $$$$$$
+
+****** Response Header For Transaction With Id 856 ******
+HTTP/1.1 200 OK
+Date: Sun, 01 Dec 2024 07:38:04 GMT
+Server: Apache/2.2.21 (Win32)
+Last-Modified: Tue, 26 Nov 2024 14:20:50 GMT
+ETag: "6000000095906-2f6-627d18e65a8b6"
+Accept-Ranges: bytes
+Content-Length: 758
+Keep-Alive: timeout=5, max=98
+Connection: Keep-Alive
+Content-Type: image/gif
+
+
+$$$$$$ Response Header For Transaction With Id 856 Ended $$$$$$
+
+****** Response Body For Transaction With Id 856 ******
+GIF89a\\\x00\x13\x00\xC4\x1F\x00\xBE\xC4\xCD\xCC\xD2\xDBRUW\xC3\xCA\xD4}\x82\x87\xF7\xF7\xF7\xDB\xDC\xDE\xC8\xCA\xCD)+,\xDE\xE4\xEE\xD6\xDD\xE6\xD1\xD8\xE2\xDA\xE1\xEB\xC0\xC6\xD1\xDC\xE3\xED\xD8\xDE\xE8\xDE\xE6\xF0\xC9\xD0\xD9\xCD\xD4\xDE\xD4\xDB\xE5\xE0\xE7\xF1\xD3\xDB\xE5\xC6\xCD\xD7\xD8\xDF\xE9\xDB\xE2\xED\xCF\xD6\xE0\xB1\xB7\xBF\xA4\xA8\xAE\xBC\xC3\xCD\xE1\xE8\xF2\x93\x95\x99\xFF\xFF\xFF!\xF9\x04\x01\x00\x00\x1F\x00,\x00\x00\x00\x00\\\x00\x13\x00\x00\x05\xFF\xE0'\x16\xC0\xE6\x9Dh\xAA\xAEl\xEB\xBEp|n@!\xDE\x86\xAC\xEF|\x0F\x1B\xB8\xD3\xC1v+\x1A\x8F\xC8\xA4r\xC9l\x16\x0B\x81\x13\xB0 \xFDp8\x80Fc0\xB0D\x02\x92\xCCb\xA2\xB80\x1C\x89\x04\xA5\xC3n\xBB\xDF\xF0\xB8\xDCMI;\x18\x17\xC5d\x91\x91\x04"\x16\\Z\x00W\x1F	'\x05\x07\x1E\x07VWY[]\x11\x11aceg	\x10ks\x9B\x9Cs\x14\x10	wy{}\x92\x81\x03\x83W\x1C\x1FQ%\x1E$\xAA\x8F\\^\x93b\x15\x96\x18\x19\x02\x08\xBC\x1A\x9Dl\x1B\xBE\x08
+\xBFo\x9F	\x18x
+\x15|\x12\xA6\x82\x84\x8ET&\x1E\x1F\xD2WZ]^`\xB6\xB8\x08\x04\x03
+\x04\x08\xC5\x08\x1B\x0C\xC4\xC5t\xA0\xC9y\xCC}\x7F\x16\x81\xA9\x8E\x1F)\xD7\xB1\xDA\x91\xDD\x0B\xB7\x0F\x0C< `\x90\x80\x81\x0C\x1D\xC8!\x10\xD0\x81\xC3.^\x1D\x04\x96+\xE7\xE1!\xC3\x13k\xCAE\xE4\xC5\xB0\x03\xA8;\x0F\x965\x93\x07\x1B\x80{(\xF2\xFF9\xDA\xC7\x8D\xD2\xAD<\x04\x08dr\xA3\x01\x81\x06\x00\xE76\xD8\xB4`\x13'\x01\x06\x08\x12\x90\x8B\xA0S(\x81\x0E@;\xD4\xB4\x90\x01\x01\x87c\xA2D\xC6\x03T2\x16\xCA\x13*\xB1\xB0\xFC\xE2R\x01@\x02\x02(h2\xD81\xA6N\x0C\x1DlRP\x8B \x03X6\x08\x16\xBCM\xEB\x96\x17/\x02\x18\xDA1\x08	\xCF\x0FUT\xD1\xAC\xE23\xB9\xB5\x1F\x99\x0B\x0Ft\xCE\x14\xEA!&\x1B\x01\x04j\xC2\xDD\x90vCS\x06\x8E/g\x1E\x08V\x83\x86\xA0*#\xE5\xF7T=,W\xAD\x11\x86\xD4\xD2\x9B\x19\x07\xE0\x10\x0E\xAD\xB9%'\x82\x02\x1D\x04P\xD6Mwn[r\x1B3\xD4\x04\xB0\xE0\x9C\xC7P\xCA\xFA\x92\x04l2uVY\xFC(\x91\x01\x88!\xC2C\x9B\x8F\xEF*E\x90\xC9&\x84]51\x1Fm\x9A`\x00G\x8D\x16;L\x08\xDA\xF4\xC1\x85sSM\x07\xB67\xE3\xD5\xEAY\\\xC5\x1Cf\x80!\x14\x1F\x07n`\xB0\xC0\x03\x10\xC8\xA1\x00\x06
+\x10\xE4\xC0s\x1A	v@\x81\x02	\x00\xC4\x06\x03\x19\xACA\xC1-\xB9,\xE0\xD5H\x7F\x9DV\x83\x074,\xD2\x88V\xAC\xE5W\x89\x19\xFD\xCD\xB4\xCE\x8Ar\x1C\xE3\x8E\x1E\x1C\xCA\x87+\x8BP\xE1\x01\x10+m1\x8F\x89\xFB\xA58\x16\x8B@\xB2\xE1\xE2h1\xD23\x9F!\x88|\x90C\x8DN4\xE9\xE4\x93P\x1A\x01E\x15",\xE9\xC3\x95Xf\xB9\x02\x10O\x1CP\x8D\x96`\x86\xE9\xC2\x06C\xDC\x10\x02\x00;
+$$$$$$ Response Body For Transaction With Id 856 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/cgi-bin/login.pl?username=&password=&getInfo=true
+Form: name= action=login.pl
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 863 ******
+GET /canonical.html HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 863 Ended $$$$$$
+
+****** Response Header For Transaction With Id 863 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Length: 90
+Via: 1.1 google
+Date: Sat, 30 Nov 2024 08:22:46 GMT
+Age: 83734
+Content-Type: text/html
+Cache-Control: public,must-revalidate,max-age=0,s-maxage=3600
+
+
+$$$$$$ Response Header For Transaction With Id 863 Ended $$$$$$
+
+****** Response Body For Transaction With Id 863 ******
+<meta http-equiv="refresh" content="0;url=https://support.mozilla.org/kb/captive-portal"/>
+$$$$$$ Response Body For Transaction With Id 863 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/cgi-bin/login.pl?username=&password=&getInfo=true
+Form: name= action=login.pl
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 863 ****** (Location Flag : tFlagInsertEnd, Location ID : 863)
+	web_url("canonical.html_4",
+		"URL=http://detectportal.firefox.com/canonical.html",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t43.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 863 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 851)
+	web_add_header("DNT",
+		"1");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 851)
+	web_add_header("Sec-GPC",
+		"1");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 851)
+	web_add_header("Upgrade-Insecure-Requests",
+		"1");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 863)
+	web_revert_auto_header("Priority");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Request Header For Transaction With Id 873 ******
+GET /success.txt?ipv4 HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: */*
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+
+
+$$$$$$ Request Header For Transaction With Id 873 Ended $$$$$$
+
+****** Response Header For Transaction With Id 873 ******
+HTTP/1.1 200 OK
+Server: nginx
+Content-Length: 8
+Via: 1.1 google
+Date: Sat, 30 Nov 2024 17:07:21 GMT
+Age: 52259
+Content-Type: text/plain
+Cache-Control: public,must-revalidate,max-age=0,s-maxage=3600
+
+
+$$$$$$ Response Header For Transaction With Id 873 Ended $$$$$$
+
+****** Response Body For Transaction With Id 873 ******
+success
+
+$$$$$$ Response Body For Transaction With Id 873 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/canonical.html
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 863 ******
+	web_url("canonical.html_4",
+		"URL=http://detectportal.firefox.com/canonical.html",
+		"TargetFrame=",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t43.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=/success.txt?ipv4", "Referer=", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 863 Ended $$$$$$
+
+WebSocket Filter notify: WebSocket Ping message
+****** Request Header For Transaction With Id 892 ******
+POST /cgi-bin/login.pl HTTP/1.1
+Host: localhost:1080
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 136
+Origin: http://localhost:1080
+DNT: 1
+Sec-GPC: 1
+Connection: keep-alive
+Referer: http://localhost:1080/cgi-bin/login.pl?username=&password=&getInfo=true
+Cookie: MSO=SID&1733038418
+Upgrade-Insecure-Requests: 1
+Priority: u=4
+
+
+$$$$$$ Request Header For Transaction With Id 892 Ended $$$$$$
+
+****** Request Body For Transaction With Id 892 ******
+username=test&password=1234&passwordConfirm=1234&firstName=first&lastName=last&address1=street&address2=city&register.x=55&register.y=10
+$$$$$$ Request Body For Transaction With Id 892 Ended $$$$$$
+
+****** Response Header For Transaction With Id 892 ******
+HTTP/1.1 200 OK
+Date: Sun, 01 Dec 2024 07:39:33 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Set-Cookie: MTUserInfo=firstName&first&address2&city&username&test&hash&20&lastName&last&address1&street&creditCard&&expDate&; path=/
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+
+
+$$$$$$ Response Header For Transaction With Id 892 Ended $$$$$$
+
+****** Response Body For Transaction With Id 892 ******
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+<head>
+<title>Welcome to Web Tours</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body bgcolor="#E0E7F1">
+
+<br/><br/><br/>
+
+
+<p /><style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-size : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: tahoma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: black}</style><blockquote>Thank you, <b>test</b>, for registering and welcome to the Web Tours family.
+We hope we can meet all your current and future travel needs.  If you have any questions, feel free 
+to ask our support staff.   Click below when you're ready to plan your dream trip...<p /><center><a href=welcome.pl?page=menus target='body'><img src=/WebTours/images/button_next.gif border=0></a></center></blockquote>
+</body>
+</html>
+$$$$$$ Response Body For Transaction With Id 892 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/canonical.html
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 892 ****** (Location Flag : tFlagInsertEnd, Location ID : 892)
+	web_submit_data("login.pl_2",
+		"Action=http://localhost:1080/cgi-bin/login.pl",
+		"Method=POST",
+		"TargetFrame=",
+		"RecContentType=text/html",
+		"Referer=http://localhost:1080/cgi-bin/login.pl?username=&password=&getInfo=true",
+		"Snapshot=t44.inf",
+		"Mode=HTML",
+		ITEMDATA,
+		"Name=username", "Value=test", ENDITEM,
+		"Name=password", "Value=1234", ENDITEM,
+		"Name=passwordConfirm", "Value=1234", ENDITEM,
+		"Name=firstName", "Value=first", ENDITEM,
+		"Name=lastName", "Value=last", ENDITEM,
+		"Name=address1", "Value=street", ENDITEM,
+		"Name=address2", "Value=city", ENDITEM,
+		"Name=register.x", "Value=55", ENDITEM,
+		"Name=register.y", "Value=10", ENDITEM,
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 892 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 892)
+	web_add_header("DNT",
+		"1");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 892)
+	web_add_header("Origin",
+		"http://localhost:1080");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 892)
+	web_add_header("Priority",
+		"u=4");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 892)
+	web_add_header("Sec-GPC",
+		"1");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 892)
+	web_add_header("Upgrade-Insecure-Requests",
+		"1");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+

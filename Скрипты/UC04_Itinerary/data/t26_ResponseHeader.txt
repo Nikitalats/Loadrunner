@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Vary: Accept-Encoding
+Content-Type: application/x-protobuf
+Content-Disposition: attachment
+Date: Sat, 30 Nov 2024 07:37:21 GMT
+Server: scaffolding on HTTPServer2
+Content-Length: 41245
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Connection: close
+

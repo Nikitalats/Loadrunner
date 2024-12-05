@@ -1,0 +1,13 @@
+[t57]
+FileName1=t57.html
+URL1=https://mozilla.cloudflare-dns.com/dns-query
+Total=2
+RequestHeaderFile=t57_RequestHeader.txt
+RequestBodyFile=t57_RequestBody.txt
+ResponseHeaderFile=t57_ResponseHeader.txt
+ContentType=application/dns-message
+SnapshotXmlFile=snapshot_57.xml
+FileName2=t57_onecrl.content-signature.mozilla.org-2024-12-27-18-19-45.html
+URL2=https://content-signature-2.cdn.mozilla.net/chains/onecrl.content-signature.mozilla.org-2024-12-27-18-19-45.chain
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t90]
+FileName1=t90_remote-settings.content-signature.mozilla.org-2024-12-27-18-19-47.html
+URL1=https://content-signature-2.cdn.mozilla.net/chains/remote-settings.content-signature.mozilla.org-2024-12-27-18-19-47.chain
+Total=1
+ContentType=binary/octet-stream
+SnapshotXmlFile=snapshot_90.xml
+RequestHeaderFile=t90_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t90_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

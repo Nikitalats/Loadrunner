@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Server: cloudflare
+Date: Mon, 02 Dec 2024 12:16:39 GMT
+Content-Type: application/dns-message
+Connection: keep-alive
+Access-Control-Allow-Origin: *
+Content-Length: 468
+CF-RAY: 8ebb3fd67d8ff105-DME
+alt-svc: h3=":443"; ma=86400
+

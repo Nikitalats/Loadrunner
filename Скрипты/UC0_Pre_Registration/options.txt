@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Loadrunner\UC0_Pre_Registration
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\loadrunner\uc0_pre_registration\\logfile.log
+c:\loadrunner\uc0_pre_registration\\combined_UC0_Pre_Registration.c
+c:\loadrunner\uc0_pre_registration\\pre_cci.c

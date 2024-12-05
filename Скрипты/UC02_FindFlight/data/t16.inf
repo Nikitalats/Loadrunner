@@ -1,0 +1,13 @@
+[t16]
+FileName1=t16.html
+URL1=http://ocsp.digicert.com/
+Total=2
+RequestHeaderFile=t16_RequestHeader.txt
+RequestBodyFile=t16_RequestBody.txt
+ResponseHeaderFile=t16_ResponseHeader.txt
+ContentType=application/ocsp-response
+SnapshotXmlFile=snapshot_16.xml
+FileName2=t16_threatListUpdates_fetch.html
+URL2=https://safebrowsing.googleapis.com/v4/threatListUpdates_fetch?$ct=application/x-protobuf&key=AIzaSyC7jsptDS3am4tPx4r3nxis7IMjBc5Dovo&$httpMethod=POST&$req=ChUKE25hdmNsaWVudC1hdXRvLWZmb3gaJwgFEAEaGwoNCAUQBhgBIgMwMDEwARCswBkaAhgM0xF3IyICIAIoARonCAEQARobCg0IARAGGAEiAzAwMTABEKjFDxoCGAx4xdbSIgIgAigBGicIAxABGhsKDQgDEAYYASIDMDAxMAEQzbwPGgIYDOSdeoIiAiACKAEaJwgHEAEaGwoNCAcQBhgBIgMwMDEwARCrixAaAhgM3i7AcCICIAIoARolCAkQARoZCg0ICRAGGAEiAzAwMTABECMaAhgMUj2mGCICIAIoAQ==
+[ProtocolInfo]
+ProtocolId=QTWeb

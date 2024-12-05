@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Server: openresty
+Content-Length: 338
+X-Amo-Request-Id: 9100d1e07abb4daaafb14f0b80677bb7
+Content-Security-Policy: font-src 'self' https://addons.mozilla.org/static-server/; child-src https://www.recaptcha.net/recaptcha/; script-src https://*.google-analytics.com https://*.googletagmanager.com https://www.recaptcha.net/recaptcha/ https://www.gstatic.com/recaptcha/ https://www.gstatic.cn/recaptcha/ https://addons.mozilla.org/static-server/; img-src 'self' blob: data: https://addons.mozilla.org/static-server/ https://addons.mozilla.org/user-media/ https://*.google-analytics.com https://*.googletagmanager.com; media-src https://videos.cdn.mozilla.net; style-src 'unsafe-inline' https://addons.mozilla.org/static-server/; object-src 'none'; default-src 'none'; form-action 'self'; frame-src https://www.recaptcha.net/recaptcha/; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com https://*.googletagmanager.com; report-uri /__cspreport__
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+Cross-Origin-Opener-Policy: same-origin
+Content-Encoding: gzip
+Via: 1.1 google, 1.1 google
+Date: Thu, 28 Nov 2024 12:59:00 GMT
+Cache-Control: max-age=3600
+Age: 1302
+ETag: W/"d2df194219bdfe9d9828d3d5a4d94a1d"
+Content-Type: application/json
+Vary: Accept-Encoding
+x-cache-status: hit
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

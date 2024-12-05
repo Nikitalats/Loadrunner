@@ -1,0 +1,10 @@
+GET /v1/buckets/main/collections/ms-language-packs/records/cfr-v1-ru HTTP/1.1
+Host: firefox.settings.services.mozilla.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0
+Accept: application/json
+Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br, zstd
+Content-Type: application/json
+Connection: keep-alive
+Priority: u=4
+

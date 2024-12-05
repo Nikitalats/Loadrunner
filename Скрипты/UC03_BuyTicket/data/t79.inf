@@ -1,0 +1,11 @@
+[t79]
+FileName1=t79_success.txt
+URL1=http://detectportal.firefox.com/success.txt?ipv4
+Total=1
+ContentType=text/plain
+SnapshotXmlFile=snapshot_79.xml
+RequestHeaderFile=t79_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t79_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

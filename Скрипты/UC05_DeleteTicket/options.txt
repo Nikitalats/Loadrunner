@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Loadrunner\UC05_DeleteTicket
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\loadrunner\uc05_deleteticket\\logfile.log
+c:\loadrunner\uc05_deleteticket\\combined_UC05_DeleteTicket.c
+c:\loadrunner\uc05_deleteticket\\pre_cci.c
