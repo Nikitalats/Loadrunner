@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--IC:\Loadrunner\UC04_Itinerary
--IC:\Program Files (x86)\Micro Focus\LoadRunner\include
--ec:\loadrunner\uc04_itinerary\\logfile.log
-c:\loadrunner\uc04_itinerary\\combined_UC04_Itinerary.c
-c:\loadrunner\uc04_itinerary\\pre_cci.c
+-IC:\Loadrunner_nt\Скрипты\UC04_Itinerary
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\loadrunner_nt\скрипты\uc04_itinerary\\logfile.log
+c:\loadrunner_nt\скрипты\uc04_itinerary\\combined_UC04_Itinerary.c
+c:\loadrunner_nt\скрипты\uc04_itinerary\\pre_cci.c

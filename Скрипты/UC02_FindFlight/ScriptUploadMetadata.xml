@@ -22,6 +22,9 @@
     <FileEntry Name="..'" Filter="1" />
     <FileEntry Name="109804901440.idx" Filter="1" />
     <FileEntry Name="136452845440.idx" Filter="1" />
+    <FileEntry Name="178260734440.idx" Filter="1" />
+    <FileEntry Name="245233301440.idx" Filter="1" />
+    <FileEntry Name="249855917440.idx" Filter="1" />
     <FileEntry Name="250503756440.idx" Filter="1" />
     <FileEntry Name="4588020440.idx" Filter="1" />
     <FileEntry Name="458802044_10F.803.idx" Filter="1" />
@@ -183,11 +186,17 @@
     <FileEntry Name="7067744_VTV.236.idx" Filter="1" />
     <FileEntry Name="7067744_YVY.434.idx" Filter="1" />
     <FileEntry Name="7067744_zCb.180.idx" Filter="1" />
+    <FileEntry Name="91329416440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrvKWa.25.log" Filter="1" />
+    <FileEntry Name="mdrvTh8.105.log" Filter="1" />
+    <FileEntry Name="mdrvUkw.671.log" Filter="1" />
+    <FileEntry Name="mdrvwTH.201.log" Filter="1" />
+    <FileEntry Name="mdrvzhs.791.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="NewParam.dat" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />
@@ -202,6 +211,7 @@
     <FileEntry Name="UC02_FindFlight.c.pickle" Filter="1" />
     <FileEntry Name="UC02_FindFlight.ci" Filter="1" />
     <FileEntry Name="UC02_FindFlight.prm.bak" Filter="1" />
+    <FileEntry Name="UC02_FindFlight.sdf" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />

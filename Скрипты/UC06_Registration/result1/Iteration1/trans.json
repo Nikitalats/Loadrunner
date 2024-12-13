@@ -1,0 +1,32 @@
+[
+    {
+        "transactionName": "open_home_page",
+        "rawStartTime": 1733828972254,
+        "rawEndTime": 1733828975500
+    },
+    {
+        "transactionName": "sign_up",
+        "rawStartTime": 1733828975516,
+        "rawEndTime": 1733828975626
+    },
+    {
+        "transactionName": "registration",
+        "rawStartTime": 1733828975642,
+        "rawEndTime": 1733828995952
+    },
+    {
+        "transactionName": "next_page_reg",
+        "rawStartTime": 1733828995967,
+        "rawEndTime": 1733829002139
+    },
+    {
+        "transactionName": "sign_off",
+        "rawStartTime": 1733829002156,
+        "rawEndTime": 1733829002266
+    },
+    {
+        "transactionName": "UC06_Registration",
+        "rawStartTime": 1733828972238,
+        "rawEndTime": 1733829002282
+    }
+]

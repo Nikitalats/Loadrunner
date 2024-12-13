@@ -1,0 +1,22 @@
+[
+    {
+        "transactionName": "open_home_page",
+        "rawStartTime": 1733762974692,
+        "rawEndTime": 1733762977920
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1733762977935,
+        "rawEndTime": 1733762983108
+    },
+    {
+        "transactionName": "itinerary_page",
+        "rawStartTime": 1733762983124,
+        "rawEndTime": 1733762986359
+    },
+    {
+        "transactionName": "UC04_Itinerary",
+        "rawStartTime": 1733762974677,
+        "rawEndTime": 1733762986374
+    }
+]

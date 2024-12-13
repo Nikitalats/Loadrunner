@@ -100,6 +100,13 @@ else{
 	
 	lr_end_transaction("delete_ticket",LR_AUTO);
 	
+	
+	lr_start_transaction("sign_off");
+
+	sign_off();
+
+	lr_end_transaction("sign_off",LR_AUTO);
+	
 	lr_end_transaction("UC05_DeleteTicket", LR_AUTO);
 
 	return 0;

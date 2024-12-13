@@ -1,10 +1,15 @@
-<HTML>
-<HEAD>
-<title>Web Tours</title>
-<frameset rows = "65,*" border="1" bordercolor="#E0E7F1">
-<frame name="header" src="header.html" scrolling="no" noresize="noresize" marginheight="2" marginwidth="2"/>
-<frame name="body" src="/cgi-bin/welcome.pl?signOff=true" scrolling="auto" noresize="noresize" marginheight="2" marginwidth="2" />
-</frameset>
-</HEAD>
-</HTML>
+<!--
+User password was correct - added a cookie with the user's default
+information.  Set the user up to make reservations...
 
+--->
+
+<html>
+<title>Web Tours</title>
+<frameset cols="160,*" border=1 frameborder=1>
+<frame src="nav.pl?page=menu&in=home" name="navbar" marginheight="2" marginwidth="2" noresize="noresize" scrolling="auto"/>
+<frame src="login.pl?intro=true" name="info" marginheight="2" marginwidth="2" noresize="noresize" scrolling="auto"/>
+</frameset>
+
+</body>
+</html>

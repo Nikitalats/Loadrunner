@@ -7,13 +7,13 @@ NewFunctionHeader=1
 RunType=cci
 ActionLogicExt=action_logic
 LastActiveAction=Action
-MajorVersion=2020
-MinorVersion=0
+MajorVersion=12
+MinorVersion=55
 ActiveTypes=QTWeb
 GenerateTypes=QTWeb
 AdditionalTypes=QTWeb
 DevelopTool=Vugen
-LastModifyVer=2020.0.0.0
+LastModifyVer=12.55.0.911
 DFERebrandFlag=Done
 ParamLeftBrace={
 ParamRightBrace=}
@@ -56,7 +56,7 @@ vuser_end=cci
 [TransactionsOrder]
 Order="UC0_Pre_Registration__*delimiter*__open_home_page__*delimiter*__sign_up__*delimiter*__registration"
 [StateManagement]
-LastReplayStatus=1
+LastReplayStatus=2
 [ActiveReplay]
 LastReplayedRunName=result1
 ActiveRunName=result1

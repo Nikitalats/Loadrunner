@@ -17,6 +17,7 @@
     <FileEntry Name="WebSocketCB.c" Filter="2" />
     <FileEntry Name="combined_UC0_Pre_Registration.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="231257330440.idx" Filter="1" />
     <FileEntry Name="76965638440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
@@ -37,6 +38,7 @@
     <FileEntry Name="UC0_Pre_Registration.c.pickle" Filter="1" />
     <FileEntry Name="UC0_Pre_Registration.ci" Filter="1" />
     <FileEntry Name="UC0_Pre_Registration.prm.bak" Filter="1" />
+    <FileEntry Name="UC0_Pre_Registration.sdf" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />

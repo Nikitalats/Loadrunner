@@ -1,11 +1,10 @@
 HTTP/1.1 200 OK
-Date: Thu, 05 Dec 2024 14:55:21 GMT
+Date: Mon, 09 Dec 2024 16:49:37 GMT
 Server: Apache/2.2.21 (Win32)
-Last-Modified: Tue, 26 Nov 2024 14:20:50 GMT
-ETag: "60000000958f2-16e-627d18e607dc1"
-Accept-Ranges: bytes
-Content-Length: 366
-Keep-Alive: timeout=5, max=100
+Expires: 5s
+Set-Cookie: MTUserInfo=firstName&Geralt&address2&Novigrad&username&Geralt&hash&116&lastName&Rivsky%0A&address1&Oxenfurtskaya&creditCard&&expDate&%0A; path=/
+Keep-Alive: timeout=5, max=97
 Connection: Keep-Alive
-Content-Type: text/html
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
 

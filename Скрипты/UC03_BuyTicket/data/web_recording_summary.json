@@ -140,7 +140,7 @@
     "IsWinInetMode": false,
     "MaxUsedConnections": 40,
     "RecordedBrowser": "Firefox",
-    "RecordingDate": "РЅРѕСЏ-28-2024",
+    "RecordingDate": "Р Р…Р С•РЎРЏ-28-2024",
     "RecordingDuration": 115484,
     "RecordingMode": "N/A",
     "RecordingTimeStamp": 1732800000,
@@ -1034,5 +1034,5 @@
     "IncludeInScript": false,
     "IsScriptIncludeWebSocket": true
   },
-  "NumberOfCorrelations": 5
+  "NumberOfCorrelations": 0
 }

@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--IC:\Loadrunner\UC01_Autorization
--IC:\Program Files (x86)\Micro Focus\LoadRunner\include
--ec:\loadrunner\uc01_autorization\\logfile.log
-c:\loadrunner\uc01_autorization\\combined_UC01_Autorization.c
-c:\loadrunner\uc01_autorization\\pre_cci.c
+-IC:\Loadrunner_nt\Скрипты\UC01_Autorization
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\loadrunner_nt\скрипты\uc01_autorization\\logfile.log
+c:\loadrunner_nt\скрипты\uc01_autorization\\combined_UC01_Autorization.c
+c:\loadrunner_nt\скрипты\uc01_autorization\\pre_cci.c

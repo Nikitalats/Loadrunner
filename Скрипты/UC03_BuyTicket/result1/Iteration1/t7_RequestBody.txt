@@ -1,4 +1,0 @@
-"firstName=Geralt&lastName=Rivsky&address1=Oxenfurtskaya&address2=Novigrad&pass1=Geralt+Rivsky&"
-"creditCard=5105105105105110&expDate=06%2F24&oldCCOption=&numPassengers=9&seatType=First&seatPr"
-"ef=None&outboundFlight=532%3B351%3B12%2F12%2F2024&advanceDiscount=0&returnFlight=&JSFormSubmit"
-"=off&buyFlights.x=46&buyFlights.y=5&.cgifields=saveCC"

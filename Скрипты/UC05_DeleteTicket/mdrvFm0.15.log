@@ -1,0 +1,2252 @@
+..\\lib\\transaction.h(30):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=523574ms: 751-byte response body for "http://localhost:1080/WebTours/images/signoff.gif" (RelFrameId=, Internal ID=18379)
+..\\lib\\transaction.h(30): t=523575ms: Request done "http://localhost:1080/WebTours/images/signoff.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=523575ms: 228-byte response headers for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=18375)
+..\\lib\\transaction.h(30):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(30):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(30):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(30):     Expires: 5s\r\n
+..\\lib\\transaction.h(30):     Keep-Alive: timeout=5, max=99\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(30):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=523576ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=18375)
+..\\lib\\transaction.h(30):     398\r\n
+..\\lib\\transaction.h(30): t=523576ms: 7-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=18375)
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30):     0\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=523576ms: 920-byte chunked response body for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=18375)
+..\\lib\\transaction.h(30):     <!DOCTYPE html\n
+..\\lib\\transaction.h(30):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\lib\\transaction.h(30):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\lib\\transaction.h(30):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\lib\\transaction.h(30):     <head>\n
+..\\lib\\transaction.h(30):     <title>Welcome to Web Tours</title>\n
+..\\lib\\transaction.h(30):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\lib\\transaction.h(30):     </head>\n
+..\\lib\\transaction.h(30):     <body bgcolor="#E0E7F1">\n
+..\\lib\\transaction.h(30):     <p /><style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; fon
+..\\lib\\transaction.h(30):     t-size : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family:
+..\\lib\\transaction.h(30):      tahoma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: 
+..\\lib\\transaction.h(30):     black}</style><BR/><BR/><BR/><BR/><BR/><blockquote>Welcome, <b>Geralt</b>, to the Web Tour
+..\\lib\\transaction.h(30):     s reservation pages.<BR/>Using the menu to the left, you can search for new flights to boo
+..\\lib\\transaction.h(30):     k, \n
+..\\lib\\transaction.h(30):     or review/edit the flights already booked.  Don't forget to sign off when\n
+..\\lib\\transaction.h(30):     you're done!\n
+..\\lib\\transaction.h(30):     </blockquote>\n
+..\\lib\\transaction.h(30):     </body>\n
+..\\lib\\transaction.h(30):     </html>
+..\\lib\\transaction.h(30): t=523578ms: Request done "http://localhost:1080/cgi-bin/login.pl?intro=true"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): Registered web_reg_find successful for "Text=User password was correct" (count=1)  	[MsgId: MMSG-26364]
+..\\lib\\transaction.h(30): Registered web_reg_find successful for "Text=<blockquote>Welcome, <b>Geralt</b>, to the Web Tours" (count=1)  	[MsgId: MMSG-26364]
+..\\lib\\transaction.h(30): web_submit_data("login.pl") was successful, 5781 body bytes, 2059 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(17): Notify: Transaction "login" ended with a "Pass" status (Duration: 0,2152 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(20): Notify: Transaction "itinerary_page" started.	[MsgId: MMSG-16999]
+Action.c(22): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(22): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(143): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(143): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(146): web_url("welcome.pl_2") started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(146): t=523579ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=523579ms: 521-byte request headers for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=18380)
+..\\lib\\transaction.h(146):     GET /cgi-bin/welcome.pl?page=itinerary HTTP/1.1\r\n
+..\\lib\\transaction.h(146):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home\r\n
+..\\lib\\transaction.h(146):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(146):     .0\r\n
+..\\lib\\transaction.h(146):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(146):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(146):     Accept: */*\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(146):     Cookie: MSO=SID&1733820090; MTUserInfo=firstName&Geralt&address2&Novigrad&username&Geralt&
+..\\lib\\transaction.h(146):     hash&116&lastName&Rivsky%0A&address1&Oxenfurtskaya&creditCard&&expDate&%0A\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=523620ms: 215-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=18380)
+..\\lib\\transaction.h(146):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(146):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(146):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(146):     Keep-Alive: timeout=5, max=95\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(146):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=523620ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=18380)
+..\\lib\\transaction.h(146):     24f\r\n
+..\\lib\\transaction.h(146): t=523620ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=18380)
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=523620ms: 591-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=18380)
+..\\lib\\transaction.h(146):     <!-- \n
+..\\lib\\transaction.h(146):      User wants the intineraries.  Since user has already logged on,\n
+..\\lib\\transaction.h(146):      we can give them the menu in the navbar.\n
+..\\lib\\transaction.h(146):      --->\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <html>\n
+..\\lib\\transaction.h(146):     <title>Web Tours</title>\n
+..\\lib\\transaction.h(146):        <!-- Frame Set -->\n
+..\\lib\\transaction.h(146):        <frameset cols="160,*" border="1" frameborder="1">\n
+..\\lib\\transaction.h(146):           <!-- Navigation Frame -->\n
+..\\lib\\transaction.h(146):           <frame src="nav.pl?page=menu&in=itinerary" name="navbar" \n
+..\\lib\\transaction.h(146):                 marginheight="2" marginwidth="2" noresize="noresize" scrolling="auto"/>\n
+..\\lib\\transaction.h(146):           <!-- Itinerary Frame -->\n
+..\\lib\\transaction.h(146):           <frame src="itinerary.pl" name="info" \n
+..\\lib\\transaction.h(146):                 marginheight="2" marginwidth="2" noresize="noresize" scrolling="auto"/>\n
+..\\lib\\transaction.h(146):        </frameset>\n
+..\\lib\\transaction.h(146):     </html>\n
+..\\lib\\transaction.h(146): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" in "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(146): Detected non-resource "http://localhost:1080/cgi-bin/itinerary.pl" in "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(146): t=523621ms: Already connected [1] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=523621ms: 526-byte request headers for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=18381)
+..\\lib\\transaction.h(146):     GET /cgi-bin/nav.pl?page=menu&in=itinerary HTTP/1.1\r\n
+..\\lib\\transaction.h(146):     Referer: http://localhost:1080/cgi-bin/welcome.pl?page=itinerary\r\n
+..\\lib\\transaction.h(146):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(146):     .0\r\n
+..\\lib\\transaction.h(146):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(146):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(146):     Accept: */*\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(146):     Cookie: MSO=SID&1733820090; MTUserInfo=firstName&Geralt&address2&Novigrad&username&Geralt&
+..\\lib\\transaction.h(146):     hash&116&lastName&Rivsky%0A&address1&Oxenfurtskaya&creditCard&&expDate&%0A\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=523621ms: Already connected [2] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=523622ms: 509-byte request headers for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18382)
+..\\lib\\transaction.h(146):     GET /cgi-bin/itinerary.pl HTTP/1.1\r\n
+..\\lib\\transaction.h(146):     Referer: http://localhost:1080/cgi-bin/welcome.pl?page=itinerary\r\n
+..\\lib\\transaction.h(146):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(146):     .0\r\n
+..\\lib\\transaction.h(146):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(146):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(146):     Accept: */*\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(146):     Cookie: MSO=SID&1733820090; MTUserInfo=firstName&Geralt&address2&Novigrad&username&Geralt&
+..\\lib\\transaction.h(146):     hash&116&lastName&Rivsky%0A&address1&Oxenfurtskaya&creditCard&&expDate&%0A\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=523623ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=18380)
+..\\lib\\transaction.h(146):     0\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=523623ms: Request done "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=523699ms: 255-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=18381)
+..\\lib\\transaction.h(146):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(146):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(146):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(146):     Expires: Mon, 09 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(146):     Keep-Alive: timeout=5, max=96\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(146):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=523699ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=18381)
+..\\lib\\transaction.h(146):     5ca\r\n
+..\\lib\\transaction.h(146): t=523699ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=18381)
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=523700ms: 1482-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=18381)
+..\\lib\\transaction.h(146):     <!DOCTYPE html\n
+..\\lib\\transaction.h(146):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\lib\\transaction.h(146):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\lib\\transaction.h(146):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\lib\\transaction.h(146):     <head>\n
+..\\lib\\transaction.h(146):     <title>Web Tours Navigation Bar</title>\n
+..\\lib\\transaction.h(146):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\lib\\transaction.h(146):     </head>\n
+..\\lib\\transaction.h(146):     <body bgcolor="#E0E7F1">\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <style>\n
+..\\lib\\transaction.h(146):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+..\\lib\\transaction.h(146):     \tH1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+..\\lib\\transaction.h(146):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+..\\lib\\transaction.h(146):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib\\transaction.h(146):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+..\\lib\\transaction.h(146):     N: none}\n
+..\\lib\\transaction.h(146):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+..\\lib\\transaction.h(146):     CORATION: underline}\n
+..\\lib\\transaction.h(146):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib\\transaction.h(146):     </style>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <BR><BR><center>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <br clear="both"/><center><A HREF="welcome.pl?page=search" TARGET="body"><IMG BORDER="0" S
+..\\lib\\transaction.h(146):     RC="/WebTours/images/flights.gif" \n
+..\\lib\\transaction.h(146):     ALT="Search Flights Button"/></A>\n
+..\\lib\\transaction.h(146):     <br clear="both"/><A HREF="welcome.pl?page=itinerary" TARGET="body"><IMG BORDER="0" SRC="/
+..\\lib\\transaction.h(146):     WebTours/images/in_itinerary.gif" \n
+..\\lib\\transaction.h(146):     ALT="Itinerary Button"/></A>\n
+..\\lib\\transaction.h(146):     <br clear="both"/><A HREF="welcome.pl?page=menus" TARGET="body"><IMG BORDER="0" SRC="/WebT
+..\\lib\\transaction.h(146):     ours/images/home.gif" \n
+..\\lib\\transaction.h(146):     ALT="Home Button"/></A>\n
+..\\lib\\transaction.h(146):     <br clear><A HREF="welcome.pl?signOff=1" TARGET="body"><IMG BORDER="0" SRC="/WebTours/imag
+..\\lib\\transaction.h(146):     es/signoff.gif" \n
+..\\lib\\transaction.h(146):     ALT="SignOff Button"/></A></center>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     </body>\n
+..\\lib\\transaction.h(146):     </html>\n
+..\\lib\\transaction.h(146): Resource "http://localhost:1080/WebTours/images/flights.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\lib\\transaction.h(146): Found resource "http://localhost:1080/WebTours/images/in_itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(146): Found resource "http://localhost:1080/WebTours/images/home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(146): Resource "http://localhost:1080/WebTours/images/signoff.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\lib\\transaction.h(146): t=523704ms: Already connected [3] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=523704ms: 517-byte request headers for "http://localhost:1080/WebTours/images/home.gif" (RelFrameId=, Internal ID=18384)
+..\\lib\\transaction.h(146):     GET /WebTours/images/home.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(146):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary\r\n
+..\\lib\\transaction.h(146):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(146):     .0\r\n
+..\\lib\\transaction.h(146):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(146):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(146):     Accept: */*\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(146):     Cookie: MSO=SID&1733820090; MTUserInfo=firstName&Geralt&address2&Novigrad&username&Geralt&
+..\\lib\\transaction.h(146):     hash&116&lastName&Rivsky%0A&address1&Oxenfurtskaya&creditCard&&expDate&%0A\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=523705ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=523705ms: 525-byte request headers for "http://localhost:1080/WebTours/images/in_itinerary.gif" (RelFrameId=, Internal ID=18383)
+..\\lib\\transaction.h(146):     GET /WebTours/images/in_itinerary.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(146):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary\r\n
+..\\lib\\transaction.h(146):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(146):     .0\r\n
+..\\lib\\transaction.h(146):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(146):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(146):     Accept: */*\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(146):     Cookie: MSO=SID&1733820090; MTUserInfo=firstName&Geralt&address2&Novigrad&username&Geralt&
+..\\lib\\transaction.h(146):     hash&116&lastName&Rivsky%0A&address1&Oxenfurtskaya&creditCard&&expDate&%0A\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=523706ms: 255-byte response headers for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18382)
+..\\lib\\transaction.h(146):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(146):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(146):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(146):     Expires: Mon, 09 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(146):     Keep-Alive: timeout=5, max=98\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(146):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=523706ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18382)
+..\\lib\\transaction.h(146):     377\r\n
+..\\lib\\transaction.h(146): t=523711ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18382)
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=523711ms: 887-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18382)
+..\\lib\\transaction.h(146):     <!DOCTYPE html\n
+..\\lib\\transaction.h(146):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\lib\\transaction.h(146):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\lib\\transaction.h(146):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\lib\\transaction.h(146):     <head>\n
+..\\lib\\transaction.h(146):     <title>Flights List</title>\n
+..\\lib\\transaction.h(146):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\lib\\transaction.h(146):     </head>\n
+..\\lib\\transaction.h(146):     <body bgcolor="#E0E7F1">\n
+..\\lib\\transaction.h(146):     <style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-siz
+..\\lib\\transaction.h(146):     e : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: taho
+..\\lib\\transaction.h(146):     ma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 8pt; color: black}
+..\\lib\\transaction.h(146):     </style><BR/><BR/><h1><font color="#003366">&nbsp;&nbsp;<b>Itinerary</font></b></h1><block
+..\\lib\\transaction.h(146):     quote><form method="post" action="itinerary.pl" enctype="application/x-www-form-urlencoded
+..\\lib\\transaction.h(146):     ">\n
+..\\lib\\transaction.h(146):     <center><H3>No flights have been reserved.</H3></center>\n
+..\\lib\\transaction.h(146):     </form>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     </center>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     </body>\n
+..\\lib\\transaction.h(146):     </html>
+..\\lib\\transaction.h(146): t=523716ms: 297-byte response headers for "http://localhost:1080/WebTours/images/in_itinerary.gif" (RelFrameId=, Internal ID=18383)
+..\\lib\\transaction.h(146):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(146):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(146):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(146):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(146):     ETag: "6000000095916-2dd-627d18e68e27b"\r\n
+..\\lib\\transaction.h(146):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(146):     Content-Length: 733\r\n
+..\\lib\\transaction.h(146):     Keep-Alive: timeout=5, max=94\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=523717ms: 733-byte response body for "http://localhost:1080/WebTours/images/in_itinerary.gif" (RelFrameId=, Internal ID=18383)
+..\\lib\\transaction.h(146): t=523717ms: Request done "http://localhost:1080/WebTours/images/in_itinerary.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=523717ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=18381)
+..\\lib\\transaction.h(146):     0\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=523720ms: Request done "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=523720ms: 297-byte response headers for "http://localhost:1080/WebTours/images/home.gif" (RelFrameId=, Internal ID=18384)
+..\\lib\\transaction.h(146):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(146):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(146):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(146):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(146):     ETag: "600000009590e-2b0-627d18e67bbbe"\r\n
+..\\lib\\transaction.h(146):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(146):     Content-Length: 688\r\n
+..\\lib\\transaction.h(146):     Keep-Alive: timeout=5, max=98\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=523721ms: 688-byte response body for "http://localhost:1080/WebTours/images/home.gif" (RelFrameId=, Internal ID=18384)
+..\\lib\\transaction.h(146): t=523721ms: Request done "http://localhost:1080/WebTours/images/home.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=523723ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18382)
+..\\lib\\transaction.h(146):     0\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=523725ms: Request done "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): Error -26377: No match found for the requested parameter "flightID". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 4381 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+..\\lib\\transaction.h(146): Notify: Saving Parameter "flightID_count = 0".	[MsgId: MMSG-13798]
+..\\lib\\transaction.h(146): Registered web_reg_find successful for "Text=Itinerary" (count=3)  	[MsgId: MMSG-26364]
+..\\lib\\transaction.h(146): web_url("welcome.pl_2") highest severity level was "ERROR", 4381 body bytes, 1319 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26387]
+..\\lib\\transaction.h(146): Notify: Transaction "itinerary_page" ended with a "Fail" status (Duration: 0,1471 Wasted Time: 0,0002).	[MsgId: MMSG-16871]
+..\\lib\\transaction.h(146): Notify: Transaction "itinerary_page" has 1 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(146): Notify: The 1st error message associated with transaction "itinerary_page" is "Error -26377: No match found for the requested parameter "flightID". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 4381 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(146): Notify: Transaction "UC05_DeleteTicket" ended with a "Fail" status (Duration: 0,5590 Wasted Time: 0,0003).	[MsgId: MMSG-16871]
+..\\lib\\transaction.h(146): Notify: Transaction "UC05_DeleteTicket" has 1 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(146): Notify: The 1st error message associated with transaction "UC05_DeleteTicket" is "Error -26377: No match found for the requested parameter "flightID". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 4381 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 861.	[MsgId: MMSG-15965]
+Starting iteration 862.	[MsgId: MMSG-15968]
+..\\lib\\transaction.h(146): t=523726ms: Closed connection [0] to localhost:1080 after completing 7 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=523726ms: Closed connection [1] to localhost:1080 after completing 5 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=523726ms: Closed connection [2] to localhost:1080 after completing 3 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=523726ms: Closed connection [3] to localhost:1080 after completing 3 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=523727ms: Closed connection [4] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=523727ms: Closed connection [5] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): Resetting all proxy auto-configuration information  	[MsgId: MMSG-26000]
+Notify: Next row for parameter login = 2 [table  = login].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'login': table = '..\Parametrs\users.dat' column = '0' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter password = 2 [table  = password].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'password': table = '..\Parametrs\users.dat' column = '1' row = '2'.	[MsgId: MMSG-13877]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(3): Notify: Transaction "UC05_DeleteTicket" started.	[MsgId: MMSG-16999]
+Action.c(5): Notify: Transaction "open_home_page" started.	[MsgId: MMSG-16999]
+..\\lib\\transaction.h(5): web_reg_save_param started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(5): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(10): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(10): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(13): web_url("WebTours") started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(13): t=523729ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=523729ms: Connected socket [0] from 127.0.0.1:13168 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=523729ms: 266-byte request headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=18385)
+..\\lib\\transaction.h(13):     GET /WebTours/ HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=523732ms: 298-byte response headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=18385)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Tue, 26 Nov 2024 14:20:50 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "60000000958f2-16e-627d18e607dc1"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 366\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=523733ms: 366-byte response body for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=18385)
+..\\lib\\transaction.h(13):     <HTML>\n
+..\\lib\\transaction.h(13):     <HEAD>\n
+..\\lib\\transaction.h(13):     <title>Web Tours</title>\n
+..\\lib\\transaction.h(13):     <frameset rows = "65,*" border="1" bordercolor="#E0E7F1">\n
+..\\lib\\transaction.h(13):     <frame name="header" src="header.html" scrolling="no" noresize="noresize" marginheight="2"
+..\\lib\\transaction.h(13):      marginwidth="2"/>\n
+..\\lib\\transaction.h(13):     <frame name="body" src="/cgi-bin/welcome.pl?signOff=true" scrolling="auto" noresize="nores
+..\\lib\\transaction.h(13):     ize" marginheight="2" marginwidth="2" />\n
+..\\lib\\transaction.h(13):     </frameset>\n
+..\\lib\\transaction.h(13):     </HEAD>\n
+..\\lib\\transaction.h(13):     </HTML>\n
+..\\lib\\transaction.h(13):     \n
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): t=523734ms: Request done "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=523734ms: Connecting [1] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=523735ms: Connecting [2] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=523736ms: Connected socket [1] from 127.0.0.1:13169 to 127.0.0.1:1080 in 2 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=523736ms: 319-byte request headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=18386)
+..\\lib\\transaction.h(13):     GET /WebTours/header.html HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=523740ms: Connected socket [2] from 127.0.0.1:13170 to 127.0.0.1:1080 in 5 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=523741ms: 330-byte request headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=18387)
+..\\lib\\transaction.h(13):     GET /cgi-bin/welcome.pl?signOff=true HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=523742ms: 298-byte response headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=18386)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Tue, 26 Nov 2024 14:20:50 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "60000000958ef-2c6-627d18e5f9ceb"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 710\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=523742ms: 710-byte response body for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=18386)
+..\\lib\\transaction.h(13):     <!DOCTYPE html>\n
+..\\lib\\transaction.h(13):     <HTML xmlns="http://www.w3.org/1999/xhtml">\n
+..\\lib\\transaction.h(13):     <HEAD></HEAD>\n
+..\\lib\\transaction.h(13):     <BODY bgcolor="#003366" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">\n
+..\\lib\\transaction.h(13):     \t\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+..\\lib\\transaction.h(13):     bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n
+..\\lib\\transaction.h(13):     \t\t<table width="100%" border="0" cellspacing="0" cellpadding="0">\n
+..\\lib\\transaction.h(13):     \t\t\t<tr>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td align="left" valign="middle" width="50%"><img src="images/hp_logo.png" alt="" 
+..\\lib\\transaction.h(13):     height="45" width="69" align="absmiddle" border="0"/><img src="images/webtours.png" alt=""
+..\\lib\\transaction.h(13):      height="45" width="130" align="absmiddle" border="0"/></td>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td align="right"></td>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td></td>\n
+..\\lib\\transaction.h(13):     \t\t\t</tr>\n
+..\\lib\\transaction.h(13):     \t\t</table>\n
+..\\lib\\transaction.h(13):     \t</BODY>\n
+..\\lib\\transaction.h(13):     </HTML>
+..\\lib\\transaction.h(13): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(13): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(13): t=523750ms: Request done "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=523750ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=523751ms: 337-byte request headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=18388)
+..\\lib\\transaction.h(13):     GET /WebTours/images/hp_logo.png HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/header.html\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=523751ms: Connecting [3] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=523752ms: 297-byte response headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=18388)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "6000000095911-259-627d18e680789"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 601\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=99\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/png\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=523753ms: 601-byte response body for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=18388)
+..\\lib\\transaction.h(13): t=523753ms: Request done "http://localhost:1080/WebTours/images/hp_logo.png"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=523753ms: Connected socket [3] from 127.0.0.1:13171 to 127.0.0.1:1080 in 2 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=523753ms: 338-byte request headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=18389)
+..\\lib\\transaction.h(13):     GET /WebTours/images/webtours.png HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/header.html\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=523755ms: 300-byte response headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=18389)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "6000000095924-105b-627d18e6b7b16"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 4187\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/png\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=523756ms: 4187-byte response body for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=18389)
+..\\lib\\transaction.h(13): t=523756ms: Request done "http://localhost:1080/WebTours/images/webtours.png"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=523819ms: 328-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=18387)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(13):     Set-Cookie: MSO=SID&1733820091; path=/\r\n
+..\\lib\\transaction.h(13):     Set-Cookie: MTUserInfo=; path=/; expires=Mon, 09-Dec-2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=523820ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=18387)
+..\\lib\\transaction.h(13):     2ae\r\n
+..\\lib\\transaction.h(13): t=523820ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=18387)
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=523820ms: 686-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=18387)
+..\\lib\\transaction.h(13):     <!-- \n
+..\\lib\\transaction.h(13):      A Session ID has been created and loaded into a cookie called MSO.\n
+..\\lib\\transaction.h(13):      Also, the server options have been loaded into the cookie called\n
+..\\lib\\transaction.h(13):      MSO as well.  The server options can be set via the Admin page.\n
+..\\lib\\transaction.h(13):      --->\n
+..\\lib\\transaction.h(13):     \n
+..\\lib\\transaction.h(13):     <html>\n
+..\\lib\\transaction.h(13):     <title>Web Tours</title>\n
+..\\lib\\transaction.h(13):        <!-- Frame Set -->\n
+..\\lib\\transaction.h(13):        <frameset cols="160,*" border="1" frameborder="1">\n
+..\\lib\\transaction.h(13):           <!-- Navigation Frame -->\n
+..\\lib\\transaction.h(13):           <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" \n
+..\\lib\\transaction.h(13):                 noresize="noresize" scrolling="auto"/>\n
+..\\lib\\transaction.h(13):           <!-- Home Frame -->\n
+..\\lib\\transaction.h(13):           <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" \n
+..\\lib\\transaction.h(13):                 noresize="noresize" scrolling="auto"/>\n
+..\\lib\\transaction.h(13):        </frameset>\n
+..\\lib\\transaction.h(13):     </html>\n
+..\\lib\\transaction.h(13):     \n
+..\\lib\\transaction.h(13):     </body>\n
+..\\lib\\transaction.h(13):     </html>
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): t=523823ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=523823ms: 371-byte request headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=18390)
+..\\lib\\transaction.h(13):     GET /cgi-bin/nav.pl?in=home HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=true\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     Cookie: MSO=SID&1733820091\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=523823ms: Already connected [1] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=523823ms: 367-byte request headers for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2.2, Internal ID=18391)
+..\\lib\\transaction.h(13):     GET /WebTours/home.html HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=true\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     Cookie: MSO=SID&1733820091\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=523823ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=18387)
+..\\lib\\transaction.h(13):     0\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=523824ms: Request done "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=523826ms: 298-byte response headers for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2.2, Internal ID=18391)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Tue, 26 Nov 2024 14:20:50 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "60000000958f1-551-627d18e600eaf"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 1361\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=99\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=523826ms: 1361-byte response body for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2.2, Internal ID=18391)
+..\\lib\\transaction.h(13):     <HTML>\n
+..\\lib\\transaction.h(13):     <HEAD>\n
+..\\lib\\transaction.h(13):     \t<title>Web Tours</title>\n
+..\\lib\\transaction.h(13):     </HEAD>\n
+..\\lib\\transaction.h(13):     <style>\n
+..\\lib\\transaction.h(13):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+..\\lib\\transaction.h(13):     \tH1 {font-family: tahoma; font-size : 22pt; color: #003366}\n
+..\\lib\\transaction.h(13):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+..\\lib\\transaction.h(13):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib\\transaction.h(13):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+..\\lib\\transaction.h(13):     N: none}\n
+..\\lib\\transaction.h(13):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+..\\lib\\transaction.h(13):     CORATION: underline}\n
+..\\lib\\transaction.h(13):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib\\transaction.h(13):     </style>\n
+..\\lib\\transaction.h(13):     <body bgcolor="#e0e7f1">\n
+..\\lib\\transaction.h(13):     <BR/>\n
+..\\lib\\transaction.h(13):     <BR/>\n
+..\\lib\\transaction.h(13):     <BR/>\n
+..\\lib\\transaction.h(13):     <br/>\n
+..\\lib\\transaction.h(13):     <table border="0">\n
+..\\lib\\transaction.h(13):     <tr><td></td></tr>\n
+..\\lib\\transaction.h(13):     <TR><TD></TD></TR>\n
+..\\lib\\transaction.h(13):     <TR><TD>\n
+..\\lib\\transaction.h(13):     <blockquote>\n
+..\\lib\\transaction.h(13):     <H1><b>Web Tours</b></H1>\n
+..\\lib\\transaction.h(13):     Welcome to the Web Tours site.\n
+..\\lib\\transaction.h(13):     <br/>\n
+..\\lib\\transaction.h(13):     To make reservations,please enter your account information to the left.\n
+..\\lib\\transaction.h(13):     <br/>\n
+..\\lib\\transaction.h(13):     If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getI
+..\\lib\\transaction.h(13):     nfo=true" ><B>sign up now</B></A> to get access to all our resources.\n
+..\\lib\\transaction.h(13):     <br/>\n
+..\\lib\\transaction.h(13):     To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>adminis
+..\\lib\\transaction.h(13):     tration</b></A> link.\n
+..\\lib\\transaction.h(13):     <br/><br/><br/><br/><br/><br/>\n
+..\\lib\\transaction.h(13):     <br/><small>\n
+..\\lib\\transaction.h(13):     This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imati
+..\\lib\\transaction.h(13):     x.com" target="new"><B><small>iMatix Corporation</small></B></A> \n
+..\\lib\\transaction.h(13):     </small>\n
+..\\lib\\transaction.h(13):     </blockquote></TD>\n
+..\\lib\\transaction.h(13):     <TD></TD></TR>\n
+..\\lib\\transaction.h(13):     </table>\n
+..\\lib\\transaction.h(13):     </body>\n
+..\\lib\\transaction.h(13):     </HTML>\n
+..\\lib\\transaction.h(13): t=523827ms: Request done "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=523880ms: 255-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=18390)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(13):     Expires: Mon, 09 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=98\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=523880ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=18390)
+..\\lib\\transaction.h(13):     5d2\r\n
+..\\lib\\transaction.h(13): t=523880ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=18390)
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=523881ms: 1490-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=18390)
+..\\lib\\transaction.h(13):     <!DOCTYPE html\n
+..\\lib\\transaction.h(13):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\lib\\transaction.h(13):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\lib\\transaction.h(13):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\lib\\transaction.h(13):     <head>\n
+..\\lib\\transaction.h(13):     <title>Web Tours Navigation Bar</title>\n
+..\\lib\\transaction.h(13):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\lib\\transaction.h(13):     </head>\n
+..\\lib\\transaction.h(13):     <body bgcolor="#E0E7F1">\n
+..\\lib\\transaction.h(13):     <style>\n
+..\\lib\\transaction.h(13):     blockquote {font-family: tahoma; font-size : 10pt}\n
+..\\lib\\transaction.h(13):     H1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+..\\lib\\transaction.h(13):     H3 {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib\\transaction.h(13):     small {font-family: tahoma; font-size : 8pt}\n
+..\\lib\\transaction.h(13):     </style>\n
+..\\lib\\transaction.h(13):     <form method="post" action="/cgi-bin/login.pl" target="body">\n
+..\\lib\\transaction.h(13):     <input type="hidden" name="userSession" value="140447.151964358HcctcfApDHQVzzzHtDDtfpfAccH
+..\\lib\\transaction.h(13):     f"/>\n
+..\\lib\\transaction.h(13):     <table border="0"><tr><td>&nbsp;</td>\n
+..\\lib\\transaction.h(13):     <td>&nbsp;</td></tr>\n
+..\\lib\\transaction.h(13):     <tr><td>&nbsp;</td>\n
+..\\lib\\transaction.h(13):     <td>&nbsp;</td></tr>\n
+..\\lib\\transaction.h(13):     <tr><td>&nbsp;</td>\n
+..\\lib\\transaction.h(13):     <td><small>&nbsp;Username</small></td></tr>\n
+..\\lib\\transaction.h(13):     <tr><td>&nbsp;</td>\n
+..\\lib\\transaction.h(13):     <td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>\n
+..\\lib\\transaction.h(13):     <tr><td>&nbsp;</td>\n
+..\\lib\\transaction.h(13):     <td><small>&nbsp;Password</small></td>\n
+..\\lib\\transaction.h(13):     <tr><td>&nbsp;</td>\n
+..\\lib\\transaction.h(13):     <td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>\n
+..\\lib\\transaction.h(13):     <tr><td>&nbsp;</td>\n
+..\\lib\\transaction.h(13):     <td>&nbsp;</td></tr>\n
+..\\lib\\transaction.h(13):     <tr><td>&nbsp;</td>\n
+..\\lib\\transaction.h(13):     <td><input type="image" name="login" value="Login" alt="Login" border="1" \n
+..\\lib\\transaction.h(13):     src="/WebTours/images/mer_login.gif"/></td></tr>\n
+..\\lib\\transaction.h(13):     <tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n
+..\\lib\\transaction.h(13):     </table><input type="hidden" name="JSFormSubmit" value="off"/>\n
+..\\lib\\transaction.h(13):     </form>\n
+..\\lib\\transaction.h(13):     \n
+..\\lib\\transaction.h(13):     </body>\n
+..\\lib\\transaction.h(13):     </html>\n
+..\\lib\\transaction.h(13): Notify: Saving Parameter "userSession = 140447.151964358HcctcfApDHQVzzzHtDDtfpfAccHf".	[MsgId: MMSG-13798]
+..\\lib\\transaction.h(13): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(13): t=523882ms: Already connected [1] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=523882ms: 369-byte request headers for "http://localhost:1080/WebTours/images/mer_login.gif" (RelFrameId=, Internal ID=18392)
+..\\lib\\transaction.h(13):     GET /WebTours/images/mer_login.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/cgi-bin/nav.pl?in=home\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     Cookie: MSO=SID&1733820091\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=523883ms: 297-byte response headers for "http://localhost:1080/WebTours/images/mer_login.gif" (RelFrameId=, Internal ID=18392)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "600000009591e-2a7-627d18e6a4eeb"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 679\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=98\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=523883ms: 679-byte response body for "http://localhost:1080/WebTours/images/mer_login.gif" (RelFrameId=, Internal ID=18392)
+..\\lib\\transaction.h(13): t=523883ms: Request done "http://localhost:1080/WebTours/images/mer_login.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=523892ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=18390)
+..\\lib\\transaction.h(13):     0\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=523892ms: Request done "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Registered web_reg_find successful for "Text=Welcome to the Web Tours site." (count=1)  	[MsgId: MMSG-26364]
+..\\lib\\transaction.h(13): web_url("WebTours") was successful, 10080 body bytes, 2371 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(10): Notify: Transaction "open_home_page" ended with a "Pass" status (Duration: 0,1649 Wasted Time: 0,0001).	[MsgId: MMSG-16871]
+Action.c(12): Notify: Transaction "login" started.	[MsgId: MMSG-16999]
+..\\lib\\transaction.h(26): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(28): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(28): Notify: Parameter Substitution: parameter "login" =  "Yennefer"	[MsgId: MMSG-13992]
+..\\lib\\transaction.h(28): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(30): web_submit_data("login.pl") started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(30): Notify: Parameter Substitution: parameter "userSession" =  "140447.151964358HcctcfApDHQVzzzHtDDtfpfAccHf"	[MsgId: MMSG-13992]
+..\\lib\\transaction.h(30): Notify: Parameter Substitution: parameter "login" =  "Yennefer"	[MsgId: MMSG-13992]
+..\\lib\\transaction.h(30): Notify: Next row for parameter password = 2 [table  = password].	[MsgId: MMSG-13876]
+..\\lib\\transaction.h(30): Notify: Parameter Substitution: parameter "password" =  "yennefer123"	[MsgId: MMSG-13992]
+..\\lib\\transaction.h(30): t=523893ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=523893ms: 427-byte request headers for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=18393)
+..\\lib\\transaction.h(30):     POST /cgi-bin/login.pl HTTP/1.1\r\n
+..\\lib\\transaction.h(30):     Content-Type: application/x-www-form-urlencoded\r\n
+..\\lib\\transaction.h(30):     Referer: http://localhost:1080/cgi-bin/nav.pl?in=home\r\n
+..\\lib\\transaction.h(30):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(30):     .0\r\n
+..\\lib\\transaction.h(30):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(30):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(30):     Accept: */*\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(30):     Cookie: MSO=SID&1733820091\r\n
+..\\lib\\transaction.h(30):     Content-Length: 133\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=523893ms: 133-byte request body for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=18393)
+..\\lib\\transaction.h(30):     userSession=140447.151964358HcctcfApDHQVzzzHtDDtfpfAccHf&username=Yennefer&password=yennef
+..\\lib\\transaction.h(30):     er123&login.x=49&login.y=8&JSFormSubmit=off
+..\\lib\\transaction.h(30): t=524015ms: 408-byte response headers for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=18393)
+..\\lib\\transaction.h(30):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(30):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(30):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(30):     Expires: 5s\r\n
+..\\lib\\transaction.h(30):     Set-Cookie: MTUserInfo=firstName&Yennefer&address2&Novigrad&username&Yennefer&hash&82&last
+..\\lib\\transaction.h(30):     Name&Vengerberg%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDate&%0A; path=/\r
+..\\lib\\transaction.h(30):     \n
+..\\lib\\transaction.h(30):     Keep-Alive: timeout=5, max=97\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(30):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524015ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=18393)
+..\\lib\\transaction.h(30):     1e1\r\n
+..\\lib\\transaction.h(30): t=524016ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=18393)
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524016ms: 481-byte chunked response body for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=18393)
+..\\lib\\transaction.h(30):     <!--\n
+..\\lib\\transaction.h(30):     User password was correct - added a cookie with the user's default\n
+..\\lib\\transaction.h(30):     information.  Set the user up to make reservations...\n
+..\\lib\\transaction.h(30):     \n
+..\\lib\\transaction.h(30):     --->\n
+..\\lib\\transaction.h(30):     \n
+..\\lib\\transaction.h(30):     <html>\n
+..\\lib\\transaction.h(30):     <title>Web Tours</title>\n
+..\\lib\\transaction.h(30):     <frameset cols="160,*" border=1 frameborder=1>\n
+..\\lib\\transaction.h(30):     <frame src="nav.pl?page=menu&in=home" name="navbar" marginheight="2" marginwidth="2" nores
+..\\lib\\transaction.h(30):     ize="noresize" scrolling="auto"/>\n
+..\\lib\\transaction.h(30):     <frame src="login.pl?intro=true" name="info" marginheight="2" marginwidth="2" noresize="no
+..\\lib\\transaction.h(30):     resize" scrolling="auto"/>\n
+..\\lib\\transaction.h(30):     </frameset>\n
+..\\lib\\transaction.h(30):     \n
+..\\lib\\transaction.h(30):     </body>\n
+..\\lib\\transaction.h(30):     </html>
+..\\lib\\transaction.h(30): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(30): Detected non-resource "http://localhost:1080/cgi-bin/login.pl?intro=true" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(30): t=524017ms: Already connected [1] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524017ms: 526-byte request headers for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=18394)
+..\\lib\\transaction.h(30):     GET /cgi-bin/nav.pl?page=menu&in=home HTTP/1.1\r\n
+..\\lib\\transaction.h(30):     Referer: http://localhost:1080/cgi-bin/login.pl\r\n
+..\\lib\\transaction.h(30):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(30):     .0\r\n
+..\\lib\\transaction.h(30):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(30):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(30):     Accept: */*\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(30):     Cookie: MSO=SID&1733820091; MTUserInfo=firstName&Yennefer&address2&Novigrad&username&Yenne
+..\\lib\\transaction.h(30):     fer&hash&82&lastName&Vengerberg%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDa
+..\\lib\\transaction.h(30):     te&%0A\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524025ms: Already connected [2] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524025ms: 521-byte request headers for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=18395)
+..\\lib\\transaction.h(30):     GET /cgi-bin/login.pl?intro=true HTTP/1.1\r\n
+..\\lib\\transaction.h(30):     Referer: http://localhost:1080/cgi-bin/login.pl\r\n
+..\\lib\\transaction.h(30):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(30):     .0\r\n
+..\\lib\\transaction.h(30):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(30):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(30):     Accept: */*\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(30):     Cookie: MSO=SID&1733820091; MTUserInfo=firstName&Yennefer&address2&Novigrad&username&Yenne
+..\\lib\\transaction.h(30):     fer&hash&82&lastName&Vengerberg%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDa
+..\\lib\\transaction.h(30):     te&%0A\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524025ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=18393)
+..\\lib\\transaction.h(30):     0\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524026ms: Request done "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524094ms: 255-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=18394)
+..\\lib\\transaction.h(30):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(30):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(30):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(30):     Expires: Mon, 09 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(30):     Keep-Alive: timeout=5, max=97\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(30):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524094ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=18394)
+..\\lib\\transaction.h(30):     5ca\r\n
+..\\lib\\transaction.h(30): t=524094ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=18394)
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524094ms: 1482-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=18394)
+..\\lib\\transaction.h(30):     <!DOCTYPE html\n
+..\\lib\\transaction.h(30):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\lib\\transaction.h(30):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\lib\\transaction.h(30):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\lib\\transaction.h(30):     <head>\n
+..\\lib\\transaction.h(30):     <title>Web Tours Navigation Bar</title>\n
+..\\lib\\transaction.h(30):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\lib\\transaction.h(30):     </head>\n
+..\\lib\\transaction.h(30):     <body bgcolor="#E0E7F1">\n
+..\\lib\\transaction.h(30):     \n
+..\\lib\\transaction.h(30):     <style>\n
+..\\lib\\transaction.h(30):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+..\\lib\\transaction.h(30):     \tH1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+..\\lib\\transaction.h(30):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+..\\lib\\transaction.h(30):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib\\transaction.h(30):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+..\\lib\\transaction.h(30):     N: none}\n
+..\\lib\\transaction.h(30):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+..\\lib\\transaction.h(30):     CORATION: underline}\n
+..\\lib\\transaction.h(30):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib\\transaction.h(30):     </style>\n
+..\\lib\\transaction.h(30):     \n
+..\\lib\\transaction.h(30):     <BR><BR><center>\n
+..\\lib\\transaction.h(30):     \n
+..\\lib\\transaction.h(30):     <br clear="both"/><center><A HREF="welcome.pl?page=search" TARGET="body"><IMG BORDER="0" S
+..\\lib\\transaction.h(30):     RC="/WebTours/images/flights.gif" \n
+..\\lib\\transaction.h(30):     ALT="Search Flights Button"/></A>\n
+..\\lib\\transaction.h(30):     <br clear="both"/><A HREF="welcome.pl?page=itinerary" TARGET="body"><IMG BORDER="0" SRC="/
+..\\lib\\transaction.h(30):     WebTours/images/itinerary.gif" \n
+..\\lib\\transaction.h(30):     ALT="Itinerary Button"/></A>\n
+..\\lib\\transaction.h(30):     <br clear="both"/><A HREF="welcome.pl?page=menus" TARGET="body"><IMG BORDER="0" SRC="/WebT
+..\\lib\\transaction.h(30):     ours/images/in_home.gif" \n
+..\\lib\\transaction.h(30):     ALT="Home Button"/></A>\n
+..\\lib\\transaction.h(30):     <br clear><A HREF="welcome.pl?signOff=1" TARGET="body"><IMG BORDER="0" SRC="/WebTours/imag
+..\\lib\\transaction.h(30):     es/signoff.gif" \n
+..\\lib\\transaction.h(30):     ALT="SignOff Button"/></A></center>\n
+..\\lib\\transaction.h(30):     \n
+..\\lib\\transaction.h(30):     </body>\n
+..\\lib\\transaction.h(30):     </html>\n
+..\\lib\\transaction.h(30): Found resource "http://localhost:1080/WebTours/images/flights.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(30): Found resource "http://localhost:1080/WebTours/images/itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(30): Found resource "http://localhost:1080/WebTours/images/in_home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(30): Found resource "http://localhost:1080/WebTours/images/signoff.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(30): t=524095ms: Already connected [3] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524095ms: 539-byte request headers for "http://localhost:1080/WebTours/images/itinerary.gif" (RelFrameId=, Internal ID=18397)
+..\\lib\\transaction.h(30):     GET /WebTours/images/itinerary.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(30):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home\r\n
+..\\lib\\transaction.h(30):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(30):     .0\r\n
+..\\lib\\transaction.h(30):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(30):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(30):     Accept: */*\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(30):     Cookie: MSO=SID&1733820091; MTUserInfo=firstName&Yennefer&address2&Novigrad&username&Yenne
+..\\lib\\transaction.h(30):     fer&hash&82&lastName&Vengerberg%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDa
+..\\lib\\transaction.h(30):     te&%0A\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524096ms: Connecting [4] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524097ms: Connecting [5] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524097ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524097ms: 537-byte request headers for "http://localhost:1080/WebTours/images/flights.gif" (RelFrameId=, Internal ID=18396)
+..\\lib\\transaction.h(30):     GET /WebTours/images/flights.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(30):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home\r\n
+..\\lib\\transaction.h(30):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(30):     .0\r\n
+..\\lib\\transaction.h(30):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(30):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(30):     Accept: */*\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(30):     Cookie: MSO=SID&1733820091; MTUserInfo=firstName&Yennefer&address2&Novigrad&username&Yenne
+..\\lib\\transaction.h(30):     fer&hash&82&lastName&Vengerberg%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDa
+..\\lib\\transaction.h(30):     te&%0A\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524098ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=18394)
+..\\lib\\transaction.h(30):     0\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524098ms: Request done "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524098ms: 228-byte response headers for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=18395)
+..\\lib\\transaction.h(30):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(30):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(30):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(30):     Expires: 5s\r\n
+..\\lib\\transaction.h(30):     Keep-Alive: timeout=5, max=99\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(30):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524098ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=18395)
+..\\lib\\transaction.h(30):     39a\r\n
+..\\lib\\transaction.h(30): t=524098ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=18395)
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524098ms: 922-byte chunked response body for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=18395)
+..\\lib\\transaction.h(30):     <!DOCTYPE html\n
+..\\lib\\transaction.h(30):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\lib\\transaction.h(30):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\lib\\transaction.h(30):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\lib\\transaction.h(30):     <head>\n
+..\\lib\\transaction.h(30):     <title>Welcome to Web Tours</title>\n
+..\\lib\\transaction.h(30):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\lib\\transaction.h(30):     </head>\n
+..\\lib\\transaction.h(30):     <body bgcolor="#E0E7F1">\n
+..\\lib\\transaction.h(30):     <p /><style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; fon
+..\\lib\\transaction.h(30):     t-size : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family:
+..\\lib\\transaction.h(30):      tahoma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: 
+..\\lib\\transaction.h(30):     black}</style><BR/><BR/><BR/><BR/><BR/><blockquote>Welcome, <b>Yennefer</b>, to the Web To
+..\\lib\\transaction.h(30):     urs reservation pages.<BR/>Using the menu to the left, you can search for new flights to b
+..\\lib\\transaction.h(30):     ook, \n
+..\\lib\\transaction.h(30):     or review/edit the flights already booked.  Don't forget to sign off when\n
+..\\lib\\transaction.h(30):     you're done!\n
+..\\lib\\transaction.h(30):     </blockquote>\n
+..\\lib\\transaction.h(30):     </body>\n
+..\\lib\\transaction.h(30):     </html>
+..\\lib\\transaction.h(30): t=524099ms: 297-byte response headers for "http://localhost:1080/WebTours/images/flights.gif" (RelFrameId=, Internal ID=18396)
+..\\lib\\transaction.h(30):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(30):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(30):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(30):     Last-Modified: Tue, 26 Nov 2024 14:20:50 GMT\r\n
+..\\lib\\transaction.h(30):     ETag: "6000000095909-2d6-627d18e668dc2"\r\n
+..\\lib\\transaction.h(30):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(30):     Content-Length: 726\r\n
+..\\lib\\transaction.h(30):     Keep-Alive: timeout=5, max=96\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524099ms: 726-byte response body for "http://localhost:1080/WebTours/images/flights.gif" (RelFrameId=, Internal ID=18396)
+..\\lib\\transaction.h(30): t=524099ms: Request done "http://localhost:1080/WebTours/images/flights.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524099ms: 297-byte response headers for "http://localhost:1080/WebTours/images/itinerary.gif" (RelFrameId=, Internal ID=18397)
+..\\lib\\transaction.h(30):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(30):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(30):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(30):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(30):     ETag: "6000000095919-2dd-627d18e6977e1"\r\n
+..\\lib\\transaction.h(30):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(30):     Content-Length: 733\r\n
+..\\lib\\transaction.h(30):     Keep-Alive: timeout=5, max=99\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524099ms: 733-byte response body for "http://localhost:1080/WebTours/images/itinerary.gif" (RelFrameId=, Internal ID=18397)
+..\\lib\\transaction.h(30): t=524099ms: Request done "http://localhost:1080/WebTours/images/itinerary.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524099ms: Connected socket [4] from 127.0.0.1:13192 to 127.0.0.1:1080 in 3 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524100ms: 537-byte request headers for "http://localhost:1080/WebTours/images/in_home.gif" (RelFrameId=, Internal ID=18398)
+..\\lib\\transaction.h(30):     GET /WebTours/images/in_home.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(30):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home\r\n
+..\\lib\\transaction.h(30):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(30):     .0\r\n
+..\\lib\\transaction.h(30):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(30):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(30):     Accept: */*\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(30):     Cookie: MSO=SID&1733820091; MTUserInfo=firstName&Yennefer&address2&Novigrad&username&Yenne
+..\\lib\\transaction.h(30):     fer&hash&82&lastName&Vengerberg%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDa
+..\\lib\\transaction.h(30):     te&%0A\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524101ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=18395)
+..\\lib\\transaction.h(30):     0\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524101ms: Request done "http://localhost:1080/cgi-bin/login.pl?intro=true"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524101ms: Connected socket [5] from 127.0.0.1:13193 to 127.0.0.1:1080 in 4 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524101ms: 537-byte request headers for "http://localhost:1080/WebTours/images/signoff.gif" (RelFrameId=, Internal ID=18399)
+..\\lib\\transaction.h(30):     GET /WebTours/images/signoff.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(30):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home\r\n
+..\\lib\\transaction.h(30):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(30):     .0\r\n
+..\\lib\\transaction.h(30):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(30):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(30):     Accept: */*\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(30):     Cookie: MSO=SID&1733820091; MTUserInfo=firstName&Yennefer&address2&Novigrad&username&Yenne
+..\\lib\\transaction.h(30):     fer&hash&82&lastName&Vengerberg%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDa
+..\\lib\\transaction.h(30):     te&%0A\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524102ms: 298-byte response headers for "http://localhost:1080/WebTours/images/in_home.gif" (RelFrameId=, Internal ID=18398)
+..\\lib\\transaction.h(30):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(30):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(30):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(30):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(30):     ETag: "6000000095915-2b0-627d18e689bd4"\r\n
+..\\lib\\transaction.h(30):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(30):     Content-Length: 688\r\n
+..\\lib\\transaction.h(30):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524102ms: 688-byte response body for "http://localhost:1080/WebTours/images/in_home.gif" (RelFrameId=, Internal ID=18398)
+..\\lib\\transaction.h(30): t=524102ms: Request done "http://localhost:1080/WebTours/images/in_home.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524102ms: 298-byte response headers for "http://localhost:1080/WebTours/images/signoff.gif" (RelFrameId=, Internal ID=18399)
+..\\lib\\transaction.h(30):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(30):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(30):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(30):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(30):     ETag: "6000000095922-2ef-627d18e6b323a"\r\n
+..\\lib\\transaction.h(30):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(30):     Content-Length: 751\r\n
+..\\lib\\transaction.h(30):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524102ms: 751-byte response body for "http://localhost:1080/WebTours/images/signoff.gif" (RelFrameId=, Internal ID=18399)
+..\\lib\\transaction.h(30): t=524102ms: Request done "http://localhost:1080/WebTours/images/signoff.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): Registered web_reg_find successful for "Text=User password was correct" (count=1)  	[MsgId: MMSG-26364]
+..\\lib\\transaction.h(30): Registered web_reg_find successful for "Text=<blockquote>Welcome, <b>Yennefer</b>, to the Web Tours" (count=1)  	[MsgId: MMSG-26364]
+..\\lib\\transaction.h(30): web_submit_data("login.pl") was successful, 5783 body bytes, 2081 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(17): Notify: Transaction "login" ended with a "Pass" status (Duration: 0,2102 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(20): Notify: Transaction "itinerary_page" started.	[MsgId: MMSG-16999]
+Action.c(22): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(22): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(143): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(143): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(146): web_url("welcome.pl_2") started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(146): t=524103ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524103ms: 543-byte request headers for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=18400)
+..\\lib\\transaction.h(146):     GET /cgi-bin/welcome.pl?page=itinerary HTTP/1.1\r\n
+..\\lib\\transaction.h(146):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home\r\n
+..\\lib\\transaction.h(146):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(146):     .0\r\n
+..\\lib\\transaction.h(146):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(146):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(146):     Accept: */*\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(146):     Cookie: MSO=SID&1733820091; MTUserInfo=firstName&Yennefer&address2&Novigrad&username&Yenne
+..\\lib\\transaction.h(146):     fer&hash&82&lastName&Vengerberg%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDa
+..\\lib\\transaction.h(146):     te&%0A\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524151ms: 215-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=18400)
+..\\lib\\transaction.h(146):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(146):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(146):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(146):     Keep-Alive: timeout=5, max=95\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(146):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524152ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=18400)
+..\\lib\\transaction.h(146):     24f\r\n
+..\\lib\\transaction.h(146): t=524152ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=18400)
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524152ms: 591-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=18400)
+..\\lib\\transaction.h(146):     <!-- \n
+..\\lib\\transaction.h(146):      User wants the intineraries.  Since user has already logged on,\n
+..\\lib\\transaction.h(146):      we can give them the menu in the navbar.\n
+..\\lib\\transaction.h(146):      --->\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <html>\n
+..\\lib\\transaction.h(146):     <title>Web Tours</title>\n
+..\\lib\\transaction.h(146):        <!-- Frame Set -->\n
+..\\lib\\transaction.h(146):        <frameset cols="160,*" border="1" frameborder="1">\n
+..\\lib\\transaction.h(146):           <!-- Navigation Frame -->\n
+..\\lib\\transaction.h(146):           <frame src="nav.pl?page=menu&in=itinerary" name="navbar" \n
+..\\lib\\transaction.h(146):                 marginheight="2" marginwidth="2" noresize="noresize" scrolling="auto"/>\n
+..\\lib\\transaction.h(146):           <!-- Itinerary Frame -->\n
+..\\lib\\transaction.h(146):           <frame src="itinerary.pl" name="info" \n
+..\\lib\\transaction.h(146):                 marginheight="2" marginwidth="2" noresize="noresize" scrolling="auto"/>\n
+..\\lib\\transaction.h(146):        </frameset>\n
+..\\lib\\transaction.h(146):     </html>\n
+..\\lib\\transaction.h(146): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" in "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(146): Detected non-resource "http://localhost:1080/cgi-bin/itinerary.pl" in "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(146): t=524152ms: Already connected [1] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524152ms: 548-byte request headers for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=18401)
+..\\lib\\transaction.h(146):     GET /cgi-bin/nav.pl?page=menu&in=itinerary HTTP/1.1\r\n
+..\\lib\\transaction.h(146):     Referer: http://localhost:1080/cgi-bin/welcome.pl?page=itinerary\r\n
+..\\lib\\transaction.h(146):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(146):     .0\r\n
+..\\lib\\transaction.h(146):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(146):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(146):     Accept: */*\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(146):     Cookie: MSO=SID&1733820091; MTUserInfo=firstName&Yennefer&address2&Novigrad&username&Yenne
+..\\lib\\transaction.h(146):     fer&hash&82&lastName&Vengerberg%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDa
+..\\lib\\transaction.h(146):     te&%0A\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524152ms: Already connected [2] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524152ms: 531-byte request headers for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18402)
+..\\lib\\transaction.h(146):     GET /cgi-bin/itinerary.pl HTTP/1.1\r\n
+..\\lib\\transaction.h(146):     Referer: http://localhost:1080/cgi-bin/welcome.pl?page=itinerary\r\n
+..\\lib\\transaction.h(146):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(146):     .0\r\n
+..\\lib\\transaction.h(146):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(146):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(146):     Accept: */*\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(146):     Cookie: MSO=SID&1733820091; MTUserInfo=firstName&Yennefer&address2&Novigrad&username&Yenne
+..\\lib\\transaction.h(146):     fer&hash&82&lastName&Vengerberg%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDa
+..\\lib\\transaction.h(146):     te&%0A\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524154ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=18400)
+..\\lib\\transaction.h(146):     0\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524154ms: Request done "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524207ms: 255-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=18401)
+..\\lib\\transaction.h(146):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(146):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(146):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(146):     Expires: Mon, 09 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(146):     Keep-Alive: timeout=5, max=96\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(146):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524208ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=18401)
+..\\lib\\transaction.h(146):     5ca\r\n
+..\\lib\\transaction.h(146): t=524208ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=18401)
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524208ms: 1482-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=18401)
+..\\lib\\transaction.h(146):     <!DOCTYPE html\n
+..\\lib\\transaction.h(146):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\lib\\transaction.h(146):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\lib\\transaction.h(146):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\lib\\transaction.h(146):     <head>\n
+..\\lib\\transaction.h(146):     <title>Web Tours Navigation Bar</title>\n
+..\\lib\\transaction.h(146):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\lib\\transaction.h(146):     </head>\n
+..\\lib\\transaction.h(146):     <body bgcolor="#E0E7F1">\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <style>\n
+..\\lib\\transaction.h(146):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+..\\lib\\transaction.h(146):     \tH1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+..\\lib\\transaction.h(146):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+..\\lib\\transaction.h(146):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib\\transaction.h(146):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+..\\lib\\transaction.h(146):     N: none}\n
+..\\lib\\transaction.h(146):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+..\\lib\\transaction.h(146):     CORATION: underline}\n
+..\\lib\\transaction.h(146):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib\\transaction.h(146):     </style>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <BR><BR><center>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <br clear="both"/><center><A HREF="welcome.pl?page=search" TARGET="body"><IMG BORDER="0" S
+..\\lib\\transaction.h(146):     RC="/WebTours/images/flights.gif" \n
+..\\lib\\transaction.h(146):     ALT="Search Flights Button"/></A>\n
+..\\lib\\transaction.h(146):     <br clear="both"/><A HREF="welcome.pl?page=itinerary" TARGET="body"><IMG BORDER="0" SRC="/
+..\\lib\\transaction.h(146):     WebTours/images/in_itinerary.gif" \n
+..\\lib\\transaction.h(146):     ALT="Itinerary Button"/></A>\n
+..\\lib\\transaction.h(146):     <br clear="both"/><A HREF="welcome.pl?page=menus" TARGET="body"><IMG BORDER="0" SRC="/WebT
+..\\lib\\transaction.h(146):     ours/images/home.gif" \n
+..\\lib\\transaction.h(146):     ALT="Home Button"/></A>\n
+..\\lib\\transaction.h(146):     <br clear><A HREF="welcome.pl?signOff=1" TARGET="body"><IMG BORDER="0" SRC="/WebTours/imag
+..\\lib\\transaction.h(146):     es/signoff.gif" \n
+..\\lib\\transaction.h(146):     ALT="SignOff Button"/></A></center>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     </body>\n
+..\\lib\\transaction.h(146):     </html>\n
+..\\lib\\transaction.h(146): Resource "http://localhost:1080/WebTours/images/flights.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\lib\\transaction.h(146): Found resource "http://localhost:1080/WebTours/images/in_itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(146): Found resource "http://localhost:1080/WebTours/images/home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(146): Resource "http://localhost:1080/WebTours/images/signoff.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\lib\\transaction.h(146): t=524210ms: Already connected [3] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524210ms: 539-byte request headers for "http://localhost:1080/WebTours/images/home.gif" (RelFrameId=, Internal ID=18404)
+..\\lib\\transaction.h(146):     GET /WebTours/images/home.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(146):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary\r\n
+..\\lib\\transaction.h(146):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(146):     .0\r\n
+..\\lib\\transaction.h(146):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(146):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(146):     Accept: */*\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(146):     Cookie: MSO=SID&1733820091; MTUserInfo=firstName&Yennefer&address2&Novigrad&username&Yenne
+..\\lib\\transaction.h(146):     fer&hash&82&lastName&Vengerberg%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDa
+..\\lib\\transaction.h(146):     te&%0A\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524210ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524210ms: 547-byte request headers for "http://localhost:1080/WebTours/images/in_itinerary.gif" (RelFrameId=, Internal ID=18403)
+..\\lib\\transaction.h(146):     GET /WebTours/images/in_itinerary.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(146):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary\r\n
+..\\lib\\transaction.h(146):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(146):     .0\r\n
+..\\lib\\transaction.h(146):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(146):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(146):     Accept: */*\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(146):     Cookie: MSO=SID&1733820091; MTUserInfo=firstName&Yennefer&address2&Novigrad&username&Yenne
+..\\lib\\transaction.h(146):     fer&hash&82&lastName&Vengerberg%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDa
+..\\lib\\transaction.h(146):     te&%0A\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524211ms: 297-byte response headers for "http://localhost:1080/WebTours/images/home.gif" (RelFrameId=, Internal ID=18404)
+..\\lib\\transaction.h(146):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(146):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(146):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(146):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(146):     ETag: "600000009590e-2b0-627d18e67bbbe"\r\n
+..\\lib\\transaction.h(146):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(146):     Content-Length: 688\r\n
+..\\lib\\transaction.h(146):     Keep-Alive: timeout=5, max=98\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524212ms: 688-byte response body for "http://localhost:1080/WebTours/images/home.gif" (RelFrameId=, Internal ID=18404)
+..\\lib\\transaction.h(146): t=524212ms: Request done "http://localhost:1080/WebTours/images/home.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524212ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=18401)
+..\\lib\\transaction.h(146):     0\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524212ms: Request done "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524212ms: 297-byte response headers for "http://localhost:1080/WebTours/images/in_itinerary.gif" (RelFrameId=, Internal ID=18403)
+..\\lib\\transaction.h(146):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(146):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(146):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(146):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(146):     ETag: "6000000095916-2dd-627d18e68e27b"\r\n
+..\\lib\\transaction.h(146):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(146):     Content-Length: 733\r\n
+..\\lib\\transaction.h(146):     Keep-Alive: timeout=5, max=94\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524212ms: 733-byte response body for "http://localhost:1080/WebTours/images/in_itinerary.gif" (RelFrameId=, Internal ID=18403)
+..\\lib\\transaction.h(146): t=524212ms: Request done "http://localhost:1080/WebTours/images/in_itinerary.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524219ms: 255-byte response headers for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18402)
+..\\lib\\transaction.h(146):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(146):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(146):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(146):     Expires: Mon, 09 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(146):     Keep-Alive: timeout=5, max=98\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(146):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524219ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18402)
+..\\lib\\transaction.h(146):     377\r\n
+..\\lib\\transaction.h(146): t=524219ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18402)
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524219ms: 887-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18402)
+..\\lib\\transaction.h(146):     <!DOCTYPE html\n
+..\\lib\\transaction.h(146):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\lib\\transaction.h(146):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\lib\\transaction.h(146):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\lib\\transaction.h(146):     <head>\n
+..\\lib\\transaction.h(146):     <title>Flights List</title>\n
+..\\lib\\transaction.h(146):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\lib\\transaction.h(146):     </head>\n
+..\\lib\\transaction.h(146):     <body bgcolor="#E0E7F1">\n
+..\\lib\\transaction.h(146):     <style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-siz
+..\\lib\\transaction.h(146):     e : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: taho
+..\\lib\\transaction.h(146):     ma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 8pt; color: black}
+..\\lib\\transaction.h(146):     </style><BR/><BR/><h1><font color="#003366">&nbsp;&nbsp;<b>Itinerary</font></b></h1><block
+..\\lib\\transaction.h(146):     quote><form method="post" action="itinerary.pl" enctype="application/x-www-form-urlencoded
+..\\lib\\transaction.h(146):     ">\n
+..\\lib\\transaction.h(146):     <center><H3>No flights have been reserved.</H3></center>\n
+..\\lib\\transaction.h(146):     </form>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     </center>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     </body>\n
+..\\lib\\transaction.h(146):     </html>
+..\\lib\\transaction.h(146): t=524222ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18402)
+..\\lib\\transaction.h(146):     0\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524222ms: Request done "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): Error -26377: No match found for the requested parameter "flightID". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 4381 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+..\\lib\\transaction.h(146): Notify: Saving Parameter "flightID_count = 0".	[MsgId: MMSG-13798]
+..\\lib\\transaction.h(146): Registered web_reg_find successful for "Text=Itinerary" (count=3)  	[MsgId: MMSG-26364]
+..\\lib\\transaction.h(146): web_url("welcome.pl_2") highest severity level was "ERROR", 4381 body bytes, 1319 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26387]
+..\\lib\\transaction.h(146): Notify: Transaction "itinerary_page" ended with a "Fail" status (Duration: 0,1201 Wasted Time: 0,0001).	[MsgId: MMSG-16871]
+..\\lib\\transaction.h(146): Notify: Transaction "itinerary_page" has 1 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(146): Notify: The 1st error message associated with transaction "itinerary_page" is "Error -26377: No match found for the requested parameter "flightID". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 4381 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(146): Notify: Transaction "UC05_DeleteTicket" ended with a "Fail" status (Duration: 0,4953 Wasted Time: 0,0003).	[MsgId: MMSG-16871]
+..\\lib\\transaction.h(146): Notify: Transaction "UC05_DeleteTicket" has 1 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(146): Notify: The 1st error message associated with transaction "UC05_DeleteTicket" is "Error -26377: No match found for the requested parameter "flightID". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 4381 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 862.	[MsgId: MMSG-15965]
+Starting iteration 863.	[MsgId: MMSG-15968]
+..\\lib\\transaction.h(146): t=524223ms: Closed connection [0] to localhost:1080 after completing 7 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524223ms: Closed connection [1] to localhost:1080 after completing 5 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524223ms: Closed connection [2] to localhost:1080 after completing 3 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524223ms: Closed connection [3] to localhost:1080 after completing 3 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524223ms: Closed connection [4] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524223ms: Closed connection [5] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): Resetting all proxy auto-configuration information  	[MsgId: MMSG-26000]
+Notify: Next row for parameter login = 3 [table  = login].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'login': table = '..\Parametrs\users.dat' column = '0' row = '3'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter password = 3 [table  = password].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'password': table = '..\Parametrs\users.dat' column = '1' row = '3'.	[MsgId: MMSG-13877]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(3): Notify: Transaction "UC05_DeleteTicket" started.	[MsgId: MMSG-16999]
+Action.c(5): Notify: Transaction "open_home_page" started.	[MsgId: MMSG-16999]
+..\\lib\\transaction.h(5): web_reg_save_param started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(5): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(10): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(10): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(13): web_url("WebTours") started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(13): t=524225ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=524225ms: Connected socket [0] from 127.0.0.1:13198 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=524225ms: 266-byte request headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=18405)
+..\\lib\\transaction.h(13):     GET /WebTours/ HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=524226ms: 298-byte response headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=18405)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Tue, 26 Nov 2024 14:20:50 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "60000000958f2-16e-627d18e607dc1"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 366\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=524226ms: 366-byte response body for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=18405)
+..\\lib\\transaction.h(13):     <HTML>\n
+..\\lib\\transaction.h(13):     <HEAD>\n
+..\\lib\\transaction.h(13):     <title>Web Tours</title>\n
+..\\lib\\transaction.h(13):     <frameset rows = "65,*" border="1" bordercolor="#E0E7F1">\n
+..\\lib\\transaction.h(13):     <frame name="header" src="header.html" scrolling="no" noresize="noresize" marginheight="2"
+..\\lib\\transaction.h(13):      marginwidth="2"/>\n
+..\\lib\\transaction.h(13):     <frame name="body" src="/cgi-bin/welcome.pl?signOff=true" scrolling="auto" noresize="nores
+..\\lib\\transaction.h(13):     ize" marginheight="2" marginwidth="2" />\n
+..\\lib\\transaction.h(13):     </frameset>\n
+..\\lib\\transaction.h(13):     </HEAD>\n
+..\\lib\\transaction.h(13):     </HTML>\n
+..\\lib\\transaction.h(13):     \n
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): t=524227ms: Request done "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=524227ms: Connecting [1] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=524227ms: Connecting [2] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=524227ms: Connected socket [1] from 127.0.0.1:13199 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=524228ms: 319-byte request headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=18406)
+..\\lib\\transaction.h(13):     GET /WebTours/header.html HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=524228ms: Connected socket [2] from 127.0.0.1:13200 to 127.0.0.1:1080 in 1 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=524228ms: 330-byte request headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=18407)
+..\\lib\\transaction.h(13):     GET /cgi-bin/welcome.pl?signOff=true HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=524228ms: 298-byte response headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=18406)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Tue, 26 Nov 2024 14:20:50 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "60000000958ef-2c6-627d18e5f9ceb"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 710\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=524229ms: 710-byte response body for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=18406)
+..\\lib\\transaction.h(13):     <!DOCTYPE html>\n
+..\\lib\\transaction.h(13):     <HTML xmlns="http://www.w3.org/1999/xhtml">\n
+..\\lib\\transaction.h(13):     <HEAD></HEAD>\n
+..\\lib\\transaction.h(13):     <BODY bgcolor="#003366" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">\n
+..\\lib\\transaction.h(13):     \t\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+..\\lib\\transaction.h(13):     bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n
+..\\lib\\transaction.h(13):     \t\t<table width="100%" border="0" cellspacing="0" cellpadding="0">\n
+..\\lib\\transaction.h(13):     \t\t\t<tr>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td align="left" valign="middle" width="50%"><img src="images/hp_logo.png" alt="" 
+..\\lib\\transaction.h(13):     height="45" width="69" align="absmiddle" border="0"/><img src="images/webtours.png" alt=""
+..\\lib\\transaction.h(13):      height="45" width="130" align="absmiddle" border="0"/></td>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td align="right"></td>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td></td>\n
+..\\lib\\transaction.h(13):     \t\t\t</tr>\n
+..\\lib\\transaction.h(13):     \t\t</table>\n
+..\\lib\\transaction.h(13):     \t</BODY>\n
+..\\lib\\transaction.h(13):     </HTML>
+..\\lib\\transaction.h(13): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(13): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(13): t=524229ms: Request done "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=524229ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=524229ms: 337-byte request headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=18408)
+..\\lib\\transaction.h(13):     GET /WebTours/images/hp_logo.png HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/header.html\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=524229ms: Connecting [3] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=524230ms: Connected socket [3] from 127.0.0.1:13201 to 127.0.0.1:1080 in 1 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=524230ms: 338-byte request headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=18409)
+..\\lib\\transaction.h(13):     GET /WebTours/images/webtours.png HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/header.html\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=524230ms: 297-byte response headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=18408)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "6000000095911-259-627d18e680789"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 601\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=99\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/png\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=524230ms: 601-byte response body for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=18408)
+..\\lib\\transaction.h(13): t=524230ms: Request done "http://localhost:1080/WebTours/images/hp_logo.png"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=524230ms: 300-byte response headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=18409)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "6000000095924-105b-627d18e6b7b16"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 4187\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/png\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=524231ms: 4187-byte response body for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=18409)
+..\\lib\\transaction.h(13): t=524231ms: Request done "http://localhost:1080/WebTours/images/webtours.png"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=524292ms: 328-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=18407)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Tue, 10 Dec 2024 08:41:31 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(13):     Set-Cookie: MSO=SID&1733820092; path=/\r\n
+..\\lib\\transaction.h(13):     Set-Cookie: MTUserInfo=; path=/; expires=Mon, 09-Dec-2024 08:41:32 GMT\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=524293ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=18407)
+..\\lib\\transaction.h(13):     2ae\r\n
+..\\lib\\transaction.h(13): t=524293ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=18407)
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=524293ms: 686-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=18407)
+..\\lib\\transaction.h(13):     <!-- \n
+..\\lib\\transaction.h(13):      A Session ID has been created and loaded into a cookie called MSO.\n
+..\\lib\\transaction.h(13):      Also, the server options have been loaded into the cookie called\n
+..\\lib\\transaction.h(13):      MSO as well.  The server options can be set via the Admin page.\n
+..\\lib\\transaction.h(13):      --->\n
+..\\lib\\transaction.h(13):     \n
+..\\lib\\transaction.h(13):     <html>\n
+..\\lib\\transaction.h(13):     <title>Web Tours</title>\n
+..\\lib\\transaction.h(13):        <!-- Frame Set -->\n
+..\\lib\\transaction.h(13):        <frameset cols="160,*" border="1" frameborder="1">\n
+..\\lib\\transaction.h(13):           <!-- Navigation Frame -->\n
+..\\lib\\transaction.h(13):           <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" \n
+..\\lib\\transaction.h(13):                 noresize="noresize" scrolling="auto"/>\n
+..\\lib\\transaction.h(13):           <!-- Home Frame -->\n
+..\\lib\\transaction.h(13):           <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" \n
+..\\lib\\transaction.h(13):                 noresize="noresize" scrolling="auto"/>\n
+..\\lib\\transaction.h(13):        </frameset>\n
+..\\lib\\transaction.h(13):     </html>\n
+..\\lib\\transaction.h(13):     \n
+..\\lib\\transaction.h(13):     </body>\n
+..\\lib\\transaction.h(13):     </html>
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): t=524329ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=524329ms: 371-byte request headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=18410)
+..\\lib\\transaction.h(13):     GET /cgi-bin/nav.pl?in=home HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=true\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     Cookie: MSO=SID&1733820092\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=524337ms: Already connected [1] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=524337ms: 367-byte request headers for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2.2, Internal ID=18411)
+..\\lib\\transaction.h(13):     GET /WebTours/home.html HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=true\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     Cookie: MSO=SID&1733820092\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=524337ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=18407)
+..\\lib\\transaction.h(13):     0\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=524338ms: Request done "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=524338ms: 298-byte response headers for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2.2, Internal ID=18411)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Tue, 10 Dec 2024 08:41:32 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Tue, 26 Nov 2024 14:20:50 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "60000000958f1-551-627d18e600eaf"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 1361\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=99\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=524338ms: 1361-byte response body for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2.2, Internal ID=18411)
+..\\lib\\transaction.h(13):     <HTML>\n
+..\\lib\\transaction.h(13):     <HEAD>\n
+..\\lib\\transaction.h(13):     \t<title>Web Tours</title>\n
+..\\lib\\transaction.h(13):     </HEAD>\n
+..\\lib\\transaction.h(13):     <style>\n
+..\\lib\\transaction.h(13):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+..\\lib\\transaction.h(13):     \tH1 {font-family: tahoma; font-size : 22pt; color: #003366}\n
+..\\lib\\transaction.h(13):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+..\\lib\\transaction.h(13):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib\\transaction.h(13):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+..\\lib\\transaction.h(13):     N: none}\n
+..\\lib\\transaction.h(13):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+..\\lib\\transaction.h(13):     CORATION: underline}\n
+..\\lib\\transaction.h(13):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib\\transaction.h(13):     </style>\n
+..\\lib\\transaction.h(13):     <body bgcolor="#e0e7f1">\n
+..\\lib\\transaction.h(13):     <BR/>\n
+..\\lib\\transaction.h(13):     <BR/>\n
+..\\lib\\transaction.h(13):     <BR/>\n
+..\\lib\\transaction.h(13):     <br/>\n
+..\\lib\\transaction.h(13):     <table border="0">\n
+..\\lib\\transaction.h(13):     <tr><td></td></tr>\n
+..\\lib\\transaction.h(13):     <TR><TD></TD></TR>\n
+..\\lib\\transaction.h(13):     <TR><TD>\n
+..\\lib\\transaction.h(13):     <blockquote>\n
+..\\lib\\transaction.h(13):     <H1><b>Web Tours</b></H1>\n
+..\\lib\\transaction.h(13):     Welcome to the Web Tours site.\n
+..\\lib\\transaction.h(13):     <br/>\n
+..\\lib\\transaction.h(13):     To make reservations,please enter your account information to the left.\n
+..\\lib\\transaction.h(13):     <br/>\n
+..\\lib\\transaction.h(13):     If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getI
+..\\lib\\transaction.h(13):     nfo=true" ><B>sign up now</B></A> to get access to all our resources.\n
+..\\lib\\transaction.h(13):     <br/>\n
+..\\lib\\transaction.h(13):     To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>adminis
+..\\lib\\transaction.h(13):     tration</b></A> link.\n
+..\\lib\\transaction.h(13):     <br/><br/><br/><br/><br/><br/>\n
+..\\lib\\transaction.h(13):     <br/><small>\n
+..\\lib\\transaction.h(13):     This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imati
+..\\lib\\transaction.h(13):     x.com" target="new"><B><small>iMatix Corporation</small></B></A> \n
+..\\lib\\transaction.h(13):     </small>\n
+..\\lib\\transaction.h(13):     </blockquote></TD>\n
+..\\lib\\transaction.h(13):     <TD></TD></TR>\n
+..\\lib\\transaction.h(13):     </table>\n
+..\\lib\\transaction.h(13):     </body>\n
+..\\lib\\transaction.h(13):     </HTML>\n
+..\\lib\\transaction.h(13): t=524339ms: Request done "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=524396ms: 255-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=18410)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Tue, 10 Dec 2024 08:41:32 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(13):     Expires: Mon, 09 Dec 2024 08:41:32 GMT\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=98\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=524397ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=18410)
+..\\lib\\transaction.h(13):     5d0\r\n
+..\\lib\\transaction.h(13): t=524397ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=18410)
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=524397ms: 1488-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=18410)
+..\\lib\\transaction.h(13):     <!DOCTYPE html\n
+..\\lib\\transaction.h(13):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\lib\\transaction.h(13):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\lib\\transaction.h(13):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\lib\\transaction.h(13):     <head>\n
+..\\lib\\transaction.h(13):     <title>Web Tours Navigation Bar</title>\n
+..\\lib\\transaction.h(13):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\lib\\transaction.h(13):     </head>\n
+..\\lib\\transaction.h(13):     <body bgcolor="#E0E7F1">\n
+..\\lib\\transaction.h(13):     <style>\n
+..\\lib\\transaction.h(13):     blockquote {font-family: tahoma; font-size : 10pt}\n
+..\\lib\\transaction.h(13):     H1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+..\\lib\\transaction.h(13):     H3 {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib\\transaction.h(13):     small {font-family: tahoma; font-size : 8pt}\n
+..\\lib\\transaction.h(13):     </style>\n
+..\\lib\\transaction.h(13):     <form method="post" action="/cgi-bin/login.pl" target="body">\n
+..\\lib\\transaction.h(13):     <input type="hidden" name="userSession" value="140447.152045362HcctcfApDiDDDDDDtDDtfpfAcD"
+..\\lib\\transaction.h(13):     />\n
+..\\lib\\transaction.h(13):     <table border="0"><tr><td>&nbsp;</td>\n
+..\\lib\\transaction.h(13):     <td>&nbsp;</td></tr>\n
+..\\lib\\transaction.h(13):     <tr><td>&nbsp;</td>\n
+..\\lib\\transaction.h(13):     <td>&nbsp;</td></tr>\n
+..\\lib\\transaction.h(13):     <tr><td>&nbsp;</td>\n
+..\\lib\\transaction.h(13):     <td><small>&nbsp;Username</small></td></tr>\n
+..\\lib\\transaction.h(13):     <tr><td>&nbsp;</td>\n
+..\\lib\\transaction.h(13):     <td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>\n
+..\\lib\\transaction.h(13):     <tr><td>&nbsp;</td>\n
+..\\lib\\transaction.h(13):     <td><small>&nbsp;Password</small></td>\n
+..\\lib\\transaction.h(13):     <tr><td>&nbsp;</td>\n
+..\\lib\\transaction.h(13):     <td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>\n
+..\\lib\\transaction.h(13):     <tr><td>&nbsp;</td>\n
+..\\lib\\transaction.h(13):     <td>&nbsp;</td></tr>\n
+..\\lib\\transaction.h(13):     <tr><td>&nbsp;</td>\n
+..\\lib\\transaction.h(13):     <td><input type="image" name="login" value="Login" alt="Login" border="1" \n
+..\\lib\\transaction.h(13):     src="/WebTours/images/mer_login.gif"/></td></tr>\n
+..\\lib\\transaction.h(13):     <tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n
+..\\lib\\transaction.h(13):     </table><input type="hidden" name="JSFormSubmit" value="off"/>\n
+..\\lib\\transaction.h(13):     </form>\n
+..\\lib\\transaction.h(13):     \n
+..\\lib\\transaction.h(13):     </body>\n
+..\\lib\\transaction.h(13):     </html>\n
+..\\lib\\transaction.h(13): Notify: Saving Parameter "userSession = 140447.152045362HcctcfApDiDDDDDDtDDtfpfAcD".	[MsgId: MMSG-13798]
+..\\lib\\transaction.h(13): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(13): t=524400ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=18410)
+..\\lib\\transaction.h(13):     0\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=524402ms: Request done "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=524402ms: Already connected [1] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=524402ms: 369-byte request headers for "http://localhost:1080/WebTours/images/mer_login.gif" (RelFrameId=, Internal ID=18412)
+..\\lib\\transaction.h(13):     GET /WebTours/images/mer_login.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/cgi-bin/nav.pl?in=home\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     Cookie: MSO=SID&1733820092\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=524409ms: 297-byte response headers for "http://localhost:1080/WebTours/images/mer_login.gif" (RelFrameId=, Internal ID=18412)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Tue, 10 Dec 2024 08:41:32 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "600000009591e-2a7-627d18e6a4eeb"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 679\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=98\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=524409ms: 679-byte response body for "http://localhost:1080/WebTours/images/mer_login.gif" (RelFrameId=, Internal ID=18412)
+..\\lib\\transaction.h(13): t=524409ms: Request done "http://localhost:1080/WebTours/images/mer_login.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Registered web_reg_find successful for "Text=Welcome to the Web Tours site." (count=1)  	[MsgId: MMSG-26364]
+..\\lib\\transaction.h(13): web_url("WebTours") was successful, 10078 body bytes, 2371 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(10): Notify: Transaction "open_home_page" ended with a "Pass" status (Duration: 0,1856 Wasted Time: 0,0001).	[MsgId: MMSG-16871]
+Action.c(12): Notify: Transaction "login" started.	[MsgId: MMSG-16999]
+..\\lib\\transaction.h(26): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(28): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(28): Notify: Parameter Substitution: parameter "login" =  "Triss"	[MsgId: MMSG-13992]
+..\\lib\\transaction.h(28): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(30): web_submit_data("login.pl") started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(30): Notify: Parameter Substitution: parameter "userSession" =  "140447.152045362HcctcfApDiDDDDDDtDDtfpfAcD"	[MsgId: MMSG-13992]
+..\\lib\\transaction.h(30): Notify: Parameter Substitution: parameter "login" =  "Triss"	[MsgId: MMSG-13992]
+..\\lib\\transaction.h(30): Notify: Next row for parameter password = 3 [table  = password].	[MsgId: MMSG-13876]
+..\\lib\\transaction.h(30): Notify: Parameter Substitution: parameter "password" =  "triss123"	[MsgId: MMSG-13992]
+..\\lib\\transaction.h(30): t=524410ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524410ms: 427-byte request headers for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=18413)
+..\\lib\\transaction.h(30):     POST /cgi-bin/login.pl HTTP/1.1\r\n
+..\\lib\\transaction.h(30):     Content-Type: application/x-www-form-urlencoded\r\n
+..\\lib\\transaction.h(30):     Referer: http://localhost:1080/cgi-bin/nav.pl?in=home\r\n
+..\\lib\\transaction.h(30):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(30):     .0\r\n
+..\\lib\\transaction.h(30):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(30):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(30):     Accept: */*\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(30):     Cookie: MSO=SID&1733820092\r\n
+..\\lib\\transaction.h(30):     Content-Length: 125\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524411ms: 125-byte request body for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=18413)
+..\\lib\\transaction.h(30):     userSession=140447.152045362HcctcfApDiDDDDDDtDDtfpfAcD&username=Triss&password=triss123&lo
+..\\lib\\transaction.h(30):     gin.x=49&login.y=8&JSFormSubmit=off
+..\\lib\\transaction.h(30): t=524540ms: 386-byte response headers for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=18413)
+..\\lib\\transaction.h(30):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(30):     Date: Tue, 10 Dec 2024 08:41:32 GMT\r\n
+..\\lib\\transaction.h(30):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(30):     Expires: 5s\r\n
+..\\lib\\transaction.h(30):     Set-Cookie: MTUserInfo=firstName&Triss&address2&Novigrad&username&Triss&hash&19&lastName&M
+..\\lib\\transaction.h(30):     erigold%0A&address1&Lilac%20Street&creditCard&&expDate&%0A; path=/\r\n
+..\\lib\\transaction.h(30):     Keep-Alive: timeout=5, max=97\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(30):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524540ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=18413)
+..\\lib\\transaction.h(30):     1e1\r\n
+..\\lib\\transaction.h(30): t=524540ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=18413)
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524541ms: 481-byte chunked response body for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=18413)
+..\\lib\\transaction.h(30):     <!--\n
+..\\lib\\transaction.h(30):     User password was correct - added a cookie with the user's default\n
+..\\lib\\transaction.h(30):     information.  Set the user up to make reservations...\n
+..\\lib\\transaction.h(30):     \n
+..\\lib\\transaction.h(30):     --->\n
+..\\lib\\transaction.h(30):     \n
+..\\lib\\transaction.h(30):     <html>\n
+..\\lib\\transaction.h(30):     <title>Web Tours</title>\n
+..\\lib\\transaction.h(30):     <frameset cols="160,*" border=1 frameborder=1>\n
+..\\lib\\transaction.h(30):     <frame src="nav.pl?page=menu&in=home" name="navbar" marginheight="2" marginwidth="2" nores
+..\\lib\\transaction.h(30):     ize="noresize" scrolling="auto"/>\n
+..\\lib\\transaction.h(30):     <frame src="login.pl?intro=true" name="info" marginheight="2" marginwidth="2" noresize="no
+..\\lib\\transaction.h(30):     resize" scrolling="auto"/>\n
+..\\lib\\transaction.h(30):     </frameset>\n
+..\\lib\\transaction.h(30):     \n
+..\\lib\\transaction.h(30):     </body>\n
+..\\lib\\transaction.h(30):     </html>
+..\\lib\\transaction.h(30): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(30): Detected non-resource "http://localhost:1080/cgi-bin/login.pl?intro=true" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(30): t=524541ms: Already connected [1] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524541ms: 504-byte request headers for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=18414)
+..\\lib\\transaction.h(30):     GET /cgi-bin/nav.pl?page=menu&in=home HTTP/1.1\r\n
+..\\lib\\transaction.h(30):     Referer: http://localhost:1080/cgi-bin/login.pl\r\n
+..\\lib\\transaction.h(30):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(30):     .0\r\n
+..\\lib\\transaction.h(30):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(30):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(30):     Accept: */*\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(30):     Cookie: MSO=SID&1733820092; MTUserInfo=firstName&Triss&address2&Novigrad&username&Triss&ha
+..\\lib\\transaction.h(30):     sh&19&lastName&Merigold%0A&address1&Lilac%20Street&creditCard&&expDate&%0A\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524542ms: Already connected [2] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524542ms: 499-byte request headers for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=18415)
+..\\lib\\transaction.h(30):     GET /cgi-bin/login.pl?intro=true HTTP/1.1\r\n
+..\\lib\\transaction.h(30):     Referer: http://localhost:1080/cgi-bin/login.pl\r\n
+..\\lib\\transaction.h(30):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(30):     .0\r\n
+..\\lib\\transaction.h(30):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(30):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(30):     Accept: */*\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(30):     Cookie: MSO=SID&1733820092; MTUserInfo=firstName&Triss&address2&Novigrad&username&Triss&ha
+..\\lib\\transaction.h(30):     sh&19&lastName&Merigold%0A&address1&Lilac%20Street&creditCard&&expDate&%0A\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524566ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=18413)
+..\\lib\\transaction.h(30):     0\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524567ms: Request done "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524641ms: 255-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=18414)
+..\\lib\\transaction.h(30):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(30):     Date: Tue, 10 Dec 2024 08:41:32 GMT\r\n
+..\\lib\\transaction.h(30):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(30):     Expires: Mon, 09 Dec 2024 08:41:32 GMT\r\n
+..\\lib\\transaction.h(30):     Keep-Alive: timeout=5, max=97\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(30):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524642ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=18414)
+..\\lib\\transaction.h(30):     5ca\r\n
+..\\lib\\transaction.h(30): t=524642ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=18414)
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524642ms: 1482-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=18414)
+..\\lib\\transaction.h(30):     <!DOCTYPE html\n
+..\\lib\\transaction.h(30):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\lib\\transaction.h(30):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\lib\\transaction.h(30):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\lib\\transaction.h(30):     <head>\n
+..\\lib\\transaction.h(30):     <title>Web Tours Navigation Bar</title>\n
+..\\lib\\transaction.h(30):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\lib\\transaction.h(30):     </head>\n
+..\\lib\\transaction.h(30):     <body bgcolor="#E0E7F1">\n
+..\\lib\\transaction.h(30):     \n
+..\\lib\\transaction.h(30):     <style>\n
+..\\lib\\transaction.h(30):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+..\\lib\\transaction.h(30):     \tH1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+..\\lib\\transaction.h(30):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+..\\lib\\transaction.h(30):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib\\transaction.h(30):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+..\\lib\\transaction.h(30):     N: none}\n
+..\\lib\\transaction.h(30):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+..\\lib\\transaction.h(30):     CORATION: underline}\n
+..\\lib\\transaction.h(30):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib\\transaction.h(30):     </style>\n
+..\\lib\\transaction.h(30):     \n
+..\\lib\\transaction.h(30):     <BR><BR><center>\n
+..\\lib\\transaction.h(30):     \n
+..\\lib\\transaction.h(30):     <br clear="both"/><center><A HREF="welcome.pl?page=search" TARGET="body"><IMG BORDER="0" S
+..\\lib\\transaction.h(30):     RC="/WebTours/images/flights.gif" \n
+..\\lib\\transaction.h(30):     ALT="Search Flights Button"/></A>\n
+..\\lib\\transaction.h(30):     <br clear="both"/><A HREF="welcome.pl?page=itinerary" TARGET="body"><IMG BORDER="0" SRC="/
+..\\lib\\transaction.h(30):     WebTours/images/itinerary.gif" \n
+..\\lib\\transaction.h(30):     ALT="Itinerary Button"/></A>\n
+..\\lib\\transaction.h(30):     <br clear="both"/><A HREF="welcome.pl?page=menus" TARGET="body"><IMG BORDER="0" SRC="/WebT
+..\\lib\\transaction.h(30):     ours/images/in_home.gif" \n
+..\\lib\\transaction.h(30):     ALT="Home Button"/></A>\n
+..\\lib\\transaction.h(30):     <br clear><A HREF="welcome.pl?signOff=1" TARGET="body"><IMG BORDER="0" SRC="/WebTours/imag
+..\\lib\\transaction.h(30):     es/signoff.gif" \n
+..\\lib\\transaction.h(30):     ALT="SignOff Button"/></A></center>\n
+..\\lib\\transaction.h(30):     \n
+..\\lib\\transaction.h(30):     </body>\n
+..\\lib\\transaction.h(30):     </html>\n
+..\\lib\\transaction.h(30): Found resource "http://localhost:1080/WebTours/images/flights.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(30): Found resource "http://localhost:1080/WebTours/images/itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(30): Found resource "http://localhost:1080/WebTours/images/in_home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(30): Found resource "http://localhost:1080/WebTours/images/signoff.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(30): t=524645ms: Already connected [3] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524645ms: 517-byte request headers for "http://localhost:1080/WebTours/images/itinerary.gif" (RelFrameId=, Internal ID=18417)
+..\\lib\\transaction.h(30):     GET /WebTours/images/itinerary.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(30):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home\r\n
+..\\lib\\transaction.h(30):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(30):     .0\r\n
+..\\lib\\transaction.h(30):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(30):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(30):     Accept: */*\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(30):     Cookie: MSO=SID&1733820092; MTUserInfo=firstName&Triss&address2&Novigrad&username&Triss&ha
+..\\lib\\transaction.h(30):     sh&19&lastName&Merigold%0A&address1&Lilac%20Street&creditCard&&expDate&%0A\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524647ms: Connecting [4] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524647ms: Connecting [5] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524648ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524648ms: 515-byte request headers for "http://localhost:1080/WebTours/images/flights.gif" (RelFrameId=, Internal ID=18416)
+..\\lib\\transaction.h(30):     GET /WebTours/images/flights.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(30):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home\r\n
+..\\lib\\transaction.h(30):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(30):     .0\r\n
+..\\lib\\transaction.h(30):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(30):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(30):     Accept: */*\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(30):     Cookie: MSO=SID&1733820092; MTUserInfo=firstName&Triss&address2&Novigrad&username&Triss&ha
+..\\lib\\transaction.h(30):     sh&19&lastName&Merigold%0A&address1&Lilac%20Street&creditCard&&expDate&%0A\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524649ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=18414)
+..\\lib\\transaction.h(30):     0\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524649ms: Request done "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524650ms: 297-byte response headers for "http://localhost:1080/WebTours/images/flights.gif" (RelFrameId=, Internal ID=18416)
+..\\lib\\transaction.h(30):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(30):     Date: Tue, 10 Dec 2024 08:41:32 GMT\r\n
+..\\lib\\transaction.h(30):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(30):     Last-Modified: Tue, 26 Nov 2024 14:20:50 GMT\r\n
+..\\lib\\transaction.h(30):     ETag: "6000000095909-2d6-627d18e668dc2"\r\n
+..\\lib\\transaction.h(30):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(30):     Content-Length: 726\r\n
+..\\lib\\transaction.h(30):     Keep-Alive: timeout=5, max=96\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524654ms: 726-byte response body for "http://localhost:1080/WebTours/images/flights.gif" (RelFrameId=, Internal ID=18416)
+..\\lib\\transaction.h(30): t=524654ms: Request done "http://localhost:1080/WebTours/images/flights.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524654ms: 228-byte response headers for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=18415)
+..\\lib\\transaction.h(30):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(30):     Date: Tue, 10 Dec 2024 08:41:32 GMT\r\n
+..\\lib\\transaction.h(30):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(30):     Expires: 5s\r\n
+..\\lib\\transaction.h(30):     Keep-Alive: timeout=5, max=99\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(30):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524654ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=18415)
+..\\lib\\transaction.h(30):     397\r\n
+..\\lib\\transaction.h(30): t=524655ms: 7-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=18415)
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30):     0\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524655ms: 919-byte chunked response body for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=18415)
+..\\lib\\transaction.h(30):     <!DOCTYPE html\n
+..\\lib\\transaction.h(30):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\lib\\transaction.h(30):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\lib\\transaction.h(30):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\lib\\transaction.h(30):     <head>\n
+..\\lib\\transaction.h(30):     <title>Welcome to Web Tours</title>\n
+..\\lib\\transaction.h(30):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\lib\\transaction.h(30):     </head>\n
+..\\lib\\transaction.h(30):     <body bgcolor="#E0E7F1">\n
+..\\lib\\transaction.h(30):     <p /><style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; fon
+..\\lib\\transaction.h(30):     t-size : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family:
+..\\lib\\transaction.h(30):      tahoma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: 
+..\\lib\\transaction.h(30):     black}</style><BR/><BR/><BR/><BR/><BR/><blockquote>Welcome, <b>Triss</b>, to the Web Tours
+..\\lib\\transaction.h(30):      reservation pages.<BR/>Using the menu to the left, you can search for new flights to book
+..\\lib\\transaction.h(30):     , \n
+..\\lib\\transaction.h(30):     or review/edit the flights already booked.  Don't forget to sign off when\n
+..\\lib\\transaction.h(30):     you're done!\n
+..\\lib\\transaction.h(30):     </blockquote>\n
+..\\lib\\transaction.h(30):     </body>\n
+..\\lib\\transaction.h(30):     </html>
+..\\lib\\transaction.h(30): t=524655ms: Request done "http://localhost:1080/cgi-bin/login.pl?intro=true"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524655ms: 297-byte response headers for "http://localhost:1080/WebTours/images/itinerary.gif" (RelFrameId=, Internal ID=18417)
+..\\lib\\transaction.h(30):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(30):     Date: Tue, 10 Dec 2024 08:41:32 GMT\r\n
+..\\lib\\transaction.h(30):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(30):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(30):     ETag: "6000000095919-2dd-627d18e6977e1"\r\n
+..\\lib\\transaction.h(30):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(30):     Content-Length: 733\r\n
+..\\lib\\transaction.h(30):     Keep-Alive: timeout=5, max=99\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524656ms: 733-byte response body for "http://localhost:1080/WebTours/images/itinerary.gif" (RelFrameId=, Internal ID=18417)
+..\\lib\\transaction.h(30): t=524656ms: Request done "http://localhost:1080/WebTours/images/itinerary.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524656ms: Connected socket [4] from 127.0.0.1:13211 to 127.0.0.1:1080 in 9 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524656ms: 515-byte request headers for "http://localhost:1080/WebTours/images/in_home.gif" (RelFrameId=, Internal ID=18418)
+..\\lib\\transaction.h(30):     GET /WebTours/images/in_home.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(30):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home\r\n
+..\\lib\\transaction.h(30):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(30):     .0\r\n
+..\\lib\\transaction.h(30):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(30):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(30):     Accept: */*\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(30):     Cookie: MSO=SID&1733820092; MTUserInfo=firstName&Triss&address2&Novigrad&username&Triss&ha
+..\\lib\\transaction.h(30):     sh&19&lastName&Merigold%0A&address1&Lilac%20Street&creditCard&&expDate&%0A\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524656ms: Connected socket [5] from 127.0.0.1:13212 to 127.0.0.1:1080 in 9 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524657ms: 515-byte request headers for "http://localhost:1080/WebTours/images/signoff.gif" (RelFrameId=, Internal ID=18419)
+..\\lib\\transaction.h(30):     GET /WebTours/images/signoff.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(30):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home\r\n
+..\\lib\\transaction.h(30):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(30):     .0\r\n
+..\\lib\\transaction.h(30):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(30):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(30):     Accept: */*\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(30):     Cookie: MSO=SID&1733820092; MTUserInfo=firstName&Triss&address2&Novigrad&username&Triss&ha
+..\\lib\\transaction.h(30):     sh&19&lastName&Merigold%0A&address1&Lilac%20Street&creditCard&&expDate&%0A\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524663ms: 298-byte response headers for "http://localhost:1080/WebTours/images/in_home.gif" (RelFrameId=, Internal ID=18418)
+..\\lib\\transaction.h(30):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(30):     Date: Tue, 10 Dec 2024 08:41:32 GMT\r\n
+..\\lib\\transaction.h(30):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(30):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(30):     ETag: "6000000095915-2b0-627d18e689bd4"\r\n
+..\\lib\\transaction.h(30):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(30):     Content-Length: 688\r\n
+..\\lib\\transaction.h(30):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524666ms: 688-byte response body for "http://localhost:1080/WebTours/images/in_home.gif" (RelFrameId=, Internal ID=18418)
+..\\lib\\transaction.h(30): t=524666ms: Request done "http://localhost:1080/WebTours/images/in_home.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=524666ms: 298-byte response headers for "http://localhost:1080/WebTours/images/signoff.gif" (RelFrameId=, Internal ID=18419)
+..\\lib\\transaction.h(30):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(30):     Date: Tue, 10 Dec 2024 08:41:32 GMT\r\n
+..\\lib\\transaction.h(30):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(30):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(30):     ETag: "6000000095922-2ef-627d18e6b323a"\r\n
+..\\lib\\transaction.h(30):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(30):     Content-Length: 751\r\n
+..\\lib\\transaction.h(30):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=524666ms: 751-byte response body for "http://localhost:1080/WebTours/images/signoff.gif" (RelFrameId=, Internal ID=18419)
+..\\lib\\transaction.h(30): t=524666ms: Request done "http://localhost:1080/WebTours/images/signoff.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): Registered web_reg_find successful for "Text=User password was correct" (count=1)  	[MsgId: MMSG-26364]
+..\\lib\\transaction.h(30): Registered web_reg_find successful for "Text=<blockquote>Welcome, <b>Triss</b>, to the Web Tours" (count=1)  	[MsgId: MMSG-26364]
+..\\lib\\transaction.h(30): web_submit_data("login.pl") was successful, 5780 body bytes, 2059 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(17): Notify: Transaction "login" ended with a "Pass" status (Duration: 0,2566 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(20): Notify: Transaction "itinerary_page" started.	[MsgId: MMSG-16999]
+Action.c(22): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(22): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(143): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(143): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(146): web_url("welcome.pl_2") started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(146): t=524667ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524667ms: 521-byte request headers for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=18420)
+..\\lib\\transaction.h(146):     GET /cgi-bin/welcome.pl?page=itinerary HTTP/1.1\r\n
+..\\lib\\transaction.h(146):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home\r\n
+..\\lib\\transaction.h(146):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(146):     .0\r\n
+..\\lib\\transaction.h(146):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(146):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(146):     Accept: */*\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(146):     Cookie: MSO=SID&1733820092; MTUserInfo=firstName&Triss&address2&Novigrad&username&Triss&ha
+..\\lib\\transaction.h(146):     sh&19&lastName&Merigold%0A&address1&Lilac%20Street&creditCard&&expDate&%0A\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524714ms: 215-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=18420)
+..\\lib\\transaction.h(146):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(146):     Date: Tue, 10 Dec 2024 08:41:32 GMT\r\n
+..\\lib\\transaction.h(146):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(146):     Keep-Alive: timeout=5, max=95\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(146):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524715ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=18420)
+..\\lib\\transaction.h(146):     24f\r\n
+..\\lib\\transaction.h(146): t=524715ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=18420)
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524715ms: 591-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=18420)
+..\\lib\\transaction.h(146):     <!-- \n
+..\\lib\\transaction.h(146):      User wants the intineraries.  Since user has already logged on,\n
+..\\lib\\transaction.h(146):      we can give them the menu in the navbar.\n
+..\\lib\\transaction.h(146):      --->\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <html>\n
+..\\lib\\transaction.h(146):     <title>Web Tours</title>\n
+..\\lib\\transaction.h(146):        <!-- Frame Set -->\n
+..\\lib\\transaction.h(146):        <frameset cols="160,*" border="1" frameborder="1">\n
+..\\lib\\transaction.h(146):           <!-- Navigation Frame -->\n
+..\\lib\\transaction.h(146):           <frame src="nav.pl?page=menu&in=itinerary" name="navbar" \n
+..\\lib\\transaction.h(146):                 marginheight="2" marginwidth="2" noresize="noresize" scrolling="auto"/>\n
+..\\lib\\transaction.h(146):           <!-- Itinerary Frame -->\n
+..\\lib\\transaction.h(146):           <frame src="itinerary.pl" name="info" \n
+..\\lib\\transaction.h(146):                 marginheight="2" marginwidth="2" noresize="noresize" scrolling="auto"/>\n
+..\\lib\\transaction.h(146):        </frameset>\n
+..\\lib\\transaction.h(146):     </html>\n
+..\\lib\\transaction.h(146): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" in "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(146): Detected non-resource "http://localhost:1080/cgi-bin/itinerary.pl" in "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(146): t=524715ms: Already connected [1] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524716ms: 526-byte request headers for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=18421)
+..\\lib\\transaction.h(146):     GET /cgi-bin/nav.pl?page=menu&in=itinerary HTTP/1.1\r\n
+..\\lib\\transaction.h(146):     Referer: http://localhost:1080/cgi-bin/welcome.pl?page=itinerary\r\n
+..\\lib\\transaction.h(146):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(146):     .0\r\n
+..\\lib\\transaction.h(146):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(146):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(146):     Accept: */*\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(146):     Cookie: MSO=SID&1733820092; MTUserInfo=firstName&Triss&address2&Novigrad&username&Triss&ha
+..\\lib\\transaction.h(146):     sh&19&lastName&Merigold%0A&address1&Lilac%20Street&creditCard&&expDate&%0A\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524725ms: Already connected [2] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524725ms: 509-byte request headers for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18422)
+..\\lib\\transaction.h(146):     GET /cgi-bin/itinerary.pl HTTP/1.1\r\n
+..\\lib\\transaction.h(146):     Referer: http://localhost:1080/cgi-bin/welcome.pl?page=itinerary\r\n
+..\\lib\\transaction.h(146):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(146):     .0\r\n
+..\\lib\\transaction.h(146):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(146):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(146):     Accept: */*\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(146):     Cookie: MSO=SID&1733820092; MTUserInfo=firstName&Triss&address2&Novigrad&username&Triss&ha
+..\\lib\\transaction.h(146):     sh&19&lastName&Merigold%0A&address1&Lilac%20Street&creditCard&&expDate&%0A\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524729ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=18420)
+..\\lib\\transaction.h(146):     0\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524729ms: Request done "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524840ms: 255-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=18421)
+..\\lib\\transaction.h(146):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(146):     Date: Tue, 10 Dec 2024 08:41:32 GMT\r\n
+..\\lib\\transaction.h(146):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(146):     Expires: Mon, 09 Dec 2024 08:41:32 GMT\r\n
+..\\lib\\transaction.h(146):     Keep-Alive: timeout=5, max=96\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(146):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524841ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=18421)
+..\\lib\\transaction.h(146):     5ca\r\n
+..\\lib\\transaction.h(146): t=524841ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=18421)
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524841ms: 1482-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=18421)
+..\\lib\\transaction.h(146):     <!DOCTYPE html\n
+..\\lib\\transaction.h(146):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\lib\\transaction.h(146):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\lib\\transaction.h(146):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\lib\\transaction.h(146):     <head>\n
+..\\lib\\transaction.h(146):     <title>Web Tours Navigation Bar</title>\n
+..\\lib\\transaction.h(146):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\lib\\transaction.h(146):     </head>\n
+..\\lib\\transaction.h(146):     <body bgcolor="#E0E7F1">\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <style>\n
+..\\lib\\transaction.h(146):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+..\\lib\\transaction.h(146):     \tH1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+..\\lib\\transaction.h(146):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+..\\lib\\transaction.h(146):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib\\transaction.h(146):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+..\\lib\\transaction.h(146):     N: none}\n
+..\\lib\\transaction.h(146):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+..\\lib\\transaction.h(146):     CORATION: underline}\n
+..\\lib\\transaction.h(146):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib\\transaction.h(146):     </style>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <BR><BR><center>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <br clear="both"/><center><A HREF="welcome.pl?page=search" TARGET="body"><IMG BORDER="0" S
+..\\lib\\transaction.h(146):     RC="/WebTours/images/flights.gif" \n
+..\\lib\\transaction.h(146):     ALT="Search Flights Button"/></A>\n
+..\\lib\\transaction.h(146):     <br clear="both"/><A HREF="welcome.pl?page=itinerary" TARGET="body"><IMG BORDER="0" SRC="/
+..\\lib\\transaction.h(146):     WebTours/images/in_itinerary.gif" \n
+..\\lib\\transaction.h(146):     ALT="Itinerary Button"/></A>\n
+..\\lib\\transaction.h(146):     <br clear="both"/><A HREF="welcome.pl?page=menus" TARGET="body"><IMG BORDER="0" SRC="/WebT
+..\\lib\\transaction.h(146):     ours/images/home.gif" \n
+..\\lib\\transaction.h(146):     ALT="Home Button"/></A>\n
+..\\lib\\transaction.h(146):     <br clear><A HREF="welcome.pl?signOff=1" TARGET="body"><IMG BORDER="0" SRC="/WebTours/imag
+..\\lib\\transaction.h(146):     es/signoff.gif" \n
+..\\lib\\transaction.h(146):     ALT="SignOff Button"/></A></center>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     </body>\n
+..\\lib\\transaction.h(146):     </html>\n
+..\\lib\\transaction.h(146): Resource "http://localhost:1080/WebTours/images/flights.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\lib\\transaction.h(146): Found resource "http://localhost:1080/WebTours/images/in_itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(146): Found resource "http://localhost:1080/WebTours/images/home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(146): Resource "http://localhost:1080/WebTours/images/signoff.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\lib\\transaction.h(146): t=524843ms: Already connected [3] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524843ms: 517-byte request headers for "http://localhost:1080/WebTours/images/home.gif" (RelFrameId=, Internal ID=18424)
+..\\lib\\transaction.h(146):     GET /WebTours/images/home.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(146):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary\r\n
+..\\lib\\transaction.h(146):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(146):     .0\r\n
+..\\lib\\transaction.h(146):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(146):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(146):     Accept: */*\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(146):     Cookie: MSO=SID&1733820092; MTUserInfo=firstName&Triss&address2&Novigrad&username&Triss&ha
+..\\lib\\transaction.h(146):     sh&19&lastName&Merigold%0A&address1&Lilac%20Street&creditCard&&expDate&%0A\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524858ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524858ms: 525-byte request headers for "http://localhost:1080/WebTours/images/in_itinerary.gif" (RelFrameId=, Internal ID=18423)
+..\\lib\\transaction.h(146):     GET /WebTours/images/in_itinerary.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(146):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary\r\n
+..\\lib\\transaction.h(146):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(146):     .0\r\n
+..\\lib\\transaction.h(146):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(146):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(146):     Accept: */*\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(146):     Cookie: MSO=SID&1733820092; MTUserInfo=firstName&Triss&address2&Novigrad&username&Triss&ha
+..\\lib\\transaction.h(146):     sh&19&lastName&Merigold%0A&address1&Lilac%20Street&creditCard&&expDate&%0A\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524860ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=18421)
+..\\lib\\transaction.h(146):     0\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524860ms: Request done "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524860ms: 297-byte response headers for "http://localhost:1080/WebTours/images/in_itinerary.gif" (RelFrameId=, Internal ID=18423)
+..\\lib\\transaction.h(146):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(146):     Date: Tue, 10 Dec 2024 08:41:32 GMT\r\n
+..\\lib\\transaction.h(146):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(146):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(146):     ETag: "6000000095916-2dd-627d18e68e27b"\r\n
+..\\lib\\transaction.h(146):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(146):     Content-Length: 733\r\n
+..\\lib\\transaction.h(146):     Keep-Alive: timeout=5, max=94\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524861ms: 733-byte response body for "http://localhost:1080/WebTours/images/in_itinerary.gif" (RelFrameId=, Internal ID=18423)
+..\\lib\\transaction.h(146): t=524861ms: Request done "http://localhost:1080/WebTours/images/in_itinerary.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524861ms: 255-byte response headers for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18422)
+..\\lib\\transaction.h(146):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(146):     Date: Tue, 10 Dec 2024 08:41:32 GMT\r\n
+..\\lib\\transaction.h(146):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(146):     Expires: Mon, 09 Dec 2024 08:41:32 GMT\r\n
+..\\lib\\transaction.h(146):     Keep-Alive: timeout=5, max=98\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(146):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524861ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18422)
+..\\lib\\transaction.h(146):     377\r\n
+..\\lib\\transaction.h(146): t=524861ms: 7-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18422)
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146):     0\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524861ms: 887-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=18422)
+..\\lib\\transaction.h(146):     <!DOCTYPE html\n
+..\\lib\\transaction.h(146):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\lib\\transaction.h(146):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\lib\\transaction.h(146):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\lib\\transaction.h(146):     <head>\n
+..\\lib\\transaction.h(146):     <title>Flights List</title>\n
+..\\lib\\transaction.h(146):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\lib\\transaction.h(146):     </head>\n
+..\\lib\\transaction.h(146):     <body bgcolor="#E0E7F1">\n
+..\\lib\\transaction.h(146):     <style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-siz
+..\\lib\\transaction.h(146):     e : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: taho
+..\\lib\\transaction.h(146):     ma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 8pt; color: black}
+..\\lib\\transaction.h(146):     </style><BR/><BR/><h1><font color="#003366">&nbsp;&nbsp;<b>Itinerary</font></b></h1><block
+..\\lib\\transaction.h(146):     quote><form method="post" action="itinerary.pl" enctype="application/x-www-form-urlencoded
+..\\lib\\transaction.h(146):     ">\n
+..\\lib\\transaction.h(146):     <center><H3>No flights have been reserved.</H3></center>\n
+..\\lib\\transaction.h(146):     </form>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     </center>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     </body>\n
+..\\lib\\transaction.h(146):     </html>
+..\\lib\\transaction.h(146): t=524862ms: Request done "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524862ms: 297-byte response headers for "http://localhost:1080/WebTours/images/home.gif" (RelFrameId=, Internal ID=18424)
+..\\lib\\transaction.h(146):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(146):     Date: Tue, 10 Dec 2024 08:41:32 GMT\r\n
+..\\lib\\transaction.h(146):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(146):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(146):     ETag: "600000009590e-2b0-627d18e67bbbe"\r\n
+..\\lib\\transaction.h(146):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(146):     Content-Length: 688\r\n
+..\\lib\\transaction.h(146):     Keep-Alive: timeout=5, max=98\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=524862ms: 688-byte response body for "http://localhost:1080/WebTours/images/home.gif" (RelFrameId=, Internal ID=18424)
+..\\lib\\transaction.h(146): t=524862ms: Request done "http://localhost:1080/WebTours/images/home.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): Error -26377: No match found for the requested parameter "flightID". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 4381 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+..\\lib\\transaction.h(146): Notify: Saving Parameter "flightID_count = 0".	[MsgId: MMSG-13798]
+..\\lib\\transaction.h(146): Registered web_reg_find successful for "Text=Itinerary" (count=3)  	[MsgId: MMSG-26364]
+..\\lib\\transaction.h(146): web_url("welcome.pl_2") highest severity level was "ERROR", 4381 body bytes, 1319 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26387]
+..\\lib\\transaction.h(146): Notify: Transaction "itinerary_page" ended with a "Fail" status (Duration: 0,1961 Wasted Time: 0,0001).	[MsgId: MMSG-16871]
+..\\lib\\transaction.h(146): Notify: Transaction "itinerary_page" has 1 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(146): Notify: The 1st error message associated with transaction "itinerary_page" is "Error -26377: No match found for the requested parameter "flightID". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 4381 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(146): Notify: Transaction "UC05_DeleteTicket" ended with a "Fail" status (Duration: 0,6388 Wasted Time: 0,0003).	[MsgId: MMSG-16871]
+..\\lib\\transaction.h(146): Notify: Transaction "UC05_DeleteTicket" has 1 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(146): Notify: The 1st error message associated with transaction "UC05_DeleteTicket" is "Error -26377: No match found for the requested parameter "flightID". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 4381 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+..\\lib\\transaction.h(146): t=524864ms: Closed connection [0] to localhost:1080 after completing 7 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524864ms: Closed connection [1] to localhost:1080 after completing 5 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524864ms: Closed connection [2] to localhost:1080 after completing 3 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524864ms: Closed connection [3] to localhost:1080 after completing 3 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524864ms: Closed connection [4] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=524864ms: Closed connection [5] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=9, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 0 (thread 29284), ended OK."	[MsgId: MMSG-10695]

@@ -23,6 +23,18 @@
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="lrw_custom_body.h" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv4n9.945.log" Filter="1" />
+    <FileEntry Name="mdrv582.797.log" Filter="1" />
+    <FileEntry Name="mdrv6dv.81.log" Filter="1" />
+    <FileEntry Name="mdrv7Au.407.log" Filter="1" />
+    <FileEntry Name="mdrvAx2.7.log" Filter="1" />
+    <FileEntry Name="mdrvK7L.123.log" Filter="1" />
+    <FileEntry Name="mdrvkPG.185.log" Filter="1" />
+    <FileEntry Name="mdrvsAM.173.log" Filter="1" />
+    <FileEntry Name="mdrvv2Q.721.log" Filter="1" />
+    <FileEntry Name="mdrvVFh.185.log" Filter="1" />
+    <FileEntry Name="mdrvZ2d.493.log" Filter="1" />
+    <FileEntry Name="mdrvzBk.839.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />
     <FileEntry Name="output.bak" Filter="1" />
@@ -33,6 +45,7 @@
     <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
     <FileEntry Name="UC06_Registration.c.pickle" Filter="1" />
     <FileEntry Name="UC06_Registration.ci" Filter="1" />
+    <FileEntry Name="UC06_Registration.sdf" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />

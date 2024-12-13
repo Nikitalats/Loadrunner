@@ -74,6 +74,30 @@ Action()
     lr_think_time(20);
 
 	lr_end_transaction("registration",LR_AUTO);
+	
+	lr_start_transaction("next_page_reg");
+
+	lr_think_time(6);
+	
+	web_reg_find("Text=<blockquote>Welcome, <b>{login}</b>, to the Web Tours",LAST);
+
+	web_url("welcome.pl", 
+		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=menus", 
+		"TargetFrame=", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=http://localhost:1080/cgi-bin/login.pl", 
+		"Snapshot=t14.inf", 
+		"Mode=HTML", 
+		LAST);
+
+	lr_end_transaction("next_page_reg",LR_AUTO);
+	
+	lr_start_transaction("sign_off");
+
+	sign_off();
+
+	lr_end_transaction("sign_off",LR_AUTO);
 		
 	lr_end_transaction("UC06_Registration", LR_AUTO);
 

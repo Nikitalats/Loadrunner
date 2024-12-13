@@ -8,6 +8,7 @@
 #include "lrw_custom_body.h"
 #include "WebSocketCB.c"
 #include "WebSocketBuffer.h"
+#include "..\lib\randomP.h"
 #include "..\lib\transaction.h"
 //--------------------------------------------------------------------
 // Global Variables

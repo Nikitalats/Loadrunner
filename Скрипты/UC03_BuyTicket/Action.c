@@ -26,7 +26,7 @@ Action()
 	lr_start_transaction("find_flight");
 	
 	find_flight();
-	lr_think_time(10);
+	lr_think_time(5);
 	
 	lr_end_transaction("find_flight",LR_AUTO);
 
@@ -74,9 +74,16 @@ Action()
 		"Name=.cgifields", "Value=saveCC", ENDITEM, 
 		LAST);
 	
-	lr_think_time(15);
+	lr_think_time(5);
 	
 	lr_end_transaction("buy_ticket",LR_AUTO);
+	
+	
+	lr_start_transaction("sign_off");
+
+	sign_off();
+
+	lr_end_transaction("sign_off",LR_AUTO);
 	
 	lr_end_transaction("UC03_BuyTicket", LR_AUTO);
 

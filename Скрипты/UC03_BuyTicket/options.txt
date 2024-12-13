@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--IC:\Loadrunner\UC03_BuyTicket
--IC:\Program Files (x86)\Micro Focus\LoadRunner\include
--ec:\loadrunner\uc03_buyticket\\logfile.log
-c:\loadrunner\uc03_buyticket\\combined_UC03_BuyTicket.c
-c:\loadrunner\uc03_buyticket\\pre_cci.c
+-IC:\Loadrunner_nt\Скрипты\UC03_BuyTicket
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\loadrunner_nt\скрипты\uc03_buyticket\\logfile.log
+c:\loadrunner_nt\скрипты\uc03_buyticket\\combined_UC03_BuyTicket.c
+c:\loadrunner_nt\скрипты\uc03_buyticket\\pre_cci.c

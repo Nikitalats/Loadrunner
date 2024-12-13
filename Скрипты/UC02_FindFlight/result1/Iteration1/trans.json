@@ -1,0 +1,37 @@
+[
+    {
+        "transactionName": "open_home_page",
+        "rawStartTime": 1733757574425,
+        "rawEndTime": 1733757574631
+    },
+    {
+        "transactionName": "login",
+        "rawStartTime": 1733757574646,
+        "rawEndTime": 1733757574804
+    },
+    {
+        "transactionName": "flights_page",
+        "rawStartTime": 1733757574820,
+        "rawEndTime": 1733757575024
+    },
+    {
+        "transactionName": "find_flight",
+        "rawStartTime": 1733757575040,
+        "rawEndTime": 1733757575136
+    },
+    {
+        "transactionName": "select_ticket",
+        "rawStartTime": 1733757575152,
+        "rawEndTime": 1733757575261
+    },
+    {
+        "transactionName": "itinerary_page",
+        "rawStartTime": 1733757575277,
+        "rawEndTime": 1733757575496
+    },
+    {
+        "transactionName": "UC02_FindFlight",
+        "rawStartTime": 1733757574409,
+        "rawEndTime": 1733757575511
+    }
+]

@@ -1,21 +1,13 @@
 
 
 void open_home_page(){
-/*Correlation comment - Do not change!  Original value='140359.08999595HcVQHcApzQVzzzzHtDDVipDctVf' Name ='userSession' Type ='ResponseBased'*/
+
+	web_reg_save_param("userSession",
+		"LB=name=\"userSession\" value=\"",
+		"RB=\"",
+		LAST);
 		
 	web_reg_find("Text=Welcome to the Web Tours site.",
-		LAST);
-
-
-	web_reg_save_param_attrib(
-		"ParamName=userSession",
-		"TagName=input",
-		"Extract=value",
-		"Name=userSession",
-		"Type=hidden",
-		SEARCH_FILTERS,
-		"IgnoreRedirections=No",
-		"RequestUrl=*/nav.pl*",
 		LAST);
 
 	web_url("WebTours", 
@@ -73,8 +65,6 @@ void flights_page(){
 	);
 
 	
-	lr_think_time(14);
-
 	web_url("Search Flights Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=search", 
 		"TargetFrame=body", 
@@ -97,8 +87,6 @@ void find_flight(){
         "RB/IC=\"",
         "Ordinal=all",
         LAST);
-
-	lr_think_time(31);
 
 	web_submit_data("reservations.pl", 
 		"Action=http://localhost:1080/cgi-bin/reservations.pl", 
@@ -164,4 +152,17 @@ void itinerary_page(){
 		"Snapshot=t48.inf", 
 		"Mode=HTML", 
 		LAST);
+}
+
+void sign_off(){
+		web_url("welcome.pl_2", 
+		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=1", 
+		"TargetFrame=", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home", 
+		"Snapshot=t20.inf", 
+		"Mode=HTML", 
+		LAST);
+	
 }

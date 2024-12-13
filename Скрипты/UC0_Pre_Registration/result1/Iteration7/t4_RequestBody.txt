@@ -1,2 +1,0 @@
-"username=Vesemir&password=vesemir123&passwordConfirm=vesemir123&firstName=Vesemir&lastName=Gre"
-"y-Beak&address1=Kaer+Morhen&address2=White+Garden&register.x=55&register.y=10"

@@ -18,6 +18,7 @@
     <FileEntry Name="combined_UC01_Autorization.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name="108599955440.idx" Filter="1" />
+    <FileEntry Name="45176643440.idx" Filter="1" />
     <FileEntry Name="72340061440.idx" Filter="1" />
     <FileEntry Name="7234006144_6c1.787.idx" Filter="1" />
     <FileEntry Name="7234006144_cnb.747.idx" Filter="1" />
@@ -30,6 +31,14 @@
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv3HA.617.log" Filter="1" />
+    <FileEntry Name="mdrv6ep.883.log" Filter="1" />
+    <FileEntry Name="mdrvapb.397.log" Filter="1" />
+    <FileEntry Name="mdrvMIq.363.log" Filter="1" />
+    <FileEntry Name="mdrvmJl.261.log" Filter="1" />
+    <FileEntry Name="mdrvmot.119.log" Filter="1" />
+    <FileEntry Name="mdrvo0F.491.log" Filter="1" />
+    <FileEntry Name="mdrvrEb.987.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />
     <FileEntry Name="output.bak" Filter="1" />
@@ -40,6 +49,7 @@
     <FileEntry Name="UC01_Autorization.c.pickle" Filter="1" />
     <FileEntry Name="UC01_Autorization.ci" Filter="1" />
     <FileEntry Name="UC01_Autorization.prm.bak" Filter="1" />
+    <FileEntry Name="UC01_Autorization.sdf" Filter="1" />
     <FileEntry Name="UserTasks.xml" Filter="1" />
     <FileEntry Name="data\" Filter="1" />
     <FileEntry Name="result1\" Filter="1" />

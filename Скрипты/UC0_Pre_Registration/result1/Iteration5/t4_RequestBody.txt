@@ -1,2 +1,0 @@
-"username=Dandelion&password=dandelion123&passwordConfirm=dandelion123&firstName=Jaskier&lastNa"
-"me=Bonart&address1=Square+of+the+Hierarch&address2=Novigrad&register.x=55&register.y=10"

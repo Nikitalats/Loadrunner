@@ -1,0 +1,2522 @@
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Eskel Bull\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Druid Camp<br/>\n
+..\\lib\\transaction.h(150):               White Garden<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 1185 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  1pm : Flight 121 leaves Frankfurt  for London.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="18" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="128500796-138613-EB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;4 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Eskel Bull\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Druid Camp<br/>\n
+..\\lib\\transaction.h(150):               White Garden<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 1976 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  1pm : Flight 521 leaves Portland  for London.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="19" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="128481901-146391-EB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;9 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(150):         <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Eskel Bull\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Druid Camp<br/>\n
+..\\lib\\transaction.h(150):               White Garden<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 3087 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  1pm : Flight 011 leaves Denver  for Frankfurt.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="20" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="12850491-15415-EB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;7 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(150):         <li><i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Eskel Bull\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Druid Camp<br/>\n
+..\\lib\\transaction.h(150):               White Garden<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 399 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  5pm : Flight 632 leaves San Francisco  for Los Angeles.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="21" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="128492268-161631-EB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;5 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Eskel Bull\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Druid Camp<br/>\n
+..\\lib\\transaction.h(150):               White Garden<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 1205 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  1pm : Flight 291 leaves London  for Zurich.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="22" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="128483791-169451-EB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;8 First class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(150):         <li><i>      <li><i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Eskel Bull\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Druid Camp<br/>\n
+..\\lib\\transaction.h(150):               White Garden<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 2864 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  5pm : Flight 062 leaves Denver  for San Francisco.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR>\n
+..\\lib\\transaction.h(150):        <TD align="center" COLSPAN="4">\n
+..\\lib\\transaction.h(150):        <b>A total of 22 scheduled flights.</font></b>\n
+..\\lib\\transaction.h(150):        </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     </TABLE>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TABLE WIDTH="87%" BORDER="0" CELLSPACING="0">\n
+..\\lib\\transaction.h(150):     <TR>\n
+..\\lib\\transaction.h(150):     <TD align="left" width="50%" >\n
+..\\lib\\transaction.h(150):     <input type="image" name="removeFlights" src="/WebTours/images/cancelreservation.gif" bord
+..\\lib\\transaction.h(150):     er="0" /></TD>\n
+..\\lib\\transaction.h(150):     <TD align="right" width="50%" >\n
+..\\lib\\transaction.h(150):     <input type="image" name="removeAllFlights" src="/WebTours/images/cancelallreservations.gi
+..\\lib\\transaction.h(150):     f" border="0" /></TD>\n
+..\\lib\\transaction.h(150):     </TABLE>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <div><input type="hidden" name=".cgifields" value="11"  /><input type="hidden" name=".cgif
+..\\lib\\transaction.h(150):     ields" value="21"  /><input type="hidden" name=".cgifields" value="7"  /><input type="hidd
+..\\lib\\transaction.h(150):     en" name=".cgifields" value="17"  /><input type="hidden" name=".cgifields" value="2"  /><i
+..\\lib\\transaction.h(150):     nput type="hidden" name=".cgifields" value="22"  /><input type="hidden" name=".cgifields" 
+..\\lib\\transaction.h(150):     value="1"  /><input type="hidden" name=".cgifields" value="18"  /><input type="hidden" nam
+..\\lib\\transaction.h(150):     e=".cgifields" value="16"  /><input type="hidden" name=".cgifields" value="13"  /><input t
+..\\lib\\transaction.h(150):     ype="hidden" name=".cgifields" value="6"  /><input type="hidden" name=".cgifields" value="
+..\\lib\\transaction.h(150):     3"  /><input type="hidden" name=".cgifields" value="9"  /><input type="hidden" name=".cgif
+..\\lib\\transaction.h(150):     ields" value="12"  /><input type="hidden" name=".cgifields" value="20"  /><input type="hid
+..\\lib\\transaction.h(150):     den" name=".cgifields" value="14"  /><input type="hidden" name=".cgifields" value="15"  />
+..\\lib\\transaction.h(150):     <input type="hidden" name=".cgifields" value="8"  /><input type="hidden" name=".cgifields"
+..\\lib\\transaction.h(150):      value="4"  /><input type="hidden" name=".cgifields" value="19"  /><input type="hidden" na
+..\\lib\\transaction.h(150):     me=".cgifields" value="10"  /><input type="hidden" name=".cgifields" value="5"  /></div></
+..\\lib\\transaction.h(150):     form>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     </center>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     </body>\n
+..\\lib\\transaction.h(150):     </html>
+..\\lib\\transaction.h(150): Found resource "http://localhost:1080/WebTours/images/cancelreservation.gif" in HTML "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(150): Found resource "http://localhost:1080/WebTours/images/cancelallreservations.gif" in HTML "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(150): t=6359131ms: Request done "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(150): t=6359131ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(150): t=6359131ms: 513-byte request headers for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=615)
+..\\lib\\transaction.h(150):     GET /WebTours/images/cancelreservation.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(150):     Referer: http://localhost:1080/cgi-bin/itinerary.pl\r\n
+..\\lib\\transaction.h(150):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(150):     .0\r\n
+..\\lib\\transaction.h(150):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(150):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(150):     Accept: */*\r\n
+..\\lib\\transaction.h(150):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(150):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(150):     Cookie: MSO=SID&1733642502; MTUserInfo=firstName&Eskel&address2&White%20Garden&username&Es
+..\\lib\\transaction.h(150):     kel&hash&76&lastName&Bull%0A&address1&Druid%20Camp&creditCard&&expDate&%0A\r\n
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150): t=6359131ms: Already connected [1] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(150): t=6359131ms: 517-byte request headers for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=616)
+..\\lib\\transaction.h(150):     GET /WebTours/images/cancelallreservations.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(150):     Referer: http://localhost:1080/cgi-bin/itinerary.pl\r\n
+..\\lib\\transaction.h(150):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(150):     .0\r\n
+..\\lib\\transaction.h(150):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(150):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(150):     Accept: */*\r\n
+..\\lib\\transaction.h(150):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(150):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(150):     Cookie: MSO=SID&1733642502; MTUserInfo=firstName&Eskel&address2&White%20Garden&username&Es
+..\\lib\\transaction.h(150):     kel&hash&76&lastName&Bull%0A&address1&Druid%20Camp&creditCard&&expDate&%0A\r\n
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150): t=6359131ms: 297-byte response headers for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=615)
+..\\lib\\transaction.h(150):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(150):     Date: Sun, 08 Dec 2024 07:21:42 GMT\r\n
+..\\lib\\transaction.h(150):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(150):     Last-Modified: Tue, 26 Nov 2024 14:20:50 GMT\r\n
+..\\lib\\transaction.h(150):     ETag: "6000000095908-33f-627d18e6645bf"\r\n
+..\\lib\\transaction.h(150):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(150):     Content-Length: 831\r\n
+..\\lib\\transaction.h(150):     Keep-Alive: timeout=5, max=93\r\n
+..\\lib\\transaction.h(150):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(150):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150): t=6359132ms: 831-byte response body for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=615)
+..\\lib\\transaction.h(150): t=6359132ms: Request done "http://localhost:1080/WebTours/images/cancelreservation.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(150): t=6359162ms: 297-byte response headers for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=616)
+..\\lib\\transaction.h(150):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(150):     Date: Sun, 08 Dec 2024 07:21:42 GMT\r\n
+..\\lib\\transaction.h(150):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(150):     Last-Modified: Tue, 26 Nov 2024 14:20:50 GMT\r\n
+..\\lib\\transaction.h(150):     ETag: "6000000095907-2e6-627d18e65fc80"\r\n
+..\\lib\\transaction.h(150):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(150):     Content-Length: 742\r\n
+..\\lib\\transaction.h(150):     Keep-Alive: timeout=5, max=95\r\n
+..\\lib\\transaction.h(150):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(150):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150): t=6359162ms: 742-byte response body for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=616)
+..\\lib\\transaction.h(150): t=6359162ms: Request done "http://localhost:1080/WebTours/images/cancelallreservations.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(150): Registered web_reg_find successful for "Text=Itinerary" (count=3)  	[MsgId: MMSG-26364]
+..\\lib\\transaction.h(150): web_url("welcome.pl_2") was successful, 32968 body bytes, 1913 header bytes, 83 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(16): Notify: Transaction "itinerary_page" ended with a "Pass" status (Duration: 0,1248 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(18): Notify: Transaction "UC04_Itinerary" ended with a "Pass" status (Duration: 0,3273 Wasted Time: 0,0001).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+t=6359162ms: Closed connection [0] to localhost:1080 after completing 8 request(s)  	[MsgId: MMSG-26000]
+t=6359162ms: Closed connection [1] to localhost:1080 after completing 6 request(s)  	[MsgId: MMSG-26000]
+t=6359162ms: Closed connection [2] to localhost:1080 after completing 3 request(s)  	[MsgId: MMSG-26000]
+t=6359162ms: Closed connection [3] to localhost:1080 after completing 3 request(s)  	[MsgId: MMSG-26000]
+t=6359162ms: Closed connection [4] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+t=6359162ms: Closed connection [5] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=7, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 7 (thread 2568), ended OK."	[MsgId: MMSG-10695]
+Starting iteration 15.	[MsgId: MMSG-15968]
+t=6378039ms: Closed connection [0] to localhost:1080 after completing 7 request(s)  	[MsgId: MMSG-26000]
+t=6378039ms: Closed connection [1] to localhost:1080 after completing 6 request(s)  	[MsgId: MMSG-26000]
+t=6378040ms: Closed connection [2] to localhost:1080 after completing 3 request(s)  	[MsgId: MMSG-26000]
+t=6378040ms: Closed connection [3] to localhost:1080 after completing 4 request(s)  	[MsgId: MMSG-26000]
+t=6378040ms: Closed connection [4] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+t=6378040ms: Closed connection [5] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+Resetting all proxy auto-configuration information  	[MsgId: MMSG-26000]
+Notify: Next row for parameter login = 5 [table  = login].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'login': table = '..\Parametrs\users.dat' column = '0' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter password = 5 [table  = password].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'password': table = '..\Parametrs\users.dat' column = '1' row = '5'.	[MsgId: MMSG-13877]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(3): Notify: Transaction "UC04_Itinerary" started.	[MsgId: MMSG-16999]
+Action.c(5): Notify: Transaction "open_home_page" started.	[MsgId: MMSG-16999]
+..\\lib\\transaction.h(5): web_reg_save_param started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(5): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(10): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(10): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(13): web_url("WebTours") started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(13): t=6378042ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6378043ms: Connected socket [0] from 127.0.0.1:15019 to 127.0.0.1:1080 in 1 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6378043ms: 266-byte request headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=309)
+..\\lib\\transaction.h(13):     GET /WebTours/ HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6378044ms: 298-byte response headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=309)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 08 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Tue, 26 Nov 2024 14:20:50 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "60000000958f2-16e-627d18e607dc1"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 366\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6378044ms: 366-byte response body for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=309)
+..\\lib\\transaction.h(13):     <HTML>\n
+..\\lib\\transaction.h(13):     <HEAD>\n
+..\\lib\\transaction.h(13):     <title>Web Tours</title>\n
+..\\lib\\transaction.h(13):     <frameset rows = "65,*" border="1" bordercolor="#E0E7F1">\n
+..\\lib\\transaction.h(13):     <frame name="header" src="header.html" scrolling="no" noresize="noresize" marginheight="2"
+..\\lib\\transaction.h(13):      marginwidth="2"/>\n
+..\\lib\\transaction.h(13):     <frame name="body" src="/cgi-bin/welcome.pl?signOff=true" scrolling="auto" noresize="nores
+..\\lib\\transaction.h(13):     ize" marginheight="2" marginwidth="2" />\n
+..\\lib\\transaction.h(13):     </frameset>\n
+..\\lib\\transaction.h(13):     </HEAD>\n
+..\\lib\\transaction.h(13):     </HTML>\n
+..\\lib\\transaction.h(13):     \n
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): t=6378044ms: Request done "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6378044ms: Connecting [1] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6378045ms: Connecting [2] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6378045ms: Connected socket [1] from 127.0.0.1:15020 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6378045ms: 319-byte request headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=310)
+..\\lib\\transaction.h(13):     GET /WebTours/header.html HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6378045ms: Connected socket [2] from 127.0.0.1:15021 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6378045ms: 330-byte request headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=311)
+..\\lib\\transaction.h(13):     GET /cgi-bin/welcome.pl?signOff=true HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6378045ms: 298-byte response headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=310)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 08 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Tue, 26 Nov 2024 14:20:50 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "60000000958ef-2c6-627d18e5f9ceb"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 710\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6378045ms: 710-byte response body for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=310)
+..\\lib\\transaction.h(13):     <!DOCTYPE html>\n
+..\\lib\\transaction.h(13):     <HTML xmlns="http://www.w3.org/1999/xhtml">\n
+..\\lib\\transaction.h(13):     <HEAD></HEAD>\n
+..\\lib\\transaction.h(13):     <BODY bgcolor="#003366" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">\n
+..\\lib\\transaction.h(13):     \t\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+..\\lib\\transaction.h(13):     bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n
+..\\lib\\transaction.h(13):     \t\t<table width="100%" border="0" cellspacing="0" cellpadding="0">\n
+..\\lib\\transaction.h(13):     \t\t\t<tr>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td align="left" valign="middle" width="50%"><img src="images/hp_logo.png" alt="" 
+..\\lib\\transaction.h(13):     height="45" width="69" align="absmiddle" border="0"/><img src="images/webtours.png" alt=""
+..\\lib\\transaction.h(13):      height="45" width="130" align="absmiddle" border="0"/></td>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td align="right"></td>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td></td>\n
+..\\lib\\transaction.h(13):     \t\t\t</tr>\n
+..\\lib\\transaction.h(13):     \t\t</table>\n
+..\\lib\\transaction.h(13):     \t</BODY>\n
+..\\lib\\transaction.h(13):     </HTML>
+..\\lib\\transaction.h(13): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(13): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(13): t=6378046ms: Request done "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6378046ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6378046ms: 337-byte request headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=312)
+..\\lib\\transaction.h(13):     GET /WebTours/images/hp_logo.png HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/header.html\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6378046ms: Connecting [3] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6378070ms: Connected socket [3] from 127.0.0.1:15022 to 127.0.0.1:1080 in 24 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6378070ms: 338-byte request headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=313)
+..\\lib\\transaction.h(13):     GET /WebTours/images/webtours.png HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/header.html\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6378070ms: 297-byte response headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=312)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 08 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "6000000095911-259-627d18e680789"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 601\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=99\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/png\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6378070ms: 601-byte response body for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=312)
+..\\lib\\transaction.h(13): t=6378070ms: Request done "http://localhost:1080/WebTours/images/hp_logo.png"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6378071ms: 300-byte response headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=313)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 08 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "6000000095924-105b-627d18e6b7b16"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 4187\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/png\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6378071ms: 4187-byte response body for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=313)
+..\\lib\\transaction.h(13): t=6378071ms: Request done "http://localhost:1080/WebTours/images/webtours.png"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6378074ms: 328-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=311)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 08 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(13):     Set-Cookie: MSO=SID&1733642521; path=/\r\n
+..\\lib\\transaction.h(13):     Set-Cookie: MTUserInfo=; path=/; expires=Sat, 07-Dec-2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6378074ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=311)
+..\\lib\\transaction.h(13):     2ae\r\n
+..\\lib\\transaction.h(13): t=6378074ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=311)
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6378074ms: 686-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=311)
+..\\lib\\transaction.h(13):     <!-- \n
+..\\lib\\transaction.h(13):      A Session ID has been created and loaded into a cookie called MSO.\n
+..\\lib\\transaction.h(13):      Also, the server options have been loaded into the cookie called\n
+..\\lib\\transaction.h(13):      MSO as well.  The server options can be set via the Admin page.\n
+..\\lib\\transaction.h(13):      --->\n
+..\\lib\\transaction.h(13):     \n
+..\\lib\\transaction.h(13):     <html>\n
+..\\lib\\transaction.h(13):     <title>Web Tours</title>\n
+..\\lib\\transaction.h(13):        <!-- Frame Set -->\n
+..\\lib\\transaction.h(13):        <frameset cols="160,*" border="1" frameborder="1">\n
+..\\lib\\transaction.h(13):           <!-- Navigation Frame -->\n
+..\\lib\\transaction.h(13):           <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" \n
+..\\lib\\transaction.h(13):                 noresize="noresize" scrolling="auto"/>\n
+..\\lib\\transaction.h(13):           <!-- Home Frame -->\n
+..\\lib\\transaction.h(13):           <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" \n
+..\\lib\\transaction.h(13):                 noresize="noresize" scrolling="auto"/>\n
+..\\lib\\transaction.h(13):        </frameset>\n
+..\\lib\\transaction.h(13):     </html>\n
+..\\lib\\transaction.h(13):     \n
+..\\lib\\transaction.h(13):     </body>\n
+..\\lib\\transaction.h(13):     </html>
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): t=6378075ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6378075ms: 371-byte request headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=314)
+..\\lib\\transaction.h(13):     GET /cgi-bin/nav.pl?in=home HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=true\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     Cookie: MSO=SID&1733642521\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6378076ms: Already connected [1] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6378076ms: 367-byte request headers for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2.2, Internal ID=315)
+..\\lib\\transaction.h(13):     GET /WebTours/home.html HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=true\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     Cookie: MSO=SID&1733642521\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6378076ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=311)
+..\\lib\\transaction.h(13):     0\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6378076ms: Request done "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6378076ms: 298-byte response headers for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2.2, Internal ID=315)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 08 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Tue, 26 Nov 2024 14:20:50 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "60000000958f1-551-627d18e600eaf"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 1361\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=99\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6378076ms: 1361-byte response body for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2.2, Internal ID=315)
+..\\lib\\transaction.h(13):     <HTML>\n
+..\\lib\\transaction.h(13):     <HEAD>\n
+..\\lib\\transaction.h(13):     \t<title>Web Tours</title>\n
+..\\lib\\transaction.h(13):     </HEAD>\n
+..\\lib\\transaction.h(13):     <style>\n
+..\\lib\\transaction.h(13):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+..\\lib\\transaction.h(13):     \tH1 {font-family: tahoma; font-size : 22pt; color: #003366}\n
+..\\lib\\transaction.h(13):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+..\\lib\\transaction.h(13):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib\\transaction.h(13):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+..\\lib\\transaction.h(13):     N: none}\n
+..\\lib\\transaction.h(13):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+..\\lib\\transaction.h(13):     CORATION: underline}\n
+..\\lib\\transaction.h(13):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib\\transaction.h(13):     </style>\n
+..\\lib\\transaction.h(13):     <body bgcolor="#e0e7f1">\n
+..\\lib\\transaction.h(13):     <BR/>\n
+..\\lib\\transaction.h(13):     <BR/>\n
+..\\lib\\transaction.h(13):     <BR/>\n
+..\\lib\\transaction.h(13):     <br/>\n
+..\\lib\\transaction.h(13):     <table border="0">\n
+..\\lib\\transaction.h(13):     <tr><td></td></tr>\n
+..\\lib\\transaction.h(13):     <TR><TD></TD></TR>\n
+..\\lib\\transaction.h(13):     <TR><TD>\n
+..\\lib\\transaction.h(13):     <blockquote>\n
+..\\lib\\transaction.h(13):     <H1><b>Web Tours</b></H1>\n
+..\\lib\\transaction.h(13):     Welcome to the Web Tours site.\n
+..\\lib\\transaction.h(13):     <br/>\n
+..\\lib\\transaction.h(13):     To make reservations,please enter your account information to the left.\n
+..\\lib\\transaction.h(13):     <br/>\n
+..\\lib\\transaction.h(13):     If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getI
+..\\lib\\transaction.h(13):     nfo=true" ><B>sign up now</B></A> to get access to all our resources.\n
+..\\lib\\transaction.h(13):     <br/>\n
+..\\lib\\transaction.h(13):     To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>adminis
+..\\lib\\transaction.h(13):     tration</b></A> link.\n
+..\\lib\\transaction.h(13):     <br/><br/><br/><br/><br/><br/>\n
+..\\lib\\transaction.h(13):     <br/><small>\n
+..\\lib\\transaction.h(13):     This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imati
+..\\lib\\transaction.h(13):     x.com" target="new"><B><small>iMatix Corporation</small></B></A> \n
+..\\lib\\transaction.h(13):     </small>\n
+..\\lib\\transaction.h(13):     </blockquote></TD>\n
+..\\lib\\transaction.h(13):     <TD></TD></TR>\n
+..\\lib\\transaction.h(13):     </table>\n
+..\\lib\\transaction.h(13):     </body>\n
+..\\lib\\transaction.h(13):     </HTML>\n
+..\\lib\\transaction.h(13): t=6378077ms: Request done "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6378104ms: 255-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=314)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 08 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(13):     Expires: Sat, 07 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=98\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6378105ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=314)
+..\\lib\\transaction.h(13):     5d1\r\n
+..\\lib\\transaction.h(13): t=6378105ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=314)
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6378105ms: 1489-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=314)
+..\\lib\\transaction.h(13):     <!DOCTYPE html\n
+..\\lib\\transaction.h(13):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\lib\\transaction.h(13):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\lib\\transaction.h(13):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\lib\\transaction.h(13):     <head>\n
+..\\lib\\transaction.h(13):     <title>Web Tours Navigation Bar</title>\n
+..\\lib\\transaction.h(13):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\lib\\transaction.h(13):     </head>\n
+..\\lib\\transaction.h(13):     <body bgcolor="#E0E7F1">\n
+..\\lib\\transaction.h(13):     <style>\n
+..\\lib\\transaction.h(13):     blockquote {font-family: tahoma; font-size : 10pt}\n
+..\\lib\\transaction.h(13):     H1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+..\\lib\\transaction.h(13):     H3 {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib\\transaction.h(13):     small {font-family: tahoma; font-size : 8pt}\n
+..\\lib\\transaction.h(13):     </style>\n
+..\\lib\\transaction.h(13):     <form method="post" action="/cgi-bin/login.pl" target="body">\n
+..\\lib\\transaction.h(13):     <input type="hidden" name="userSession" value="140432.76800324HccDfVApfAtVzzzHtDDtVpAzDAcf
+..\\lib\\transaction.h(13):     "/>\n
+..\\lib\\transaction.h(13):     <table border="0"><tr><td>&nbsp;</td>\n
+..\\lib\\transaction.h(13):     <td>&nbsp;</td></tr>\n
+..\\lib\\transaction.h(13):     <tr><td>&nbsp;</td>\n
+..\\lib\\transaction.h(13):     <td>&nbsp;</td></tr>\n
+..\\lib\\transaction.h(13):     <tr><td>&nbsp;</td>\n
+..\\lib\\transaction.h(13):     <td><small>&nbsp;Username</small></td></tr>\n
+..\\lib\\transaction.h(13):     <tr><td>&nbsp;</td>\n
+..\\lib\\transaction.h(13):     <td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>\n
+..\\lib\\transaction.h(13):     <tr><td>&nbsp;</td>\n
+..\\lib\\transaction.h(13):     <td><small>&nbsp;Password</small></td>\n
+..\\lib\\transaction.h(13):     <tr><td>&nbsp;</td>\n
+..\\lib\\transaction.h(13):     <td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>\n
+..\\lib\\transaction.h(13):     <tr><td>&nbsp;</td>\n
+..\\lib\\transaction.h(13):     <td>&nbsp;</td></tr>\n
+..\\lib\\transaction.h(13):     <tr><td>&nbsp;</td>\n
+..\\lib\\transaction.h(13):     <td><input type="image" name="login" value="Login" alt="Login" border="1" \n
+..\\lib\\transaction.h(13):     src="/WebTours/images/mer_login.gif"/></td></tr>\n
+..\\lib\\transaction.h(13):     <tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n
+..\\lib\\transaction.h(13):     </table><input type="hidden" name="JSFormSubmit" value="off"/>\n
+..\\lib\\transaction.h(13):     </form>\n
+..\\lib\\transaction.h(13):     \n
+..\\lib\\transaction.h(13):     </body>\n
+..\\lib\\transaction.h(13):     </html>\n
+..\\lib\\transaction.h(13): Notify: Saving Parameter "userSession = 140432.76800324HccDfVApfAtVzzzHtDDtVpAzDAcf".	[MsgId: MMSG-13798]
+..\\lib\\transaction.h(13): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(13): t=6378105ms: Already connected [1] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6378105ms: 369-byte request headers for "http://localhost:1080/WebTours/images/mer_login.gif" (RelFrameId=, Internal ID=316)
+..\\lib\\transaction.h(13):     GET /WebTours/images/mer_login.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/cgi-bin/nav.pl?in=home\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     Cookie: MSO=SID&1733642521\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6378106ms: 297-byte response headers for "http://localhost:1080/WebTours/images/mer_login.gif" (RelFrameId=, Internal ID=316)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 08 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "600000009591e-2a7-627d18e6a4eeb"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 679\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=98\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6378106ms: 679-byte response body for "http://localhost:1080/WebTours/images/mer_login.gif" (RelFrameId=, Internal ID=316)
+..\\lib\\transaction.h(13): t=6378106ms: Request done "http://localhost:1080/WebTours/images/mer_login.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6378106ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.2.1, Internal ID=314)
+..\\lib\\transaction.h(13):     0\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6378106ms: Request done "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Registered web_reg_find successful for "Text=Welcome to the Web Tours site." (count=1)  	[MsgId: MMSG-26364]
+..\\lib\\transaction.h(13): web_url("WebTours") was successful, 10079 body bytes, 2371 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(8): Notify: Transaction "open_home_page" ended with a "Pass" status (Duration: 0,0652 Wasted Time: 0,0001).	[MsgId: MMSG-16871]
+Action.c(9): Notify: Transaction "login" started.	[MsgId: MMSG-16999]
+..\\lib\\transaction.h(26): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(26): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(28): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(28): Notify: Parameter Substitution: parameter "login" =  "Dandelion"	[MsgId: MMSG-13992]
+..\\lib\\transaction.h(28): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(30): web_submit_data("login.pl") started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(30): Notify: Parameter Substitution: parameter "userSession" =  "140432.76800324HccDfVApfAtVzzzHtDDtVpAzDAcf"	[MsgId: MMSG-13992]
+..\\lib\\transaction.h(30): Notify: Parameter Substitution: parameter "login" =  "Dandelion"	[MsgId: MMSG-13992]
+..\\lib\\transaction.h(30): Notify: Next row for parameter password = 5 [table  = password].	[MsgId: MMSG-13876]
+..\\lib\\transaction.h(30): Notify: Parameter Substitution: parameter "password" =  "dandelion123"	[MsgId: MMSG-13992]
+..\\lib\\transaction.h(30): t=6378107ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=6378107ms: 427-byte request headers for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=317)
+..\\lib\\transaction.h(30):     POST /cgi-bin/login.pl HTTP/1.1\r\n
+..\\lib\\transaction.h(30):     Content-Type: application/x-www-form-urlencoded\r\n
+..\\lib\\transaction.h(30):     Referer: http://localhost:1080/cgi-bin/nav.pl?in=home\r\n
+..\\lib\\transaction.h(30):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(30):     .0\r\n
+..\\lib\\transaction.h(30):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(30):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(30):     Accept: */*\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(30):     Cookie: MSO=SID&1733642521\r\n
+..\\lib\\transaction.h(30):     Content-Length: 134\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=6378107ms: 134-byte request body for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=317)
+..\\lib\\transaction.h(30):     userSession=140432.76800324HccDfVApfAtVzzzHtDDtVpAzDAcf&username=Dandelion&password=dandel
+..\\lib\\transaction.h(30):     ion123&login.x=49&login.y=8&JSFormSubmit=off
+..\\lib\\transaction.h(30): t=6378194ms: 404-byte response headers for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=317)
+..\\lib\\transaction.h(30):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(30):     Date: Sun, 08 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(30):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(30):     Expires: 5s\r\n
+..\\lib\\transaction.h(30):     Set-Cookie: MTUserInfo=firstName&Jaskier&address2&Novigrad&username&Dandelion&hash&14&last
+..\\lib\\transaction.h(30):     Name&Bonart%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDate&%0A; path=/\r\n
+..\\lib\\transaction.h(30):     Keep-Alive: timeout=5, max=97\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(30):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=6378194ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=317)
+..\\lib\\transaction.h(30):     1e1\r\n
+..\\lib\\transaction.h(30): t=6378194ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=317)
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=6378194ms: 481-byte chunked response body for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=317)
+..\\lib\\transaction.h(30):     <!--\n
+..\\lib\\transaction.h(30):     User password was correct - added a cookie with the user's default\n
+..\\lib\\transaction.h(30):     information.  Set the user up to make reservations...\n
+..\\lib\\transaction.h(30):     \n
+..\\lib\\transaction.h(30):     --->\n
+..\\lib\\transaction.h(30):     \n
+..\\lib\\transaction.h(30):     <html>\n
+..\\lib\\transaction.h(30):     <title>Web Tours</title>\n
+..\\lib\\transaction.h(30):     <frameset cols="160,*" border=1 frameborder=1>\n
+..\\lib\\transaction.h(30):     <frame src="nav.pl?page=menu&in=home" name="navbar" marginheight="2" marginwidth="2" nores
+..\\lib\\transaction.h(30):     ize="noresize" scrolling="auto"/>\n
+..\\lib\\transaction.h(30):     <frame src="login.pl?intro=true" name="info" marginheight="2" marginwidth="2" noresize="no
+..\\lib\\transaction.h(30):     resize" scrolling="auto"/>\n
+..\\lib\\transaction.h(30):     </frameset>\n
+..\\lib\\transaction.h(30):     \n
+..\\lib\\transaction.h(30):     </body>\n
+..\\lib\\transaction.h(30):     </html>
+..\\lib\\transaction.h(30): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(30): Detected non-resource "http://localhost:1080/cgi-bin/login.pl?intro=true" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(30): t=6378195ms: Already connected [1] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=6378195ms: 522-byte request headers for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=318)
+..\\lib\\transaction.h(30):     GET /cgi-bin/nav.pl?page=menu&in=home HTTP/1.1\r\n
+..\\lib\\transaction.h(30):     Referer: http://localhost:1080/cgi-bin/login.pl\r\n
+..\\lib\\transaction.h(30):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(30):     .0\r\n
+..\\lib\\transaction.h(30):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(30):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(30):     Accept: */*\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(30):     Cookie: MSO=SID&1733642521; MTUserInfo=firstName&Jaskier&address2&Novigrad&username&Dandel
+..\\lib\\transaction.h(30):     ion&hash&14&lastName&Bonart%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDate&%
+..\\lib\\transaction.h(30):     0A\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=6378195ms: Already connected [2] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=6378195ms: 517-byte request headers for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=319)
+..\\lib\\transaction.h(30):     GET /cgi-bin/login.pl?intro=true HTTP/1.1\r\n
+..\\lib\\transaction.h(30):     Referer: http://localhost:1080/cgi-bin/login.pl\r\n
+..\\lib\\transaction.h(30):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(30):     .0\r\n
+..\\lib\\transaction.h(30):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(30):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(30):     Accept: */*\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(30):     Cookie: MSO=SID&1733642521; MTUserInfo=firstName&Jaskier&address2&Novigrad&username&Dandel
+..\\lib\\transaction.h(30):     ion&hash&14&lastName&Bonart%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDate&%
+..\\lib\\transaction.h(30):     0A\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=6378196ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl" (RelFrameId=1, Internal ID=317)
+..\\lib\\transaction.h(30):     0\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=6378196ms: Request done "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=6378224ms: 255-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=318)
+..\\lib\\transaction.h(30):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(30):     Date: Sun, 08 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(30):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(30):     Expires: Sat, 07 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(30):     Keep-Alive: timeout=5, max=97\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(30):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=6378225ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=318)
+..\\lib\\transaction.h(30):     5ca\r\n
+..\\lib\\transaction.h(30): t=6378225ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=318)
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=6378225ms: 1482-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=318)
+..\\lib\\transaction.h(30):     <!DOCTYPE html\n
+..\\lib\\transaction.h(30):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\lib\\transaction.h(30):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\lib\\transaction.h(30):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\lib\\transaction.h(30):     <head>\n
+..\\lib\\transaction.h(30):     <title>Web Tours Navigation Bar</title>\n
+..\\lib\\transaction.h(30):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\lib\\transaction.h(30):     </head>\n
+..\\lib\\transaction.h(30):     <body bgcolor="#E0E7F1">\n
+..\\lib\\transaction.h(30):     \n
+..\\lib\\transaction.h(30):     <style>\n
+..\\lib\\transaction.h(30):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+..\\lib\\transaction.h(30):     \tH1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+..\\lib\\transaction.h(30):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+..\\lib\\transaction.h(30):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib\\transaction.h(30):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+..\\lib\\transaction.h(30):     N: none}\n
+..\\lib\\transaction.h(30):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+..\\lib\\transaction.h(30):     CORATION: underline}\n
+..\\lib\\transaction.h(30):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib\\transaction.h(30):     </style>\n
+..\\lib\\transaction.h(30):     \n
+..\\lib\\transaction.h(30):     <BR><BR><center>\n
+..\\lib\\transaction.h(30):     \n
+..\\lib\\transaction.h(30):     <br clear="both"/><center><A HREF="welcome.pl?page=search" TARGET="body"><IMG BORDER="0" S
+..\\lib\\transaction.h(30):     RC="/WebTours/images/flights.gif" \n
+..\\lib\\transaction.h(30):     ALT="Search Flights Button"/></A>\n
+..\\lib\\transaction.h(30):     <br clear="both"/><A HREF="welcome.pl?page=itinerary" TARGET="body"><IMG BORDER="0" SRC="/
+..\\lib\\transaction.h(30):     WebTours/images/itinerary.gif" \n
+..\\lib\\transaction.h(30):     ALT="Itinerary Button"/></A>\n
+..\\lib\\transaction.h(30):     <br clear="both"/><A HREF="welcome.pl?page=menus" TARGET="body"><IMG BORDER="0" SRC="/WebT
+..\\lib\\transaction.h(30):     ours/images/in_home.gif" \n
+..\\lib\\transaction.h(30):     ALT="Home Button"/></A>\n
+..\\lib\\transaction.h(30):     <br clear><A HREF="welcome.pl?signOff=1" TARGET="body"><IMG BORDER="0" SRC="/WebTours/imag
+..\\lib\\transaction.h(30):     es/signoff.gif" \n
+..\\lib\\transaction.h(30):     ALT="SignOff Button"/></A></center>\n
+..\\lib\\transaction.h(30):     \n
+..\\lib\\transaction.h(30):     </body>\n
+..\\lib\\transaction.h(30):     </html>\n
+..\\lib\\transaction.h(30): Found resource "http://localhost:1080/WebTours/images/flights.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(30): Found resource "http://localhost:1080/WebTours/images/itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(30): Found resource "http://localhost:1080/WebTours/images/in_home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(30): Found resource "http://localhost:1080/WebTours/images/signoff.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(30): t=6378225ms: Already connected [3] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=6378225ms: 535-byte request headers for "http://localhost:1080/WebTours/images/itinerary.gif" (RelFrameId=, Internal ID=321)
+..\\lib\\transaction.h(30):     GET /WebTours/images/itinerary.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(30):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home\r\n
+..\\lib\\transaction.h(30):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(30):     .0\r\n
+..\\lib\\transaction.h(30):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(30):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(30):     Accept: */*\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(30):     Cookie: MSO=SID&1733642521; MTUserInfo=firstName&Jaskier&address2&Novigrad&username&Dandel
+..\\lib\\transaction.h(30):     ion&hash&14&lastName&Bonart%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDate&%
+..\\lib\\transaction.h(30):     0A\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=6378226ms: Connecting [4] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=6378226ms: Connecting [5] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=6378226ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=6378226ms: 533-byte request headers for "http://localhost:1080/WebTours/images/flights.gif" (RelFrameId=, Internal ID=320)
+..\\lib\\transaction.h(30):     GET /WebTours/images/flights.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(30):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home\r\n
+..\\lib\\transaction.h(30):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(30):     .0\r\n
+..\\lib\\transaction.h(30):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(30):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(30):     Accept: */*\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(30):     Cookie: MSO=SID&1733642521; MTUserInfo=firstName&Jaskier&address2&Novigrad&username&Dandel
+..\\lib\\transaction.h(30):     ion&hash&14&lastName&Bonart%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDate&%
+..\\lib\\transaction.h(30):     0A\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=6378226ms: 297-byte response headers for "http://localhost:1080/WebTours/images/itinerary.gif" (RelFrameId=, Internal ID=321)
+..\\lib\\transaction.h(30):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(30):     Date: Sun, 08 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(30):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(30):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(30):     ETag: "6000000095919-2dd-627d18e6977e1"\r\n
+..\\lib\\transaction.h(30):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(30):     Content-Length: 733\r\n
+..\\lib\\transaction.h(30):     Keep-Alive: timeout=5, max=99\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=6378226ms: 733-byte response body for "http://localhost:1080/WebTours/images/itinerary.gif" (RelFrameId=, Internal ID=321)
+..\\lib\\transaction.h(30): t=6378226ms: Request done "http://localhost:1080/WebTours/images/itinerary.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=6378226ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" (RelFrameId=1.1, Internal ID=318)
+..\\lib\\transaction.h(30):     0\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=6378227ms: Request done "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=6378227ms: 228-byte response headers for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=319)
+..\\lib\\transaction.h(30):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(30):     Date: Sun, 08 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(30):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(30):     Expires: 5s\r\n
+..\\lib\\transaction.h(30):     Keep-Alive: timeout=5, max=99\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(30):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=6378227ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=319)
+..\\lib\\transaction.h(30):     39b\r\n
+..\\lib\\transaction.h(30): t=6378227ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=319)
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=6378227ms: 923-byte chunked response body for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=319)
+..\\lib\\transaction.h(30):     <!DOCTYPE html\n
+..\\lib\\transaction.h(30):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\lib\\transaction.h(30):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\lib\\transaction.h(30):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\lib\\transaction.h(30):     <head>\n
+..\\lib\\transaction.h(30):     <title>Welcome to Web Tours</title>\n
+..\\lib\\transaction.h(30):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\lib\\transaction.h(30):     </head>\n
+..\\lib\\transaction.h(30):     <body bgcolor="#E0E7F1">\n
+..\\lib\\transaction.h(30):     <p /><style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; fon
+..\\lib\\transaction.h(30):     t-size : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family:
+..\\lib\\transaction.h(30):      tahoma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: 
+..\\lib\\transaction.h(30):     black}</style><BR/><BR/><BR/><BR/><BR/><blockquote>Welcome, <b>Dandelion</b>, to the Web T
+..\\lib\\transaction.h(30):     ours reservation pages.<BR/>Using the menu to the left, you can search for new flights to 
+..\\lib\\transaction.h(30):     book, \n
+..\\lib\\transaction.h(30):     or review/edit the flights already booked.  Don't forget to sign off when\n
+..\\lib\\transaction.h(30):     you're done!\n
+..\\lib\\transaction.h(30):     </blockquote>\n
+..\\lib\\transaction.h(30):     </body>\n
+..\\lib\\transaction.h(30):     </html>
+..\\lib\\transaction.h(30): t=6378227ms: Connected socket [4] from 127.0.0.1:15023 to 127.0.0.1:1080 in 1 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=6378227ms: 533-byte request headers for "http://localhost:1080/WebTours/images/in_home.gif" (RelFrameId=, Internal ID=322)
+..\\lib\\transaction.h(30):     GET /WebTours/images/in_home.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(30):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home\r\n
+..\\lib\\transaction.h(30):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(30):     .0\r\n
+..\\lib\\transaction.h(30):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(30):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(30):     Accept: */*\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(30):     Cookie: MSO=SID&1733642521; MTUserInfo=firstName&Jaskier&address2&Novigrad&username&Dandel
+..\\lib\\transaction.h(30):     ion&hash&14&lastName&Bonart%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDate&%
+..\\lib\\transaction.h(30):     0A\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=6378227ms: Connected socket [5] from 127.0.0.1:15024 to 127.0.0.1:1080 in 1 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=6378227ms: 533-byte request headers for "http://localhost:1080/WebTours/images/signoff.gif" (RelFrameId=, Internal ID=323)
+..\\lib\\transaction.h(30):     GET /WebTours/images/signoff.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(30):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home\r\n
+..\\lib\\transaction.h(30):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(30):     .0\r\n
+..\\lib\\transaction.h(30):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(30):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(30):     Accept: */*\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(30):     Cookie: MSO=SID&1733642521; MTUserInfo=firstName&Jaskier&address2&Novigrad&username&Dandel
+..\\lib\\transaction.h(30):     ion&hash&14&lastName&Bonart%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDate&%
+..\\lib\\transaction.h(30):     0A\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=6378228ms: 298-byte response headers for "http://localhost:1080/WebTours/images/in_home.gif" (RelFrameId=, Internal ID=322)
+..\\lib\\transaction.h(30):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(30):     Date: Sun, 08 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(30):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(30):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(30):     ETag: "6000000095915-2b0-627d18e689bd4"\r\n
+..\\lib\\transaction.h(30):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(30):     Content-Length: 688\r\n
+..\\lib\\transaction.h(30):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=6378228ms: 688-byte response body for "http://localhost:1080/WebTours/images/in_home.gif" (RelFrameId=, Internal ID=322)
+..\\lib\\transaction.h(30): t=6378228ms: Request done "http://localhost:1080/WebTours/images/in_home.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=6378228ms: 298-byte response headers for "http://localhost:1080/WebTours/images/signoff.gif" (RelFrameId=, Internal ID=323)
+..\\lib\\transaction.h(30):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(30):     Date: Sun, 08 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(30):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(30):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(30):     ETag: "6000000095922-2ef-627d18e6b323a"\r\n
+..\\lib\\transaction.h(30):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(30):     Content-Length: 751\r\n
+..\\lib\\transaction.h(30):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=6378228ms: 751-byte response body for "http://localhost:1080/WebTours/images/signoff.gif" (RelFrameId=, Internal ID=323)
+..\\lib\\transaction.h(30): t=6378228ms: Request done "http://localhost:1080/WebTours/images/signoff.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=6378228ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=319)
+..\\lib\\transaction.h(30):     0\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=6378228ms: Request done "http://localhost:1080/cgi-bin/login.pl?intro=true"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): t=6378243ms: 297-byte response headers for "http://localhost:1080/WebTours/images/flights.gif" (RelFrameId=, Internal ID=320)
+..\\lib\\transaction.h(30):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(30):     Date: Sun, 08 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(30):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(30):     Last-Modified: Tue, 26 Nov 2024 14:20:50 GMT\r\n
+..\\lib\\transaction.h(30):     ETag: "6000000095909-2d6-627d18e668dc2"\r\n
+..\\lib\\transaction.h(30):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(30):     Content-Length: 726\r\n
+..\\lib\\transaction.h(30):     Keep-Alive: timeout=5, max=96\r\n
+..\\lib\\transaction.h(30):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(30):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(30):     \r\n
+..\\lib\\transaction.h(30): t=6378243ms: 726-byte response body for "http://localhost:1080/WebTours/images/flights.gif" (RelFrameId=, Internal ID=320)
+..\\lib\\transaction.h(30): t=6378243ms: Request done "http://localhost:1080/WebTours/images/flights.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(30): Registered web_reg_find successful for "Text=User password was correct" (count=1)  	[MsgId: MMSG-26364]
+..\\lib\\transaction.h(30): Registered web_reg_find successful for "Text=<blockquote>Welcome, <b>Dandelion</b>, to the Web Tours" (count=1)  	[MsgId: MMSG-26364]
+..\\lib\\transaction.h(30): web_submit_data("login.pl") was successful, 5784 body bytes, 2077 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(12): Notify: Transaction "login" ended with a "Pass" status (Duration: 0,1367 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(13): Notify: Transaction "itinerary_page" started.	[MsgId: MMSG-16999]
+..\\lib\\transaction.h(147): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(147): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(150): web_url("welcome.pl_2") started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(150): t=6378243ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(150): t=6378243ms: 539-byte request headers for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=324)
+..\\lib\\transaction.h(150):     GET /cgi-bin/welcome.pl?page=itinerary HTTP/1.1\r\n
+..\\lib\\transaction.h(150):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home\r\n
+..\\lib\\transaction.h(150):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(150):     .0\r\n
+..\\lib\\transaction.h(150):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(150):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(150):     Accept: */*\r\n
+..\\lib\\transaction.h(150):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(150):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(150):     Cookie: MSO=SID&1733642521; MTUserInfo=firstName&Jaskier&address2&Novigrad&username&Dandel
+..\\lib\\transaction.h(150):     ion&hash&14&lastName&Bonart%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDate&%
+..\\lib\\transaction.h(150):     0A\r\n
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150): t=6378270ms: 215-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=324)
+..\\lib\\transaction.h(150):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(150):     Date: Sun, 08 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(150):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(150):     Keep-Alive: timeout=5, max=95\r\n
+..\\lib\\transaction.h(150):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(150):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(150):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150): t=6378270ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=324)
+..\\lib\\transaction.h(150):     24f\r\n
+..\\lib\\transaction.h(150): t=6378270ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=324)
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150): t=6378270ms: 591-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=324)
+..\\lib\\transaction.h(150):     <!-- \n
+..\\lib\\transaction.h(150):      User wants the intineraries.  Since user has already logged on,\n
+..\\lib\\transaction.h(150):      we can give them the menu in the navbar.\n
+..\\lib\\transaction.h(150):      --->\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <html>\n
+..\\lib\\transaction.h(150):     <title>Web Tours</title>\n
+..\\lib\\transaction.h(150):        <!-- Frame Set -->\n
+..\\lib\\transaction.h(150):        <frameset cols="160,*" border="1" frameborder="1">\n
+..\\lib\\transaction.h(150):           <!-- Navigation Frame -->\n
+..\\lib\\transaction.h(150):           <frame src="nav.pl?page=menu&in=itinerary" name="navbar" \n
+..\\lib\\transaction.h(150):                 marginheight="2" marginwidth="2" noresize="noresize" scrolling="auto"/>\n
+..\\lib\\transaction.h(150):           <!-- Itinerary Frame -->\n
+..\\lib\\transaction.h(150):           <frame src="itinerary.pl" name="info" \n
+..\\lib\\transaction.h(150):                 marginheight="2" marginwidth="2" noresize="noresize" scrolling="auto"/>\n
+..\\lib\\transaction.h(150):        </frameset>\n
+..\\lib\\transaction.h(150):     </html>\n
+..\\lib\\transaction.h(150): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" in "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(150): Detected non-resource "http://localhost:1080/cgi-bin/itinerary.pl" in "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(150): t=6378270ms: Already connected [1] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(150): t=6378270ms: 544-byte request headers for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=325)
+..\\lib\\transaction.h(150):     GET /cgi-bin/nav.pl?page=menu&in=itinerary HTTP/1.1\r\n
+..\\lib\\transaction.h(150):     Referer: http://localhost:1080/cgi-bin/welcome.pl?page=itinerary\r\n
+..\\lib\\transaction.h(150):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(150):     .0\r\n
+..\\lib\\transaction.h(150):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(150):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(150):     Accept: */*\r\n
+..\\lib\\transaction.h(150):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(150):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(150):     Cookie: MSO=SID&1733642521; MTUserInfo=firstName&Jaskier&address2&Novigrad&username&Dandel
+..\\lib\\transaction.h(150):     ion&hash&14&lastName&Bonart%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDate&%
+..\\lib\\transaction.h(150):     0A\r\n
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150): t=6378271ms: Already connected [2] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(150): t=6378271ms: 527-byte request headers for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=326)
+..\\lib\\transaction.h(150):     GET /cgi-bin/itinerary.pl HTTP/1.1\r\n
+..\\lib\\transaction.h(150):     Referer: http://localhost:1080/cgi-bin/welcome.pl?page=itinerary\r\n
+..\\lib\\transaction.h(150):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(150):     .0\r\n
+..\\lib\\transaction.h(150):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(150):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(150):     Accept: */*\r\n
+..\\lib\\transaction.h(150):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(150):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(150):     Cookie: MSO=SID&1733642521; MTUserInfo=firstName&Jaskier&address2&Novigrad&username&Dandel
+..\\lib\\transaction.h(150):     ion&hash&14&lastName&Bonart%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDate&%
+..\\lib\\transaction.h(150):     0A\r\n
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150): t=6378271ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary" (RelFrameId=1, Internal ID=324)
+..\\lib\\transaction.h(150):     0\r\n
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150): t=6378271ms: Request done "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(150): t=6378303ms: 255-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=325)
+..\\lib\\transaction.h(150):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(150):     Date: Sun, 08 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(150):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(150):     Expires: Sat, 07 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(150):     Keep-Alive: timeout=5, max=96\r\n
+..\\lib\\transaction.h(150):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(150):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(150):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150): t=6378303ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=325)
+..\\lib\\transaction.h(150):     5ca\r\n
+..\\lib\\transaction.h(150): t=6378303ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=325)
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150): t=6378303ms: 1482-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=325)
+..\\lib\\transaction.h(150):     <!DOCTYPE html\n
+..\\lib\\transaction.h(150):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\lib\\transaction.h(150):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\lib\\transaction.h(150):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\lib\\transaction.h(150):     <head>\n
+..\\lib\\transaction.h(150):     <title>Web Tours Navigation Bar</title>\n
+..\\lib\\transaction.h(150):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\lib\\transaction.h(150):     </head>\n
+..\\lib\\transaction.h(150):     <body bgcolor="#E0E7F1">\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <style>\n
+..\\lib\\transaction.h(150):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+..\\lib\\transaction.h(150):     \tH1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+..\\lib\\transaction.h(150):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+..\\lib\\transaction.h(150):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib\\transaction.h(150):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+..\\lib\\transaction.h(150):     N: none}\n
+..\\lib\\transaction.h(150):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+..\\lib\\transaction.h(150):     CORATION: underline}\n
+..\\lib\\transaction.h(150):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+..\\lib\\transaction.h(150):     </style>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <BR><BR><center>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <br clear="both"/><center><A HREF="welcome.pl?page=search" TARGET="body"><IMG BORDER="0" S
+..\\lib\\transaction.h(150):     RC="/WebTours/images/flights.gif" \n
+..\\lib\\transaction.h(150):     ALT="Search Flights Button"/></A>\n
+..\\lib\\transaction.h(150):     <br clear="both"/><A HREF="welcome.pl?page=itinerary" TARGET="body"><IMG BORDER="0" SRC="/
+..\\lib\\transaction.h(150):     WebTours/images/in_itinerary.gif" \n
+..\\lib\\transaction.h(150):     ALT="Itinerary Button"/></A>\n
+..\\lib\\transaction.h(150):     <br clear="both"/><A HREF="welcome.pl?page=menus" TARGET="body"><IMG BORDER="0" SRC="/WebT
+..\\lib\\transaction.h(150):     ours/images/home.gif" \n
+..\\lib\\transaction.h(150):     ALT="Home Button"/></A>\n
+..\\lib\\transaction.h(150):     <br clear><A HREF="welcome.pl?signOff=1" TARGET="body"><IMG BORDER="0" SRC="/WebTours/imag
+..\\lib\\transaction.h(150):     es/signoff.gif" \n
+..\\lib\\transaction.h(150):     ALT="SignOff Button"/></A></center>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     </body>\n
+..\\lib\\transaction.h(150):     </html>\n
+..\\lib\\transaction.h(150): Resource "http://localhost:1080/WebTours/images/flights.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\lib\\transaction.h(150): Found resource "http://localhost:1080/WebTours/images/in_itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(150): Found resource "http://localhost:1080/WebTours/images/home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(150): Resource "http://localhost:1080/WebTours/images/signoff.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+..\\lib\\transaction.h(150): t=6378304ms: Already connected [3] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(150): t=6378304ms: 535-byte request headers for "http://localhost:1080/WebTours/images/home.gif" (RelFrameId=, Internal ID=328)
+..\\lib\\transaction.h(150):     GET /WebTours/images/home.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(150):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary\r\n
+..\\lib\\transaction.h(150):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(150):     .0\r\n
+..\\lib\\transaction.h(150):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(150):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(150):     Accept: */*\r\n
+..\\lib\\transaction.h(150):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(150):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(150):     Cookie: MSO=SID&1733642521; MTUserInfo=firstName&Jaskier&address2&Novigrad&username&Dandel
+..\\lib\\transaction.h(150):     ion&hash&14&lastName&Bonart%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDate&%
+..\\lib\\transaction.h(150):     0A\r\n
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150): t=6378305ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(150): t=6378305ms: 543-byte request headers for "http://localhost:1080/WebTours/images/in_itinerary.gif" (RelFrameId=, Internal ID=327)
+..\\lib\\transaction.h(150):     GET /WebTours/images/in_itinerary.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(150):     Referer: http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary\r\n
+..\\lib\\transaction.h(150):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(150):     .0\r\n
+..\\lib\\transaction.h(150):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(150):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(150):     Accept: */*\r\n
+..\\lib\\transaction.h(150):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(150):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(150):     Cookie: MSO=SID&1733642521; MTUserInfo=firstName&Jaskier&address2&Novigrad&username&Dandel
+..\\lib\\transaction.h(150):     ion&hash&14&lastName&Bonart%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDate&%
+..\\lib\\transaction.h(150):     0A\r\n
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150): t=6378305ms: 297-byte response headers for "http://localhost:1080/WebTours/images/home.gif" (RelFrameId=, Internal ID=328)
+..\\lib\\transaction.h(150):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(150):     Date: Sun, 08 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(150):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(150):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(150):     ETag: "600000009590e-2b0-627d18e67bbbe"\r\n
+..\\lib\\transaction.h(150):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(150):     Content-Length: 688\r\n
+..\\lib\\transaction.h(150):     Keep-Alive: timeout=5, max=98\r\n
+..\\lib\\transaction.h(150):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(150):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150): t=6378305ms: 688-byte response body for "http://localhost:1080/WebTours/images/home.gif" (RelFrameId=, Internal ID=328)
+..\\lib\\transaction.h(150): t=6378305ms: Request done "http://localhost:1080/WebTours/images/home.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(150): t=6378305ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" (RelFrameId=1.1, Internal ID=325)
+..\\lib\\transaction.h(150):     0\r\n
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150): t=6378305ms: Request done "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(150): t=6378320ms: 255-byte response headers for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=326)
+..\\lib\\transaction.h(150):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(150):     Date: Sun, 08 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(150):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(150):     Expires: Sat, 07 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(150):     Keep-Alive: timeout=5, max=98\r\n
+..\\lib\\transaction.h(150):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(150):     Transfer-Encoding: chunked\r\n
+..\\lib\\transaction.h(150):     Content-Type: text/html; charset=ISO-8859-1\r\n
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150): t=6378321ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=326)
+..\\lib\\transaction.h(150):     f84\r\n
+..\\lib\\transaction.h(150): t=6378321ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=326)
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150): t=6378321ms: 3972-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=326)
+..\\lib\\transaction.h(150):     <!DOCTYPE html\n
+..\\lib\\transaction.h(150):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+..\\lib\\transaction.h(150):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+..\\lib\\transaction.h(150):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+..\\lib\\transaction.h(150):     <head>\n
+..\\lib\\transaction.h(150):     <title>Flights List</title>\n
+..\\lib\\transaction.h(150):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+..\\lib\\transaction.h(150):     </head>\n
+..\\lib\\transaction.h(150):     <body bgcolor="#E0E7F1">\n
+..\\lib\\transaction.h(150):     <style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-siz
+..\\lib\\transaction.h(150):     e : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: taho
+..\\lib\\transaction.h(150):     ma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 8pt; color: black}
+..\\lib\\transaction.h(150):     </style><BR/><BR/><h1><font color="#003366">&nbsp;&nbsp;<b>Itinerary</font></b></h1><block
+..\\lib\\transaction.h(150):     quote><form method="post" action="itinerary.pl" enctype="application/x-www-form-urlencoded
+..\\lib\\transaction.h(150):     ">\n
+..\\lib\\transaction.h(150):     <center>\n
+..\\lib\\transaction.h(150):     <TABLE BORDER="0" WIDTH="85%" CELLSPACING="0">\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#5E7884">\n
+..\\lib\\transaction.h(150):       <TD colspan="4" align="center"><font color="white"><B>Jaskier Bonart\n
+..\\lib\\transaction.h(150):      's Flight Transaction Summary</B></color></TD></TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="1" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="3297030407-8082-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;5 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 5075 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  5pm : Flight 982 leaves Zurich  for Sydney.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="2" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="329670425-15537-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;4 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 1992 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  1pm : Flight 101 leaves Frankfurt  for Denver.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="3" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="329678196-23189-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;5 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table wid
+..\\lib\\transaction.h(150): t=6378322ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=326)
+..\\lib\\transaction.h(150):     1000\r\n
+..\\lib\\transaction.h(150): t=6378322ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=326)
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150):     1000\r\n
+..\\lib\\transaction.h(150): t=6378322ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=326)
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150):     1000\r\n
+..\\lib\\transaction.h(150): t=6378322ms: 12265-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=326)
+..\\lib\\transaction.h(150):     th="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 1460 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  1pm : Flight 311 leaves Los Angeles  for Frankfurt.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="4" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="329668206-31174-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;9 First class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+..\\lib\\transaction.h(150):     i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 5274 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  1pm : Flight 041 leaves Denver  for Paris.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="5" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="3296766705-38869-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;5 First class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 5300 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  8am : Flight 270 leaves London  for Seattle.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="6" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="329696442-46587-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;6 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+..\\lib\\transaction.h(150):     i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 5634 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  11pm : Flight 803 leaves Sydney  for Denver.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="7" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="329692271-54026-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;7 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+..\\lib\\transaction.h(150):     i>      <li><i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 2345 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  1pm : Flight 691 leaves San Francisco  for Zurich.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="8" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="329700451-61639-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;7 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+..\\lib\\transaction.h(150):     i>      <li><i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 1309 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  5pm : Flight 912 leaves Zurich  for Frankfurt.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="9" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="329685946-69572-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;8 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+..\\lib\\transaction.h(150):     i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 4440 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  8am : Flight 520 leaves Portland  for London.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="10" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="3296918558-77415-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;6 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+..\\lib\\transaction.h(150):     i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 6402 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  8am : Flight 680 leaves San Francisco  for Sydney.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="11" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="329677830-84809-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;6 First class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+..\\lib\\transaction.h(150):     i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 2520 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  1pm : Flight 301 leaves Los Angeles  for Denver.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="12" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="329681932-9284-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;4 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 704 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  5pm : Flight 412 leaves Paris  for Frankfurt.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="13" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="329692277-100261-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;7 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+..\\lib\\transaction.h(150):     i>      <li><i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 3395 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  1pm : Flight 691 leaves San Francisco  for Zurich.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       
+..\\lib\\transaction.h(150): t=6378327ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=326)
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150):     1000\r\n
+..\\lib\\transaction.h(150): t=6378327ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=326)
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150):     1000\r\n
+..\\lib\\transaction.h(150): t=6378327ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=326)
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150):     1000\r\n
+..\\lib\\transaction.h(150): t=6378327ms: 12263-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=326)
+..\\lib\\transaction.h(150):     <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="14" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="329681535-108005-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;9 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+..\\lib\\transaction.h(150):     i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 4077 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  1pm : Flight 401 leaves Paris  for Denver.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="15" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="329690782-11567-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;3 First class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 378 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  1pm : Flight 651 leaves San Francisco  for Portland.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="16" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="329694857-12341-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;3 First class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 435 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  1pm : Flight 761 leaves Seattle  for San Francisco.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="17" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="329670425-130999-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;6 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+..\\lib\\transaction.h(150):     i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 2988 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  1pm : Flight 101 leaves Frankfurt  for Denver.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="18" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="329688970-13890-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;3 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 573 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  5pm : Flight 602 leaves San Francisco  for Denver.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="19" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="3296990045-146721-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;6 First class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+..\\lib\\transaction.h(150):     i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 7380 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  11pm : Flight 873 leaves Sydney  for Seattle.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="20" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="329669692-154117-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;5 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 3525 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  1pm : Flight 081 leaves Denver  for Sydney.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="21" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="329700492-161678-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;6 First class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+..\\lib\\transaction.h(150):     i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 1818 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  11pm : Flight 913 leaves Zurich  for Frankfurt.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="22" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="329688896-169355-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;8 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+..\\lib\\transaction.h(150):     i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 1616 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  8am : Flight 600 leaves San Francisco  for Denver.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="23" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="329692685-177281-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;9 First class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+..\\lib\\transaction.h(150):     i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 4662 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  5pm : Flight 702 leaves Seattle  for Denver.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="24" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="329701232-184746-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;6 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>      <li><i>      <li><i>      <li><
+..\\lib\\transaction.h(150):     i>\n
+..\\lib\\transaction.h(150):           <li>
+..\\lib\\transaction.h(150): t=6378332ms: 7-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=326)
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150):     e02\r\n
+..\\lib\\transaction.h(150): t=6378332ms: 7-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=326)
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150):     0\r\n
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150): t=6378332ms: 3634-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=326)
+..\\lib\\transaction.h(150):     <i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 1698 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  11pm : Flight 933 leaves Zurich  for Los Angeles.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(150):     <b>\n
+..\\lib\\transaction.h(150):     <label><input type="checkbox" name="25" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(150):     <input type="hidden" name="flightID" value="3296989297-192546-JB"  />\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(150):           <b>&nbsp;&nbsp;3 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(150):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(150):           <li><i>Jaskier Bonart      <li><i>      <li><i>\n
+..\\lib\\transaction.h(150):           <li><i></i>\n
+..\\lib\\transaction.h(150):           </td></tr></table></center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(150):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(150):           <center>\n
+..\\lib\\transaction.h(150):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(150):               Jaskier Bonart\n
+..\\lib\\transaction.h(150):     <br/>\n
+..\\lib\\transaction.h(150):               Square of the Hierarch<br/>\n
+..\\lib\\transaction.h(150):               Novigrad<br/>\n
+..\\lib\\transaction.h(150):               <br/>\n
+..\\lib\\transaction.h(150):               Total Charge: $ 3105 <BR/> (CC: x-8901)\n
+..\\lib\\transaction.h(150):           </td> </tr> </table>\n
+..\\lib\\transaction.h(150):           </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(150):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(150):       12/15/2024\n
+..\\lib\\transaction.h(150):      :  1pm : Flight 871 leaves Sydney  for Seattle.<br>  </center>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(150):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(150):       <hr/>\n
+..\\lib\\transaction.h(150):       </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     <TR>\n
+..\\lib\\transaction.h(150):        <TD align="center" COLSPAN="4">\n
+..\\lib\\transaction.h(150):        <b>A total of 25 scheduled flights.</font></b>\n
+..\\lib\\transaction.h(150):        </TD>\n
+..\\lib\\transaction.h(150):     </TR>\n
+..\\lib\\transaction.h(150):     </TABLE>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <TABLE WIDTH="87%" BORDER="0" CELLSPACING="0">\n
+..\\lib\\transaction.h(150):     <TR>\n
+..\\lib\\transaction.h(150):     <TD align="left" width="50%" >\n
+..\\lib\\transaction.h(150):     <input type="image" name="removeFlights" src="/WebTours/images/cancelreservation.gif" bord
+..\\lib\\transaction.h(150):     er="0" /></TD>\n
+..\\lib\\transaction.h(150):     <TD align="right" width="50%" >\n
+..\\lib\\transaction.h(150):     <input type="image" name="removeAllFlights" src="/WebTours/images/cancelallreservations.gi
+..\\lib\\transaction.h(150):     f" border="0" /></TD>\n
+..\\lib\\transaction.h(150):     </TABLE>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     <div><input type="hidden" name=".cgifields" value="11"  /><input type="hidden" name=".cgif
+..\\lib\\transaction.h(150):     ields" value="21"  /><input type="hidden" name=".cgifields" value="7"  /><input type="hidd
+..\\lib\\transaction.h(150):     en" name=".cgifields" value="17"  /><input type="hidden" name=".cgifields" value="2"  /><i
+..\\lib\\transaction.h(150):     nput type="hidden" name=".cgifields" value="22"  /><input type="hidden" name=".cgifields" 
+..\\lib\\transaction.h(150):     value="1"  /><input type="hidden" name=".cgifields" value="18"  /><input type="hidden" nam
+..\\lib\\transaction.h(150):     e=".cgifields" value="23"  /><input type="hidden" name=".cgifields" value="16"  /><input t
+..\\lib\\transaction.h(150):     ype="hidden" name=".cgifields" value="13"  /><input type="hidden" name=".cgifields" value=
+..\\lib\\transaction.h(150):     "25"  /><input type="hidden" name=".cgifields" value="6"  /><input type="hidden" name=".cg
+..\\lib\\transaction.h(150):     ifields" value="3"  /><input type="hidden" name=".cgifields" value="9"  /><input type="hid
+..\\lib\\transaction.h(150):     den" name=".cgifields" value="12"  /><input type="hidden" name=".cgifields" value="20"  />
+..\\lib\\transaction.h(150):     <input type="hidden" name=".cgifields" value="14"  /><input type="hidden" name=".cgifields
+..\\lib\\transaction.h(150):     " value="15"  /><input type="hidden" name=".cgifields" value="8"  /><input type="hidden" n
+..\\lib\\transaction.h(150):     ame=".cgifields" value="4"  /><input type="hidden" name=".cgifields" value="24"  /><input 
+..\\lib\\transaction.h(150):     type="hidden" name=".cgifields" value="19"  /><input type="hidden" name=".cgifields" value
+..\\lib\\transaction.h(150):     ="10"  /><input type="hidden" name=".cgifields" value="5"  /></div></form>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     </center>\n
+..\\lib\\transaction.h(150):     \n
+..\\lib\\transaction.h(150):     </body>\n
+..\\lib\\transaction.h(150):     </html>
+..\\lib\\transaction.h(150): Found resource "http://localhost:1080/WebTours/images/cancelreservation.gif" in HTML "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(150): Found resource "http://localhost:1080/WebTours/images/cancelallreservations.gif" in HTML "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(150): t=6378333ms: Request done "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(150): t=6378333ms: Already connected [1] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(150): t=6378333ms: 531-byte request headers for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=329)
+..\\lib\\transaction.h(150):     GET /WebTours/images/cancelreservation.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(150):     Referer: http://localhost:1080/cgi-bin/itinerary.pl\r\n
+..\\lib\\transaction.h(150):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(150):     .0\r\n
+..\\lib\\transaction.h(150):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(150):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(150):     Accept: */*\r\n
+..\\lib\\transaction.h(150):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(150):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(150):     Cookie: MSO=SID&1733642521; MTUserInfo=firstName&Jaskier&address2&Novigrad&username&Dandel
+..\\lib\\transaction.h(150):     ion&hash&14&lastName&Bonart%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDate&%
+..\\lib\\transaction.h(150):     0A\r\n
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150): t=6378333ms: Already connected [3] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(150): t=6378333ms: 535-byte request headers for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=330)
+..\\lib\\transaction.h(150):     GET /WebTours/images/cancelallreservations.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(150):     Referer: http://localhost:1080/cgi-bin/itinerary.pl\r\n
+..\\lib\\transaction.h(150):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(150):     .0\r\n
+..\\lib\\transaction.h(150):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(150):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(150):     Accept: */*\r\n
+..\\lib\\transaction.h(150):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(150):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(150):     Cookie: MSO=SID&1733642521; MTUserInfo=firstName&Jaskier&address2&Novigrad&username&Dandel
+..\\lib\\transaction.h(150):     ion&hash&14&lastName&Bonart%0A&address1&Square%20of%20the%20Hierarch&creditCard&&expDate&%
+..\\lib\\transaction.h(150):     0A\r\n
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150): t=6378333ms: 297-byte response headers for "http://localhost:1080/WebTours/images/in_itinerary.gif" (RelFrameId=, Internal ID=327)
+..\\lib\\transaction.h(150):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(150):     Date: Sun, 08 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(150):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(150):     Last-Modified: Tue, 26 Nov 2024 14:20:51 GMT\r\n
+..\\lib\\transaction.h(150):     ETag: "6000000095916-2dd-627d18e68e27b"\r\n
+..\\lib\\transaction.h(150):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(150):     Content-Length: 733\r\n
+..\\lib\\transaction.h(150):     Keep-Alive: timeout=5, max=94\r\n
+..\\lib\\transaction.h(150):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(150):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150): t=6378333ms: 733-byte response body for "http://localhost:1080/WebTours/images/in_itinerary.gif" (RelFrameId=, Internal ID=327)
+..\\lib\\transaction.h(150): t=6378333ms: Request done "http://localhost:1080/WebTours/images/in_itinerary.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(150): t=6378334ms: 297-byte response headers for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=330)
+..\\lib\\transaction.h(150):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(150):     Date: Sun, 08 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(150):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(150):     Last-Modified: Tue, 26 Nov 2024 14:20:50 GMT\r\n
+..\\lib\\transaction.h(150):     ETag: "6000000095907-2e6-627d18e65fc80"\r\n
+..\\lib\\transaction.h(150):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(150):     Content-Length: 742\r\n
+..\\lib\\transaction.h(150):     Keep-Alive: timeout=5, max=97\r\n
+..\\lib\\transaction.h(150):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(150):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150): t=6378334ms: 742-byte response body for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=330)
+..\\lib\\transaction.h(150): t=6378334ms: Request done "http://localhost:1080/WebTours/images/cancelallreservations.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(150): t=6378353ms: 297-byte response headers for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=329)
+..\\lib\\transaction.h(150):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(150):     Date: Sun, 08 Dec 2024 07:22:01 GMT\r\n
+..\\lib\\transaction.h(150):     Server: Apache/2.2.21 (Win32)\r\n
+..\\lib\\transaction.h(150):     Last-Modified: Tue, 26 Nov 2024 14:20:50 GMT\r\n
+..\\lib\\transaction.h(150):     ETag: "6000000095908-33f-627d18e6645bf"\r\n
+..\\lib\\transaction.h(150):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(150):     Content-Length: 831\r\n
+..\\lib\\transaction.h(150):     Keep-Alive: timeout=5, max=95\r\n
+..\\lib\\transaction.h(150):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(150):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(150):     \r\n
+..\\lib\\transaction.h(150): t=6378354ms: 831-byte response body for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=329)
+..\\lib\\transaction.h(150): t=6378354ms: Request done "http://localhost:1080/WebTours/images/cancelreservation.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(150): Registered web_reg_find successful for "Text=Itinerary" (count=3)  	[MsgId: MMSG-26364]
+..\\lib\\transaction.h(150): web_url("welcome.pl_2") was successful, 37201 body bytes, 1913 header bytes, 91 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(16): Notify: Transaction "itinerary_page" ended with a "Pass" status (Duration: 0,1105 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(18): Notify: Transaction "UC04_Itinerary" ended with a "Pass" status (Duration: 0,3126 Wasted Time: 0,0001).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+t=6378354ms: Closed connection [0] to localhost:1080 after completing 7 request(s)  	[MsgId: MMSG-26000]
+t=6378354ms: Closed connection [1] to localhost:1080 after completing 6 request(s)  	[MsgId: MMSG-26000]
+t=6378354ms: Closed connection [2] to localhost:1080 after completing 3 request(s)  	[MsgId: MMSG-26000]
+t=6378354ms: Closed connection [3] to localhost:1080 after completing 4 request(s)  	[MsgId: MMSG-26000]
+t=6378354ms: Closed connection [4] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+t=6378354ms: Closed connection [5] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=7, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 9 (thread 18416), ended OK."	[MsgId: MMSG-10695]

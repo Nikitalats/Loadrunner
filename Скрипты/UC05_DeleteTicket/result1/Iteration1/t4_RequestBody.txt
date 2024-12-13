@@ -1,0 +1,8 @@
+"1=on&flightID=189278165-7977-GR&flightID=18928050-1556-GR&flightID=189276064-23473-GR&flightID"
+"=18928047-3104-GR&flightID=189274087-38623-GR&flightID=189268992-46339-GR&flightID=189273791-5"
+"4108-GR&flightID=189268983-61922-GR&flightID=189272339-69330-GR&flightID=189269387-77100-GR&fl"
+"ightID=1892844860-84993-GR&flightID=189264159-92449-GR&flightID=189263085-100218-GR&flightID=1"
+"89279282-108074-GR&flightID=1892882638-115668-GR&flightID=189271982-123236-GR&.cgifields=11&.c"
+"gifields=7&.cgifields=2&.cgifields=1&.cgifields=16&.cgifields=13&.cgifields=6&.cgifields=3&.cg"
+"ifields=9&.cgifields=12&.cgifields=14&.cgifields=15&.cgifields=8&.cgifields=4&.cgifields=10&.c"
+"gifields=5&removeFlights.x=40&removeFlights.y=5"
