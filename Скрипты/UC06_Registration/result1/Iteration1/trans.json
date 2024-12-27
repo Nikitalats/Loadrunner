@@ -1,32 +1,32 @@
 [
     {
         "transactionName": "open_home_page",
-        "rawStartTime": 1733828972254,
-        "rawEndTime": 1733828975500
+        "rawStartTime": 1734758689783,
+        "rawEndTime": 1734758693046
     },
     {
         "transactionName": "sign_up",
-        "rawStartTime": 1733828975516,
-        "rawEndTime": 1733828975626
+        "rawStartTime": 1734758693062,
+        "rawEndTime": 1734758693171
     },
     {
         "transactionName": "registration",
-        "rawStartTime": 1733828975642,
-        "rawEndTime": 1733828995952
+        "rawStartTime": 1734758693187,
+        "rawEndTime": 1734758713507
     },
     {
         "transactionName": "next_page_reg",
-        "rawStartTime": 1733828995967,
-        "rawEndTime": 1733829002139
+        "rawStartTime": 1734758713523,
+        "rawEndTime": 1734758719772
     },
     {
         "transactionName": "sign_off",
-        "rawStartTime": 1733829002156,
-        "rawEndTime": 1733829002266
+        "rawStartTime": 1734758722829,
+        "rawEndTime": 1734758722970
     },
     {
         "transactionName": "UC06_Registration",
-        "rawStartTime": 1733828972238,
-        "rawEndTime": 1733829002282
+        "rawStartTime": 1734758689769,
+        "rawEndTime": 1734758722986
     }
 ]

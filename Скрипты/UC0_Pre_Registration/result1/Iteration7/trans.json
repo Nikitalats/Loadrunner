@@ -1,0 +1,22 @@
+[
+    {
+        "transactionName": "open_home_page",
+        "rawStartTime": 1735026753132,
+        "rawEndTime": 1735026753303
+    },
+    {
+        "transactionName": "sign_up",
+        "rawStartTime": 1735026753319,
+        "rawEndTime": 1735026753430
+    },
+    {
+        "transactionName": "registration",
+        "rawStartTime": 1735026753445,
+        "rawEndTime": 1735026753555
+    },
+    {
+        "transactionName": "UC0_Pre_Registration",
+        "rawStartTime": 1735026753115,
+        "rawEndTime": 1735026753571
+    }
+]

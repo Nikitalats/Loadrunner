@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Tue, 24 Dec 2024 07:52:35 GMT
+Server: Apache/2.4.58 (Unix)
+Expires: 5s
+Set-Cookie: MTUserInfo=address2&Oxenfurt&expDate&&firstName&Coen&hash&78&creditCard&&address1&Freedom%20Square&username&Coen&lastName&Morgan; path=/
+Keep-Alive: timeout=5, max=96
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

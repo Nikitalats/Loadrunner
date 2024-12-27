@@ -1,0 +1,2188 @@
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="16" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128493361-123493-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;7 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(146):         <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 5411 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  8am : Flight 320 leaves Los Angeles  for London.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="17" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128503826-130983-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;9 First class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(146):         <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 2790 <BR/> (CC
+..\\lib\\transaction.h(146): t=6971520ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=519)
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146):     c0\r\n
+..\\lib\\transaction.h(146): t=6971520ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=519)
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146):     1f40\r\n
+..\\lib\\transaction.h(146): t=6971520ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=519)
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146):     c0\r\n
+..\\lib\\transaction.h(146): t=6971520ms: 12267-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=519)
+..\\lib\\transaction.h(146):     : x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  11pm : Flight 603 leaves San Francisco  for Denver.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="18" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="1285114899-138989-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;3 First class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 6861 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  8am : Flight 810 leaves Sydney  for Frankfurt.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="19" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="1285145222-146388-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;3 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 3045 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  5pm : Flight 892 leaves Sydney  for Zurich.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="20" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="12850570-15446-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;9 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(146):         <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 810 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  11pm : Flight 653 leaves San Francisco  for Portland.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="21" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128491502-161929-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;9 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(146):         <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 5085 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  8am : Flight 270 leaves London  for Seattle.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="22" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128517510-169413-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;3 First class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 2379 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  5pm : Flight 972 leaves Zurich  for Seattle.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="23" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128508945-177210-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;7 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(146):         <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 3731 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  1pm : Flight 741 leaves Seattle  for Paris.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="24" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128495265-18537-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;6 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 990 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  5pm : Flight 372 leaves Los Angeles  for Seattle.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="25" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128489309-192492-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;7 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(146):         <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 2401 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  1pm : Flight 211 leaves London  for Frankfurt.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="26" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="12850932-20031-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;5 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 415 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  1pm : Flight 751 leaves Seattle  for Portland.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="27" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128505281-207873-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;4 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 2352 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  5pm : Flight 642 leaves San Francisco  for Paris.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="28" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="12850496-21588-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;7 First class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull    
+..\\lib\\transaction.h(146): t=6971532ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=519)
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146):     1f40\r\n
+..\\lib\\transaction.h(146): t=6971532ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=519)
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146):     c0\r\n
+..\\lib\\transaction.h(146): t=6971532ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=519)
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146):     1f40\r\n
+..\\lib\\transaction.h(146): t=6971532ms: 12265-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=519)
+..\\lib\\transaction.h(146):       <li><i>      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 644 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  11pm : Flight 633 leaves San Francisco  for Los Angeles.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="29" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="1285130786-2231624-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;9 First class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(146):         <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 11115 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  11pm : Flight 853 leaves Sydney  for Portland.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="30" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128494138-231051-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;5 First class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 3665 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  1pm : Flight 341 leaves Los Angeles  for Paris.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="31" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128516415-238562-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;6 First class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 1314 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  11pm : Flight 943 leaves Zurich  for Paris.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="32" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128487911-246386-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;5 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 3025 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  11pm : Flight 173 leaves Frankfurt  for Seattle.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="33" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128501118-253983-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;9 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(146):         <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 1782 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  8am : Flight 530 leaves Portland  for Los Angeles.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="34" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="1284985966-262047-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;6 First class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 6618 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  5pm : Flight 462 leaves Paris  for San Francisco.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="35" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128513405-269596-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;5 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 4750 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  1pm : Flight 861 leaves Sydney  for San Francisco.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="36" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128516804-277195-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;5 First class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 3540 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  11pm : Flight 953 leaves Zurich  for Portland.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="37" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128497458-284795-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;6 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 2346 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  1pm : Flight 431 leaves Paris  for Los Angeles.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="38" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128515195-292506-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;9 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(146):         <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 2583 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <cent
+..\\lib\\transaction.h(146): t=6971545ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=519)
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146):     c0\r\n
+..\\lib\\transaction.h(146): t=6971545ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=519)
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146):     1f40\r\n
+..\\lib\\transaction.h(146): t=6971545ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=519)
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146):     c0\r\n
+..\\lib\\transaction.h(146): t=6971545ms: 12267-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=519)
+..\\lib\\transaction.h(146):     er>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  8am : Flight 910 leaves Zurich  for Frankfurt.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="39" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128501577-300406-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;9 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(146):         <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 5283 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  5pm : Flight 542 leaves Portland  for Paris.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="40" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128494170-307969-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;6 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 3606 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  5pm : Flight 342 leaves Los Angeles  for Paris.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="41" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128486386-315556-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;5 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 2230 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  5pm : Flight 132 leaves Frankfurt  for Los Angeles.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="42" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128492341-323212-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;8 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(146):         <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 1768 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  11pm : Flight 293 leaves London  for Zurich.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="43" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="12850488-33118-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;7 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(146):         <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 546 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  1pm : Flight 631 leaves San Francisco  for Los Angeles.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="44" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="1284900041-338978-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;6 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 6726 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  8am : Flight 230 leaves London  for Los Angeles.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="45" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128498541-346440-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;6 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 3732 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  8am : Flight 460 leaves Paris  for San Francisco.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="46" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128506300-353933-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;9 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(146):         <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 1134 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  8am : Flight 670 leaves San Francisco  for Seattle.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="47" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128508921-361871-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;5 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 4335 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  8am : Flight 740 leaves Seattle  for Paris.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="48" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128497537-369430-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;5 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 2600 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  11pm : Flight 433 leaves Paris  for Los Angeles.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="49" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128515641-377075-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;6 First class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li
+..\\lib\\transaction.h(146): t=6971557ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=519)
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146):     1f40\r\n
+..\\lib\\transaction.h(146): t=6971557ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=519)
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146):     c0\r\n
+..\\lib\\transaction.h(146): t=6971557ms: 8-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=519)
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146):     1f40\r\n
+..\\lib\\transaction.h(146): t=6971557ms: 12265-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=519)
+..\\lib\\transaction.h(146):     ><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 1986 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  5pm : Flight 922 leaves Zurich  for London.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="50" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="1285127080-385154-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;6 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 7014 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  11pm : Flight 843 leaves Sydney  for Paris.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="51" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="12850265-39270-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;9 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(146):         <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 513 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  1pm : Flight 571 leaves Portland  for Seattle.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="52" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128503717-400204-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;7 First class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(146):         <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 2653 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  8am : Flight 600 leaves San Francisco  for Denver.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="53" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128508993-408133-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;7 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(146):         <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 5740 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  5pm : Flight 742 leaves Seattle  for Paris.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="54" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128503470-415874-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;9 First class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(146):         <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 6372 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  11pm : Flight 593 leaves Portland  for Zurich.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="55" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="1285067082-423549-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;5 First class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 6145 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  1pm : Flight 681 leaves San Francisco  for Sydney.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="56" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128485971-430878-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;6 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 1422 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  1pm : Flight 121 leaves Frankfurt  for London.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="57" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128488937-438669-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;9 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(146):         <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 2709 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  1pm : Flight 201 leaves London  for Denver.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="58" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128496745-446237-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;9 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(146):         <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 1089 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  5pm : Flight 412 leaves Paris  for Frankfurt.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="59" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128488985-454261-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;9 First class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(146):         <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 5400 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </tabl
+..\\lib\\transaction.h(146): t=6971570ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=519)
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146):     c0\r\n
+..\\lib\\transaction.h(146): t=6971570ms: 7-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=519)
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146):     d0b\r\n
+..\\lib\\transaction.h(146): t=6971570ms: 7-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=519)
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146):     0\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=6971570ms: 7544-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=519)
+..\\lib\\transaction.h(146):     e>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  5pm : Flight 202 leaves London  for Denver.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="60" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="128498286-461935-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;7 Business class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(146):         <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 5159 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  11pm : Flight 453 leaves Paris  for Portland.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="61" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="12850966-46942-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;3 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 258 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  8am : Flight 760 leaves Seattle  for San Francisco.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <!-- Flight #1 -->\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+..\\lib\\transaction.h(146):     <b>\n
+..\\lib\\transaction.h(146):     <label><input type="checkbox" name="62" value="on" /></label></font></b>\n
+..\\lib\\transaction.h(146):     <input type="hidden" name="flightID" value="12850643-47741-EB"  />\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign="top">\n
+..\\lib\\transaction.h(146):           <b>&nbsp;&nbsp;9 Coach class tickets for :</b><br/>\n
+..\\lib\\transaction.h(146):           <center><table border="0" width="85%"><tr><td>\n
+..\\lib\\transaction.h(146):           <li><i>Eskel Bull      <li><i>      <li><i>      <li><i>      <li><i>      <li><i>  
+..\\lib\\transaction.h(146):         <li><i>      <li><i>      <li><i>\n
+..\\lib\\transaction.h(146):           <li><i></i>\n
+..\\lib\\transaction.h(146):           </td></tr></table></center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+..\\lib\\transaction.h(146):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+..\\lib\\transaction.h(146):           <center>\n
+..\\lib\\transaction.h(146):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+..\\lib\\transaction.h(146):               Eskel Bull\n
+..\\lib\\transaction.h(146):     <br/>\n
+..\\lib\\transaction.h(146):               Druid Camp<br/>\n
+..\\lib\\transaction.h(146):               White Garden<br/>\n
+..\\lib\\transaction.h(146):               <br/>\n
+..\\lib\\transaction.h(146):               Total Charge: $ 639 <BR/> (CC: x-3469)\n
+..\\lib\\transaction.h(146):           </td> </tr> </table>\n
+..\\lib\\transaction.h(146):           </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="3">\n
+..\\lib\\transaction.h(146):       <b>Flight Details:</b><BR/>  <center>\n
+..\\lib\\transaction.h(146):       12/25/2024\n
+..\\lib\\transaction.h(146):      :  11pm : Flight 673 leaves San Francisco  for Seattle.<br>  </center>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TR bgcolor="#EFF2F7">\n
+..\\lib\\transaction.h(146):       <TD COLSPAN="4">\n
+..\\lib\\transaction.h(146):       <hr/>\n
+..\\lib\\transaction.h(146):       </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     <TR>\n
+..\\lib\\transaction.h(146):        <TD align="center" COLSPAN="4">\n
+..\\lib\\transaction.h(146):        <b>A total of 62 scheduled flights.</font></b>\n
+..\\lib\\transaction.h(146):        </TD>\n
+..\\lib\\transaction.h(146):     </TR>\n
+..\\lib\\transaction.h(146):     </TABLE>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <TABLE WIDTH="87%" BORDER="0" CELLSPACING="0">\n
+..\\lib\\transaction.h(146):     <TR>\n
+..\\lib\\transaction.h(146):     <TD align="left" width="50%" >\n
+..\\lib\\transaction.h(146):     <input type="image" name="removeFlights" src="/WebTours/images/cancelreservation.gif" bord
+..\\lib\\transaction.h(146):     er="0" /></TD>\n
+..\\lib\\transaction.h(146):     <TD align="right" width="50%" >\n
+..\\lib\\transaction.h(146):     <input type="image" name="removeAllFlights" src="/WebTours/images/cancelallreservations.gi
+..\\lib\\transaction.h(146):     f" border="0" /></TD>\n
+..\\lib\\transaction.h(146):     </TABLE>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     <div><input type="hidden" name=".cgifields" value="1"  /><input type="hidden" name=".cgifi
+..\\lib\\transaction.h(146):     elds" value="10"  /><input type="hidden" name=".cgifields" value="11"  /><input type="hidd
+..\\lib\\transaction.h(146):     en" name=".cgifields" value="12"  /><input type="hidden" name=".cgifields" value="13"  /><
+..\\lib\\transaction.h(146):     input type="hidden" name=".cgifields" value="14"  /><input type="hidden" name=".cgifields"
+..\\lib\\transaction.h(146):      value="15"  /><input type="hidden" name=".cgifields" value="16"  /><input type="hidden" n
+..\\lib\\transaction.h(146):     ame=".cgifields" value="17"  /><input type="hidden" name=".cgifields" value="18"  /><input
+..\\lib\\transaction.h(146):      type="hidden" name=".cgifields" value="19"  /><input type="hidden" name=".cgifields" valu
+..\\lib\\transaction.h(146):     e="2"  /><input type="hidden" name=".cgifields" value="20"  /><input type="hidden" name=".
+..\\lib\\transaction.h(146):     cgifields" value="21"  /><input type="hidden" name=".cgifields" value="22"  /><input type=
+..\\lib\\transaction.h(146):     "hidden" name=".cgifields" value="23"  /><input type="hidden" name=".cgifields" value="24"
+..\\lib\\transaction.h(146):       /><input type="hidden" name=".cgifields" value="25"  /><input type="hidden" name=".cgifi
+..\\lib\\transaction.h(146):     elds" value="26"  /><input type="hidden" name=".cgifields" value="27"  /><input type="hidd
+..\\lib\\transaction.h(146):     en" name=".cgifields" value="28"  /><input type="hidden" name=".cgifields" value="29"  /><
+..\\lib\\transaction.h(146):     input type="hidden" name=".cgifields" value="3"  /><input type="hidden" name=".cgifields" 
+..\\lib\\transaction.h(146):     value="30"  /><input type="hidden" name=".cgifields" value="31"  /><input type="hidden" na
+..\\lib\\transaction.h(146):     me=".cgifields" value="32"  /><input type="hidden" name=".cgifields" value="33"  /><input 
+..\\lib\\transaction.h(146):     type="hidden" name=".cgifields" value="34"  /><input type="hidden" name=".cgifields" value
+..\\lib\\transaction.h(146):     ="35"  /><input type="hidden" name=".cgifields" value="36"  /><input type="hidden" name=".
+..\\lib\\transaction.h(146):     cgifields" value="37"  /><input type="hidden" name=".cgifields" value="38"  /><input type=
+..\\lib\\transaction.h(146):     "hidden" name=".cgifields" value="39"  /><input type="hidden" name=".cgifields" value="4" 
+..\\lib\\transaction.h(146):      /><input type="hidden" name=".cgifields" value="40"  /><input type="hidden" name=".cgifie
+..\\lib\\transaction.h(146):     lds" value="41"  /><input type="hidden" name=".cgifields" value="42"  /><input type="hidde
+..\\lib\\transaction.h(146):     n" name=".cgifields" value="43"  /><input type="hidden" name=".cgifields" value="44"  /><i
+..\\lib\\transaction.h(146):     nput type="hidden" name=".cgifields" value="45"  /><input type="hidden" name=".cgifields" 
+..\\lib\\transaction.h(146):     value="46"  /><input type="hidden" name=".cgifields" value="47"  /><input type="hidden" na
+..\\lib\\transaction.h(146):     me=".cgifields" value="48"  /><input type="hidden" name=".cgifields" value="49"  /><input 
+..\\lib\\transaction.h(146):     type="hidden" name=".cgifields" value="5"  /><input type="hidden" name=".cgifields" value=
+..\\lib\\transaction.h(146):     "50"  /><input type="hidden" name=".cgifields" value="51"  /><input type="hidden" name=".c
+..\\lib\\transaction.h(146):     gifields" value="52"  /><input type="hidden" name=".cgifields" value="53"  /><input type="
+..\\lib\\transaction.h(146):     hidden" name=".cgifields" value="54"  /><input type="hidden" name=".cgifields" value="55" 
+..\\lib\\transaction.h(146):      /><input type="hidden" name=".cgifields" value="56"  /><input type="hidden" name=".cgifie
+..\\lib\\transaction.h(146):     lds" value="57"  /><input type="hidden" name=".cgifields" value="58"  /><input type="hidde
+..\\lib\\transaction.h(146):     n" name=".cgifields" value="59"  /><input type="hidden" name=".cgifields" value="6"  /><in
+..\\lib\\transaction.h(146):     put type="hidden" name=".cgifields" value="60"  /><input type="hidden" name=".cgifields" v
+..\\lib\\transaction.h(146):     alue="61"  /><input type="hidden" name=".cgifields" value="62"  /><input type="hidden" nam
+..\\lib\\transaction.h(146):     e=".cgifields" value="7"  /><input type="hidden" name=".cgifields" value="8"  /><input typ
+..\\lib\\transaction.h(146):     e="hidden" name=".cgifields" value="9"  /></div></form>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     </center>\n
+..\\lib\\transaction.h(146):     \n
+..\\lib\\transaction.h(146):     </body>\n
+..\\lib\\transaction.h(146):     </html>
+..\\lib\\transaction.h(146): Found resource "http://localhost:1080/WebTours/images/cancelreservation.gif" in HTML "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(146): Found resource "http://localhost:1080/WebTours/images/cancelallreservations.gif" in HTML "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(146): t=6971575ms: Request done "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=6971575ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=6971575ms: 513-byte request headers for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=521)
+..\\lib\\transaction.h(146):     GET /WebTours/images/cancelreservation.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(146):     Referer: http://localhost:1080/cgi-bin/itinerary.pl\r\n
+..\\lib\\transaction.h(146):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(146):     .0\r\n
+..\\lib\\transaction.h(146):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(146):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(146):     Accept: */*\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(146):     Cookie: MSO=SID&1734514417; MTUserInfo=hash&76&lastName&Bull%0A&address2&White%20Garden&fi
+..\\lib\\transaction.h(146):     rstName&Eskel&username&Eskel&creditCard&&expDate&%0A&address1&Druid%20Camp\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=6971576ms: Already connected [1] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=6971576ms: 517-byte request headers for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=522)
+..\\lib\\transaction.h(146):     GET /WebTours/images/cancelallreservations.gif HTTP/1.1\r\n
+..\\lib\\transaction.h(146):     Referer: http://localhost:1080/cgi-bin/itinerary.pl\r\n
+..\\lib\\transaction.h(146):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(146):     .0\r\n
+..\\lib\\transaction.h(146):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(146):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(146):     Accept: */*\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(146):     Cookie: MSO=SID&1734514417; MTUserInfo=hash&76&lastName&Bull%0A&address2&White%20Garden&fi
+..\\lib\\transaction.h(146):     rstName&Eskel&username&Eskel&creditCard&&expDate&%0A&address1&Druid%20Camp\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=6971577ms: 282-byte response headers for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=521)
+..\\lib\\transaction.h(146):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(146):     Date: Wed, 18 Dec 2024 09:33:54 GMT\r\n
+..\\lib\\transaction.h(146):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(146):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(146):     ETag: "33f-60c932df4aec0"\r\n
+..\\lib\\transaction.h(146):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(146):     Content-Length: 831\r\n
+..\\lib\\transaction.h(146):     Keep-Alive: timeout=5, max=98\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=6971577ms: 831-byte response body for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=521)
+..\\lib\\transaction.h(146): t=6971577ms: Request done "http://localhost:1080/WebTours/images/cancelreservation.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): t=6971577ms: 282-byte response headers for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=522)
+..\\lib\\transaction.h(146):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(146):     Date: Wed, 18 Dec 2024 09:33:54 GMT\r\n
+..\\lib\\transaction.h(146):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(146):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(146):     ETag: "2e6-60c932df4aec0"\r\n
+..\\lib\\transaction.h(146):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(146):     Content-Length: 742\r\n
+..\\lib\\transaction.h(146):     Keep-Alive: timeout=5, max=99\r\n
+..\\lib\\transaction.h(146):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(146):     Content-Type: image/gif\r\n
+..\\lib\\transaction.h(146):     \r\n
+..\\lib\\transaction.h(146): t=6971578ms: 742-byte response body for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=522)
+..\\lib\\transaction.h(146): t=6971578ms: Request done "http://localhost:1080/WebTours/images/cancelallreservations.gif"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(146): Registered web_reg_find successful for "Text=Itinerary" (count=3)  	[MsgId: MMSG-26364]
+..\\lib\\transaction.h(146): web_url("welcome.pl_2") was successful, 81322 body bytes, 1571 header bytes, 156 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(48): lr_think_time: 3,00 seconds.	[MsgId: MMSG-15948]
+Action.c(50): Notify: Transaction "itinerary_page" ended with a "Pass" status (Duration: 3,3630 Think Time: 3,0099 Wasted Time: 0,0001).	[MsgId: MMSG-16870]
+Action.c(52): Notify: Transaction "UC02_FindFlight" ended with a "Pass" status (Duration: 20,4785 Think Time: 19,0394 Wasted Time: 0,0008).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+t=6974589ms: Closed connection [0] to localhost:1080 after completing 3 request(s)  	[MsgId: MMSG-26000]
+t=6974589ms: Closed connection [1] to localhost:1080 after completing 2 request(s)  	[MsgId: MMSG-26000]
+t=6974589ms: Closed connection [2] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=13, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 9 (thread 26272), ended OK."	[MsgId: MMSG-10695]

@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Tue, 24 Dec 2024 07:52:30 GMT
+Server: Apache/2.4.58 (Unix)
+Expires: 5s
+Set-Cookie: MTUserInfo=username&Yennefer&address2&Novigrad&hash&82&firstName&Yennefer&address1&Square%20of%20the%20Hierarch&creditCard&&lastName&Vengerberg&expDate&; path=/
+Keep-Alive: timeout=5, max=96
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

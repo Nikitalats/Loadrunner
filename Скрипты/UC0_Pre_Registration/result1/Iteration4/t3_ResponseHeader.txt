@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Tue, 24 Dec 2024 07:52:31 GMT
+Server: Apache/2.4.58 (Unix)
+Expires: 5s
+Set-Cookie: MTUserInfo=creditCard&&lastName&Fiona%20Elen%20Riannon&hash&41&expDate&&username&Ciri&address1&Kaer%20Morhen&address2&Velen&firstName&Ciri; path=/
+Keep-Alive: timeout=5, max=96
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

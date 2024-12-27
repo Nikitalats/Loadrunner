@@ -1,0 +1,2 @@
+"username=Zoltan&password=zoltan123&passwordConfirm=zoltan123&firstName=Zoltan&lastName=Chivay&"
+"address1=Freedom+Square&address2=Oxenfurt&register.x=55&register.y=10"

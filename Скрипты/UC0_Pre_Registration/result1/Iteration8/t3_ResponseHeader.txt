@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Tue, 24 Dec 2024 07:52:33 GMT
+Server: Apache/2.4.58 (Unix)
+Expires: 5s
+Set-Cookie: MTUserInfo=hash&76&username&Eskel&lastName&Bull&expDate&&address2&White%20Garden&address1&Druid%20Camp&firstName&Eskel&creditCard&; path=/
+Keep-Alive: timeout=5, max=96
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

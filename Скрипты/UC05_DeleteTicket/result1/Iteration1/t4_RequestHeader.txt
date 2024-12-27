@@ -7,6 +7,6 @@ Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3
 Accept: */*
 Connection: Keep-Alive
 Host: localhost:1080
-Cookie: MSO=SID&1733763098; MTUserInfo=firstName&Geralt&address2&Novigrad&username&Geralt&hash&116&lastName&Rivsky%0A&address1&Oxenfurtskaya&creditCard&&expDate&%0A
-Content-Length: 705
+Cookie: MSO=SID&1734114859; MTUserInfo=firstName&Geralt&address2&Novigrad&username&Geralt&hash&116&lastName&Rivsky%0A&address1&Oxenfurtskaya&creditCard&&expDate&%0A
+Content-Length: 337
 

@@ -3005,6 +3005,7 @@ Action()
 		"LAST");
 
 	lr_end_transaction("next_page_reg",2);
+	lr_think_time(3);
 	
 	lr_start_transaction("sign_off");
 

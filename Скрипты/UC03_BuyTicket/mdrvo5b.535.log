@@ -1,0 +1,1943 @@
+..\\lib\\transaction.h(13): t=6896007ms: 337-byte request headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=1688)
+..\\lib\\transaction.h(13):     GET /WebTours/images/hp_logo.png HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/header.html\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6896008ms: Connecting [3] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6896008ms: Connected socket [3] from 127.0.0.1:56903 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6896008ms: 338-byte request headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=1689)
+..\\lib\\transaction.h(13):     GET /WebTours/images/webtours.png HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/header.html\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6897405ms: 285-byte response headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=1689)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:20 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "105b-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 4187\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/png\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6897407ms: 4187-byte response body for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=1689)
+..\\lib\\transaction.h(13): t=6897407ms: Request done "http://localhost:1080/WebTours/images/webtours.png"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6898314ms: 282-byte response headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=1688)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:22 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "259-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 601\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=99\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/png\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6898314ms: 601-byte response body for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=1688)
+..\\lib\\transaction.h(13): t=6898314ms: Request done "http://localhost:1080/WebTours/images/hp_logo.png"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6901305ms: Inactive socket [1] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6901305ms: Closed connection [1] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6902404ms: Inactive socket [3] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6902405ms: Closed connection [3] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6903504ms: Inactive socket [0] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6903504ms: Closed connection [0] to localhost:1080 after completing 2 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6915711ms: Server localhost has shut down the connection [2] prematurely (empty response, no HTTP headers received). No retry attempted  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6915712ms: Closed connection [2] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Error -27787: Server "localhost" has shut down the connection prematurely  	[MsgId: MERR-27787]
+..\\lib\\transaction.h(13): Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+..\\lib\\transaction.h(13): Notify: Saving Parameter "userSession = ".	[MsgId: MMSG-13798]
+..\\lib\\transaction.h(13): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+..\\lib\\transaction.h(13): web_url("WebTours") highest severity level was "ERROR", 5864 body bytes, 1133 header bytes  	[MsgId: MMSG-26388]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" ended with a "Fail" status (Duration: 35,1413 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" has 3 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "open_home_page" is "Error -27787: Server "localhost" has shut down the connection prematurely"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "open_home_page" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "open_home_page" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" ended with a "Fail" status (Duration: 35,1414 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" has 3 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "UC03_BuyTicket" is "Error -27787: Server "localhost" has shut down the connection prematurely"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "UC03_BuyTicket" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "UC03_BuyTicket" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 95.	[MsgId: MMSG-15965]
+Waiting 7,8550 seconds for iteration pacing.	[MsgId: MMSG-15996]
+Starting iteration 95.	[MsgId: MMSG-15968]
+..\\lib\\transaction.h(13): Resetting all proxy auto-configuration information  	[MsgId: MMSG-26000]
+Notify: Next row for parameter seatPref = 2 [table  = seatPref].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'seatPref': table = '..\Parametrs\Seating.dat' column = '0' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter seatType = 3 [table  = seatType].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'seatType': table = '..\Parametrs\seatType.dat' column = '0' row = '3'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter numPassengers = 1 [table  = numPassengers].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'numPassengers': table = '..\Parametrs\numPassengers.dat' column = '0' row = '1'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter login = 5 [table  = login].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'login': table = '..\Parametrs\users.dat' column = '0' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter lastName = 5 [table  = lastName].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'lastName': table = '..\Parametrs\users.dat' column = '4' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter password = 5 [table  = password].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'password': table = '..\Parametrs\users.dat' column = '1' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter city = 5 [table  = city].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'city': table = '..\Parametrs\users.dat' column = '6' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter expDate = 5 [table  = expDate].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'expDate': table = '..\Parametrs\users.dat' column = '8' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter creditCard = 5 [table  = creditCard].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'creditCard': table = '..\Parametrs\users.dat' column = '7' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter firstName = 5 [table  = firstName].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'firstName': table = '..\Parametrs\users.dat' column = '3' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter confirm_pass = 5 [table  = confirm_pass].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'confirm_pass': table = '..\Parametrs\users.dat' column = '2' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter street = 5 [table  = street].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'street': table = '..\Parametrs\users.dat' column = '5' row = '5'.	[MsgId: MMSG-13877]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(3): Notify: Transaction "UC03_BuyTicket" started.	[MsgId: MMSG-16999]
+Action.c(5): Notify: Transaction "open_home_page" started.	[MsgId: MMSG-16999]
+..\\lib\\transaction.h(5): web_reg_save_param started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(5): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(10): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(10): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(13): web_url("WebTours") started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(13): t=6916801ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6916802ms: Connected socket [0] from 127.0.0.1:56920 to 127.0.0.1:1080 in 1 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6916802ms: 266-byte request headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=2577)
+..\\lib\\transaction.h(13):     GET /WebTours/ HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6917003ms: 283-byte response headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=2577)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:41 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "16e-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 366\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6917004ms: 366-byte response body for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=2577)
+..\\lib\\transaction.h(13):     <HTML>\n
+..\\lib\\transaction.h(13):     <HEAD>\n
+..\\lib\\transaction.h(13):     <title>Web Tours</title>\n
+..\\lib\\transaction.h(13):     <frameset rows = "65,*" border="1" bordercolor="#E0E7F1">\n
+..\\lib\\transaction.h(13):     <frame name="header" src="header.html" scrolling="no" noresize="noresize" marginheight="2"
+..\\lib\\transaction.h(13):      marginwidth="2"/>\n
+..\\lib\\transaction.h(13):     <frame name="body" src="/cgi-bin/welcome.pl?signOff=true" scrolling="auto" noresize="nores
+..\\lib\\transaction.h(13):     ize" marginheight="2" marginwidth="2" />\n
+..\\lib\\transaction.h(13):     </frameset>\n
+..\\lib\\transaction.h(13):     </HEAD>\n
+..\\lib\\transaction.h(13):     </HTML>\n
+..\\lib\\transaction.h(13):     \n
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): t=6917004ms: Request done "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6917004ms: Connecting [1] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6917005ms: Connecting [2] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6917005ms: Connected socket [1] from 127.0.0.1:56921 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6917005ms: 319-byte request headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=2578)
+..\\lib\\transaction.h(13):     GET /WebTours/header.html HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6917006ms: Connected socket [2] from 127.0.0.1:56922 to 127.0.0.1:1080 in 1 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6917006ms: 330-byte request headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=2579)
+..\\lib\\transaction.h(13):     GET /cgi-bin/welcome.pl?signOff=true HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6917304ms: 283-byte response headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=2578)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:41 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "2c6-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 710\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6917305ms: 710-byte response body for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=2578)
+..\\lib\\transaction.h(13):     <!DOCTYPE html>\n
+..\\lib\\transaction.h(13):     <HTML xmlns="http://www.w3.org/1999/xhtml">\n
+..\\lib\\transaction.h(13):     <HEAD></HEAD>\n
+..\\lib\\transaction.h(13):     <BODY bgcolor="#003366" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">\n
+..\\lib\\transaction.h(13):     \t\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+..\\lib\\transaction.h(13):     bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n
+..\\lib\\transaction.h(13):     \t\t<table width="100%" border="0" cellspacing="0" cellpadding="0">\n
+..\\lib\\transaction.h(13):     \t\t\t<tr>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td align="left" valign="middle" width="50%"><img src="images/hp_logo.png" alt="" 
+..\\lib\\transaction.h(13):     height="45" width="69" align="absmiddle" border="0"/><img src="images/webtours.png" alt=""
+..\\lib\\transaction.h(13):      height="45" width="130" align="absmiddle" border="0"/></td>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td align="right"></td>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td></td>\n
+..\\lib\\transaction.h(13):     \t\t\t</tr>\n
+..\\lib\\transaction.h(13):     \t\t</table>\n
+..\\lib\\transaction.h(13):     \t</BODY>\n
+..\\lib\\transaction.h(13):     </HTML>
+..\\lib\\transaction.h(13): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(13): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(13): t=6917306ms: Request done "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6917306ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6917306ms: 337-byte request headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=2580)
+..\\lib\\transaction.h(13):     GET /WebTours/images/hp_logo.png HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/header.html\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6917306ms: Connecting [3] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6917317ms: Connected socket [3] from 127.0.0.1:56923 to 127.0.0.1:1080 in 11 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6917317ms: 338-byte request headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=2581)
+..\\lib\\transaction.h(13):     GET /WebTours/images/webtours.png HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/header.html\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6917902ms: 285-byte response headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=2581)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:42 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "105b-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 4187\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/png\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6917903ms: 4187-byte response body for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=2581)
+..\\lib\\transaction.h(13): t=6917903ms: Request done "http://localhost:1080/WebTours/images/webtours.png"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6918203ms: 282-byte response headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=2580)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:42 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "259-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 601\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=99\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/png\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6918203ms: 601-byte response body for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=2580)
+..\\lib\\transaction.h(13): t=6918203ms: Request done "http://localhost:1080/WebTours/images/hp_logo.png"  	[MsgId: MMSG-26000]
+Starting iteration 64.	[MsgId: MMSG-15968]
+..\\lib\\transaction.h(13): Resetting all proxy auto-configuration information  	[MsgId: MMSG-26000]
+Notify: Next row for parameter seatPref = 1 [table  = seatPref].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'seatPref': table = '..\Parametrs\Seating.dat' column = '0' row = '1'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter seatType = 2 [table  = seatType].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'seatType': table = '..\Parametrs\seatType.dat' column = '0' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter numPassengers = 4 [table  = numPassengers].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'numPassengers': table = '..\Parametrs\numPassengers.dat' column = '0' row = '4'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter login = 4 [table  = login].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'login': table = '..\Parametrs\users.dat' column = '0' row = '4'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter lastName = 4 [table  = lastName].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'lastName': table = '..\Parametrs\users.dat' column = '4' row = '4'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter password = 4 [table  = password].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'password': table = '..\Parametrs\users.dat' column = '1' row = '4'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter city = 4 [table  = city].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'city': table = '..\Parametrs\users.dat' column = '6' row = '4'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter expDate = 4 [table  = expDate].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'expDate': table = '..\Parametrs\users.dat' column = '8' row = '4'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter creditCard = 4 [table  = creditCard].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'creditCard': table = '..\Parametrs\users.dat' column = '7' row = '4'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter firstName = 4 [table  = firstName].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'firstName': table = '..\Parametrs\users.dat' column = '3' row = '4'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter confirm_pass = 4 [table  = confirm_pass].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'confirm_pass': table = '..\Parametrs\users.dat' column = '2' row = '4'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter street = 4 [table  = street].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'street': table = '..\Parametrs\users.dat' column = '5' row = '4'.	[MsgId: MMSG-13877]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(3): Notify: Transaction "UC03_BuyTicket" started.	[MsgId: MMSG-16999]
+Action.c(5): Notify: Transaction "open_home_page" started.	[MsgId: MMSG-16999]
+..\\lib\\transaction.h(5): web_reg_save_param started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(5): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(10): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(10): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(13): web_url("WebTours") started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(13): t=6921743ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6921745ms: Connected socket [0] from 127.0.0.1:56943 to 127.0.0.1:1080 in 2 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6921745ms: 266-byte request headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=1702)
+..\\lib\\transaction.h(13):     GET /WebTours/ HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6921906ms: 283-byte response headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=1702)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:46 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "16e-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 366\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6921906ms: 366-byte response body for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=1702)
+..\\lib\\transaction.h(13):     <HTML>\n
+..\\lib\\transaction.h(13):     <HEAD>\n
+..\\lib\\transaction.h(13):     <title>Web Tours</title>\n
+..\\lib\\transaction.h(13):     <frameset rows = "65,*" border="1" bordercolor="#E0E7F1">\n
+..\\lib\\transaction.h(13):     <frame name="header" src="header.html" scrolling="no" noresize="noresize" marginheight="2"
+..\\lib\\transaction.h(13):      marginwidth="2"/>\n
+..\\lib\\transaction.h(13):     <frame name="body" src="/cgi-bin/welcome.pl?signOff=true" scrolling="auto" noresize="nores
+..\\lib\\transaction.h(13):     ize" marginheight="2" marginwidth="2" />\n
+..\\lib\\transaction.h(13):     </frameset>\n
+..\\lib\\transaction.h(13):     </HEAD>\n
+..\\lib\\transaction.h(13):     </HTML>\n
+..\\lib\\transaction.h(13):     \n
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): t=6921907ms: Request done "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6921907ms: Connecting [1] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6921907ms: Connecting [2] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6921907ms: Connected socket [1] from 127.0.0.1:56944 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6921907ms: 319-byte request headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=1703)
+..\\lib\\transaction.h(13):     GET /WebTours/header.html HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6921908ms: Connected socket [2] from 127.0.0.1:56945 to 127.0.0.1:1080 in 1 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6921908ms: 330-byte request headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=1704)
+..\\lib\\transaction.h(13):     GET /cgi-bin/welcome.pl?signOff=true HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6921910ms: 283-byte response headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=1703)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:46 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "2c6-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 710\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6921911ms: 710-byte response body for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=1703)
+..\\lib\\transaction.h(13):     <!DOCTYPE html>\n
+..\\lib\\transaction.h(13):     <HTML xmlns="http://www.w3.org/1999/xhtml">\n
+..\\lib\\transaction.h(13):     <HEAD></HEAD>\n
+..\\lib\\transaction.h(13):     <BODY bgcolor="#003366" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">\n
+..\\lib\\transaction.h(13):     \t\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+..\\lib\\transaction.h(13):     bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n
+..\\lib\\transaction.h(13):     \t\t<table width="100%" border="0" cellspacing="0" cellpadding="0">\n
+..\\lib\\transaction.h(13):     \t\t\t<tr>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td align="left" valign="middle" width="50%"><img src="images/hp_logo.png" alt="" 
+..\\lib\\transaction.h(13):     height="45" width="69" align="absmiddle" border="0"/><img src="images/webtours.png" alt=""
+..\\lib\\transaction.h(13):      height="45" width="130" align="absmiddle" border="0"/></td>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td align="right"></td>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td></td>\n
+..\\lib\\transaction.h(13):     \t\t\t</tr>\n
+..\\lib\\transaction.h(13):     \t\t</table>\n
+..\\lib\\transaction.h(13):     \t</BODY>\n
+..\\lib\\transaction.h(13):     </HTML>
+..\\lib\\transaction.h(13): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(13): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(13): t=6921911ms: Request done "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6921911ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6921911ms: 337-byte request headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=1705)
+..\\lib\\transaction.h(13):     GET /WebTours/images/hp_logo.png HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/header.html\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6921912ms: Connecting [3] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6921912ms: Connected socket [3] from 127.0.0.1:56946 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6921912ms: 338-byte request headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=1706)
+..\\lib\\transaction.h(13):     GET /WebTours/images/webtours.png HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/header.html\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6921913ms: 282-byte response headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=1705)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:46 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "259-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 601\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=99\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/png\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6921913ms: 601-byte response body for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=1705)
+..\\lib\\transaction.h(13): t=6921913ms: Request done "http://localhost:1080/WebTours/images/hp_logo.png"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6922000ms: 285-byte response headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=1706)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:46 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "105b-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 4187\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/png\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6922001ms: 4187-byte response body for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=1706)
+..\\lib\\transaction.h(13): t=6922001ms: Request done "http://localhost:1080/WebTours/images/webtours.png"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6922301ms: Inactive socket [1] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6922301ms: Closed connection [1] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6923104ms: Inactive socket [3] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6923107ms: Closed connection [3] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6923502ms: Inactive socket [0] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6923502ms: Closed connection [0] to localhost:1080 after completing 2 request(s)  	[MsgId: MMSG-26000]
+Starting iteration 96.	[MsgId: MMSG-15968]
+..\\lib\\transaction.h(13): Resetting all proxy auto-configuration information  	[MsgId: MMSG-26000]
+Notify: Next row for parameter seatPref = 3 [table  = seatPref].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'seatPref': table = '..\Parametrs\Seating.dat' column = '0' row = '3'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter seatType = 1 [table  = seatType].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'seatType': table = '..\Parametrs\seatType.dat' column = '0' row = '1'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter numPassengers = 6 [table  = numPassengers].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'numPassengers': table = '..\Parametrs\numPassengers.dat' column = '0' row = '6'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter login = 6 [table  = login].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'login': table = '..\Parametrs\users.dat' column = '0' row = '6'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter lastName = 6 [table  = lastName].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'lastName': table = '..\Parametrs\users.dat' column = '4' row = '6'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter password = 6 [table  = password].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'password': table = '..\Parametrs\users.dat' column = '1' row = '6'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter city = 6 [table  = city].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'city': table = '..\Parametrs\users.dat' column = '6' row = '6'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter expDate = 6 [table  = expDate].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'expDate': table = '..\Parametrs\users.dat' column = '8' row = '6'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter creditCard = 6 [table  = creditCard].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'creditCard': table = '..\Parametrs\users.dat' column = '7' row = '6'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter firstName = 6 [table  = firstName].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'firstName': table = '..\Parametrs\users.dat' column = '3' row = '6'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter confirm_pass = 6 [table  = confirm_pass].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'confirm_pass': table = '..\Parametrs\users.dat' column = '2' row = '6'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter street = 6 [table  = street].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'street': table = '..\Parametrs\users.dat' column = '5' row = '6'.	[MsgId: MMSG-13877]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(3): Notify: Transaction "UC03_BuyTicket" started.	[MsgId: MMSG-16999]
+Action.c(5): Notify: Transaction "open_home_page" started.	[MsgId: MMSG-16999]
+..\\lib\\transaction.h(5): web_reg_save_param started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(5): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(10): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(10): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(13): web_url("WebTours") started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(13): t=6923585ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6923585ms: Connected socket [0] from 127.0.0.1:56947 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6923585ms: 266-byte request headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=2594)
+..\\lib\\transaction.h(13):     GET /WebTours/ HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6923904ms: 283-byte response headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=2594)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:48 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "16e-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 366\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6923904ms: 366-byte response body for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=2594)
+..\\lib\\transaction.h(13):     <HTML>\n
+..\\lib\\transaction.h(13):     <HEAD>\n
+..\\lib\\transaction.h(13):     <title>Web Tours</title>\n
+..\\lib\\transaction.h(13):     <frameset rows = "65,*" border="1" bordercolor="#E0E7F1">\n
+..\\lib\\transaction.h(13):     <frame name="header" src="header.html" scrolling="no" noresize="noresize" marginheight="2"
+..\\lib\\transaction.h(13):      marginwidth="2"/>\n
+..\\lib\\transaction.h(13):     <frame name="body" src="/cgi-bin/welcome.pl?signOff=true" scrolling="auto" noresize="nores
+..\\lib\\transaction.h(13):     ize" marginheight="2" marginwidth="2" />\n
+..\\lib\\transaction.h(13):     </frameset>\n
+..\\lib\\transaction.h(13):     </HEAD>\n
+..\\lib\\transaction.h(13):     </HTML>\n
+..\\lib\\transaction.h(13):     \n
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): t=6923904ms: Request done "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6923905ms: Connecting [1] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6923905ms: Connecting [2] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6923905ms: Connected socket [1] from 127.0.0.1:56948 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6923905ms: 319-byte request headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=2595)
+..\\lib\\transaction.h(13):     GET /WebTours/header.html HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6923906ms: Connected socket [2] from 127.0.0.1:56949 to 127.0.0.1:1080 in 1 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6923906ms: 330-byte request headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=2596)
+..\\lib\\transaction.h(13):     GET /cgi-bin/welcome.pl?signOff=true HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6924300ms: 283-byte response headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=2595)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:48 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "2c6-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 710\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6924301ms: 710-byte response body for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=2595)
+..\\lib\\transaction.h(13):     <!DOCTYPE html>\n
+..\\lib\\transaction.h(13):     <HTML xmlns="http://www.w3.org/1999/xhtml">\n
+..\\lib\\transaction.h(13):     <HEAD></HEAD>\n
+..\\lib\\transaction.h(13):     <BODY bgcolor="#003366" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">\n
+..\\lib\\transaction.h(13):     \t\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+..\\lib\\transaction.h(13):     bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n
+..\\lib\\transaction.h(13):     \t\t<table width="100%" border="0" cellspacing="0" cellpadding="0">\n
+..\\lib\\transaction.h(13):     \t\t\t<tr>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td align="left" valign="middle" width="50%"><img src="images/hp_logo.png" alt="" 
+..\\lib\\transaction.h(13):     height="45" width="69" align="absmiddle" border="0"/><img src="images/webtours.png" alt=""
+..\\lib\\transaction.h(13):      height="45" width="130" align="absmiddle" border="0"/></td>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td align="right"></td>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td></td>\n
+..\\lib\\transaction.h(13):     \t\t\t</tr>\n
+..\\lib\\transaction.h(13):     \t\t</table>\n
+..\\lib\\transaction.h(13):     \t</BODY>\n
+..\\lib\\transaction.h(13):     </HTML>
+..\\lib\\transaction.h(13): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(13): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(13): t=6924301ms: Request done "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6924302ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6924302ms: 337-byte request headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=2597)
+..\\lib\\transaction.h(13):     GET /WebTours/images/hp_logo.png HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/header.html\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6924302ms: Connecting [3] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6924302ms: Connected socket [3] from 127.0.0.1:56950 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6924302ms: 338-byte request headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=2598)
+..\\lib\\transaction.h(13):     GET /WebTours/images/webtours.png HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/header.html\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6924410ms: 282-byte response headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=2597)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:49 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "259-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 601\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=99\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/png\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6924410ms: 601-byte response body for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=2597)
+..\\lib\\transaction.h(13): t=6924410ms: Request done "http://localhost:1080/WebTours/images/hp_logo.png"  	[MsgId: MMSG-26000]
+Starting iteration 128.	[MsgId: MMSG-15968]
+..\\lib\\transaction.h(13): Resetting all proxy auto-configuration information  	[MsgId: MMSG-26000]
+Notify: Next row for parameter seatPref = 2 [table  = seatPref].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'seatPref': table = '..\Parametrs\Seating.dat' column = '0' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter seatType = 1 [table  = seatType].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'seatType': table = '..\Parametrs\seatType.dat' column = '0' row = '1'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter numPassengers = 6 [table  = numPassengers].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'numPassengers': table = '..\Parametrs\numPassengers.dat' column = '0' row = '6'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter login = 8 [table  = login].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'login': table = '..\Parametrs\users.dat' column = '0' row = '8'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter lastName = 8 [table  = lastName].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'lastName': table = '..\Parametrs\users.dat' column = '4' row = '8'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter password = 8 [table  = password].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'password': table = '..\Parametrs\users.dat' column = '1' row = '8'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter city = 8 [table  = city].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'city': table = '..\Parametrs\users.dat' column = '6' row = '8'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter expDate = 8 [table  = expDate].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'expDate': table = '..\Parametrs\users.dat' column = '8' row = '8'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter creditCard = 8 [table  = creditCard].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'creditCard': table = '..\Parametrs\users.dat' column = '7' row = '8'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter firstName = 8 [table  = firstName].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'firstName': table = '..\Parametrs\users.dat' column = '3' row = '8'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter confirm_pass = 8 [table  = confirm_pass].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'confirm_pass': table = '..\Parametrs\users.dat' column = '2' row = '8'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter street = 8 [table  = street].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'street': table = '..\Parametrs\users.dat' column = '5' row = '8'.	[MsgId: MMSG-13877]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(3): Notify: Transaction "UC03_BuyTicket" started.	[MsgId: MMSG-16999]
+Action.c(5): Notify: Transaction "open_home_page" started.	[MsgId: MMSG-16999]
+..\\lib\\transaction.h(5): web_reg_save_param started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(5): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(10): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(10): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(13): web_url("WebTours") started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(13): t=6925292ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6925292ms: Connected socket [0] from 127.0.0.1:56951 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6925292ms: 266-byte request headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=3490)
+..\\lib\\transaction.h(13):     GET /WebTours/ HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6925703ms: 285-byte response headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=2598)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:50 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "105b-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 4187\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/png\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6925703ms: 4187-byte response body for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=2598)
+..\\lib\\transaction.h(13): t=6925703ms: Request done "http://localhost:1080/WebTours/images/webtours.png"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6925802ms: 283-byte response headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=3490)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:50 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "16e-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 366\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6925803ms: 366-byte response body for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=3490)
+..\\lib\\transaction.h(13):     <HTML>\n
+..\\lib\\transaction.h(13):     <HEAD>\n
+..\\lib\\transaction.h(13):     <title>Web Tours</title>\n
+..\\lib\\transaction.h(13):     <frameset rows = "65,*" border="1" bordercolor="#E0E7F1">\n
+..\\lib\\transaction.h(13):     <frame name="header" src="header.html" scrolling="no" noresize="noresize" marginheight="2"
+..\\lib\\transaction.h(13):      marginwidth="2"/>\n
+..\\lib\\transaction.h(13):     <frame name="body" src="/cgi-bin/welcome.pl?signOff=true" scrolling="auto" noresize="nores
+..\\lib\\transaction.h(13):     ize" marginheight="2" marginwidth="2" />\n
+..\\lib\\transaction.h(13):     </frameset>\n
+..\\lib\\transaction.h(13):     </HEAD>\n
+..\\lib\\transaction.h(13):     </HTML>\n
+..\\lib\\transaction.h(13):     \n
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): t=6925803ms: Request done "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6925803ms: Connecting [1] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6925804ms: Connecting [2] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6925804ms: Connected socket [1] from 127.0.0.1:56952 to 127.0.0.1:1080 in 1 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6925804ms: 319-byte request headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=3491)
+..\\lib\\transaction.h(13):     GET /WebTours/header.html HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6925804ms: Connected socket [2] from 127.0.0.1:56953 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6925804ms: 330-byte request headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3492)
+..\\lib\\transaction.h(13):     GET /cgi-bin/welcome.pl?signOff=true HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6926005ms: 283-byte response headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=3491)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:50 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "2c6-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 710\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6926005ms: 710-byte response body for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=3491)
+..\\lib\\transaction.h(13):     <!DOCTYPE html>\n
+..\\lib\\transaction.h(13):     <HTML xmlns="http://www.w3.org/1999/xhtml">\n
+..\\lib\\transaction.h(13):     <HEAD></HEAD>\n
+..\\lib\\transaction.h(13):     <BODY bgcolor="#003366" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">\n
+..\\lib\\transaction.h(13):     \t\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+..\\lib\\transaction.h(13):     bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n
+..\\lib\\transaction.h(13):     \t\t<table width="100%" border="0" cellspacing="0" cellpadding="0">\n
+..\\lib\\transaction.h(13):     \t\t\t<tr>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td align="left" valign="middle" width="50%"><img src="images/hp_logo.png" alt="" 
+..\\lib\\transaction.h(13):     height="45" width="69" align="absmiddle" border="0"/><img src="images/webtours.png" alt=""
+..\\lib\\transaction.h(13):      height="45" width="130" align="absmiddle" border="0"/></td>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td align="right"></td>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td></td>\n
+..\\lib\\transaction.h(13):     \t\t\t</tr>\n
+..\\lib\\transaction.h(13):     \t\t</table>\n
+..\\lib\\transaction.h(13):     \t</BODY>\n
+..\\lib\\transaction.h(13):     </HTML>
+..\\lib\\transaction.h(13): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(13): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(13): t=6926006ms: Request done "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6926006ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6926006ms: 337-byte request headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=3493)
+..\\lib\\transaction.h(13):     GET /WebTours/images/hp_logo.png HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/header.html\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6926006ms: Connecting [3] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6926006ms: Connected socket [3] from 127.0.0.1:56954 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6926006ms: 338-byte request headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=3494)
+..\\lib\\transaction.h(13):     GET /WebTours/images/webtours.png HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/header.html\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6926204ms: 282-byte response headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=3493)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:50 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "259-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 601\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=99\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/png\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6926205ms: 601-byte response body for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=3493)
+..\\lib\\transaction.h(13): t=6926205ms: Request done "http://localhost:1080/WebTours/images/hp_logo.png"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6926602ms: 285-byte response headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=3494)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:50 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "105b-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 4187\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/png\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6926603ms: 4187-byte response body for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=3494)
+..\\lib\\transaction.h(13): t=6926603ms: Request done "http://localhost:1080/WebTours/images/webtours.png"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6927001ms: Inactive socket [1] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6927001ms: Closed connection [1] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6927001ms: Inactive socket [0] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6927001ms: Closed connection [0] to localhost:1080 after completing 2 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6927001ms: Inactive socket [3] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6927001ms: Closed connection [3] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6929404ms: Inactive socket [1] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6929404ms: Closed connection [1] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6929704ms: Inactive socket [0] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6929704ms: Closed connection [0] to localhost:1080 after completing 2 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6930801ms: Inactive socket [3] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6930801ms: Closed connection [3] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6931103ms: Inactive socket [1] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6931103ms: Closed connection [1] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6931400ms: Inactive socket [0] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6931400ms: Closed connection [0] to localhost:1080 after completing 2 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6931604ms: Inactive socket [3] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6931605ms: Closed connection [3] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+Starting iteration 32.	[MsgId: MMSG-15968]
+Starting iteration 127.	[MsgId: MMSG-15968]
+..\\lib\\transaction.h(13): t=6931711ms: Closed connection [0] to localhost:1080 after completing 2 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6931711ms: Closed connection [3] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6931711ms: Closed connection [1] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Resetting all proxy auto-configuration information  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6931711ms: Closed connection [3] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+Notify: Next row for parameter seatPref = 1 [table  = seatPref].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'seatPref': table = '..\Parametrs\Seating.dat' column = '0' row = '1'.	[MsgId: MMSG-13877]
+..\\lib\\transaction.h(13): Resetting all proxy auto-configuration information  	[MsgId: MMSG-26000]
+Notify: Next row for parameter seatType = 1 [table  = seatType].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'seatType': table = '..\Parametrs\seatType.dat' column = '0' row = '1'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter seatPref = 3 [table  = seatPref].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'seatPref': table = '..\Parametrs\Seating.dat' column = '0' row = '3'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter seatType = 1 [table  = seatType].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'seatType': table = '..\Parametrs\seatType.dat' column = '0' row = '1'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter numPassengers = 2 [table  = numPassengers].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'numPassengers': table = '..\Parametrs\numPassengers.dat' column = '0' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter login = 2 [table  = login].	[MsgId: MMSG-13876]
+Notify: Next row for parameter numPassengers = 3 [table  = numPassengers].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'login': table = '..\Parametrs\users.dat' column = '0' row = '2'.	[MsgId: MMSG-13877]
+Notify: Getting new value for parameter 'numPassengers': table = '..\Parametrs\numPassengers.dat' column = '0' row = '3'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter lastName = 2 [table  = lastName].	[MsgId: MMSG-13876]
+Notify: Next row for parameter login = 7 [table  = login].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'lastName': table = '..\Parametrs\users.dat' column = '4' row = '2'.	[MsgId: MMSG-13877]
+Notify: Getting new value for parameter 'login': table = '..\Parametrs\users.dat' column = '0' row = '7'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter lastName = 7 [table  = lastName].	[MsgId: MMSG-13876]
+Notify: Next row for parameter password = 2 [table  = password].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'lastName': table = '..\Parametrs\users.dat' column = '4' row = '7'.	[MsgId: MMSG-13877]
+Notify: Getting new value for parameter 'password': table = '..\Parametrs\users.dat' column = '1' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter password = 7 [table  = password].	[MsgId: MMSG-13876]
+Notify: Next row for parameter city = 2 [table  = city].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'password': table = '..\Parametrs\users.dat' column = '1' row = '7'.	[MsgId: MMSG-13877]
+Notify: Getting new value for parameter 'city': table = '..\Parametrs\users.dat' column = '6' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter city = 7 [table  = city].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'city': table = '..\Parametrs\users.dat' column = '6' row = '7'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter expDate = 2 [table  = expDate].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'expDate': table = '..\Parametrs\users.dat' column = '8' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter creditCard = 2 [table  = creditCard].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'creditCard': table = '..\Parametrs\users.dat' column = '7' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter expDate = 7 [table  = expDate].	[MsgId: MMSG-13876]
+Notify: Next row for parameter firstName = 2 [table  = firstName].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'expDate': table = '..\Parametrs\users.dat' column = '8' row = '7'.	[MsgId: MMSG-13877]
+Notify: Getting new value for parameter 'firstName': table = '..\Parametrs\users.dat' column = '3' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter creditCard = 7 [table  = creditCard].	[MsgId: MMSG-13876]
+Notify: Next row for parameter confirm_pass = 2 [table  = confirm_pass].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'creditCard': table = '..\Parametrs\users.dat' column = '7' row = '7'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter firstName = 7 [table  = firstName].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'confirm_pass': table = '..\Parametrs\users.dat' column = '2' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter street = 2 [table  = street].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'firstName': table = '..\Parametrs\users.dat' column = '3' row = '7'.	[MsgId: MMSG-13877]
+Notify: Getting new value for parameter 'street': table = '..\Parametrs\users.dat' column = '5' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter confirm_pass = 7 [table  = confirm_pass].	[MsgId: MMSG-13876]
+Starting action Action.	[MsgId: MMSG-15919]
+Notify: Getting new value for parameter 'confirm_pass': table = '..\Parametrs\users.dat' column = '2' row = '7'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter street = 7 [table  = street].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'street': table = '..\Parametrs\users.dat' column = '5' row = '7'.	[MsgId: MMSG-13877]
+Action.c(3): Notify: Transaction "UC03_BuyTicket" started.	[MsgId: MMSG-16999]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(5): Notify: Transaction "open_home_page" started.	[MsgId: MMSG-16999]
+Action.c(3): Notify: Transaction "UC03_BuyTicket" started.	[MsgId: MMSG-16999]
+..\\lib\\transaction.h(5): web_reg_save_param started  	[MsgId: MMSG-26355]
+Action.c(5): Notify: Transaction "open_home_page" started.	[MsgId: MMSG-16999]
+..\\lib\\transaction.h(5): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(5): web_reg_save_param started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(10): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(5): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(10): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(10): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(13): web_url("WebTours") started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(10): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(13): web_url("WebTours") started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(13): t=6931712ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6931712ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6931712ms: Connected socket [0] from 127.0.0.1:56970 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6931712ms: Connected socket [0] from 127.0.0.1:56969 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6931712ms: 266-byte request headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=794)
+..\\lib\\transaction.h(13): t=6931712ms: 266-byte request headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=3471)
+..\\lib\\transaction.h(13):     GET /WebTours/ HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     GET /WebTours/ HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6931803ms: 283-byte response headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=794)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:56 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "16e-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 366\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6931803ms: 366-byte response body for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=794)
+..\\lib\\transaction.h(13):     <HTML>\n
+..\\lib\\transaction.h(13):     <HEAD>\n
+..\\lib\\transaction.h(13):     <title>Web Tours</title>\n
+..\\lib\\transaction.h(13):     <frameset rows = "65,*" border="1" bordercolor="#E0E7F1">\n
+..\\lib\\transaction.h(13):     <frame name="header" src="header.html" scrolling="no" noresize="noresize" marginheight="2"
+..\\lib\\transaction.h(13):      marginwidth="2"/>\n
+..\\lib\\transaction.h(13):     <frame name="body" src="/cgi-bin/welcome.pl?signOff=true" scrolling="auto" noresize="nores
+..\\lib\\transaction.h(13):     ize" marginheight="2" marginwidth="2" />\n
+..\\lib\\transaction.h(13):     </frameset>\n
+..\\lib\\transaction.h(13):     </HEAD>\n
+..\\lib\\transaction.h(13):     </HTML>\n
+..\\lib\\transaction.h(13):     \n
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): t=6931804ms: Request done "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6931804ms: Connecting [1] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6931804ms: Connecting [2] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6931805ms: Connected socket [1] from 127.0.0.1:56971 to 127.0.0.1:1080 in 1 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6931805ms: 319-byte request headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=795)
+..\\lib\\transaction.h(13):     GET /WebTours/header.html HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6931805ms: Connected socket [2] from 127.0.0.1:56972 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6931806ms: 330-byte request headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=796)
+..\\lib\\transaction.h(13):     GET /cgi-bin/welcome.pl?signOff=true HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6931905ms: 283-byte response headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=3471)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:56 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "16e-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 366\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6931906ms: 366-byte response body for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=3471)
+..\\lib\\transaction.h(13):     <HTML>\n
+..\\lib\\transaction.h(13):     <HEAD>\n
+..\\lib\\transaction.h(13):     <title>Web Tours</title>\n
+..\\lib\\transaction.h(13):     <frameset rows = "65,*" border="1" bordercolor="#E0E7F1">\n
+..\\lib\\transaction.h(13):     <frame name="header" src="header.html" scrolling="no" noresize="noresize" marginheight="2"
+..\\lib\\transaction.h(13):      marginwidth="2"/>\n
+..\\lib\\transaction.h(13):     <frame name="body" src="/cgi-bin/welcome.pl?signOff=true" scrolling="auto" noresize="nores
+..\\lib\\transaction.h(13):     ize" marginheight="2" marginwidth="2" />\n
+..\\lib\\transaction.h(13):     </frameset>\n
+..\\lib\\transaction.h(13):     </HEAD>\n
+..\\lib\\transaction.h(13):     </HTML>\n
+..\\lib\\transaction.h(13):     \n
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): t=6931906ms: Request done "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6931906ms: Connecting [1] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6931907ms: Connecting [2] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6931907ms: Connected socket [1] from 127.0.0.1:56973 to 127.0.0.1:1080 in 1 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6931907ms: 319-byte request headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=3472)
+..\\lib\\transaction.h(13):     GET /WebTours/header.html HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6931908ms: Connected socket [2] from 127.0.0.1:56974 to 127.0.0.1:1080 in 1 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6931908ms: 330-byte request headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=3473)
+..\\lib\\transaction.h(13):     GET /cgi-bin/welcome.pl?signOff=true HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6932005ms: 283-byte response headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=3472)
+..\\lib\\transaction.h(13): t=6932005ms: 283-byte response headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=795)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:56 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     ETag: "2c6-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:56 GMT\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Content-Length: 710\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13):     ETag: "2c6-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 710\r\n
+..\\lib\\transaction.h(13): t=6932005ms: 710-byte response body for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=795)
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     <!DOCTYPE html>\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     <HTML xmlns="http://www.w3.org/1999/xhtml">\n
+..\\lib\\transaction.h(13):     Content-Type: text/html\r\n
+..\\lib\\transaction.h(13):     <HEAD></HEAD>\n
+..\\lib\\transaction.h(13):     <BODY bgcolor="#003366" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13):     \t\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+..\\lib\\transaction.h(13):     bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n
+..\\lib\\transaction.h(13):     \t\t<table width="100%" border="0" cellspacing="0" cellpadding="0">\n
+..\\lib\\transaction.h(13):     \t\t\t<tr>\n
+..\\lib\\transaction.h(13): t=6932005ms: 710-byte response body for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=3472)
+..\\lib\\transaction.h(13):     \t\t\t\t<td align="left" valign="middle" width="50%"><img src="images/hp_logo.png" alt="" 
+..\\lib\\transaction.h(13):     height="45" width="69" align="absmiddle" border="0"/><img src="images/webtours.png" alt=""
+..\\lib\\transaction.h(13):     <!DOCTYPE html>\n
+..\\lib\\transaction.h(13):      height="45" width="130" align="absmiddle" border="0"/></td>\n
+..\\lib\\transaction.h(13):     <HTML xmlns="http://www.w3.org/1999/xhtml">\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td align="right"></td>\n
+..\\lib\\transaction.h(13):     <HEAD></HEAD>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td></td>\n
+..\\lib\\transaction.h(13):     <BODY bgcolor="#003366" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">\n
+..\\lib\\transaction.h(13):     \t\t\t</tr>\n
+..\\lib\\transaction.h(13):     \t\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+..\\lib\\transaction.h(13):     \t\t</table>\n
+..\\lib\\transaction.h(13):     bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n
+..\\lib\\transaction.h(13):     \t</BODY>\n
+..\\lib\\transaction.h(13):     \t\t<table width="100%" border="0" cellspacing="0" cellpadding="0">\n
+..\\lib\\transaction.h(13):     </HTML>
+..\\lib\\transaction.h(13):     \t\t\t<tr>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td align="left" valign="middle" width="50%"><img src="images/hp_logo.png" alt="" 
+..\\lib\\transaction.h(13):     height="45" width="69" align="absmiddle" border="0"/><img src="images/webtours.png" alt=""
+..\\lib\\transaction.h(13):      height="45" width="130" align="absmiddle" border="0"/></td>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td align="right"></td>\n
+..\\lib\\transaction.h(13): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(13):     \t\t\t\t<td></td>\n
+..\\lib\\transaction.h(13):     \t\t\t</tr>\n
+..\\lib\\transaction.h(13):     \t\t</table>\n
+..\\lib\\transaction.h(13):     \t</BODY>\n
+..\\lib\\transaction.h(13): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(13):     </HTML>
+..\\lib\\transaction.h(13): t=6932006ms: Request done "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6932006ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(13): t=6932006ms: 337-byte request headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=797)
+..\\lib\\transaction.h(13):     GET /WebTours/images/hp_logo.png HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/header.html\r\n
+..\\lib\\transaction.h(13): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13): t=6932006ms: Request done "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13): t=6932006ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6932006ms: 337-byte request headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=3474)
+..\\lib\\transaction.h(13):     GET /WebTours/images/hp_logo.png HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/header.html\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6932006ms: Connecting [3] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6932006ms: Connecting [3] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6932007ms: Connected socket [3] from 127.0.0.1:56975 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6932007ms: Connected socket [3] from 127.0.0.1:56976 to 127.0.0.1:1080 in 1 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6932007ms: 338-byte request headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=798)
+..\\lib\\transaction.h(13):     GET /WebTours/images/webtours.png HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/header.html\r\n
+..\\lib\\transaction.h(13): t=6932007ms: 338-byte request headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=3475)
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     GET /WebTours/images/webtours.png HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/header.html\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6932204ms: 282-byte response headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=797)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:56 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "259-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13): t=6932205ms: 282-byte response headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=3474)
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Content-Length: 601\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:56 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=99\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     ETag: "259-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/png\r\n
+..\\lib\\transaction.h(13):     Content-Length: 601\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=99\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/png\r\n
+..\\lib\\transaction.h(13): t=6932206ms: 601-byte response body for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=797)
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6932206ms: Request done "http://localhost:1080/WebTours/images/hp_logo.png"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6932206ms: 601-byte response body for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=3474)
+..\\lib\\transaction.h(13): t=6932206ms: Request done "http://localhost:1080/WebTours/images/hp_logo.png"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6932301ms: 285-byte response headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=3475)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:56 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "105b-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 4187\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/png\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6932301ms: 4187-byte response body for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=3475)
+..\\lib\\transaction.h(13): t=6932301ms: Request done "http://localhost:1080/WebTours/images/webtours.png"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6932700ms: 285-byte response headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=798)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:56 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "105b-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 4187\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/png\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6932701ms: 4187-byte response body for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=798)
+..\\lib\\transaction.h(13): t=6932701ms: Request done "http://localhost:1080/WebTours/images/webtours.png"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6934903ms: Server localhost has shut down the connection [2] prematurely (empty response, no HTTP headers received). No retry attempted  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6934903ms: Closed connection [2] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Error -27787: Server "localhost" has shut down the connection prematurely  	[MsgId: MERR-27787]
+..\\lib\\transaction.h(13): Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+..\\lib\\transaction.h(13): Notify: Saving Parameter "userSession = ".	[MsgId: MMSG-13798]
+..\\lib\\transaction.h(13): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+..\\lib\\transaction.h(13): web_url("WebTours") highest severity level was "ERROR", 5864 body bytes, 1133 header bytes  	[MsgId: MMSG-26388]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" ended with a "Fail" status (Duration: 58,1160 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" has 3 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "open_home_page" is "Error -27787: Server "localhost" has shut down the connection prematurely"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "open_home_page" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "open_home_page" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" ended with a "Fail" status (Duration: 58,1160 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" has 3 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "UC03_BuyTicket" is "Error -27787: Server "localhost" has shut down the connection prematurely"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "UC03_BuyTicket" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "UC03_BuyTicket" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 31.	[MsgId: MMSG-15965]
+Warning: Iteration pacing cannot be reached (pace time = 43,00, actual time = 58,12).	[MsgId: MWAR-15995]
+Starting iteration 32.	[MsgId: MMSG-15968]
+..\\lib\\transaction.h(13): Resetting all proxy auto-configuration information  	[MsgId: MMSG-26000]
+Notify: Next row for parameter seatPref = 1 [table  = seatPref].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'seatPref': table = '..\Parametrs\Seating.dat' column = '0' row = '1'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter seatType = 1 [table  = seatType].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'seatType': table = '..\Parametrs\seatType.dat' column = '0' row = '1'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter numPassengers = 5 [table  = numPassengers].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'numPassengers': table = '..\Parametrs\numPassengers.dat' column = '0' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter login = 2 [table  = login].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'login': table = '..\Parametrs\users.dat' column = '0' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter lastName = 2 [table  = lastName].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'lastName': table = '..\Parametrs\users.dat' column = '4' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter password = 2 [table  = password].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'password': table = '..\Parametrs\users.dat' column = '1' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter city = 2 [table  = city].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'city': table = '..\Parametrs\users.dat' column = '6' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter expDate = 2 [table  = expDate].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'expDate': table = '..\Parametrs\users.dat' column = '8' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter creditCard = 2 [table  = creditCard].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'creditCard': table = '..\Parametrs\users.dat' column = '7' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter firstName = 2 [table  = firstName].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'firstName': table = '..\Parametrs\users.dat' column = '3' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter confirm_pass = 2 [table  = confirm_pass].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'confirm_pass': table = '..\Parametrs\users.dat' column = '2' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter street = 2 [table  = street].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'street': table = '..\Parametrs\users.dat' column = '5' row = '2'.	[MsgId: MMSG-13877]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(3): Notify: Transaction "UC03_BuyTicket" started.	[MsgId: MMSG-16999]
+Action.c(5): Notify: Transaction "open_home_page" started.	[MsgId: MMSG-16999]
+..\\lib\\transaction.h(5): web_reg_save_param started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(5): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(10): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(10): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(13): web_url("WebTours") started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(13): t=6934905ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6934906ms: Connected socket [0] from 127.0.0.1:56981 to 127.0.0.1:1080 in 1 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6934906ms: 266-byte request headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=811)
+..\\lib\\transaction.h(13):     GET /WebTours/ HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6935005ms: 283-byte response headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=811)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:59 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "16e-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 366\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6935005ms: 366-byte response body for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=811)
+..\\lib\\transaction.h(13):     <HTML>\n
+..\\lib\\transaction.h(13):     <HEAD>\n
+..\\lib\\transaction.h(13):     <title>Web Tours</title>\n
+..\\lib\\transaction.h(13):     <frameset rows = "65,*" border="1" bordercolor="#E0E7F1">\n
+..\\lib\\transaction.h(13):     <frame name="header" src="header.html" scrolling="no" noresize="noresize" marginheight="2"
+..\\lib\\transaction.h(13):      marginwidth="2"/>\n
+..\\lib\\transaction.h(13):     <frame name="body" src="/cgi-bin/welcome.pl?signOff=true" scrolling="auto" noresize="nores
+..\\lib\\transaction.h(13):     ize" marginheight="2" marginwidth="2" />\n
+..\\lib\\transaction.h(13):     </frameset>\n
+..\\lib\\transaction.h(13):     </HEAD>\n
+..\\lib\\transaction.h(13):     </HTML>\n
+..\\lib\\transaction.h(13):     \n
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+..\\lib\\transaction.h(13): t=6935006ms: Request done "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6935006ms: Connecting [1] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6935006ms: Connecting [2] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6935006ms: Connected socket [1] from 127.0.0.1:56982 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6935006ms: 319-byte request headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=812)
+..\\lib\\transaction.h(13):     GET /WebTours/header.html HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6935007ms: Connected socket [2] from 127.0.0.1:56983 to 127.0.0.1:1080 in 1 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6935007ms: 330-byte request headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" (RelFrameId=1.2, Internal ID=813)
+..\\lib\\transaction.h(13):     GET /cgi-bin/welcome.pl?signOff=true HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6935106ms: 283-byte response headers for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=812)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:59 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "2c6-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 710\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: text/html\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6935107ms: 710-byte response body for "http://localhost:1080/WebTours/header.html" (RelFrameId=1.1, Internal ID=812)
+..\\lib\\transaction.h(13):     <!DOCTYPE html>\n
+..\\lib\\transaction.h(13):     <HTML xmlns="http://www.w3.org/1999/xhtml">\n
+..\\lib\\transaction.h(13):     <HEAD></HEAD>\n
+..\\lib\\transaction.h(13):     <BODY bgcolor="#003366" leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">\n
+..\\lib\\transaction.h(13):     \t\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
+..\\lib\\transaction.h(13):     bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \n
+..\\lib\\transaction.h(13):     \t\t<table width="100%" border="0" cellspacing="0" cellpadding="0">\n
+..\\lib\\transaction.h(13):     \t\t\t<tr>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td align="left" valign="middle" width="50%"><img src="images/hp_logo.png" alt="" 
+..\\lib\\transaction.h(13):     height="45" width="69" align="absmiddle" border="0"/><img src="images/webtours.png" alt=""
+..\\lib\\transaction.h(13):      height="45" width="130" align="absmiddle" border="0"/></td>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td align="right"></td>\n
+..\\lib\\transaction.h(13):     \t\t\t\t<td></td>\n
+..\\lib\\transaction.h(13):     \t\t\t</tr>\n
+..\\lib\\transaction.h(13):     \t\t</table>\n
+..\\lib\\transaction.h(13):     \t</BODY>\n
+..\\lib\\transaction.h(13):     </HTML>
+..\\lib\\transaction.h(13): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(13): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+..\\lib\\transaction.h(13): t=6935107ms: Request done "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6935107ms: Already connected [0] to localhost:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6935107ms: 337-byte request headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=814)
+..\\lib\\transaction.h(13):     GET /WebTours/images/hp_logo.png HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/header.html\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6935108ms: Connecting [3] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6935108ms: Connected socket [3] from 127.0.0.1:56984 to 127.0.0.1:1080 in 0 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6935108ms: 338-byte request headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=815)
+..\\lib\\transaction.h(13):     GET /WebTours/images/webtours.png HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     Referer: http://localhost:1080/WebTours/header.html\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6935305ms: 282-byte response headers for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=814)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:54:59 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "259-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 601\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=99\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/png\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6935305ms: 601-byte response body for "http://localhost:1080/WebTours/images/hp_logo.png" (RelFrameId=, Internal ID=814)
+..\\lib\\transaction.h(13): t=6935305ms: Request done "http://localhost:1080/WebTours/images/hp_logo.png"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6936104ms: 285-byte response headers for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=815)
+..\\lib\\transaction.h(13):     HTTP/1.1 200 OK\r\n
+..\\lib\\transaction.h(13):     Date: Sun, 22 Dec 2024 14:55:00 GMT\r\n
+..\\lib\\transaction.h(13):     Server: Apache/2.4.58 (Unix)\r\n
+..\\lib\\transaction.h(13):     Last-Modified: Fri, 15 Dec 2023 21:35:31 GMT\r\n
+..\\lib\\transaction.h(13):     ETag: "105b-60c932df4aec0"\r\n
+..\\lib\\transaction.h(13):     Accept-Ranges: bytes\r\n
+..\\lib\\transaction.h(13):     Content-Length: 4187\r\n
+..\\lib\\transaction.h(13):     Keep-Alive: timeout=5, max=100\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Content-Type: image/png\r\n
+..\\lib\\transaction.h(13):     \r\n
+..\\lib\\transaction.h(13): t=6936104ms: 4187-byte response body for "http://localhost:1080/WebTours/images/webtours.png" (RelFrameId=, Internal ID=815)
+..\\lib\\transaction.h(13): t=6936104ms: Request done "http://localhost:1080/WebTours/images/webtours.png"  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6937003ms: Inactive socket [1] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6937003ms: Closed connection [1] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6937303ms: Inactive socket [0] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6937303ms: Inactive socket [0] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6937303ms: Closed connection [0] to localhost:1080 after completing 2 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6937303ms: Closed connection [0] to localhost:1080 after completing 2 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6937304ms: Inactive socket [1] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6937304ms: Closed connection [1] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6937503ms: Inactive socket [3] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6937503ms: Closed connection [3] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6937802ms: Inactive socket [3] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6937802ms: Closed connection [3] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6938108ms: Server localhost has shut down the connection [2] prematurely (empty response, no HTTP headers received). No retry attempted  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6938108ms: Closed connection [2] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Error -27787: Server "localhost" has shut down the connection prematurely  	[MsgId: MERR-27787]
+..\\lib\\transaction.h(13): Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+..\\lib\\transaction.h(13): Notify: Saving Parameter "userSession = ".	[MsgId: MMSG-13798]
+..\\lib\\transaction.h(13): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+..\\lib\\transaction.h(13): web_url("WebTours") highest severity level was "ERROR", 5864 body bytes, 1133 header bytes  	[MsgId: MMSG-26388]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" ended with a "Fail" status (Duration: 12,8192 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" has 3 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "open_home_page" is "Error -27787: Server "localhost" has shut down the connection prematurely"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "open_home_page" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "open_home_page" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" ended with a "Fail" status (Duration: 12,8192 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" has 3 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "UC03_BuyTicket" is "Error -27787: Server "localhost" has shut down the connection prematurely"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "UC03_BuyTicket" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "UC03_BuyTicket" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+HTML-Mode memory management statistics: Reusable=7, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 2 (thread 2528), ended OK."	[MsgId: MMSG-10695]
+..\\lib\\transaction.h(13): t=6938301ms: Inactive socket [3] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6938301ms: Closed connection [3] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6938301ms: Server localhost has shut down the connection [2] prematurely (empty response, no HTTP headers received). No retry attempted  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6938301ms: Closed connection [2] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Error -27787: Server "localhost" has shut down the connection prematurely  	[MsgId: MERR-27787]
+..\\lib\\transaction.h(13): Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+..\\lib\\transaction.h(13): Notify: Saving Parameter "userSession = ".	[MsgId: MMSG-13798]
+..\\lib\\transaction.h(13): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+..\\lib\\transaction.h(13): web_url("WebTours") highest severity level was "ERROR", 5864 body bytes, 1133 header bytes  	[MsgId: MMSG-26388]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" ended with a "Fail" status (Duration: 6,5901 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" has 3 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "open_home_page" is "Error -27787: Server "localhost" has shut down the connection prematurely"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "open_home_page" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): t=6938302ms: Inactive socket [0] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6938302ms: Closed connection [0] to localhost:1080 after completing 2 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "open_home_page" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" ended with a "Fail" status (Duration: 6,5901 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" has 3 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "UC03_BuyTicket" is "Error -27787: Server "localhost" has shut down the connection prematurely"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "UC03_BuyTicket" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "UC03_BuyTicket" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): t=6938302ms: Server localhost has shut down the connection [2] prematurely (empty response, no HTTP headers received). No retry attempted  	[MsgId: MMSG-26000]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 32.	[MsgId: MMSG-15965]
+Waiting 36,4080 seconds for iteration pacing.	[MsgId: MMSG-15996]
+..\\lib\\transaction.h(13): t=6938303ms: Inactive socket [1] was closed by localhost:1080, probably due to Keep-Alive timeout  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6938303ms: Closed connection [2] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Error -27787: Server "localhost" has shut down the connection prematurely  	[MsgId: MERR-27787]
+..\\lib\\transaction.h(13): t=6938303ms: Closed connection [1] to localhost:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6938303ms: Server localhost has shut down the connection [2] prematurely (empty response, no HTTP headers received). No retry attempted  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6938303ms: Server localhost has shut down the connection [2] prematurely (empty response, no HTTP headers received). No retry attempted  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+..\\lib\\transaction.h(13): t=6938303ms: Closed connection [2] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Notify: Saving Parameter "userSession = ".	[MsgId: MMSG-13798]
+..\\lib\\transaction.h(13): t=6938303ms: Server localhost has shut down the connection [2] prematurely (empty response, no HTTP headers received). No retry attempted  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+..\\lib\\transaction.h(13): t=6938303ms: Closed connection [2] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Error -27787: Server "localhost" has shut down the connection prematurely  	[MsgId: MERR-27787]
+..\\lib\\transaction.h(13): web_url("WebTours") highest severity level was "ERROR", 5864 body bytes, 1133 header bytes  	[MsgId: MMSG-26388]
+..\\lib\\transaction.h(13): t=6938303ms: Closed connection [2] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" ended with a "Fail" status (Duration: 16,5604 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+..\\lib\\transaction.h(13): Error -27787: Server "localhost" has shut down the connection prematurely  	[MsgId: MERR-27787]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" has 3 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+..\\lib\\transaction.h(13): Error -27787: Server "localhost" has shut down the connection prematurely  	[MsgId: MERR-27787]
+..\\lib\\transaction.h(13): Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+..\\lib\\transaction.h(13): Notify: Saving Parameter "userSession = ".	[MsgId: MMSG-13798]
+..\\lib\\transaction.h(13): Notify: Saving Parameter "userSession = ".	[MsgId: MMSG-13798]
+..\\lib\\transaction.h(13): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+..\\lib\\transaction.h(13): Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+..\\lib\\transaction.h(13): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+..\\lib\\transaction.h(13): web_url("WebTours") highest severity level was "ERROR", 5864 body bytes, 1133 header bytes  	[MsgId: MMSG-26388]
+..\\lib\\transaction.h(13): Notify: Saving Parameter "userSession = ".	[MsgId: MMSG-13798]
+..\\lib\\transaction.h(13): web_url("WebTours") highest severity level was "ERROR", 5864 body bytes, 1133 header bytes  	[MsgId: MMSG-26388]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" ended with a "Fail" status (Duration: 44,2904 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+..\\lib\\transaction.h(13): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" has 3 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" ended with a "Fail" status (Duration: 3,3986 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "open_home_page" is "Error -27787: Server "localhost" has shut down the connection prematurely"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" has 3 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "open_home_page" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): web_url("WebTours") highest severity level was "ERROR", 5864 body bytes, 1133 header bytes  	[MsgId: MMSG-26388]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "open_home_page" is "Error -27787: Server "localhost" has shut down the connection prematurely"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "open_home_page" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "open_home_page" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" ended with a "Fail" status (Duration: 44,2904 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" has 3 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "open_home_page" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "UC03_BuyTicket" is "Error -27787: Server "localhost" has shut down the connection prematurely"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "UC03_BuyTicket" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" ended with a "Fail" status (Duration: 3,3986 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+..\\lib\\transaction.h(13): t=6938304ms: Server localhost has shut down the connection [2] prematurely (empty response, no HTTP headers received). No retry attempted  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" has 3 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "UC03_BuyTicket" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "UC03_BuyTicket" is "Error -27787: Server "localhost" has shut down the connection prematurely"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "UC03_BuyTicket" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): t=6938304ms: Closed connection [2] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "UC03_BuyTicket" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 63.	[MsgId: MMSG-15965]
+Warning: Iteration pacing cannot be reached (pace time = 43,00, actual time = 44,29).	[MsgId: MWAR-15995]
+Ending action Action.	[MsgId: MMSG-15918]
+Starting iteration 64.	[MsgId: MMSG-15968]
+Ending iteration 32.	[MsgId: MMSG-15965]
+..\\lib\\transaction.h(13): Resetting all proxy auto-configuration information  	[MsgId: MMSG-26000]
+Waiting 39,6000 seconds for iteration pacing.	[MsgId: MMSG-15996]
+..\\lib\\transaction.h(13): Error -27787: Server "localhost" has shut down the connection prematurely  	[MsgId: MERR-27787]
+Notify: Next row for parameter seatPref = 2 [table  = seatPref].	[MsgId: MMSG-13876]
+..\\lib\\transaction.h(13): t=6938304ms: Server localhost has shut down the connection [2] prematurely (empty response, no HTTP headers received). No retry attempted  	[MsgId: MMSG-26000]
+Notify: Getting new value for parameter 'seatPref': table = '..\Parametrs\Seating.dat' column = '0' row = '2'.	[MsgId: MMSG-13877]
+..\\lib\\transaction.h(13): t=6938304ms: Closed connection [2] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+Notify: Next row for parameter seatType = 2 [table  = seatType].	[MsgId: MMSG-13876]
+..\\lib\\transaction.h(13): Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+Notify: Getting new value for parameter 'seatType': table = '..\Parametrs\seatType.dat' column = '0' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter numPassengers = 2 [table  = numPassengers].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'numPassengers': table = '..\Parametrs\numPassengers.dat' column = '0' row = '2'.	[MsgId: MMSG-13877]
+..\\lib\\transaction.h(13): Error -27787: Server "localhost" has shut down the connection prematurely  	[MsgId: MERR-27787]
+..\\lib\\transaction.h(13): Notify: Saving Parameter "userSession = ".	[MsgId: MMSG-13798]
+Notify: Next row for parameter login = 4 [table  = login].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'login': table = '..\Parametrs\users.dat' column = '0' row = '4'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter lastName = 4 [table  = lastName].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'lastName': table = '..\Parametrs\users.dat' column = '4' row = '4'.	[MsgId: MMSG-13877]
+..\\lib\\transaction.h(13): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+..\\lib\\transaction.h(13): Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+Notify: Next row for parameter password = 4 [table  = password].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'password': table = '..\Parametrs\users.dat' column = '1' row = '4'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter city = 4 [table  = city].	[MsgId: MMSG-13876]
+..\\lib\\transaction.h(13): Notify: Saving Parameter "userSession = ".	[MsgId: MMSG-13798]
+Notify: Getting new value for parameter 'city': table = '..\Parametrs\users.dat' column = '6' row = '4'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter expDate = 4 [table  = expDate].	[MsgId: MMSG-13876]
+..\\lib\\transaction.h(13): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+Notify: Getting new value for parameter 'expDate': table = '..\Parametrs\users.dat' column = '8' row = '4'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter creditCard = 4 [table  = creditCard].	[MsgId: MMSG-13876]
+..\\lib\\transaction.h(13): web_url("WebTours") highest severity level was "ERROR", 5864 body bytes, 1133 header bytes  	[MsgId: MMSG-26388]
+Notify: Getting new value for parameter 'creditCard': table = '..\Parametrs\users.dat' column = '7' row = '4'.	[MsgId: MMSG-13877]
+..\\lib\\transaction.h(13): web_url("WebTours") highest severity level was "ERROR", 5864 body bytes, 1133 header bytes  	[MsgId: MMSG-26388]
+Notify: Next row for parameter firstName = 4 [table  = firstName].	[MsgId: MMSG-13876]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" ended with a "Fail" status (Duration: 21,5035 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Notify: Getting new value for parameter 'firstName': table = '..\Parametrs\users.dat' column = '3' row = '4'.	[MsgId: MMSG-13877]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" has 3 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" ended with a "Fail" status (Duration: 14,7199 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Notify: Next row for parameter confirm_pass = 4 [table  = confirm_pass].	[MsgId: MMSG-13876]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "open_home_page" is "Error -27787: Server "localhost" has shut down the connection prematurely"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "open_home_page" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "open_home_page" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" ended with a "Fail" status (Duration: 21,5036 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" has 3 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "UC03_BuyTicket" is "Error -27787: Server "localhost" has shut down the connection prematurely"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "UC03_BuyTicket" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "UC03_BuyTicket" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" ended with a "Fail" status (Duration: 6,5918 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" has 3 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "open_home_page" is "Error -27787: Server "localhost" has shut down the connection prematurely"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "open_home_page" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "open_home_page" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" ended with a "Fail" status (Duration: 6,5918 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" has 3 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "UC03_BuyTicket" is "Error -27787: Server "localhost" has shut down the connection prematurely"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "UC03_BuyTicket" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "UC03_BuyTicket" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" has 3 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "open_home_page" is "Error -27787: Server "localhost" has shut down the connection prematurely"	[MsgId: MMSG-16819]
+Ending Vuser...	[MsgId: MMSG-15966]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "open_home_page" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "open_home_page" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" ended with a "Fail" status (Duration: 14,7200 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "open_home_page" is "Error -27787: Server "localhost" has shut down the connection prematurely"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "open_home_page" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "open_home_page" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" has 3 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" ended with a "Fail" status (Duration: 16,5605 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "UC03_BuyTicket" is "Error -27787: Server "localhost" has shut down the connection prematurely"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "UC03_BuyTicket" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "UC03_BuyTicket" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" has 3 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "UC03_BuyTicket" is "Error -27787: Server "localhost" has shut down the connection prematurely"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "UC03_BuyTicket" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 5864 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "UC03_BuyTicket" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 64.	[MsgId: MMSG-15965]
+Waiting 26,4340 seconds for iteration pacing.	[MsgId: MMSG-15996]
+Ending Vuser...	[MsgId: MMSG-15966]
+Notify: Getting new value for parameter 'confirm_pass': table = '..\Parametrs\users.dat' column = '2' row = '4'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter street = 4 [table  = street].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'street': table = '..\Parametrs\users.dat' column = '5' row = '4'.	[MsgId: MMSG-13877]
+HTML-Mode memory management statistics: Reusable=7, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(3): Notify: Transaction "UC03_BuyTicket" started.	[MsgId: MMSG-16999]
+Action.c(5): Notify: Transaction "open_home_page" started.	[MsgId: MMSG-16999]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+..\\lib\\transaction.h(5): web_reg_save_param started  	[MsgId: MMSG-26355]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+..\\lib\\transaction.h(5): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(10): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(10): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(13): web_url("WebTours") started  	[MsgId: MMSG-26355]
+Vuser 3 (thread 13004), ended OK."	[MsgId: MMSG-10695]
+..\\lib\\transaction.h(13): t=6938309ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6938310ms: Connected socket [0] from 127.0.0.1:56986 to 127.0.0.1:1080 in 1 ms  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6938310ms: 266-byte request headers for "http://localhost:1080/WebTours/" (RelFrameId=1, Internal ID=1690)
+..\\lib\\transaction.h(13):     GET /WebTours/ HTTP/1.1\r\n
+..\\lib\\transaction.h(13):     User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133
+..\\lib\\transaction.h(13):     .0\r\n
+..\\lib\\transaction.h(13):     Accept-Encoding: gzip, deflate\r\n
+..\\lib\\transaction.h(13):     Accept-Language: ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3\r\n
+..\\lib\\transaction.h(13):     Accept: */*\r\n
+..\\lib\\transaction.h(13):     Connection: Keep-Alive\r\n
+..\\lib\\transaction.h(13):     Host: localhost:1080\r\n
+..\\lib\\transaction.h(13):     \r\n
+HTML-Mode memory management statistics: Reusable=7, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 4 (thread 31948), ended OK."	[MsgId: MMSG-10695]
+HTML-Mode memory management statistics: Reusable=7, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 5 (thread 28360), ended OK."	[MsgId: MMSG-10695]
+..\\lib\\transaction.h(13): t=6938325ms: Server localhost has shut down the connection [0] prematurely (empty response, no HTTP headers received). No retry attempted  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): t=6938326ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Error -27787: Server "localhost" has shut down the connection prematurely  	[MsgId: MERR-27787]
+..\\lib\\transaction.h(13): Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+..\\lib\\transaction.h(13): Notify: Saving Parameter "userSession = ".	[MsgId: MMSG-13798]
+..\\lib\\transaction.h(13): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+..\\lib\\transaction.h(13): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+..\\lib\\transaction.h(13): web_url("WebTours") highest severity level was "ERROR", 0 body bytes, 0 header bytes  	[MsgId: MMSG-26388]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" ended with a "Fail" status (Duration: 0,0180).	[MsgId: MMSG-16873]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" has 4 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "open_home_page" is "Error -27787: Server "localhost" has shut down the connection prematurely"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "open_home_page" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "open_home_page" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 4th error message associated with transaction "open_home_page" is "Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" ended with a "Fail" status (Duration: 0,0180).	[MsgId: MMSG-16873]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" has 4 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "UC03_BuyTicket" is "Error -27787: Server "localhost" has shut down the connection prematurely"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "UC03_BuyTicket" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "UC03_BuyTicket" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 4th error message associated with transaction "UC03_BuyTicket" is "Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively."	[MsgId: MMSG-16819]
+Ending action Action.	[MsgId: MMSG-15918]
+Ending iteration 64.	[MsgId: MMSG-15965]
+Waiting 42,9760 seconds for iteration pacing.	[MsgId: MMSG-15996]
+Starting iteration 65.	[MsgId: MMSG-15968]
+..\\lib\\transaction.h(13): Resetting all proxy auto-configuration information  	[MsgId: MMSG-26000]
+Notify: Next row for parameter seatPref = 2 [table  = seatPref].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'seatPref': table = '..\Parametrs\Seating.dat' column = '0' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter seatType = 1 [table  = seatType].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'seatType': table = '..\Parametrs\seatType.dat' column = '0' row = '1'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter numPassengers = 6 [table  = numPassengers].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'numPassengers': table = '..\Parametrs\numPassengers.dat' column = '0' row = '6'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter login = 5 [table  = login].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'login': table = '..\Parametrs\users.dat' column = '0' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter lastName = 5 [table  = lastName].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'lastName': table = '..\Parametrs\users.dat' column = '4' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter password = 5 [table  = password].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'password': table = '..\Parametrs\users.dat' column = '1' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter city = 5 [table  = city].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'city': table = '..\Parametrs\users.dat' column = '6' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter expDate = 5 [table  = expDate].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'expDate': table = '..\Parametrs\users.dat' column = '8' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter creditCard = 5 [table  = creditCard].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'creditCard': table = '..\Parametrs\users.dat' column = '7' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter firstName = 5 [table  = firstName].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'firstName': table = '..\Parametrs\users.dat' column = '3' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter confirm_pass = 5 [table  = confirm_pass].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'confirm_pass': table = '..\Parametrs\users.dat' column = '2' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter street = 5 [table  = street].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'street': table = '..\Parametrs\users.dat' column = '5' row = '5'.	[MsgId: MMSG-13877]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(3): Notify: Transaction "UC03_BuyTicket" started.	[MsgId: MMSG-16999]
+Action.c(5): Notify: Transaction "open_home_page" started.	[MsgId: MMSG-16999]
+..\\lib\\transaction.h(5): web_reg_save_param started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(5): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(10): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(10): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(13): web_url("WebTours") started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(13): t=6964730ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+..\\lib\\transaction.h(13): t=6966774ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+..\\lib\\transaction.h(13): Notify: Saving Parameter "userSession = ".	[MsgId: MMSG-13798]
+..\\lib\\transaction.h(13): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+..\\lib\\transaction.h(13): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+..\\lib\\transaction.h(13): web_url("WebTours") highest severity level was "ERROR", 0 body bytes, 0 header bytes  	[MsgId: MMSG-26388]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" ended with a "Fail" status (Duration: 2,0455).	[MsgId: MMSG-16873]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" has 4 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "open_home_page" is "Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "open_home_page" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "open_home_page" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 4th error message associated with transaction "open_home_page" is "Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" ended with a "Fail" status (Duration: 2,0455).	[MsgId: MMSG-16873]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" has 4 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "UC03_BuyTicket" is "Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "UC03_BuyTicket" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "UC03_BuyTicket" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 4th error message associated with transaction "UC03_BuyTicket" is "Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively."	[MsgId: MMSG-16819]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+HTML-Mode memory management statistics: Reusable=7, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 6 (thread 25764), ended OK."	[MsgId: MMSG-10695]
+Starting iteration 33.	[MsgId: MMSG-15968]
+..\\lib\\transaction.h(13): Resetting all proxy auto-configuration information  	[MsgId: MMSG-26000]
+Notify: Next row for parameter seatPref = 2 [table  = seatPref].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'seatPref': table = '..\Parametrs\Seating.dat' column = '0' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter seatType = 2 [table  = seatType].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'seatType': table = '..\Parametrs\seatType.dat' column = '0' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter numPassengers = 5 [table  = numPassengers].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'numPassengers': table = '..\Parametrs\numPassengers.dat' column = '0' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter login = 3 [table  = login].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'login': table = '..\Parametrs\users.dat' column = '0' row = '3'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter lastName = 3 [table  = lastName].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'lastName': table = '..\Parametrs\users.dat' column = '4' row = '3'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter password = 3 [table  = password].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'password': table = '..\Parametrs\users.dat' column = '1' row = '3'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter city = 3 [table  = city].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'city': table = '..\Parametrs\users.dat' column = '6' row = '3'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter expDate = 3 [table  = expDate].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'expDate': table = '..\Parametrs\users.dat' column = '8' row = '3'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter creditCard = 3 [table  = creditCard].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'creditCard': table = '..\Parametrs\users.dat' column = '7' row = '3'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter firstName = 3 [table  = firstName].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'firstName': table = '..\Parametrs\users.dat' column = '3' row = '3'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter confirm_pass = 3 [table  = confirm_pass].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'confirm_pass': table = '..\Parametrs\users.dat' column = '2' row = '3'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter street = 3 [table  = street].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'street': table = '..\Parametrs\users.dat' column = '5' row = '3'.	[MsgId: MMSG-13877]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(3): Notify: Transaction "UC03_BuyTicket" started.	[MsgId: MMSG-16999]
+Action.c(5): Notify: Transaction "open_home_page" started.	[MsgId: MMSG-16999]
+..\\lib\\transaction.h(5): web_reg_save_param started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(5): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(10): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(10): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(13): web_url("WebTours") started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(13): t=6974719ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+..\\lib\\transaction.h(13): t=6976761ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+..\\lib\\transaction.h(13): Notify: Saving Parameter "userSession = ".	[MsgId: MMSG-13798]
+..\\lib\\transaction.h(13): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+..\\lib\\transaction.h(13): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+..\\lib\\transaction.h(13): web_url("WebTours") highest severity level was "ERROR", 0 body bytes, 0 header bytes  	[MsgId: MMSG-26388]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" ended with a "Fail" status (Duration: 2,0428).	[MsgId: MMSG-16873]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" has 4 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "open_home_page" is "Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "open_home_page" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "open_home_page" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 4th error message associated with transaction "open_home_page" is "Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" ended with a "Fail" status (Duration: 2,0428).	[MsgId: MMSG-16873]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" has 4 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "UC03_BuyTicket" is "Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "UC03_BuyTicket" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "UC03_BuyTicket" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 4th error message associated with transaction "UC03_BuyTicket" is "Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively."	[MsgId: MMSG-16819]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+HTML-Mode memory management statistics: Reusable=7, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 9 (thread 23284), ended OK."	[MsgId: MMSG-10695]
+Starting iteration 33.	[MsgId: MMSG-15968]
+..\\lib\\transaction.h(13): Resetting all proxy auto-configuration information  	[MsgId: MMSG-26000]
+Notify: Next row for parameter seatPref = 1 [table  = seatPref].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'seatPref': table = '..\Parametrs\Seating.dat' column = '0' row = '1'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter seatType = 1 [table  = seatType].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'seatType': table = '..\Parametrs\seatType.dat' column = '0' row = '1'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter numPassengers = 2 [table  = numPassengers].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'numPassengers': table = '..\Parametrs\numPassengers.dat' column = '0' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter login = 3 [table  = login].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'login': table = '..\Parametrs\users.dat' column = '0' row = '3'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter lastName = 3 [table  = lastName].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'lastName': table = '..\Parametrs\users.dat' column = '4' row = '3'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter password = 3 [table  = password].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'password': table = '..\Parametrs\users.dat' column = '1' row = '3'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter city = 3 [table  = city].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'city': table = '..\Parametrs\users.dat' column = '6' row = '3'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter expDate = 3 [table  = expDate].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'expDate': table = '..\Parametrs\users.dat' column = '8' row = '3'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter creditCard = 3 [table  = creditCard].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'creditCard': table = '..\Parametrs\users.dat' column = '7' row = '3'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter firstName = 3 [table  = firstName].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'firstName': table = '..\Parametrs\users.dat' column = '3' row = '3'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter confirm_pass = 3 [table  = confirm_pass].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'confirm_pass': table = '..\Parametrs\users.dat' column = '2' row = '3'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter street = 3 [table  = street].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'street': table = '..\Parametrs\users.dat' column = '5' row = '3'.	[MsgId: MMSG-13877]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(3): Notify: Transaction "UC03_BuyTicket" started.	[MsgId: MMSG-16999]
+Action.c(5): Notify: Transaction "open_home_page" started.	[MsgId: MMSG-16999]
+..\\lib\\transaction.h(5): web_reg_save_param started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(5): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(10): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(10): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(13): web_url("WebTours") started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(13): t=6977913ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+..\\lib\\transaction.h(13): t=6979968ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+..\\lib\\transaction.h(13): Notify: Saving Parameter "userSession = ".	[MsgId: MMSG-13798]
+..\\lib\\transaction.h(13): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+..\\lib\\transaction.h(13): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+..\\lib\\transaction.h(13): web_url("WebTours") highest severity level was "ERROR", 0 body bytes, 0 header bytes  	[MsgId: MMSG-26388]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" ended with a "Fail" status (Duration: 2,0574).	[MsgId: MMSG-16873]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" has 4 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "open_home_page" is "Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "open_home_page" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "open_home_page" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 4th error message associated with transaction "open_home_page" is "Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" ended with a "Fail" status (Duration: 2,0575).	[MsgId: MMSG-16873]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" has 4 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "UC03_BuyTicket" is "Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "UC03_BuyTicket" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "UC03_BuyTicket" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 4th error message associated with transaction "UC03_BuyTicket" is "Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively."	[MsgId: MMSG-16819]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+HTML-Mode memory management statistics: Reusable=7, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 8 (thread 31076), ended OK."	[MsgId: MMSG-10695]
+Starting iteration 65.	[MsgId: MMSG-15968]
+..\\lib\\transaction.h(13): Resetting all proxy auto-configuration information  	[MsgId: MMSG-26000]
+Notify: Next row for parameter seatPref = 2 [table  = seatPref].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'seatPref': table = '..\Parametrs\Seating.dat' column = '0' row = '2'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter seatType = 3 [table  = seatType].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'seatType': table = '..\Parametrs\seatType.dat' column = '0' row = '3'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter numPassengers = 6 [table  = numPassengers].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'numPassengers': table = '..\Parametrs\numPassengers.dat' column = '0' row = '6'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter login = 5 [table  = login].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'login': table = '..\Parametrs\users.dat' column = '0' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter lastName = 5 [table  = lastName].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'lastName': table = '..\Parametrs\users.dat' column = '4' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter password = 5 [table  = password].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'password': table = '..\Parametrs\users.dat' column = '1' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter city = 5 [table  = city].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'city': table = '..\Parametrs\users.dat' column = '6' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter expDate = 5 [table  = expDate].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'expDate': table = '..\Parametrs\users.dat' column = '8' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter creditCard = 5 [table  = creditCard].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'creditCard': table = '..\Parametrs\users.dat' column = '7' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter firstName = 5 [table  = firstName].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'firstName': table = '..\Parametrs\users.dat' column = '3' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter confirm_pass = 5 [table  = confirm_pass].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'confirm_pass': table = '..\Parametrs\users.dat' column = '2' row = '5'.	[MsgId: MMSG-13877]
+Notify: Next row for parameter street = 5 [table  = street].	[MsgId: MMSG-13876]
+Notify: Getting new value for parameter 'street': table = '..\Parametrs\users.dat' column = '5' row = '5'.	[MsgId: MMSG-13877]
+Starting action Action.	[MsgId: MMSG-15919]
+Action.c(3): Notify: Transaction "UC03_BuyTicket" started.	[MsgId: MMSG-16999]
+Action.c(5): Notify: Transaction "open_home_page" started.	[MsgId: MMSG-16999]
+..\\lib\\transaction.h(5): web_reg_save_param started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(5): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(10): web_reg_find started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(10): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\lib\\transaction.h(13): web_url("WebTours") started  	[MsgId: MMSG-26355]
+..\\lib\\transaction.h(13): t=6981309ms: Connecting [0] to host 127.0.0.1:1080  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused  	[MsgId: MERR-27792]
+..\\lib\\transaction.h(13): t=6983359ms: Closed connection [0] to localhost:1080 after completing 0 request(s)  	[MsgId: MMSG-26000]
+..\\lib\\transaction.h(13): Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+..\\lib\\transaction.h(13): Notify: Saving Parameter "userSession = ".	[MsgId: MMSG-13798]
+..\\lib\\transaction.h(13): Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find  	[MsgId: MERR-26366]
+..\\lib\\transaction.h(13): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+..\\lib\\transaction.h(13): web_url("WebTours") highest severity level was "ERROR", 0 body bytes, 0 header bytes  	[MsgId: MMSG-26388]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" ended with a "Fail" status (Duration: 2,0511).	[MsgId: MMSG-16873]
+..\\lib\\transaction.h(13): Notify: Transaction "open_home_page" has 4 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "open_home_page" is "Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "open_home_page" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "open_home_page" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 4th error message associated with transaction "open_home_page" is "Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" ended with a "Fail" status (Duration: 2,0512).	[MsgId: MMSG-16873]
+..\\lib\\transaction.h(13): Notify: Transaction "UC03_BuyTicket" has 4 error message(s).	[MsgId: MMSG-16818]
+..\\lib\\transaction.h(13): Notify: The 1st error message associated with transaction "UC03_BuyTicket" is "Error -27792: Failed to connect to server "localhost:1080": [10061] Connection refused"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 2nd error message associated with transaction "UC03_BuyTicket" is "Error -26377: No match found for the requested parameter "userSession". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size."	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 3rd error message associated with transaction "UC03_BuyTicket" is "Error -26366: "Text=Welcome to the Web Tours site." not found for web_reg_find"	[MsgId: MMSG-16819]
+..\\lib\\transaction.h(13): Notify: The 4th error message associated with transaction "UC03_BuyTicket" is "Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively."	[MsgId: MMSG-16819]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+HTML-Mode memory management statistics: Reusable=7, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 7 (thread 24876), ended OK."	[MsgId: MMSG-10695]
